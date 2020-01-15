@@ -1,0 +1,54 @@
+# hostname (and path) to the root
+baseURL: "http://adventure.gomakethings.com"
+
+# Customer parameters
+params:
+  description: "A simple, imagination-based kitchen table RPG."
+  font: "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i&display=swap"
+  rssURL: ""
+  rssLimit: 7
+  minify: true
+
+# Caches
+caches:
+  getjson:
+    maxAge: "10m"
+
+# The language code for the site
+languageCode: "en-us"
+
+# Site title
+title: "Adventure"
+
+# theme to use (located by default in /themes/THEMENAME/)
+theme: "adventure"
+
+# Permalinks
+# See "content-management/permalinks"
+permalinks:
+  articles: /:title/
+
+# Use absolute URLs
+canonifyURLs: true
+
+# Allows you to disable all page types and will render nothing related to 'kind';
+# values = "page", "home", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"
+disableKinds: ["RSS", "hugoGeneratorInject", "404"]
+
+# Files to ignore while rendering
+ignoreFiles: []
+
+# the length of text to show in a .Summary
+summaryLength: 70
+
+# Pagination
+paginate: 35
+paginatePath: "page"
+
+# Markdown Options
+blackfriday:
+  fractions: false
+
+# Syntax Highlighting
+pygmentsCodefences: true
+pygmentsUseClasses: true
