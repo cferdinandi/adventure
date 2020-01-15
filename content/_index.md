@@ -6,7 +6,7 @@ noTitle: true
 description: ""
 ---
 
-<h1 class="text-xlarge text-normal"><em>Adventure</em> is a simple kitchen table&nbsp;RPG.</h1>
+<h1 class="text-xlarge text-normal"><em>Adventure</em> is a simplish kitchen table&nbsp;RPG.</h1>
 
 **All you need are some dice, a notebook, and your imagination.**
 
