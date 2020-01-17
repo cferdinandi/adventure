@@ -6,46 +6,40 @@ draft: false
 
 Every game of *Adventure* follows a three-part structure:
 
-1. **A situation or problem** arises that needs the help of a group of adventurers.
-2. The group **goes on a journey and has a series of encounters** as they try to resolve the situation or problem.
-3. Once resolved, **a conclusion** ties off all the lose ends, and the adventurers are given a reward or find a prize for their efforts.
+1. **A problem arises** that needs the help of a group of adventurers.
+2. The group has **a series of encounters** as they try to solve the problem.
+3. Once resolved, **a conclusion** ties off all the loose ends, and the adventurers are given a reward or find a prize for their efforts.
 
 
 <div data-toc="Table of Content"></div>
 
 
-## Creating a Character
+## The Guide
 
-As an RPG (role-playing game), creating characters is a central part of the game. Each player should create a character to represent them as they go on their adventures.
+Each game needs a *Guide* to run the game.
 
-They may want to draw a picture of their character, or use a toy or figurine to represent them in the game.
+This person is generally not a player themselves. They introduce the problem, guide players through encounters, and introduce challenges and bonus encounters in response to player actions.
 
-### Special Skills
+As the *Guide*, its your job to keep the pacing, action, and suspense at the right level for the skills and age-level of your players.
 
-Each character should pick just one special skill from each category.
 
-| Combat       | Problem-Solving |
-|--------------|-----------------|
-| Attack<br><span class="text-muted text-small">(swordsmanship, bow-and-arrow skills, magic)</span> | Strength<br><span class="text-muted text-small">(lifting heavy things, physical intimidation)</span> |
-| Defend<br><span class="text-muted text-small">(defensive arts, healing, potions)</span> | Speed/Dexterity<br><span class="text-muted text-small">(running, jumping, precision movement)</span> |
-|              | Knowledge<br><span class="text-muted text-small">(plants and herbs, history, science)</span> |
 
-While a character can dabble in all areas, they can only specialize in one.
+## Picking a Character
 
-### Character ideas
+Each player picks a character to represent them on their adventures (this is what makes *Adventure* an RPG, or *role-playing game*).
 
-A player can be anything they want, but here are some ideas to help you out.
+I've created **[about a dozen premade characters](/downloads)** to choose from. Players can also create their own using the templates included with the character list.
 
-- A wizard, warlock, witch, or sorcerer
-- An elf, druid, or healer
-- A viking, knight, or warrior
-- A hunter or marksman
-- A thief or pirate
-- A shapeshifter or animagus (person who can transform into an animal)
+*Players may want to use a toy, figurine, or paper cut-out to represent their character while they play.*
 
-While they can pick a new character each time, it's more fun to keep the same character each time you play.
+### Skills & Styles
 
-Their history and previous adventures carry with them each time you play.
+Each character has a specific combat style and problem-solving style that impact how they solve problems and battle foes.
+
+- **Combat:** Attack or Defend
+- **Problem-Solving:** Strength, Speed/Dexterity, or Knowledge
+
+*If a player creates their own character, they should pick just one style from each category.*
 
 ### Pets
 
@@ -55,17 +49,7 @@ Pets can be small and sensible (a cat or dog, woodland creatures) or large and a
 
 
 
-## Picking a Guide
-
-Each game needs a *Guide* to run the game.
-
-This person is generally not a player themselves. They introduce the situation or problem, guide players through the various encounters, and introduce challenges and side-adventures in response to player actions.
-
-As the *Guide*, its your job to keep the pacing, action, and suspense at the right level for the skills and age-level of your players.
-
-
-
-## Introducing the World
+## The First Time You Play
 
 The first time you play, the *Guide* should introduce the world to the&nbsp;players.
 
@@ -77,15 +61,15 @@ You can create any type of fantasy world you want, but here's a little intro you
 >
 > While Farfaria is a small and remote town, you're hardly alone. The woods and mountains are filled with amazing, magical creatures: elves, fairies, centaurs, and wizards. They're filled with dangerous creatures&mdash;thieves, cults, and ogres&mdash;too. The ocean is filled with mermaids, krakens, and other monsters of the deep.
 >
-> Mysterious and exciting adventures always seem to find their way to your little village, where you and your brave group adventures are ready to help...
+> Mysterious and exciting adventures always seem to find their way to your little village, where you and your friends are ready to help...
 
 
 
 ## Introducing the Situation
 
-At the start of each game, a situation or problem arises that needs the help of a group of adventurers.
+At the start of each game, a problem arises that needs the help of a group of adventurers. The *Guide* reads the game introduction to the players.
 
-The *Guide* reads the game introduction to the players. Feel free to use toys, props, sketches and drawings, and fun voices to add to the excitement and mystery.
+Feel free to use toys, props, sketches and drawings, and fun voices to add to the excitement and mystery. I've also put together **[a few dozen printable creatures](/downloads)** you can use for your adventures.
 
 Here's an example:
 
@@ -115,7 +99,7 @@ or...
 
 ## Actions and Deciding Outcomes
 
-The outcome of every action that the players take is decided with a roll of the dice.
+The outcome of every action that a players take is decided with a roll of the dice.
 
 Each challenge or decision has a difficulty level. The player taking an action rolls a few dice. The highest number rolled determines the outcome.
 
@@ -163,17 +147,15 @@ In our Lacey the Luck Dragon adventure, the encounters may include:
 
 Each encounter has a difficulty level, but usually does not have a single prescribed solution.
 
+*Encounters do __not__ have to happen sequentially. The order may vary based on the decisions players make and the actions they take.*
+
 ### Open-Ended Problem Solving
 
-Players are encouraged to come up with creative solutions and ideas based on the tools you have available and the objects in their environment. Team work is also encouraged.
+Players are encouraged to come up with creative solutions and ideas based on the tools you have available and the objects in their environment.
 
-The *Guide* decides is the proposed actions are logical and work within the context of the encounter, and then decide how many dice the player taking the action can roll.
+Team work is also encouraged.
 
-### Choose Your Own Adventure
-
-Games are a bit like a choose your own adventure book.
-
-Encounters do *not* have to happen sequentially. The order may vary based on decisions the players make and the actions they take.
+The *Guide* decides if the proposed actions are logical and work within the context of the encounter, and then decide how many dice the player taking the action can roll.
 
 ### Bonus Encounters
 
@@ -193,15 +175,15 @@ No matter what they choose, they roll dice to determine whether or not they're s
 
 For example, if they agree to sell the baby dragon, or if they try to run but fail and the baby is stolen, they'll return back to Lacey with only four dragons. They might need to try to get the dragon back, or decide that that the amulet is worth more than whatever Lacey was offering.
 
-It adds another rich dimension to the game.
+This adds another rich dimension to the game.
 
 
 
 ## Battles
 
-While much of *Adventure* is focused on exploring and problem solving, you can introduce battles as well to keep things interesting.
+While much of *Adventure* is focused on exploring and problem solving, you can introduce battles as a way to keep things interesting.
 
-### How battles work
+### Starting the Battle
 
 When a battle starts, the players and the *Guide* both roll a die.
 
@@ -215,19 +197,23 @@ Like all other actions in *Adventure*, attacks are determined by rolling dice.
 
 Each villain in a battle has two characteristics: a difficulty level, and a health total (from 1-3). All players have a health total of 3.
 
-**When a player attacks a villain**, they roll dice.
+**When a player attacks a villain, they roll dice.**
 
-They get one base die. The get a bonus die if they have *Attack* as their combat style. They also get a bonus die if they have a special weapon or item they're using with their attack.
+- The player gets one base die.
+- They get a bonus die if they have *Attack* as their combat style.
+- They also get a bonus die if they have a special weapon or item they're using with their attack.
 
-Like with other actions, use the highest number.
+**Like with other actions, use the highest number.**
 
 - If their die roll is equal to or higher than the villain's difficulty level, the villain loses a health point.
 - If their die roll is lower than the villain's difficulty level, their attack misses.
 - If their die roll is two or more lower than the villain's difficulty level, the villain hits them in response to the attack and *the player* loses a health point.
 
-**When a villain attacks a player**, the *Guide* and the player both roll dice.
+**When a villain attacks a player, the _Guide_ and the player both roll dice.**
 
-The player rolls one base die. They get a bonus die if they chose *Defend* as their combat style. They also get a bonus die if they have an item they want to use to protect themself.
+- The player gets one base die.
+- They get a bonus die if their combat style is *Defend*.
+- They also get a bonus die if they have an defensive equipment, or an item they want to use to protect themself.
 
 The *Guide* rolls a number of dice equal to the villains base health level (before accounting for damage).
 
@@ -236,8 +222,6 @@ If the villain's highest roll is higher than the player's, the player loses a he
 ### Determining who wins a battle
 
 When the villain have no health points left, they're knocked out of the game.
-
-(*Frame this in whatever way is age-appropriate for your players.*)
 
 If a player loses all of their health points, they're knocked out until one of the other players can help them. If a player helps a teammate who has been knocked out, or does something to heal their own damage, they forfeit their attack for that turn.
 
@@ -251,77 +235,26 @@ If all of the players are knocked out, the *Guide* can come up with a creative w
 
 Gear and special items can be used to solve problems, overcome challenges, and give players new skills and abilities.
 
-- **Gear** is an object that improves the player's ability in some way. For warriors, knights, and vikings, it might be a sword, an axe, a bow-and-arrow, or a shield. For witches, wizards, and druids, it might be a wand or a staff.
+- **Gear** are objects that improves the player's ability in some way. This includes things like swords, axes, a bow-and-arrow, or a shield. It also includes wands and spell books.
 - **Items** are single-use objects that provide a one-time advantage to a player. This includes things like rope and nets, charms, spells, and potions. It might also include special arrows or weapons.
 
 When used with an action, gear and items give the player using them a bonus die for their die roll (up to a maximum of 3 dice). Only one piece of gear and one item can be used per action.
+
+You can **[download a few dozen premade items and gear](/downloads)**. The download also includes templates to make your own.
 
 ### Starting gear and items
 
 Each character should start the game with one piece of gear. This usually relates to the nature of their character.
 
-For example, a druid may start with a staff. A pirate may start with a sword. A warrior with a *Defend* combat style may start with a shield for added protection, or pick up a sword to give them an extra die when attacking.
+For example, a druid may start with a spell book. A pirate may start with a sword. A warrior with a *Defend* combat style may start with a shield for added protection, or pick up a sword to give them an extra die when attacking.
 
-You may choose to have each player also start the game with a single-use item: rope, healing potion, food, or something else that will be useful in the adventure ahead.
+Players should also start the game with a single-use item: rope, healing potion, food, or something else that will be useful in the adventure ahead.
 
 ### Earned and discovered items
 
 As the players go on various adventures and encounters, they'll pick up more items&mdash;either as gifts from the people they help, or by discovering them in their travels.
 
 Items can be shared with members in the group, and carry over from one game to the&nbsp;next.
-
-### Item ideas
-
-Here are some ideas for single-use items for use in your adventures.
-
-- Invisibility Potion
-- Quickness Potion
-- Healing Potion
-- Magic Feather (gives the power of flight)
-- Magic Map (shows the location of what you want, then disintegrates)
-- Climbing tools
-- A Shovel
-- A Protection Charm
-- A walking stick/staff
-- A wand (makes spells more potent, works for 3 spells)
-- Breathewort (plant that lets you breathe underwater for 5 minutes)
-- Magically inflating balloons
-- X-ray spell
-- Rope ladder
-- Grappling hook
-- Food
-- Magical flute to call on a creature friend you’ve made in the past
-- A stopwatch that rewinds time
-- Torch/Magic Lantern
-- Magic gloves (protect you from everything you touch)
-- An empty box/pouch that can fit objects of any size
-- Water spell (sends surge of water)
-- Earth spell (move the earth)
-- Lava spell (create a path of lava)
-- Wind spell (create a powerful breeze)
-- Ice spell (send an ice blast)
-- Dragon scales (fireproof)
-- A Compass
-
-
-
-## Creating worlds
-
-You can play *Adventure* entirely as a word-based RPG, and let your players use their imaginations.
-
-However, depending on the age and interests of your players, it might be more fun and interesting if you added a physical element to the game. You can create sets for each of your encounters by sketching simple maps in a notebook, building them with Lego blocks, or using toys that you already have.
-
-It can be a lot of fun to use action figures or paper cutouts for each of the characters, and let them move through physical environments as you play.
-
-
-
-## Duration and Complexity
-
-Games of *Adventure* can take as little as 30 minutes, or can last several hours.
-
-As the *Guide*, you have a lot of control over the length and complexity of each game. You can add more villains and bonus encounters, adjust difficulty levels for encounters up or down, and save the day with third-party characters you introduce to the game.
-
-You can also spread an adventure over several games, stopping after an encounter, and picking things back up another time.
 
 
 
@@ -331,15 +264,35 @@ You can also spread an adventure over several games, stopping after an encounter
 
 ### Teamwork
 
-If an encounter requires the skills of two or more people working together, calculate the total number of dice rolled based on each participating player's skills and items. Then, subtract one die for each person.
+If an encounter requires the skills of two or more people working together, calculate the total number of dice rolled based on each participating player's skills and items.
 
-You can let a single person roll, or divide the dice among multiple players and have them all roll at once.
+Then, subtract one die for each person beyond the first. Divide the dice among the players.
 
 ### Higher difficulty encounters
 
 If players are easily completing challenges, or you have a lot of players, you may want to increase the difficulty of encounters beyond 6.
 
-If you do, add their highest and lower numbers together instead of using just the highest number.
+If you do, add the highest and lowest numbers together instead of using just the highest number.
+
+
+
+## A Few Extra Details
+
+### Creating worlds
+
+You can play *Adventure* entirely as a word-based RPG, and let your players use their imaginations.
+
+However, depending on the age and interests of your players, it might be more fun and interesting if you added a physical element to the game. You can create sets for each of your encounters by sketching simple maps in a notebook, building them with Lego blocks, or using toys that you already have.
+
+It can be a lot of fun to use action figures or paper cutouts for each of the characters, and let them move through physical environments as you play.
+
+### Duration and Complexity
+
+Games of *Adventure* can take as little as 30 minutes, or can last several hours.
+
+As the *Guide*, you have a lot of control over the length and complexity of each game. You can add more villains and bonus encounters, adjust difficulty levels for encounters up or down, and save the day with third-party characters you introduce to the game.
+
+You can also spread an adventure over several games, stopping after an encounter, and picking things back up another time.
 
 
 

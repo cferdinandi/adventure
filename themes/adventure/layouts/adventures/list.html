@@ -2,4 +2,24 @@
 
 	{{ partial "content-page.html" . }}
 
+	<h2>Ready-to-Play Adventures</h2>
+
+	<p><em>Coming soon...</em></p>
+
+	<ul>
+		{{- range .Pages -}}
+		<li><a class="link-no-underline" href="{{ .URL }}">{{ .Title }}</a></li>
+		{{- end -}}
+	</ul>
+
+	<h2>Ideas</h2>
+
+	<p>Here are some adventure ideas I haven't had time to write yet.</p>
+
+	<ul>
+		{{- range $.Site.Data.ideas -}}
+		<li>{{ . }}</li>
+		{{- end -}}
+	</ul>
+
 {{ partial "footer.html" . }}
