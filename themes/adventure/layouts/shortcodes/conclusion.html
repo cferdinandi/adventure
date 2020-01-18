@@ -1,0 +1,6 @@
+{{ .Inner }}
+
+<ul>
+	{{ if .Get "location" }}<li><strong>Location:</strong> {{ .Get "location" }}</li>{{ end }}
+	{{ if .Get "item" }}<li><strong>Gift/Item:</strong> {{ .Get "item" }}</li>{{ end }}
+</ul>

@@ -4,6 +4,58 @@
 	<h1>{{ if eq .Kind "taxonomy" }}Articles on {{ end }}{{ .Title | htmlUnescape }}</h1>
 	{{ end }}
 
+	{{ if and ( eq .Type "adventures" ) ( eq .Kind "page" ) }}
+
+		<p class="margin-bottom-small"><strong>Premise:</strong> {{ .Params.premise }}</p>
+		<p><em>{{ humanize .Params.duration }} Duration</em></p>
+
+		<p class="margin-bottom-small"><strong>In this Adventure:</strong></p>
+		<ul>
+			<li><a href="#summary">Summary</a></li>
+			<li><a href="#encounters">Encounters</a></li>
+			<li><a href="#conclusion">Conclusion</a></li>
+		</ul>
+
+
+		<h2 id="summary">Summary</h2>
+
+		{{ if gt (len .Params.creatures) 0 }}
+		<p class="margin-bottom-small"><strong>Creatures:</strong></p>
+		<ul>
+			{{- range $creature := .Params.creatures -}}
+			<li>{{ $creature }}</li>
+			{{- end -}}
+		</ul>
+		{{ end }}
+
+		{{ if gt (len .Params.items) 0 }}
+		<p class="margin-bottom-small"><strong>Gear & Items:</strong></p>
+		<ul>
+			{{- range $item := .Params.items -}}
+			<li>{{ $item }}</li>
+			{{- end -}}
+		</ul>
+		{{ end }}
+
+		{{ if gt (len .Params.locations) 0 }}
+		<p class="margin-bottom-small"><strong>Locations & Props:</strong></p>
+		<ul>
+			{{- range $location := .Params.locations -}}
+			<li>{{ $location }}</li>
+			{{- end -}}
+		</ul>
+		{{ end }}
+
+
+		<h2 id="encounters">Encounters</h2>
+
+		<p>{{ .Params.premise }}</p>
+		<p>{{ .Params.details }}</p>
+
+		<p><strong>Starting Encounter:</strong> {{ .Params.startingEncounter }}</p>
+
+	{{ end }}
+
 	{{ .Content }}
 
 </article>

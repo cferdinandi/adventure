@@ -4,11 +4,9 @@
 
 	<h2>Ready-to-Play Adventures</h2>
 
-	<p><em>Coming soon...</em></p>
-
 	<ul>
 		{{- range .Pages -}}
-		<li><a class="link-no-underline" href="{{ .URL }}">{{ .Title }}</a></li>
+		<li><a class="link-no-underline" href="{{ .URL }}">{{ .Title }}</a> <span class="text-muted">(<em>{{ .Params.duration }}</em>)</span></li>
 		{{- end -}}
 	</ul>
 
