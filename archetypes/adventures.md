@@ -11,3 +11,16 @@ items: []
 locations: []
 ---
 
+{{%encounter order="1" title="" prompt="" tips="" location="" difficulty="" battle="" villains="" success="" failure="" item="" next=""%}}
+Encounter description...
+{{%/encounter%}}
+
+{{%encounter order="Bonus 1" title="" prompt="" tips="" location="" difficulty="" battle="" villains="" success="" failure="" item="" next=""%}}
+Bonus encounter description...
+{{%/encounter%}}
+
+## Conclusion
+
+{{%conclusion location="" item=""%}}
+Conclusion text...
+{{%/conclusion%}}
