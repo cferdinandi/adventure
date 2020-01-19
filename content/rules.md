@@ -63,6 +63,8 @@ You can create any type of fantasy world you want, but here's a little intro you
 >
 > Mysterious and exciting adventures always seem to find their way to your little village, where you and your friends are ready to help...
 
+For added flavor, you can **[download a printable map of Farfaria](/downloads)**.
+
 
 
 ## Introducing the Situation
