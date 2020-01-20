@@ -9,12 +9,14 @@
 		<p class="margin-bottom-small"><strong>Premise:</strong> {{ .Params.premise }}</p>
 		<p><em>{{ humanize .Params.duration }} Duration</em></p>
 
-		<p class="margin-bottom-small"><strong>In this Adventure:</strong></p>
-		<ul>
-			<li><a href="#summary">Summary</a></li>
-			<li><a href="#encounters">Encounters</a></li>
-			<li><a href="#conclusion">Conclusion</a></li>
-		</ul>
+		<div class="toc">
+			<p class="margin-bottom-small"><strong>In this Adventure:</strong></p>
+			<ul>
+				<li><a href="#summary">Summary</a></li>
+				<li><a href="#encounters">Encounters</a></li>
+				<li><a href="#conclusion">Conclusion</a></li>
+			</ul>
+		</div>
 
 
 		<h2 id="summary">Summary</h2>
@@ -37,14 +39,16 @@
 		</ul>
 		{{ end }}
 
-		{{ if gt (len .Params.locations) 0 }}
-		<p class="margin-bottom-small"><strong>Locations & Props:</strong></p>
+		{{ if gt (len .Params.scenary) 0 }}
+		<p class="margin-bottom-small"><strong>Scenary & Props:</strong></p>
 		<ul>
-			{{- range $location := .Params.locations -}}
-			<li>{{ $location }}</li>
+			{{- range $scene := .Params.scenary -}}
+			<li>{{ $scene }}</li>
 			{{- end -}}
 		</ul>
 		{{ end }}
+
+		{{ if .Params.map }}<p><a class="btn download-map" href="/downloads/{{ .Params.map }}">Download the Map</a></p>{{ end }}
 
 
 		<h2 id="encounters">Encounters</h2>

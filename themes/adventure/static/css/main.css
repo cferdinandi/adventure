@@ -2209,7 +2209,6 @@ td {
 /* line 259, src/sass/components/_overrides.scss */
 [hidden], template, .tarpit {
   display: none;
-  visibility: hidden;
 }
 
 /**
@@ -2217,7 +2216,7 @@ td {
  * The space content is one way to avoid an Opera bug when the `contenteditable` attribute is included anywhere else in the document.
  * @link https://github.com/h5bp/html5-boilerplate/blob/master/dist/css/main.css
  */
-/* line 271, src/sass/components/_overrides.scss */
+/* line 270, src/sass/components/_overrides.scss */
 .clearfix:before, .container:before,
 .row:before, .nav-wrap:before,
 .clearfix:after,
@@ -2228,7 +2227,7 @@ td {
   content: " ";
 }
 
-/* line 277, src/sass/components/_overrides.scss */
+/* line 276, src/sass/components/_overrides.scss */
 
 .clearfix:after,
 .container:after,
@@ -2321,5 +2320,30 @@ td {
   tr,
   img {
     page-break-inside: avoid;
+  }
+  /**
+	 * Adventure Page
+	 */
+  /* line 94, src/sass/components/_print.scss */
+  .toc,
+  .encounter,
+  .download-map {
+    display: none;
+  }
+  /* line 100, src/sass/components/_print.scss */
+  .encounter-print {
+    display: block;
+  }
+  /**
+	 * Header/Footer
+	 */
+  /* line 108, src/sass/components/_print.scss */
+  body {
+    border-top: 0;
+  }
+  /* line 112, src/sass/components/_print.scss */
+  #nav-menu,
+  footer {
+    display: none;
   }
 }

@@ -5,27 +5,51 @@
 
 	{{ .Inner }}
 
-	<!-- {{ if .Get "difficulty" }}
-	<table>
-		<thead>
-			<tr>
-				<th># of Players</th>
-				<th>Difficulty</th>
-			</tr>
-		</thead>
-		<tbody>
-			{{ $difficulties := split (.Get "difficulty") "||" }}
-			{{ range $difficulty := $difficulties }}
-			<tr>
-				{{ $levels := split $difficulty "::" }}
-				{{ range $level := $levels }}
-				<td>{{ $level }}</td>
+	<ul class="list-spaced">
+		{{ if .Get "prompt" }}<li><strong>Prompt:</strong> {{ .Get "prompt" }}</li>{{ end }}
+		{{ if .Get "tips" }}<li><strong>Tips:</strong> {{ .Get "tips" }}</li>{{ end }}
+		{{ if .Get "difficultyNope" }}<li><strong>Difficulty:</strong> {{ .Get "difficulty" }}</li>{{ end }}
+		{{ if .Get "difficulty" }}<li>
+			<strong>Difficulty{{ if .Get "battle" }} (if the players choose to avoid fighting){{end}}:</strong>
+			<ul>
+				{{ $difficulties := split (.Get "difficulty") "||" }}
+				{{ range $difficulty := $difficulties }}
+				<li>{{ $difficulty }}</li>
 				{{ end }}
-			</tr>
-			{{ end }}
-		</tbody>
-	</table>
-	{{ end }} -->
+			</ul>
+		</li>{{ end }}
+		{{ if .Get "battle" }}<li>
+			<strong>Battle:</strong>
+			<ul>
+				{{ $battles := split (.Get "battle") "||" }}
+				{{ range $battle := $battles }}
+				<li>{{ $battle }}</li>
+				{{ end }}
+			</ul>
+		</li>{{ end }}
+		{{ if .Get "villains" }}<li>
+			<strong>Villains:</strong>
+			<ul>
+				{{ $villains := split (.Get "villains") "||" }}
+				{{ range $villain := $villains }}
+				<li>{{ $villain }}</li>
+				{{ end }}
+			</ul>
+		</li>{{ end }}
+		{{ if .Get "success" }}<li><strong>Once players succeed:</strong> {{ .Get "success" }}</li>{{ end }}
+		{{ if .Get "failure" }}<li><strong>If players fail:</strong> {{ .Get "failure" }}</li>{{ end }}
+		{{ if .Get "location" }}<li><strong>Location:</strong> {{ .Get "location" }}</li>{{ end }}
+		{{ if .Get "scenary" }}<li><strong>Scenary & Props:</strong> {{ .Get "scenary" }}</li>{{ end }}
+		{{ if .Get "item" }}<li><strong>Gift/Item:</strong> {{ .Get "item" }}</li>{{ end }}
+		{{ if .Get "next" }}<li><strong>Next Encounter:</strong> {{ .Get "next" }}</li>{{ end }}
+		{{ if .Get "bonus" }}<li><strong>Alternate Bonus Encounter:</strong> {{ .Get "bonus" }}</li>{{ end }}
+	</ul>
+</details>
+
+<div class="encounter-print" hidden>
+	<h3>{{ .Get "order" }}. {{ .Get "title" }}</h3>
+
+	{{ .Inner }}
 
 	<ul class="list-spaced">
 		{{ if .Get "prompt" }}<li><strong>Prompt:</strong> {{ .Get "prompt" }}</li>{{ end }}
@@ -61,8 +85,9 @@
 		{{ if .Get "success" }}<li><strong>Once players succeed:</strong> {{ .Get "success" }}</li>{{ end }}
 		{{ if .Get "failure" }}<li><strong>If players fail:</strong> {{ .Get "failure" }}</li>{{ end }}
 		{{ if .Get "location" }}<li><strong>Location:</strong> {{ .Get "location" }}</li>{{ end }}
+		{{ if .Get "scenary" }}<li><strong>Scenary & Props:</strong> {{ .Get "scenary" }}</li>{{ end }}
 		{{ if .Get "item" }}<li><strong>Gift/Item:</strong> {{ .Get "item" }}</li>{{ end }}
 		{{ if .Get "next" }}<li><strong>Next Encounter:</strong> {{ .Get "next" }}</li>{{ end }}
 		{{ if .Get "bonus" }}<li><strong>Alternate Bonus Encounter:</strong> {{ .Get "bonus" }}</li>{{ end }}
 	</ul>
-</details>
+</div>

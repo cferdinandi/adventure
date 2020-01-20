@@ -87,4 +87,31 @@
 		page-break-inside: avoid;
 	}
 
+	/**
+	 * Adventure Page
+	 */
+
+	.toc,
+	.encounter,
+	.download-map {
+		display: none;
+	}
+
+	.encounter-print {
+		display: block;
+	}
+
+	/**
+	 * Header/Footer
+	 */
+
+	body {
+		border-top: 0;
+	}
+
+	#nav-menu,
+	footer {
+		display: none;
+	}
+
 }

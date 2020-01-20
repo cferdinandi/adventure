@@ -8,7 +8,8 @@ details: ""
 startingEncounter: ""
 creatures: []
 items: []
-locations: []
+scenary: []
+map: ""
 ---
 
 {{%encounter order="1" title="" prompt="" tips="" location="" difficulty="" battle="" villains="" success="" failure="" item="" next=""%}}
