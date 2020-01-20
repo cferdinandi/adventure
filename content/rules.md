@@ -117,7 +117,7 @@ Each challenge or decision has a difficulty level. The player taking an action r
 - If the player's action relates to a skill they have, they get one bonus die.
 - If they're using a tool or item, they also get a bonus die.
 
-A player can never roll more than three dice.
+*A player can never roll more than three dice.*
 
 ### An example die roll
 
