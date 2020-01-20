@@ -159,6 +159,14 @@ Team work is also encouraged.
 
 The *Guide* decides if the proposed actions are logical and work within the context of the encounter, and then decide how many dice the player taking the action can roll.
 
+### Individual vs. Group Encounters
+
+For many encounters, only one person in the group needs to succeed. For example, if one player successfully unlocks a cage, the dragon trapped inside is free.
+
+For other encounters, *each* player needs to roll individually and succeed.
+
+For example, if you hear a band of thieves approaching and want to hide, each player should roll. Any player who wins the die roll hides successfully, while any player who doesn't is caught.
+
 ### Bonus Encounters
 
 Depending on the age of your players and how complex you'd like the game to be, you can mix bonus encounters into the main adventure.
@@ -230,6 +238,14 @@ If a player loses all of their health points, they're knocked out until one of t
 The battle is over when all of the villains have been defeated or the players retreat.
 
 If all of the players are knocked out, the *Guide* can come up with a creative way to save them, or can have them suffer a setback as a result.
+
+### Fleeing a battle
+
+Each battle encounter also has an overall difficulty level.
+
+If players decide to flee instead of fight, they each roll to flee the battle. Normal die roll rules apply (their highest role must meet or exceed the difficulty level).
+
+Players can choose to flee a battle at any time, including in the middle of one.
 
 
 
