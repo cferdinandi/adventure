@@ -13,7 +13,7 @@ Downloadable, printable assets you can use to play *Adventure*. Each download al
 - **[Locations.](/downloads/locations.pdf)** Location printables you can use to add visuals to your storytelling and inspire ideas for adventures.
 - **[Map.](/downloads/map.pdf)** Track your location around Farfaria, and learn more about the various landmarks and creatures that live there.
 
-*While the premade characters include gender diversity, they severely lack ethnical/racial diversity. To be candid, I struggled to find good, cohesive, free graphics with good representation.*
+*__Note:__ while the premade characters include gender diversity, they severely lack ethnical/racial diversity. To be candid, I struggled to find good, cohesive, free graphics with good representation.*
 
 *With the help of [the wonderful Mel Choyce](https://melchoyce.design/), this is actively being fixed. Updated character downloads will be posted ASAP.*
 
