@@ -2,7 +2,7 @@
 title: "The Pixie Dust Tree"
 date: 2020-01-17T15:23:43-05:00
 draft: false
-duration: short
+duration: medium
 premise: A fairy wakes you from your sleep, begging for you help. She explains that ice from the north froze and killed their pixie dust tree. Without, she and the rest of her village will never fly again.
 details: The fairy tells you that the Elder Fairy of the northern forest knows how to get a new pixie dust tree. She cannot go with you, as she does not have enough pixie dust to make the journey and is very tired. It's up to you to find him. She provides you with a compass to help you find your way.
 startingEncounter: Locate the Elder Fairy
