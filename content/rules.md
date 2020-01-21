@@ -249,6 +249,56 @@ Players can choose to flee a battle at any time, including in the middle of one.
 
 
 
+## Health and Healing
+
+Every player starts with three health points.
+
+### Losing Health Points
+
+If a player takes damage during combat, they lose a health point.
+
+They can also lose health points when trying to complete challenges if their die roll is two or more below the difficulty level.
+
+For example, if a player tries to scale a cliff with a difficulty of 5, and they roll a 2, the *Guide* might say:
+
+> You lose your footing and tumble backwards down the side of the cliff, striking a rock.
+
+The *Guide* would then subtract one health point.
+
+### Getting Knocked Out
+
+If a player loses all three of their health points, they're *knocked out* until someone in their group heals them or the next encounter starts.
+
+*Knocked out* players cannot solve challenges or participate in battles.
+
+### Healing Damage
+
+There are a few ways players can heal damage:
+
+1. They can use their turn during a battle or encounter to heal themselves or another player with a healing potion. If they do, they cannot attempt to solve the challenge or fight a creature until their next turn.
+2. If the player is a *Healer*, they can restore one health point to themself or another player. This also uses their turn.
+3. Waiting it out. Moving from one encounter to another restores a health point.
+
+Healing potions make great items for players to find after defeating creatures and solving problems.
+
+The *Guide* can reward them (or restrict them) as needed to keep the tension and pacing of the game well balanced.
+
+### Total Group Knock Out
+
+If every member of a group loses all of their health points, that's a *total group knock out* (or *TGKO*).
+
+A TGKO can happen if the difficulty of a particular challenge isn't properly balanced for the skills of your group. It can also happen if luck just doesn't work in the players' favor (a series of low die rolls, for example).
+
+**Since a TGKO would otherwise stop the adventure in its tracks, the _Guide_ can use their creativity to save players from this situation.**
+
+<p class="margin-bottom-small">Some examples:</p>
+
+- A pet belonging to one of the players runs off and returns with healing potion, or a non-player character that can help.
+- Players awaken some unknown time later. The creature is gone, along with what they were looking for and a bunch of their gear and items.
+- Players awaken to find themselves trapped in a locked room, unsure of where they are or how they got there. They must use their skills and items they can find in there surroundings to escape.
+
+
+
 ## Gear and Items
 
 Gear and special items can be used to solve problems, overcome challenges, and give players new skills and abilities.
@@ -308,9 +358,31 @@ It can be a lot of fun to use action figures or paper cutouts for each of the ch
 
 Games of *Adventure* can take as little as 30 minutes, or can last several hours.
 
-As the *Guide*, you have a lot of control over the length and complexity of each game. You can add more villains and bonus encounters, adjust difficulty levels for encounters up or down, and save the day with third-party characters you introduce to the game.
+As the *Guide*, you have a lot of control over the length and complexity of each game. You can add more villains and bonus encounters, adjust difficulty levels for encounters up or down, and save the day with non-player characters you introduce to the game.
 
 You can also spread an adventure over several games, stopping after an encounter, and picking things back up another time.
+
+### Non-Player Characters
+
+Depending on the skills of the players and the difficulty of the challenges they're facing, it can be interesting to add *non-player characters* into the game.
+
+These are characters that the *Guide* creates and controls. They can be friends, foes, or somewhere in-between.
+
+*Non-player characters* can provide critical information that players aren't picking up on, give them mis-information to send them on a bonus encounter, jump into provide extra fire power for an epic battle, or thwart their efforts if their finding an adventure too easy.
+
+Use *non-player characters* as much or as little as needed to keep the game fun and interesting.
+
+### Exploring Farfaria
+
+A big part of what makes RPGs so fun is how open-ended they are.
+
+As players get more experienced playing *Adventure*, they may start to explore areas of Farfaria that aren't part of the current adventure's storyline. They might want to explore the mountains, search for a unicorn, or try to bypass a fearsome creature by using an underground cave system.
+
+The *Guide* should encourage this!
+
+The **[downloadable creature and item cards](/downloads/)** can provide some inspiration for off-story encounters. The *Guide* can also pull themes and challenges from the players' favorite books and movies.
+
+Eventually, players may want to leave Farfaria itself. They may attempt to cross the mountains, go beyond the edges of the Dark Forest, or sail off in a ship. The same game mechanics apply. Go create new worlds!
 
 
 

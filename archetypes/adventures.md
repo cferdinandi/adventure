@@ -12,7 +12,7 @@ scenary: []
 map: ""
 ---
 
-{{%encounter order="1" title="" prompt="" tips="" difficulty="" battle="" villains="" success="" failure="" location="" scenary="" item="" next=""%}}
+{{%encounter order="1" title="" prompt="" tips="" difficulty="" battle="" villains="" success="" failure="" location="" scenary="" item="" next="" bonus=""%}}
 Encounter description...
 {{%/encounter%}}
 
