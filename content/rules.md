@@ -73,7 +73,7 @@ At the start of each game, a problem arises that needs the help of a group of ad
 
 Feel free to use toys, props, sketches and drawings, and fun voices to add to the excitement and mystery. I've also put together **[a few dozen printable creatures](/downloads)** you can use for your adventures.
 
-Here's an example:
+Here's an example from **[Lacey the Luck Dragon](http://localhost:1313/adventures/lacey-the-luck-dragon/)**:
 
 > Lacey the Luck Dragon protects the forest from invaders. While out looking for food, her five baby dragons wandered off, and she can’t find them. She’s worried sick, and wants your help in locating them.
 >

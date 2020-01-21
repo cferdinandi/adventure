@@ -172,6 +172,10 @@ li {
 		@media (min-width: $bp-medium) {
 			margin-bottom: calc-em(11px);
 		}
+
+		li {
+			margin-bottom: 0;
+		}
 	}
 }
 

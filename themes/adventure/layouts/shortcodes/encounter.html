@@ -6,9 +6,9 @@
 	{{ .Inner }}
 
 	<ul class="list-spaced">
-		{{ if .Get "prompt" }}<li><strong>Prompt:</strong> {{ .Get "prompt" }}</li>{{ end }}
-		{{ if .Get "tips" }}<li><strong>Tips:</strong> {{ .Get "tips" }}</li>{{ end }}
-		{{ if .Get "difficultyNope" }}<li><strong>Difficulty:</strong> {{ .Get "difficulty" }}</li>{{ end }}
+		{{ if .Get "prompt" }}<li><strong>Prompt:</strong> {{ .Get "prompt" | markdownify }}</li>{{ end }}
+		{{ if .Get "tips" }}<li><strong>Tips:</strong> {{ .Get "tips" | markdownify }}</li>{{ end }}
+		{{ if .Get "difficultyNope" }}<li><strong>Difficulty:</strong> {{ .Get "difficulty" | markdownify }}</li>{{ end }}
 		{{ if .Get "difficulty" }}<li>
 			<strong>Difficulty{{ if .Get "battle" }} (if the players choose to avoid fighting){{end}}:</strong>
 			<ul>
@@ -36,13 +36,13 @@
 				{{ end }}
 			</ul>
 		</li>{{ end }}
-		{{ if .Get "success" }}<li><strong>Once players succeed:</strong> {{ .Get "success" }}</li>{{ end }}
-		{{ if .Get "failure" }}<li><strong>If players fail:</strong> {{ .Get "failure" }}</li>{{ end }}
-		{{ if .Get "location" }}<li><strong>Location:</strong> {{ .Get "location" }}</li>{{ end }}
-		{{ if .Get "scenary" }}<li><strong>Scenary & Props:</strong> {{ .Get "scenary" }}</li>{{ end }}
-		{{ if .Get "item" }}<li><strong>Gift/Item:</strong> {{ .Get "item" }}</li>{{ end }}
-		{{ if .Get "next" }}<li><strong>Next Encounter:</strong> {{ .Get "next" }}</li>{{ end }}
-		{{ if .Get "bonus" }}<li><strong>Alternate Bonus Encounter:</strong> {{ .Get "bonus" }}</li>{{ end }}
+		{{ if .Get "success" }}<li><strong>Once players succeed:</strong> {{ .Get "success" | markdownify }}</li>{{ end }}
+		{{ if .Get "failure" }}<li><strong>If players fail:</strong> {{ .Get "failure" | markdownify }}</li>{{ end }}
+		{{ if .Get "location" }}<li><strong>Location:</strong> {{ .Get "location" | markdownify }}</li>{{ end }}
+		{{ if .Get "scenary" }}<li><strong>Scenary & Props:</strong> {{ .Get "scenary" | markdownify }}</li>{{ end }}
+		{{ if .Get "item" }}<li><strong>Gift/Item:</strong> {{ .Get "item" | markdownify }}</li>{{ end }}
+		{{ if .Get "next" }}<li><strong>Next Encounter:</strong> {{ .Get "next" | markdownify }}</li>{{ end }}
+		{{ if .Get "bonus" }}<li><strong>Alternate Bonus Encounter:</strong> {{ .Get "bonus" | markdownify }}</li>{{ end }}
 	</ul>
 </details>
 
@@ -52,9 +52,9 @@
 	{{ .Inner }}
 
 	<ul class="list-spaced">
-		{{ if .Get "prompt" }}<li><strong>Prompt:</strong> {{ .Get "prompt" }}</li>{{ end }}
-		{{ if .Get "tips" }}<li><strong>Tips:</strong> {{ .Get "tips" }}</li>{{ end }}
-		{{ if .Get "difficultyNope" }}<li><strong>Difficulty:</strong> {{ .Get "difficulty" }}</li>{{ end }}
+		{{ if .Get "prompt" }}<li><strong>Prompt:</strong> {{ .Get "prompt" | markdownify }}</li>{{ end }}
+		{{ if .Get "tips" }}<li><strong>Tips:</strong> {{ .Get "tips" | markdownify }}</li>{{ end }}
+		{{ if .Get "difficultyNope" }}<li><strong>Difficulty:</strong> {{ .Get "difficulty" | markdownify }}</li>{{ end }}
 		{{ if .Get "difficulty" }}<li>
 			<strong>Difficulty{{ if .Get "battle" }} (if the players choose to avoid fighting){{end}}:</strong>
 			<ul>
@@ -82,12 +82,12 @@
 				{{ end }}
 			</ul>
 		</li>{{ end }}
-		{{ if .Get "success" }}<li><strong>Once players succeed:</strong> {{ .Get "success" }}</li>{{ end }}
-		{{ if .Get "failure" }}<li><strong>If players fail:</strong> {{ .Get "failure" }}</li>{{ end }}
-		{{ if .Get "location" }}<li><strong>Location:</strong> {{ .Get "location" }}</li>{{ end }}
-		{{ if .Get "scenary" }}<li><strong>Scenary & Props:</strong> {{ .Get "scenary" }}</li>{{ end }}
-		{{ if .Get "item" }}<li><strong>Gift/Item:</strong> {{ .Get "item" }}</li>{{ end }}
-		{{ if .Get "next" }}<li><strong>Next Encounter:</strong> {{ .Get "next" }}</li>{{ end }}
-		{{ if .Get "bonus" }}<li><strong>Alternate Bonus Encounter:</strong> {{ .Get "bonus" }}</li>{{ end }}
+		{{ if .Get "success" }}<li><strong>Once players succeed:</strong> {{ .Get "success" | markdownify }}</li>{{ end }}
+		{{ if .Get "failure" }}<li><strong>If players fail:</strong> {{ .Get "failure" | markdownify }}</li>{{ end }}
+		{{ if .Get "location" }}<li><strong>Location:</strong> {{ .Get "location" | markdownify }}</li>{{ end }}
+		{{ if .Get "scenary" }}<li><strong>Scenary & Props:</strong> {{ .Get "scenary" | markdownify }}</li>{{ end }}
+		{{ if .Get "item" }}<li><strong>Gift/Item:</strong> {{ .Get "item" | markdownify }}</li>{{ end }}
+		{{ if .Get "next" }}<li><strong>Next Encounter:</strong> {{ .Get "next" | markdownify }}</li>{{ end }}
+		{{ if .Get "bonus" }}<li><strong>Alternate Bonus Encounter:</strong> {{ .Get "bonus" | markdownify }}</li>{{ end }}
 	</ul>
 </div>

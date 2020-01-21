@@ -12,11 +12,11 @@ scenary: []
 map: ""
 ---
 
-{{%encounter order="1" title="" prompt="" tips="" location="" difficulty="" battle="" villains="" success="" failure="" item="" next=""%}}
+{{%encounter order="1" title="" prompt="" tips="" difficulty="" battle="" villains="" success="" failure="" location="" scenary="" item="" next=""%}}
 Encounter description...
 {{%/encounter%}}
 
-{{%encounter order="Bonus 1" title="" prompt="" tips="" location="" difficulty="" battle="" villains="" success="" failure="" item="" next=""%}}
+{{%encounter order="Bonus 1" title="" prompt="" tips="" difficulty="" battle="" villains="" success="" failure="" location="" scenary="" item="" next=""%}}
 Bonus encounter description...
 {{%/encounter%}}
 
