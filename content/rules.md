@@ -324,6 +324,10 @@ As the players go on various adventures and encounters, they'll pick up more ite
 
 Items can be shared with members in the group, and carry over from one game to the&nbsp;next.
 
+The *Guide* should distribute items around spaces when players complete an encounter, or have non-player characters reward them as gifts. Base the items used around the current inventory of the players, their skill level, and what will be helpful for the challenges they're going to face next.
+
+When players defeat a particularly difficult challenge or creature, the *Guide* may choose to reward players with gear that increases their stats longterm.
+
 
 
 ## Advanced Die Rolls

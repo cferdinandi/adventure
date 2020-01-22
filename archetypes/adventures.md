@@ -1,8 +1,8 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | humanize }}"
 date: {{ .Date }}
-draft: false
-duration: short
+draft: true
+duration: Short
 premise: ""
 details: ""
 startingEncounter: ""
@@ -12,11 +12,11 @@ scenary: []
 map: ""
 ---
 
-{{%encounter order="1" title="" prompt="" tips="" difficulty="" battle="" villains="" success="" failure="" location="" scenary="" item="" next="" bonus=""%}}
+{{%encounter order="1" title="" prompt="" tips="" difficulty="" battle="" villains="" success="" failure="" location="" scenary="" next="" bonus=""%}}
 Encounter description...
 {{%/encounter%}}
 
-{{%encounter order="Bonus 1" title="" prompt="" tips="" difficulty="" battle="" villains="" success="" failure="" location="" scenary="" item="" next=""%}}
+{{%encounter order="Bonus 1" title="" prompt="" tips="" difficulty="" battle="" villains="" success="" failure="" location="" scenary="" next=""%}}
 Bonus encounter description...
 {{%/encounter%}}
 

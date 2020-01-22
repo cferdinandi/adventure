@@ -6,7 +6,7 @@
 
 	<ul>
 		{{- range .Pages -}}
-		<li><a class="link-no-underline" href="{{ .URL }}">{{ .Title }}</a> <span class="text-muted">(<em>{{ .Params.duration }}</em>)</span></li>
+		<li><a class="link-no-underline" href="{{ .URL }}">{{ .Title }}</a> <span class="text-muted">(<em>{{ lower .Params.duration }}</em>)</span></li>
 		{{- end -}}
 	</ul>
 

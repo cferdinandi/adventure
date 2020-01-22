@@ -2,7 +2,7 @@
 title: "Lacey the Luck Dragon"
 date: 2020-01-20T17:04:54-05:00
 draft: false
-duration: long
+duration: Long
 premise: Lacey the Luck Dragon protects the forest from invaders. While out looking for food, her five baby dragons wandered off, and she can’t find them. She’s worried sick, and wants your help in locating them.
 details: The babies just learned to fly, and aren’t very good at it. For protection, baby luck dragons can turn themselves invisible, making them hard to find. Baby dragons screech, scratch stuff with their claws, accidentally burn things, and smell like wet dog. The dragon gives you a satchel of gold coins to help you on your journey.
 startingEncounter: Locate the first baby dragon

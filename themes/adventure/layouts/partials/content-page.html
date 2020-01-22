@@ -6,8 +6,8 @@
 
 	{{ if and ( eq .Type "adventures" ) ( eq .Kind "page" ) }}
 
-		<p class="margin-bottom-small"><strong>Premise:</strong> {{ .Params.premise }}</p>
-		<p><em>{{ humanize .Params.duration }} Duration</em></p>
+		<p class="margin-bottom-small"><strong>Premise:</strong> {{ markdownify .Params.premise }}</p>
+		<p><em>{{ .Params.duration }} Duration</em></p>
 
 		<div class="toc">
 			<p class="margin-bottom-small"><strong>In this Adventure:</strong></p>
@@ -40,7 +40,7 @@
 		{{ end }}
 
 		{{ if gt (len .Params.scenary) 0 }}
-		<p class="margin-bottom-small"><strong>Scenary & Props:</strong></p>
+		<p class="margin-bottom-small"><strong>Scenery & Props:</strong></p>
 		<ul>
 			{{- range $scene := .Params.scenary -}}
 			<li>{{ $scene }}</li>
@@ -53,8 +53,8 @@
 
 		<h2 id="encounters">Encounters</h2>
 
-		<p>{{ .Params.premise }}</p>
-		<p>{{ .Params.details }}</p>
+		<p>{{ markdownify .Params.premise }}</p>
+		<p>{{ markdownify .Params.details }}</p>
 
 		<p><strong>Starting Encounter:</strong> {{ .Params.startingEncounter }}</p>
 
