@@ -37,6 +37,10 @@ body {
 
 p {
 	margin: 0 0 $spacing;
+
+	.type-adventures details & {
+		margin-bottom: 0.8125em;
+	}
 }
 
 
@@ -284,10 +288,17 @@ h2,
 	font-size: calc-em(21px);
 }
 
+.type-adventures #conclusion {
+	margin-top: $spacing;
+}
+
 h3,
 .h3 {
 	font-size: calc-em(17px);
-	padding-top: 0;
+
+	.type-page & {
+		padding-top: 0;
+	}
 }
 
 h4, h5, h6,
@@ -295,10 +306,10 @@ h4, h5, h6,
 	font-size: calc-em(16px);
 }
 
-h4,
-.h4 {
-	text-transform: uppercase;
-}
+// h4,
+// .h4 {
+// 	text-transform: uppercase;
+// }
 
 
 /**

@@ -18,7 +18,7 @@ Every game of *Adventure* follows a three-part structure:
 
 Each game needs a *Guide* to run the game.
 
-This person is generally not a player themselves. They introduce the problem, guide players through encounters, and introduce challenges and bonus encounters in response to player actions.
+This person is generally not a player themselves. They introduce the problem, guide players through encounters, and introduce challenges and optional encounters in response to player actions.
 
 As the *Guide*, its your job to keep the pacing, action, and suspense at the right level for the skills and age-level of your players.
 
@@ -169,7 +169,7 @@ For example, if you hear a band of thieves approaching and want to hide, each pl
 
 ### Bonus Encounters
 
-Depending on the age of your players and how complex you'd like the game to be, you can mix bonus encounters into the main adventure.
+Depending on the age of your players and how complex you'd like the game to be, you can mix optional encounters into the main adventure.
 
 For example, on the way from one location to the next, a group of thieves may attempt to buy or steal one of the baby dragons. You might introduce the encounter like this:
 
@@ -243,7 +243,7 @@ If all of the players are knocked out, the *Guide* can come up with a creative w
 
 Each battle encounter also has an overall difficulty level.
 
-If players decide to flee instead of fight, they each roll to flee the battle. Normal die roll rules apply (their highest role must meet or exceed the difficulty level).
+If players decide to flee instead of fight, they each roll to flee the battle. Normal die roll rules apply (their highest role must meet or exceed the difficulty level). Players who fail the die roll don't get away, and must fight or get captured.
 
 Players can choose to flee a battle at any time, including in the middle of one.
 
@@ -324,6 +324,10 @@ As the players go on various adventures and encounters, they'll pick up more ite
 
 Items can be shared with members in the group, and carry over from one game to the&nbsp;next.
 
+The *Guide* should distribute items around spaces when players complete an encounter, or have non-player characters reward them as gifts. Base the items used around the current inventory of the players, their skill level, and what will be helpful for the challenges they're going to face next.
+
+When players defeat a particularly difficult challenge or creature, the *Guide* may choose to reward players with gear that increases their stats longterm.
+
 
 
 ## Advanced Die Rolls
@@ -346,6 +350,15 @@ If you do, add the highest and lowest numbers together instead of using just the
 
 ## A Few Extra Details
 
+### Exploration vs. the Main Story
+
+<p class="margin-bottom-small">Two things are true about <em>Adventure</em>:</p>
+
+1. Every adventure has critical encounters that are required to drive the story to it's natural conclusion.
+2. Players are free to explore the world and deviate from the main storyline.
+
+It's the *Guide's* job to encourage exploration when appropriate for the players' ages and skill levels, and help steer players back towards the critical encounters if they drift too far.
+
 ### Creating worlds
 
 You can play *Adventure* entirely as a word-based RPG, and let your players use their imaginations.
@@ -358,7 +371,7 @@ It can be a lot of fun to use action figures or paper cutouts for each of the ch
 
 Games of *Adventure* can take as little as 30 minutes, or can last several hours.
 
-As the *Guide*, you have a lot of control over the length and complexity of each game. You can add more villains and bonus encounters, adjust difficulty levels for encounters up or down, and save the day with non-player characters you introduce to the game.
+As the *Guide*, you have a lot of control over the length and complexity of each game. You can add more villains and optional encounters, adjust difficulty levels for encounters up or down, and save the day with non-player characters you introduce to the game.
 
 You can also spread an adventure over several games, stopping after an encounter, and picking things back up another time.
 

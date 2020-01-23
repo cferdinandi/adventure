@@ -5,8 +5,8 @@
 	<h2>Ready-to-Play Adventures</h2>
 
 	<ul>
-		{{- range .Pages -}}
-		<li><a class="link-no-underline" href="{{ .URL }}">{{ .Title }}</a> <span class="text-muted">(<em>{{ .Params.duration }}</em>)</span></li>
+		{{- range .Pages.ByWeight -}}
+		<li><a class="link-no-underline" href="{{ .URL }}">{{ .Title }}</a> <span class="text-muted">(<em>{{ lower .Params.duration }}</em>)</span></li>
 		{{- end -}}
 	</ul>
 

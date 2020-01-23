@@ -1,0 +1,93 @@
+<details class="encounter" id='encounter-{{ anchorize (.Get "order") }}'>
+	<summary class="margin-bottom-small">
+		<strong>{{ .Get "order" }}. {{ .Get "title" }}</strong>
+	</summary>
+
+	{{ .Inner }}
+
+	<ul class="list-spaced">
+		{{ if .Get "prompt" }}<li><strong>Prompt:</strong> {{ .Get "prompt" | markdownify }}</li>{{ end }}
+		{{ if .Get "tips" }}<li><strong>Tips:</strong> {{ .Get "tips" | markdownify }}</li>{{ end }}
+		{{ if .Get "difficultyNope" }}<li><strong>Difficulty:</strong> {{ .Get "difficulty" | markdownify }}</li>{{ end }}
+		{{ if .Get "difficulty" }}<li>
+			<strong>Difficulty{{ if .Get "battle" }} (if the players choose to avoid fighting){{end}}:</strong>
+			<ul>
+				{{ $difficulties := split (.Get "difficulty") "||" }}
+				{{ range $difficulty := $difficulties }}
+				<li>{{ $difficulty }}</li>
+				{{ end }}
+			</ul>
+		</li>{{ end }}
+		{{ if .Get "battle" }}<li>
+			<strong>Battle:</strong>
+			<ul>
+				{{ $battles := split (.Get "battle") "||" }}
+				{{ range $battle := $battles }}
+				<li>{{ $battle }}</li>
+				{{ end }}
+			</ul>
+		</li>{{ end }}
+		{{ if .Get "villains" }}<li>
+			<strong>Villains:</strong>
+			<ul>
+				{{ $villains := split (.Get "villains") "||" }}
+				{{ range $villain := $villains }}
+				<li>{{ $villain }}</li>
+				{{ end }}
+			</ul>
+		</li>{{ end }}
+		{{ if .Get "success" }}<li><strong>Once players succeed:</strong> {{ .Get "success" | markdownify }}</li>{{ end }}
+		{{ if .Get "failure" }}<li><strong>If players fail:</strong> {{ .Get "failure" | markdownify }}</li>{{ end }}
+		{{ if .Get "location" }}<li><strong>Location:</strong> {{ .Get "location" | markdownify }}</li>{{ end }}
+		{{ if .Get "scenary" }}<li><strong>Scenary & Props:</strong> {{ .Get "scenary" | markdownify }}</li>{{ end }}
+		{{ if .Get "item" }}<li><strong>Gift/Item:</strong> {{ .Get "item" | markdownify }}</li>{{ end }}
+		{{ if .Get "next" }}<li><strong>Next Encounter:</strong> {{ .Get "next" | markdownify }}</li>{{ end }}
+		{{ if .Get "bonus" }}<li><strong>Alternate Bonus Encounter:</strong> {{ .Get "bonus" | markdownify }}</li>{{ end }}
+	</ul>
+</details>
+
+<div class="encounter-print" hidden>
+	<h3>{{ .Get "order" }}. {{ .Get "title" }}</h3>
+
+	{{ .Inner }}
+
+	<ul class="list-spaced">
+		{{ if .Get "prompt" }}<li><strong>Prompt:</strong> {{ .Get "prompt" | markdownify }}</li>{{ end }}
+		{{ if .Get "tips" }}<li><strong>Tips:</strong> {{ .Get "tips" | markdownify }}</li>{{ end }}
+		{{ if .Get "difficultyNope" }}<li><strong>Difficulty:</strong> {{ .Get "difficulty" | markdownify }}</li>{{ end }}
+		{{ if .Get "difficulty" }}<li>
+			<strong>Difficulty{{ if .Get "battle" }} (if the players choose to avoid fighting){{end}}:</strong>
+			<ul>
+				{{ $difficulties := split (.Get "difficulty") "||" }}
+				{{ range $difficulty := $difficulties }}
+				<li>{{ $difficulty }}</li>
+				{{ end }}
+			</ul>
+		</li>{{ end }}
+		{{ if .Get "battle" }}<li>
+			<strong>Battle:</strong>
+			<ul>
+				{{ $battles := split (.Get "battle") "||" }}
+				{{ range $battle := $battles }}
+				<li>{{ $battle }}</li>
+				{{ end }}
+			</ul>
+		</li>{{ end }}
+		{{ if .Get "villains" }}<li>
+			<strong>Villains:</strong>
+			<ul>
+				{{ $villains := split (.Get "villains") "||" }}
+				{{ range $villain := $villains }}
+				<li>{{ $villain }}</li>
+				{{ end }}
+			</ul>
+		</li>{{ end }}
+		{{ if .Get "success" }}<li><strong>Once players succeed:</strong> {{ .Get "success" | markdownify }}</li>{{ end }}
+		{{ if .Get "failure" }}<li><strong>If players fail:</strong> {{ .Get "failure" | markdownify }}</li>{{ end }}
+		{{ if .Get "location" }}<li><strong>Location:</strong> {{ .Get "location" | markdownify }}</li>{{ end }}
+		{{ if .Get "scenary" }}<li><strong>Scenary & Props:</strong> {{ .Get "scenary" | markdownify }}</li>{{ end }}
+		{{ if .Get "item" }}<li><strong>Gift/Item:</strong> {{ .Get "item" | markdownify }}</li>{{ end }}
+		{{ if .Get "next" }}<li><strong>Next Encounter:</strong> {{ .Get "next" | markdownify }}</li>{{ end }}
+		{{ if .Get "bonus" }}<li><strong>Alternate Bonus Encounter:</strong> {{ .Get "bonus" | markdownify }}</li>{{ end }}
+	</ul>
+</div>
