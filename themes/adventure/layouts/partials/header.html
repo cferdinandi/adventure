@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
-		<meta name="description" content="{{ if .IsHome }}{{ $.Site.Params.description }}{{ else }}{{ .Summary }}{{ end }}">
+		<meta name="description" content="{{ if .IsHome }}{{ $.Site.Params.description }}{{ else if .Params.premise }}{{ .Params.premise }}{{ else }}{{ .Summary }}{{ end }}">
 		{{ if .Params.noIndex }}<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">{{ end }}
 
 		<!-- Mobile Screen Resizing -->
@@ -15,7 +15,7 @@
 		<meta name="twitter:site" content="@ChrisFerdinandi">
 		<meta property="og:url" content="{{ .URL }}">
 		<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
-		<meta property="og:description" content="{{ if .IsHome }}{{ $.Site.Params.description }}{{ else }}{{ .Summary }}{{ end }}">
+		<meta property="og:description" content="{{ if .IsHome }}{{ $.Site.Params.description }}{{ else if .Params.premise }}{{ .Params.premise }}{{ else }}{{ .Summary }}{{ end }}">
 		{{ if .Params.image }}<meta property="og:image" content="{{ .Params.image }}">{{ end }}
 
 		<!-- Icons: place in the root directory -->
