@@ -393,12 +393,17 @@ p {
   margin: 0 0 1.5625em;
 }
 
+/* line 41, src/sass/components/_typography.scss */
+.type-adventures details p {
+  margin-bottom: 0.8125em;
+}
+
 /**
  * Hyperlink styling
  * 1. Remove the gray background on active links in IE 10.
  * 2. Remove gaps in links underline in iOS 8+ and Safari 8+.
  */
-/* line 49, src/sass/components/_typography.scss */
+/* line 53, src/sass/components/_typography.scss */
 a, .link-block-styled {
   background-color: transparent;
   /* 1 */
@@ -414,42 +419,42 @@ a, .link-block-styled {
 	 */
 }
 
-/* line 60, src/sass/components/_typography.scss */
+/* line 64, src/sass/components/_typography.scss */
 a:active, .link-block-styled:active, a:hover, .link-block-styled:hover, .link-block:hover .link-block-styled {
   outline: 0;
 }
 
-/* line 65, src/sass/components/_typography.scss */
+/* line 69, src/sass/components/_typography.scss */
 a:active, .link-block-styled:active, a:focus, .link-block-styled:focus, a:hover, .link-block-styled:hover, .link-block:hover .link-block-styled {
   color: #005580;
 }
 
-/* line 72, src/sass/components/_typography.scss */
+/* line 76, src/sass/components/_typography.scss */
 a:visited, .link-block-styled:visited {
   color: #800080;
 }
 
 @media (prefers-color-scheme: dark) {
-  /* line 49, src/sass/components/_typography.scss */
+  /* line 53, src/sass/components/_typography.scss */
   a, .link-block-styled {
     color: #73cffa;
   }
-  /* line 79, src/sass/components/_typography.scss */
+  /* line 83, src/sass/components/_typography.scss */
   a:active, .link-block-styled:active, a:focus, .link-block-styled:focus, a:hover, .link-block-styled:hover, .link-block:hover .link-block-styled {
     color: #29b6f7;
   }
-  /* line 85, src/sass/components/_typography.scss */
+  /* line 89, src/sass/components/_typography.scss */
   a:visited, .link-block-styled:visited {
     color: #debfde;
   }
 }
 
-/* line 92, src/sass/components/_typography.scss */
+/* line 96, src/sass/components/_typography.scss */
 .link-no-underline, .nav-secondary a, .nav-secondary .link-block-styled {
   text-decoration: none;
 }
 
-/* line 95, src/sass/components/_typography.scss */
+/* line 99, src/sass/components/_typography.scss */
 .link-no-underline:active, .nav-secondary a:active, .nav-secondary .link-block-styled:active, .link-no-underline:focus, .nav-secondary a:focus, .nav-secondary .link-block-styled:focus, .link-no-underline:hover, .nav-secondary a:hover, .nav-secondary .link-block-styled:hover, .nav-secondary .link-block:hover .link-block-styled, .link-block:hover .nav-secondary .link-block-styled {
   text-decoration: underline;
 }
@@ -457,13 +462,13 @@ a:visited, .link-block-styled:visited {
 /**
  * Remove default link styling
  */
-/* line 107, src/sass/components/_typography.scss */
+/* line 111, src/sass/components/_typography.scss */
 .link-plain, .link-plain:visited {
   color: #272727;
   text-decoration: none;
 }
 
-/* line 113, src/sass/components/_typography.scss */
+/* line 117, src/sass/components/_typography.scss */
 .link-plain:active, .link-plain:focus, .link-plain:hover {
   color: #0088cc;
 }
@@ -471,7 +476,7 @@ a:visited, .link-block-styled:visited {
 /**
  * Creates block-level links
  */
-/* line 126, src/sass/components/_typography.scss */
+/* line 130, src/sass/components/_typography.scss */
 a.link-block, .link-block.link-block-styled {
   color: #272727;
   display: block;
@@ -479,7 +484,7 @@ a.link-block, .link-block.link-block-styled {
 }
 
 @media (prefers-color-scheme: dark) {
-  /* line 126, src/sass/components/_typography.scss */
+  /* line 130, src/sass/components/_typography.scss */
   a.link-block, .link-block.link-block-styled {
     color: #ffffff;
   }
@@ -488,14 +493,14 @@ a.link-block, .link-block.link-block-styled {
 /**
  * List styling
  */
-/* line 149, src/sass/components/_typography.scss */
+/* line 153, src/sass/components/_typography.scss */
 ul,
 ol {
   margin: 0 0 1.5625em 2em;
   padding: 0;
 }
 
-/* line 155, src/sass/components/_typography.scss */
+/* line 159, src/sass/components/_typography.scss */
 ul ul,
 ul ol,
 ol ol,
@@ -503,55 +508,55 @@ ol ul {
   margin-bottom: 0;
 }
 
-/* line 162, src/sass/components/_typography.scss */
+/* line 166, src/sass/components/_typography.scss */
 li {
   margin-bottom: 0.5em;
 }
 
 @media (min-width: 38em) {
-  /* line 162, src/sass/components/_typography.scss */
+  /* line 166, src/sass/components/_typography.scss */
   li {
     margin-bottom: 0.25em;
   }
 }
 
-/* line 169, src/sass/components/_typography.scss */
+/* line 173, src/sass/components/_typography.scss */
 .list-spaced li {
   margin-bottom: 1em;
 }
 
 @media (min-width: 38em) {
-  /* line 169, src/sass/components/_typography.scss */
+  /* line 173, src/sass/components/_typography.scss */
   .list-spaced li {
     margin-bottom: 0.6875em;
   }
 }
 
-/* line 176, src/sass/components/_typography.scss */
+/* line 180, src/sass/components/_typography.scss */
 .list-spaced li li {
   margin-bottom: 0;
 }
 
 @media (min-width: 38em) {
-  /* line 182, src/sass/components/_typography.scss */
+  /* line 186, src/sass/components/_typography.scss */
   .list-columns {
     column-count: 2;
   }
 }
 
-/* line 188, src/sass/components/_typography.scss */
+/* line 192, src/sass/components/_typography.scss */
 dl,
 dd {
   margin: 0;
   padding: 0;
 }
 
-/* line 194, src/sass/components/_typography.scss */
+/* line 198, src/sass/components/_typography.scss */
 dd {
   margin-bottom: 1.5625em;
 }
 
-/* line 198, src/sass/components/_typography.scss */
+/* line 202, src/sass/components/_typography.scss */
 dt {
   font-weight: bold;
 }
@@ -560,7 +565,7 @@ dt {
  * Removes list styling.
  * For semantic reasons, should only be used on unordered lists.
  */
-/* line 206, src/sass/components/_typography.scss */
+/* line 210, src/sass/components/_typography.scss */
 .list-unstyled {
   margin-left: 0;
   list-style: none;
@@ -569,7 +574,7 @@ dt {
 /**
  * Display lists on a single line.
  */
-/* line 215, src/sass/components/_typography.scss */
+/* line 219, src/sass/components/_typography.scss */
 .list-inline {
   list-style: none;
   margin-left: -0.5em;
@@ -577,7 +582,7 @@ dt {
   padding: 0;
 }
 
-/* line 221, src/sass/components/_typography.scss */
+/* line 225, src/sass/components/_typography.scss */
 .list-inline li {
   display: inline-block;
   margin-left: 0.5em;
@@ -585,19 +590,19 @@ dt {
 }
 
 @media (max-width: 38em) {
-  /* line 228, src/sass/components/_typography.scss */
+  /* line 232, src/sass/components/_typography.scss */
   .list-inline.list-inline-responsive li {
     display: block;
   }
 }
 
-/* line 234, src/sass/components/_typography.scss */
+/* line 238, src/sass/components/_typography.scss */
 .list-inline-spaced {
   margin-left: -1.3125em;
   margin-right: -1.3125em;
 }
 
-/* line 238, src/sass/components/_typography.scss */
+/* line 242, src/sass/components/_typography.scss */
 .list-inline-spaced li {
   display: inline-block;
   margin-left: 1.3125em;
@@ -609,7 +614,7 @@ dt {
  * 1. Add a non-breaking space
  * 2. Make sure it doesn't mess up the DOM flow
  */
-/* line 252, src/sass/components/_typography.scss */
+/* line 256, src/sass/components/_typography.scss */
 .list-unstyled > li:before,
 .list-inline > li:before {
   content: "\200B";
@@ -622,7 +627,7 @@ dt {
  * Heading styling for h1 through h6 elements.
  * Heading class lets you use one heading type for semantics, but style it as another heading type.
  */
-/* line 264, src/sass/components/_typography.scss */
+/* line 268, src/sass/components/_typography.scss */
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   line-height: 1.2;
@@ -631,7 +636,7 @@ h1, h2, h3, h4, h5, h6 {
   word-wrap: break-word;
 }
 
-/* line 272, src/sass/components/_typography.scss */
+/* line 276, src/sass/components/_typography.scss */
 h1,
 .h1 {
   font-size: 1.5em;
@@ -639,36 +644,40 @@ h1,
 }
 
 @media (min-width: 38em) {
-  /* line 272, src/sass/components/_typography.scss */
+  /* line 276, src/sass/components/_typography.scss */
   h1,
   .h1 {
     font-size: 1.75em;
   }
 }
 
-/* line 282, src/sass/components/_typography.scss */
+/* line 286, src/sass/components/_typography.scss */
 h2,
 .h2 {
   font-size: 1.3125em;
 }
 
-/* line 287, src/sass/components/_typography.scss */
+/* line 291, src/sass/components/_typography.scss */
+.type-adventures #conclusion {
+  margin-top: 1.5625em;
+}
+
+/* line 295, src/sass/components/_typography.scss */
 h3,
 .h3 {
   font-size: 1.0625em;
+}
+
+/* line 299, src/sass/components/_typography.scss */
+.type-page h3, .type-page
+.h3 {
   padding-top: 0;
 }
 
-/* line 293, src/sass/components/_typography.scss */
+/* line 304, src/sass/components/_typography.scss */
 h4, h5, h6,
 .h4, .h5, .h6 {
   font-size: 1em;
-}
-
-/* line 298, src/sass/components/_typography.scss */
-h4,
-.h4 {
-  text-transform: uppercase;
 }
 
 /**
@@ -678,7 +687,7 @@ h4,
  * 1. Add the correct box sizing in Firefox.
  * 2. Show the overflow in Edge and IE.
  */
-/* line 312, src/sass/components/_typography.scss */
+/* line 323, src/sass/components/_typography.scss */
 hr {
   border: 0;
   border-top: 1px solid #e5e5e5;
@@ -691,28 +700,28 @@ hr {
 }
 
 @media (prefers-color-scheme: dark) {
-  /* line 312, src/sass/components/_typography.scss */
+  /* line 323, src/sass/components/_typography.scss */
   hr {
     border-top-color: #808080;
   }
 }
 
-/* line 325, src/sass/components/_typography.scss */
+/* line 336, src/sass/components/_typography.scss */
 .line-secondary {
   width: 50%;
 }
 
-/* line 329, src/sass/components/_typography.scss */
+/* line 340, src/sass/components/_typography.scss */
 .line-clear {
   border-top-color: transparent;
 }
 
-/* line 333, src/sass/components/_typography.scss */
+/* line 344, src/sass/components/_typography.scss */
 .line-heading {
   position: relative;
 }
 
-/* line 336, src/sass/components/_typography.scss */
+/* line 347, src/sass/components/_typography.scss */
 .line-heading:after {
   background-color: #ffffff;
   content: attr(data-heading);
@@ -727,21 +736,21 @@ hr {
 }
 
 @media (min-width: 28em) {
-  /* line 350, src/sass/components/_typography.scss */
+  /* line 361, src/sass/components/_typography.scss */
   .line-heading[data-heading-small]:after {
     content: attr(data-heading-small);
   }
 }
 
 @media (min-width: 38em) {
-  /* line 356, src/sass/components/_typography.scss */
+  /* line 367, src/sass/components/_typography.scss */
   .line-heading[data-heading-medium]:after {
     content: attr(data-heading-medium);
   }
 }
 
 @media (min-width: 60em) {
-  /* line 362, src/sass/components/_typography.scss */
+  /* line 373, src/sass/components/_typography.scss */
   .line-heading[data-heading-large]:after {
     content: attr(data-heading-large);
   }
@@ -750,7 +759,7 @@ hr {
 /**
  * Prevent the duplicate application of `bolder` by the next rule in Safari 6.
  */
-/* line 371, src/sass/components/_typography.scss */
+/* line 382, src/sass/components/_typography.scss */
 b,
 strong {
   font-weight: inherit;
@@ -759,7 +768,7 @@ strong {
 /**
  * Add the correct font weight in Chrome, Edge, and Safari.
  */
-/* line 379, src/sass/components/_typography.scss */
+/* line 390, src/sass/components/_typography.scss */
 b,
 strong {
   font-weight: bolder;
@@ -769,7 +778,7 @@ strong {
  * 1. Remove the bottom border in Firefox 39-.
  * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
  */
-/* line 388, src/sass/components/_typography.scss */
+/* line 399, src/sass/components/_typography.scss */
 abbr[title] {
   border-bottom: none;
   /* 1 */
@@ -782,7 +791,7 @@ abbr[title] {
 /**
  * Address styling not present in Safari and Chrome.
  */
-/* line 397, src/sass/components/_typography.scss */
+/* line 408, src/sass/components/_typography.scss */
 dfn {
   font-style: italic;
 }
@@ -790,14 +799,14 @@ dfn {
 /**
  * Address styling not present in IE 8/9.
  */
-/* line 404, src/sass/components/_typography.scss */
+/* line 415, src/sass/components/_typography.scss */
 mark {
   background: #fbf9c9;
   color: #272727;
 }
 
 @media (prefers-color-scheme: dark) {
-  /* line 404, src/sass/components/_typography.scss */
+  /* line 415, src/sass/components/_typography.scss */
   mark {
     background: transparent;
     color: #ffffff;
@@ -807,7 +816,7 @@ mark {
 /**
  * Address inconsistent and variable font size in all browsers.
  */
-/* line 417, src/sass/components/_typography.scss */
+/* line 428, src/sass/components/_typography.scss */
 small {
   font-size: 80%;
 }
@@ -815,7 +824,7 @@ small {
 /**
  * Prevent `sub` and `sup` affecting `line-height` in all browsers.
  */
-/* line 424, src/sass/components/_typography.scss */
+/* line 435, src/sass/components/_typography.scss */
 sub,
 sup {
   font-size: 75%;
@@ -824,12 +833,12 @@ sup {
   vertical-align: baseline;
 }
 
-/* line 432, src/sass/components/_typography.scss */
+/* line 443, src/sass/components/_typography.scss */
 sup {
   top: -0.5em;
 }
 
-/* line 436, src/sass/components/_typography.scss */
+/* line 447, src/sass/components/_typography.scss */
 sub {
   bottom: -0.25em;
 }
@@ -837,7 +846,7 @@ sub {
 /**
  * Blockquotes
  */
-/* line 445, src/sass/components/_typography.scss */
+/* line 456, src/sass/components/_typography.scss */
 blockquote {
   border-left: 0.25em solid #e5e5e5;
   font-style: italic;
@@ -846,7 +855,7 @@ blockquote {
   padding-right: 1em;
 }
 
-/* line 453, src/sass/components/_typography.scss */
+/* line 464, src/sass/components/_typography.scss */
 blockquote cite {
   color: #808080;
   font-size: 0.9375em;
@@ -854,19 +863,19 @@ blockquote cite {
 }
 
 @media (prefers-color-scheme: dark) {
-  /* line 453, src/sass/components/_typography.scss */
+  /* line 464, src/sass/components/_typography.scss */
   blockquote cite {
     color: #e5e5e5;
   }
 }
 
-/* line 464, src/sass/components/_typography.scss */
+/* line 475, src/sass/components/_typography.scss */
 blockquote,
 q {
   quotes: none;
 }
 
-/* line 469, src/sass/components/_typography.scss */
+/* line 480, src/sass/components/_typography.scss */
 blockquote:before,
 blockquote:after,
 q:before,
@@ -2246,12 +2255,17 @@ td {
  * Styling for printed content. Adapted from HTML5BP.
  * @link http://html5boilerplate.com
  */
+/* line 7, src/sass/components/_print.scss */
+.print-only {
+  display: none;
+}
+
 @media print {
   /**
 	 * Universal selector.
 	 * Reset all content to transparent background, black color, and remove box and text shadows.
 	 */
-  /* line 13, src/sass/components/_print.scss */
+  /* line 17, src/sass/components/_print.scss */
   * {
     background: transparent !important;
     color: #000 !important;
@@ -2267,28 +2281,28 @@ td {
   /**
 	 * Underline all links
 	 */
-  /* line 30, src/sass/components/_print.scss */
+  /* line 34, src/sass/components/_print.scss */
   a, .link-block-styled, a:visited, .link-block-styled:visited {
     text-decoration: underline;
   }
   /**
 	 * Show URL after links
 	 */
-  /* line 38, src/sass/components/_print.scss */
+  /* line 42, src/sass/components/_print.scss */
   a[href]:after, .link-block-styled[href]:after {
     content: " (" attr(href) ")";
   }
   /**
 	 * Don't show URL for internal links
 	 */
-  /* line 45, src/sass/components/_print.scss */
+  /* line 49, src/sass/components/_print.scss */
   a[href^="#"]:after, .link-block-styled[href^="#"]:after {
     content: "";
   }
   /**
 	 * Specifies the minimum number of lines to print at the top and bottom of a page.
 	 */
-  /* line 52, src/sass/components/_print.scss */
+  /* line 56, src/sass/components/_print.scss */
   p,
   h1, h2, h3 {
     orphans: 3;
@@ -2297,7 +2311,7 @@ td {
   /**
 	 * Avoid inserting a page break after headers
 	 */
-  /* line 61, src/sass/components/_print.scss */
+  /* line 65, src/sass/components/_print.scss */
   h1, h2, h3 {
     page-break-after: avoid;
   }
@@ -2305,7 +2319,7 @@ td {
 	 * Change border color on blockquotes and preformatted text.
 	 * Avoid page breaks inside the content
 	 */
-  /* line 69, src/sass/components/_print.scss */
+  /* line 73, src/sass/components/_print.scss */
   pre,
   blockquote {
     border-color: #999;
@@ -2314,14 +2328,14 @@ td {
   /**
 	 * Displayed as a table header row group
 	 */
-  /* line 78, src/sass/components/_print.scss */
+  /* line 82, src/sass/components/_print.scss */
   thead {
     display: table-header-group;
   }
   /**
 	 * Avoid inserting a page break inside table rows and images
 	 */
-  /* line 85, src/sass/components/_print.scss */
+  /* line 89, src/sass/components/_print.scss */
   tr,
   img {
     page-break-inside: avoid;
@@ -2329,24 +2343,24 @@ td {
   /**
 	 * Adventure Page
 	 */
-  /* line 94, src/sass/components/_print.scss */
+  /* line 98, src/sass/components/_print.scss */
   .toc,
-  .encounter,
+  details,
   .download-map {
     display: none;
   }
-  /* line 100, src/sass/components/_print.scss */
-  .encounter-print {
+  /* line 104, src/sass/components/_print.scss */
+  .print-only {
     display: block;
   }
   /**
 	 * Header/Footer
 	 */
-  /* line 108, src/sass/components/_print.scss */
+  /* line 112, src/sass/components/_print.scss */
   body {
     border-top: 0;
   }
-  /* line 112, src/sass/components/_print.scss */
+  /* line 116, src/sass/components/_print.scss */
   #nav-menu,
   footer {
     display: none;

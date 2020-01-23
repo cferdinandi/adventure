@@ -4,6 +4,10 @@
  * @link http://html5boilerplate.com
  */
 
+.print-only {
+	display: none;
+}
+
 @media print {
 
 	/**
@@ -92,12 +96,12 @@
 	 */
 
 	.toc,
-	.encounter,
+	details,
 	.download-map {
 		display: none;
 	}
 
-	.encounter-print {
+	.print-only {
 		display: block;
 	}
 

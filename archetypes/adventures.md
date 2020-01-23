@@ -5,23 +5,23 @@ draft: true
 duration: Short
 premise: ""
 details: ""
+intro: ""
+critical: []
+tips: []
 startingEncounter: ""
 creatures: []
 items: []
 scenary: []
+props: []
 map: ""
 ---
 
-{{%encounter order="1" title="" prompt="" tips="" difficulty="" battle="" villains="" success="" failure="" location="" scenary="" next="" bonus=""%}}
-Encounter description...
-{{%/encounter%}}
+### 1. Location
 
-{{%encounter order="Bonus 1" title="" prompt="" tips="" difficulty="" battle="" villains="" success="" failure="" location="" scenary="" next=""%}}
-Bonus encounter description...
+{{%encounter order="a" title="" tips="" difficulty="" battle="" villains="" success="" failure=""%}}
+Encounter description...
 {{%/encounter%}}
 
 ## Conclusion
 
-{{%conclusion location="" item=""%}}
 Conclusion text...
-{{%/conclusion%}}
