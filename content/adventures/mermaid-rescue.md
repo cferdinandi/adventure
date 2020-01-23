@@ -8,15 +8,16 @@ premise: Down in Farfaria Harbor, a bottle pops up from the depths. There's note
 details: The note is from Triton, king of the mermaids. "My daughter has been kidnapped by an evil sorcerer. If she's not rescued, the entire land of Farfaria is in grave danger."<br><br>"What's the danger," you wonder, "and where did the sorcerer take her?" It's up to you to rescue her.
 intro: This is a complicated, linear storyline with three separate acts containing multiple critical encounters. There's also a lot more room for world exploration and side-encounters than some of the other adventures.
 critical:
-- The East Tower
-- The Dungeon
-- The Mines
-- The Hideout
+- "**The East Tower.** Players encounter the wizard for the first time. His daring escape creates heightened tension in the final act."
+- "**The Dungeon.** Players are sent on a quest to the mines."
+- "**The Mines.** After saving the mermaid, they learn of a new threat: the magical shell."
+- "**The Hideout.** The big finale concludes with a battle between the players and the sorcerer."
 tips:
 - The old man by the sea is actually a merfolk wizard who will reward players with a special gift if they go on his side-adventure and retrieve the magical hook. Don't reveal this until the end.
 - If players don't immediately know where to look for the sorcerer and begin wandering Farfaria looking for him, the optional encounters *Centaurs and Spiders*, *Drops of Silver*, and *Elves of the Eastern Grove* all provide opportunities to be guided to the Castle of the North by non-player characters.
 - In the Castle of the North, players can steal/borrow, buy, or trade for food and supplies. You may or may not want to have them get caught if they steal something and have to evade capture.
 - During the players' first encounter with the Sorcerer, in the Castle of the North, the sorcerer should always get away. He's not intended to get caught yet.
+- While story can carry on if players skip the East Tower, the Sorcerer's escape creates a heightened sense of struggle and tension for the final battle.
 - For battles involving numerous creatures, you can hold back some of the enemies and have them arrive as reinforcements after the initial wave is defeated, or you can send them in all at once to dial up the intensity.
 - The tunnel system map contains some tunnels blocked by fallen rocks that lead to other parts of the tunnel system. They can be used in other adventures (where the rocks may or may not be cleared).
 - Many of the maps have lots of side rooms and areas of exploration. You may wish to cover up the parts behind doors until after players open them, revealing the world much in the same way players would experience it in real life.

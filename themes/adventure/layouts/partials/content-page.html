@@ -32,12 +32,23 @@
 		{{ end }}
 
 		{{ if gt (len .Params.tips) 0 }}
-		<p class="margin-bottom-small"><strong>Tips for the <em>Guide</em>:</strong></p>
-		<ul>
-			{{- range $tip := .Params.tips -}}
-			<li>{{ markdownify $tip }}</li>
-			{{- end -}}
-		</ul>
+		<details>
+			<summary class="margin-bottom-small"><strong>Tips for the <em>Guide</em></strong></summary>
+			<ul>
+				{{- range $tip := .Params.tips -}}
+				<li>{{ markdownify $tip }}</li>
+				{{- end -}}
+			</ul>
+		</details>
+
+		<div class="print-only">
+			<p class="margin-bottom-small"><strong>Tips for the <em>Guide</em>:</strong></p>
+			<ul>
+				{{- range $tip := .Params.tips -}}
+				<li>{{ markdownify $tip }}</li>
+				{{- end -}}
+			</ul>
+		</div>
 		{{ end }}
 
 		<details class="margin-bottom">
