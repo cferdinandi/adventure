@@ -14,6 +14,7 @@ Downloadable, printable assets you can use to play *Adventure*. Each download al
 - **[Gear & Items.](/downloads/items.pdf)** You can hand these out to players to keep track of the items they find and earn as they play. Store them with their character cards to have gear and items carry over from game to game.
 - **[Locations.](/downloads/locations.pdf)** Location printables you can use to add visuals to your storytelling and inspire ideas for adventures.
 - **[Map.](/downloads/map.pdf)** Track your location around Farfaria, and learn more about the various landmarks and creatures that live there.
+- **[DIY Maps.](/downloads/diy-maps.pdf)** Every premade adventure comes with printable maps. But if you want to make up your own adventures, this DIY bundle contains all of the maps from all of the adventures without the adventure-specific information.
 {{%/md%}}
 </div>
 
