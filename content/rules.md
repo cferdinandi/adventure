@@ -18,7 +18,7 @@ Every game of *Adventure* follows a three-part structure:
 
 Each game needs a *Guide* to run the game.
 
-This person is generally not a player themselves. They introduce the problem, guide players through encounters, and introduce challenges and optional encounters in response to player actions.
+This person is generally not a player themselves. They introduce the problem, guide players through encounters, and introduce challenges in response to player actions.
 
 As the *Guide*, its your job to keep the pacing, action, and suspense at the right level for the skills and age-level of your players.
 
@@ -45,7 +45,7 @@ Each character has a specific combat style and problem-solving style that impact
 
 For added fun, each character can have a pet that accompanies them on their adventures and helps them along the way. This isn't required, but can add a fun dimension to the game.
 
-Pets can be small and sensible (a cat or dog, woodland creatures) or large and absurd (a dinosaur, dragon hatchling, or elephant).
+Pets can be small and sensible (a cat, dog, or woodland creature) or large and absurd (a dinosaur, dragon, or elephant).
 
 
 
@@ -53,13 +53,15 @@ Pets can be small and sensible (a cat or dog, woodland creatures) or large and a
 
 The first time you play, the *Guide* should introduce the world to the&nbsp;players.
 
-You can create any type of fantasy world you want, but here's a little intro you can use if you need help getting started.
+You can create any type of fantasy world you want, but I've put together an imaginary land, Farfaria, that you can use with my premade adventures.
+
+Here's an intro you can use if you need help getting started.
 
 > You live in the land of Farfaria, in a tiny little village nestled between a mountain range and a sweeping forest.
 >
 > Rivers flow down from the mountains, cut through your village, and run through the forest, where they eventually connect with the ocean.
 >
-> While Farfaria is a small and remote town, you're hardly alone. The woods and mountains are filled with amazing, magical creatures: elves, fairies, centaurs, and wizards. They're filled with dangerous creatures&mdash;thieves, cults, and ogres&mdash;too. The ocean is filled with mermaids, krakens, and other monsters of the deep.
+> While Farfaria is a small and remote town, you're hardly alone. The woods and mountains are filled with amazing, magical creatures: elves, fairies, centaurs, and wizards. They're filled with dangerous creatures&mdash;thieves, giants, and ogres&mdash;too. The ocean to the south is home to mermaids, krakens, and other monsters of the&nbsp;deep.
 >
 > Mysterious and exciting adventures always seem to find their way to your little village, where you and your friends are ready to help...
 
@@ -71,7 +73,7 @@ For added flavor, you can **[download a printable map of Farfaria](/downloads)**
 
 At the start of each game, a problem arises that needs the help of a group of adventurers. The *Guide* reads the game introduction to the players.
 
-Feel free to use toys, props, sketches and drawings, and fun voices to add to the excitement and mystery. I've also put together **[a few dozen printable creatures](/downloads)** you can use for your adventures.
+Feel free to use toys, props, sketches/drawings, and fun voices to add to the excitement and mystery. I've also put together **[a few dozen printable creatures](/downloads)** you can use for your adventures.
 
 Here's an example from **[Lacey the Luck Dragon](/adventures/lacey-the-luck-dragon/)**:
 
@@ -81,27 +83,23 @@ Here's an example from **[Lacey the Luck Dragon](/adventures/lacey-the-luck-drag
 
 Once your adventurer's answer "yes," you can provide more details.
 
-> Lacey the Dragon explains that her babies have just learned to fly, and aren’t very good at it.
->
-> For protection, baby luck dragons can turn themselves invisible, making them hard to find. Baby dragons screech, scratch stuff with their claws, accidentally burn things, and, because they're covered in fur, smell like wet dog.
+> The babies just learned to fly, and aren’t very good at it. For protection, baby luck dragons can turn themselves invisible, making them hard to find. Baby dragons screech, scratch stuff with their claws, accidentally burn things, and smell like wet&nbsp;dog.
 >
 > Lacey gives you a satchel of gold coins to help you on your journey.
 
-Each adventure starts off with a decision: how to find what they're looking for, where to look, which path to take, or what to do first.
+### The Starting Encounter
 
-In this example, you might ask...
+Each adventure has a starting encounter that sends your adventurers on their quest. In *Lacey the Luck Dragon*, players need to locate the first baby dragon.
 
-> Where should you look first?
-
-or...
-
-> How can you find out where the first baby dragon is hiding?
+> Lacey has provided some basic information about her babies and how they behave. You also have various skills and items at your disposal.
+>
+> How will you locate the first baby dragon?
 
 
 
 ## Actions and Deciding Outcomes
 
-The outcome of every action that a players take is decided with a roll of the dice.
+The outcome of every action that a player takes is decided with a roll of the dice.
 
 Each challenge or decision has a difficulty level. The player taking an action rolls a few dice. The highest number rolled determines the outcome.
 
@@ -114,24 +112,24 @@ Each challenge or decision has a difficulty level. The player taking an action r
 ### Determining the number of dice to roll
 
 - Every action starts with one base die.
-- If the player's action relates to a skill they have, they get one bonus die.
+- If the player's action aligns with their combat or problem-solving style, they get one bonus die.
 - If they're using a tool or item, they also get a bonus die.
 
 *A player can never roll more than three dice.*
 
 ### An example die roll
 
-Let's revisit our example with Lacey the Luck Dragon.
+Let's revisit our example with *Lacey the Luck Dragon*.
 
 The group needs to figure out where to go looking for the first baby dragon. **This has a difficulty level of 4.**
 
-The players decide to try tracking the baby dragons in the forest by looking for burn marks and scratches on the tree, and listening for screeches. One of the players' problem solving skill is *Knowledge*, and they're a woodland Druid.
+The players decide to try tracking the baby dragons in the forest by looking for burn marks and scratches on the tree, and listening for screeches. One of the players is a woodland Druid whose problem-solving style is *Knowledge*.
 
 **That player gets to roll 2 dice:** one base die + a special skill bonus die.
 
 - If they roll 4, 5, or 6, it works, and they successfully track the first baby dragon.
 - If they roll a 3, the trail comes up dry and they have to try something else.
-- If they roll a 1 or 2, it doesn't work *and* they're attacked by thieves who steal their gold.
+- If they roll a 1 or 2, it doesn't work *and* they're attacked by thieves who steal their gold (the *Guide* decides what the bad thing is that happens).
 
 
 
@@ -139,7 +137,9 @@ The players decide to try tracking the baby dragons in the forest by looking for
 
 Every game or adventure is made up of a series of encounters.
 
-In our Lacey the Luck Dragon adventure, the encounters may include:
+In some adventures, those encounters are linear and need to follow a specific path, with one encounter leading to the next. In others, they're non-linear, and players can explore more openly as long as they complete all of their tasks.
+
+*Lacey the Luck Dragon* is a non-linear adventure. The encounters may include:
 
 - Rescuing a baby dragon from a cave with a sleeping ogre
 - Rescuing a baby dragon trapped in some tree vines
@@ -147,9 +147,8 @@ In our Lacey the Luck Dragon adventure, the encounters may include:
 - Rescuing a baby dragon from the edge of a mountain side cliff
 - Rescuing a baby dragon trapped in a cage in the back room of a supply shop
 
-Each encounter has a difficulty level, but usually does not have a single prescribed solution.
+*Each encounter has a difficulty level, but usually does not have a single prescribed solution.*
 
-*Encounters do __not__ have to happen sequentially. The order may vary based on the decisions players make and the actions they take.*
 
 ### Open-Ended Problem Solving
 
@@ -169,7 +168,7 @@ For example, if you hear a band of thieves approaching and want to hide, each pl
 
 ### Bonus Encounters
 
-Depending on the age of your players and how complex you'd like the game to be, you can mix optional encounters into the main adventure.
+Depending on the age of your players and how complex you'd like the game to be, you can mix optional bonus encounters into the main adventure.
 
 For example, on the way from one location to the next, a group of thieves may attempt to buy or steal one of the baby dragons. You might introduce the encounter like this:
 
@@ -183,7 +182,7 @@ The group might choose to turn and run, take her up on the offer, or try to figh
 
 No matter what they choose, they roll dice to determine whether or not they're successful. What happens as a result may impact the rest of the game.
 
-For example, if they agree to sell the baby dragon, or if they try to run but fail and the baby is stolen, they'll return back to Lacey with only four dragons. They might need to try to get the dragon back, or decide that that the amulet is worth more than whatever Lacey was offering.
+For example, if the players agree to sell the baby dragon, or if they try to run but fail and the dragon is stolen, they'll return back to Lacey with only four dragons. They might try to get the dragon back, or decide that that the amulet is worth more than whatever Lacey was offering.
 
 This adds another rich dimension to the game.
 
@@ -195,7 +194,7 @@ While much of *Adventure* is focused on exploring and problem solving, you can i
 
 ### Starting the Battle
 
-When a battle starts, the players and the *Guide* both roll a die.
+When a battle starts, the players and the *Guide* each roll one die.
 
 If the players have the higher number, they go first. If the *Guide* has the higher number, the villains go first.
 
@@ -217,7 +216,6 @@ Each villain in a battle has two characteristics: a difficulty level, and a heal
 
 - If their die roll is equal to or higher than the villain's difficulty level, the villain loses a health point.
 - If their die roll is lower than the villain's difficulty level, their attack misses.
-- If their die roll is two or more lower than the villain's difficulty level, the villain hits them in response to the attack and *the player* loses a health point.
 
 **When a villain attacks a player, the _Guide_ and the player both roll dice.**
 
@@ -231,13 +229,11 @@ If the villain's highest roll is higher than the player's, the player loses a he
 
 ### Determining who wins a battle
 
-When the villain have no health points left, they're knocked out of the game.
+When a villain has no health points left, they're knocked out of the game.
 
-If a player loses all of their health points, they're knocked out until one of the other players can help them. If a player helps a teammate who has been knocked out, or does something to heal their own damage, they forfeit their attack for that turn.
+If a player loses all of their health points, they're knocked out until one of the other players can help them. More on that in the *Health and Healing* section below.
 
 The battle is over when all of the villains have been defeated or the players retreat.
-
-If all of the players are knocked out, the *Guide* can come up with a creative way to save them, or can have them suffer a setback as a result.
 
 ### Fleeing a battle
 
@@ -257,9 +253,7 @@ Every player starts with three health points.
 
 If a player takes damage during combat, they lose a health point.
 
-They can also lose health points when trying to complete challenges if their die roll is two or more below the difficulty level.
-
-For example, if a player tries to scale a cliff with a difficulty of 5, and they roll a 2, the *Guide* might say:
+They can also lose health points when trying to complete challenges if their die roll is two or more below the difficulty level. For example, if a player tries to scale a cliff with a difficulty of 5, and they roll a 2, the *Guide* might say:
 
 > You lose your footing and tumble backwards down the side of the cliff, striking a rock.
 
@@ -275,7 +269,7 @@ If a player loses all three of their health points, they're *knocked out* until 
 
 There are a few ways players can heal damage:
 
-1. They can use their turn during a battle or encounter to heal themselves or another player with a healing potion. If they do, they cannot attempt to solve the challenge or fight a creature until their next turn.
+1. They can use their turn during a battle or encounter to heal themselves or another player with a healing potion or spell. If they do, they cannot attempt to solve the challenge or attack a villain until their next turn.
 2. If the player is a *Healer*, they can restore one health point to themself or another player. This also uses their turn.
 3. Waiting it out. Moving from one encounter to another restores a health point.
 
@@ -297,18 +291,20 @@ A TGKO can happen if the difficulty of a particular challenge isn't properly bal
 - Players awaken some unknown time later. The creature is gone, along with what they were looking for and a bunch of their gear and items.
 - Players awaken to find themselves trapped in a locked room, unsure of where they are or how they got there. They must use their skills and items they can find in there surroundings to escape.
 
+This can add a really fun new aspect to the game, so don't be afraid to get creative!
+
 
 
 ## Gear and Items
 
 Gear and special items can be used to solve problems, overcome challenges, and give players new skills and abilities.
 
-- **Gear** are objects that improves the player's ability in some way. This includes things like swords, axes, a bow-and-arrow, or a shield. It also includes wands and spell books.
+- **Gear** are objects that improves the player's base abilities in some way. This includes things like swords, axes, a bow-and-arrow, or a shield. It also includes wands and spell books.
 - **Items** are single-use objects that provide a one-time advantage to a player. This includes things like rope and nets, charms, spells, and potions. It might also include special arrows or weapons.
 
 When used with an action, gear and items give the player using them a bonus die for their die roll (up to a maximum of 3 dice). Only one piece of gear and one item can be used per action.
 
-You can **[download a few dozen premade items and gear](/downloads)**. The download also includes templates to make your own.
+You can **[download a few dozen premade items and pieces of gear](/downloads)**. The download also includes templates to make your own.
 
 ### Starting gear and items
 
@@ -338,11 +334,11 @@ When players defeat a particularly difficult challenge or creature, the *Guide* 
 
 If an encounter requires the skills of two or more people working together, calculate the total number of dice rolled based on each participating player's skills and items.
 
-Then, subtract one die for each person beyond the first. Divide the dice among the players.
+Then, subtract one die for each person beyond the first. Divide the dice among the&nbsp;players.
 
 ### Higher difficulty encounters
 
-If players are easily completing challenges, or you have a lot of players, you may want to increase the difficulty of encounters beyond 6.
+If players are easily completing challenges, or you have a lot of players, you may want to increase the difficulty of encounters or villains beyond 6.
 
 If you do, add the highest and lowest numbers together instead of using just the highest number.
 
@@ -365,6 +361,8 @@ You can play *Adventure* entirely as a word-based RPG, and let your players use 
 
 However, depending on the age and interests of your players, it might be more fun and interesting if you added a physical element to the game. You can create sets for each of your encounters by sketching simple maps in a notebook, building them with Lego blocks, or using toys that you already have.
 
+**[Every premade adventure comes with printable maps](/adventures/)** that are labeled and annotated to help the *Guide* run the adventure. I've also put together some **[unlabeled maps you can print out](/downloads/)** to run your own adventures.
+
 It can be a lot of fun to use action figures or paper cutouts for each of the characters, and let them move through physical environments as you play.
 
 ### Duration and Complexity
@@ -373,7 +371,7 @@ Games of *Adventure* can take as little as 30 minutes, or can last several hours
 
 As the *Guide*, you have a lot of control over the length and complexity of each game. You can add more villains and optional encounters, adjust difficulty levels for encounters up or down, and save the day with non-player characters you introduce to the game.
 
-You can also spread an adventure over several games, stopping after an encounter, and picking things back up another time.
+You can also spread an adventure over several sessions, stopping after an encounter, and picking things back up another time.
 
 ### Non-Player Characters
 
@@ -381,7 +379,7 @@ Depending on the skills of the players and the difficulty of the challenges they
 
 These are characters that the *Guide* creates and controls. They can be friends, foes, or somewhere in-between.
 
-*Non-player characters* can provide critical information that players aren't picking up on, give them mis-information to send them on a bonus encounter, jump into provide extra fire power for an epic battle, or thwart their efforts if their finding an adventure too easy.
+*Non-player characters* can provide critical information that players aren't picking up on, give them misinformation to send them on a bonus encounter, jump in to provide extra fire power for an epic battle, or thwart their efforts if they're finding an adventure too easy.
 
 Use *non-player characters* as much or as little as needed to keep the game fun and interesting.
 
@@ -401,11 +399,11 @@ Eventually, players may want to leave Farfaria itself. They may attempt to cross
 
 ## Ending the Game
 
-Once all of the main encounters have been completed, you can bring the adventure to a close.
+Once all of the critical encounters have been completed and the problem has been solved, you can bring the adventure to a close.
 
-For example, with the Lacey the Luck Dragon adventure, you might end the game by saying:
+For example, in *Lacey the Luck Dragon*, you might end the game by saying:
 
-> You arrive at the entrance to Lacey the Luck Dragon’s cave with all 5 of her baby dragons.
+> You return to the village with all five of Lacey the Luck Dragon's babies.
 >
 > She emerges from the shadows, lowers her head to the ground, and looks each of you in the eye. “Thank you, truly, for returning my babies. I cannot thank you enough for what you have done.”
 >
