@@ -103,13 +103,13 @@ The outcome of every action that a player takes is decided with a roll of the di
 
 Each challenge or decision has a difficulty level. The player taking an action rolls a few dice. The highest number rolled determines the outcome.
 
-### If the highest number is...
+<p class="margin-bottom-small"><strong>If the highest number is...</strong></p>
 
 - Greater than or equal to the difficulty level, they succeed!
 - Less than the difficulty level, they fail.
 - Two or more lower than the difficulty, they fail, and something bad happens.
 
-### Determining the number of dice to roll
+<p class="margin-bottom-small"><strong>Determining the number of dice to roll</strong></p>
 
 - Every action starts with one base die.
 - If the player's action aligns with their combat or problem-solving style, they get one bonus die.
@@ -139,7 +139,7 @@ Every game or adventure is made up of a series of encounters.
 
 In some adventures, those encounters are linear and need to follow a specific path, with one encounter leading to the next. In others, they're non-linear, and players can explore more openly as long as they complete all of their tasks.
 
-*Lacey the Luck Dragon* is a non-linear adventure. The encounters may include:
+<p class="margin-bottom-small"><em>Lacey the Luck Dragon</em> is a non-linear adventure. The encounters may include:</p>
 
 - Rescuing a baby dragon from a cave with a sleeping ogre
 - Rescuing a baby dragon trapped in some tree vines
@@ -206,18 +206,18 @@ Like all other actions in *Adventure*, attacks are determined by rolling dice.
 
 Each villain in a battle has two characteristics: a difficulty level, and a health total (from 1-3). All players have a health total of 3.
 
-**When a player attacks a villain, they roll dice.**
+<p class="margin-bottom-small"><strong>When a player attacks a villain, they roll dice.</strong></p>
 
 - The player gets one base die.
 - They get a bonus die if they have *Attack* as their combat style.
 - They also get a bonus die if they have a special weapon or item they're using with their attack.
 
-**Like with other actions, use the highest number.**
+<p class="margin-bottom-small"><strong>Like with other actions, use the highest number.</strong></p>
 
 - If their die roll is equal to or higher than the villain's difficulty level, the villain loses a health point.
 - If their die roll is lower than the villain's difficulty level, their attack misses.
 
-**When a villain attacks a player, the _Guide_ and the player both roll dice.**
+<p class="margin-bottom-small"><strong>When a villain attacks a player, the <em>Guide</em> and the player both roll dice.</strong></p>
 
 - The player gets one base die.
 - They get a bonus die if their combat style is *Defend*.
@@ -269,9 +269,13 @@ If a player loses all three of their health points, they're *knocked out* until 
 
 There are a few ways players can heal damage:
 
+<div class="list-spaced">
+{{%md%}}
 1. They can use their turn during a battle or encounter to heal themselves or another player with a healing potion or spell. If they do, they cannot attempt to solve the challenge or attack a villain until their next turn.
 2. If the player is a *Healer*, they can restore one health point to themself or another player. This also uses their turn.
 3. Waiting it out. Moving from one encounter to another restores a health point.
+{{%/md%}}
+</div>
 
 Healing potions make great items for players to find after defeating creatures and solving problems.
 
@@ -299,8 +303,12 @@ This can add a really fun new aspect to the game, so don't be afraid to get crea
 
 Gear and special items can be used to solve problems, overcome challenges, and give players new skills and abilities.
 
+<div class="list-spaced">
+{{%md%}}
 - **Gear** are objects that improves the player's base abilities in some way. This includes things like swords, axes, a bow-and-arrow, or a shield. It also includes wands and spell books.
 - **Items** are single-use objects that provide a one-time advantage to a player. This includes things like rope and nets, charms, spells, and potions. It might also include special arrows or weapons.
+{{%/md%}}
+</div>
 
 When used with an action, gear and items give the player using them a bonus die for their die roll (up to a maximum of 3 dice). Only one piece of gear and one item can be used per action.
 
