@@ -2,6 +2,7 @@
 title: "The Attack on Oakenshire"
 date: 2020-01-24T14:02:00-05:00
 draft: false
+readyToPlay: true
 duration: Short
 weight: 10
 premise: You're enjoying lunch in the tavern with your friends when an elf bursts through the doors, out of breath with flush red cheeks. "There's been an attack on Oakenshire," he exclaims, "we've been completely overrun with spiders, and they've taken Lord Faelyn hostage!"

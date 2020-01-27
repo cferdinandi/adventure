@@ -1,5 +1,13 @@
 {{ partial "header.html" . }}
 
-	{{ partial "content-page.html" . }}
+	{{- if and ( eq .Type "adventures" ) ( eq .Kind "page" ) -}}
+		{{- if .Params.readyToPlay -}}
+			{{ partial "content-ready-to-play.html" . }}
+		{{- else -}}
+			{{ partial "content-kickstarter.html" . }}
+		{{- end -}}
+	{{- else -}}
+		{{ partial "content-page.html" . }}
+	{{- end -}}
 
 {{ partial "footer.html" . }}

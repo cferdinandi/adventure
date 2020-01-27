@@ -2,6 +2,7 @@
 title: "Lacey the Luck Dragon"
 date: 2020-01-20T17:04:54-05:00
 draft: false
+readyToPlay: true
 duration: Long
 weight: 30
 premise: Lacey the Luck Dragon protects the forest from invaders. While out looking for food, her five baby dragons wandered off, and she can’t find them. She’s worried sick, and wants your help in locating them.

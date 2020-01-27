@@ -2,6 +2,7 @@
 title: "Mermaid Rescue"
 date: 2020-01-21T11:54:43-05:00
 draft: false
+readyToPlay: true
 duration: Very Long
 weight: 40
 premise: Down in Farfaria Harbor, a bottle pops up from the depths. There's note rolled up inside, and a cork firmly pushed into the top. You fish the bottle from the Harbor, open it up, and read the note. A mermaid has been kidnapped!

@@ -27,6 +27,7 @@ theme: "adventure"
 # See "content-management/permalinks"
 permalinks:
   articles: /:title/
+  adventures: /adventures/:title/
 
 # Use absolute URLs
 canonifyURLs: true

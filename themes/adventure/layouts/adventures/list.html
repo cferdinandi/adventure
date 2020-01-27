@@ -2,11 +2,31 @@
 
 	{{ partial "content-page.html" . }}
 
-	<h2>Ready-to-Play Adventures</h2>
+	<h2>Ready-to-Play</h2>
 
+	<p>Each one includes notes for the <em>Guide</em>, printable maps, and detailed encounters.</p>
+
+	<ul>
+		{{- range where .Pages.ByWeight "Params.readytoplay" "eq" true -}}
+		<li><a class="link-no-underline" href="{{ .URL }}">{{ .Title }}</a> <span class="text-muted">(<em>{{ lower .Params.duration }}</em>)</span></li>
+		{{- end -}}
+	</ul>
+
+	{{- if false -}}
 	<ul>
 		{{- range .Pages.ByWeight -}}
 		<li><a class="link-no-underline" href="{{ .URL }}">{{ .Title }}</a> <span class="text-muted">(<em>{{ lower .Params.duration }}</em>)</span></li>
+		{{- end -}}
+	</ul>
+	{{- end -}}
+
+	<h2>Kickstarters</h2>
+
+	<p>These include a story outline, major encounter ideas, and maps. You fill in the details and create your own story.</p>
+
+	<ul>
+		{{- range where .Pages.ByWeight "Params.readytoplay" "ne" true -}}
+		<li><a class="link-no-underline" href="{{ .URL }}">{{ .Title }}</a></li>
 		{{- end -}}
 	</ul>
 

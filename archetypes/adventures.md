@@ -2,20 +2,30 @@
 title: "{{ replace .TranslationBaseName "-" " " | humanize }}"
 date: {{ .Date }}
 draft: true
-duration: Short
-weight: 10
+readyToPlay: false
+map: ""
 premise: ""
+tips: []
+weight: 10
+
+storyline: []
+creatureDetails: []
+npcs: []
+
+duration: Short
 details: ""
 intro: "This adventure follows a linear storyline."
 critical: []
-tips: []
 startingEncounter: ""
 creatures: []
 items: []
 scenery: []
 props: []
-map: ""
 ---
+
+{{%location title="" encounters=""%}}
+Location description...
+{{%/location%}}
 
 ### Oakenshire
 
