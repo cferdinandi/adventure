@@ -6,8 +6,19 @@
 
 	{{ if .Params.map }}<p><a class="btn download-map" href="/downloads/{{ .Params.map }}"><svg xmlns="http://www.w3.org/2000/svg"style="margin-bottom: -0.15em" width="1em" height="1em"><title></title><path fill="currentColor" d="M0 3l5-2v12l-5 2zM6 .5l5 3V15l-5-2.5zM12 3.5l4-3v12l-4 3z"/></svg> Download Maps</a></p>{{ end }}
 
+	<div class="toc">
+		<p class="margin-bottom-small"><strong>In this adventure...</strong></p>
+		<ul>
+			{{- if .Params.storyline -}}<li><a href="#storyline">Basic Storyline</a></li>{{- end -}}
+			{{- if .Content -}}<li><a href="#encounters">Encounters</a></li>{{- end -}}
+			{{- if .Params.tips -}}<li><a href="#tips">Tips for the <em>Guide</em></a></li>{{- end -}}
+			{{- if .Params.creatureDetails -}}<li><a href="#creatures">Creatures</a></li>{{- end -}}
+			{{- if .Params.npcs -}}<li><a href="#npcs">Non-Player Characters</a></li>{{- end -}}
+		</ul>
+	</div>
+
 	{{ if .Params.storyline }}
-	<h2>Basic Storyline</h2>
+	<h2 id="storyline">Basic Storyline</h2>
 	<ol>
 		{{- range $plotpoint := .Params.storyline -}}
 		<li>{{ markdownify $plotpoint }}</li>
@@ -15,25 +26,14 @@
 	</ol>
 	{{ end }}
 
-	{{ if false }}
-	<div class="toc">
-		<p class="margin-bottom-small"><strong>In this Adventure:</strong></p>
-		<ul>
-			<li><a href="#background">Background</a></li>
-			<li><a href="#encounters">Encounters</a></li>
-			<li><a href="#conclusion">Conclusion</a></li>
-		</ul>
-	</div>
-	{{ end }}
 
-
-	<h2>Encounters</h2>
+	<h2 id="encounters">Encounters</h2>
 
 	{{ .Content }}
 
 
 	{{ if .Params.tips }}
-	<h2>Tips for the <em>Guide</em></h2>
+	<h2 id="tips">Tips for the <em>Guide</em></h2>
 	<ul>
 		{{- range $tip := .Params.tips -}}
 		<li>{{ markdownify $tip }}</li>
@@ -43,7 +43,7 @@
 
 
 	{{ if .Params.creatureDetails }}
-	<h2>Creatures</h2>
+	<h2 id="creatures">Creatures</h2>
 	{{ range $creature := .Params.creatureDetails }}
 	{{ $stats := split $creature "||" }}
 	<p class="margin-bottom-small"><strong>{{ index $stats 0 }}</strong></p>
@@ -56,7 +56,7 @@
 
 
 	{{ if .Params.npcs }}
-	<h2>Non-Player Characters</h2>
+	<h2 id="npcs">Non-Player Characters</h2>
 	<ul>
 		{{ range $npc := .Params.npcs }}
 		<li>{{ $npc }}</li>
