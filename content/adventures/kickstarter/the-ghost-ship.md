@@ -1,7 +1,7 @@
 ---
 title: "The Ghost Ship"
 date: 2020-01-26T08:26:13-05:00
-draft: true
+draft: false
 readyToPlay: false
 map: ""
 premise: "A ship drifts into Farfaria Harbor and runs aground. It's completely empty.<br><br>There's food still on plates, and cabins filled with the crew's possessions. But there's not a single person to be found on the vessel.<br><br>You do find one clue, though: a map in the captain's cabin that points to a remote island in the Ocean of Lost Sailors."
