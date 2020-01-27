@@ -18,6 +18,8 @@ Downloadable, printable assets you can use to play *Adventure*. Each download al
 {{%/md%}}
 </div>
 
+You can also find a ton of free and inexpensive maps and other printables at [2&#8209;Minute Tabletop](https://www.2minutetabletop.com/).
+
 *Huge kudos to [the wonderful Mel Choyce](https://melchoyce.design/) for adding an assortment of skin tones and hair colors to the premade character graphics.*
 
 *Character, creature, and item graphics made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com).*
