@@ -10,7 +10,7 @@
 		<p class="margin-bottom-small"><strong>In this adventure...</strong></p>
 		<ul>
 			{{- if .Params.storyline -}}<li><a href="#storyline">Basic Storyline</a></li>{{- end -}}
-			{{- if .Content -}}<li><a href="#encounters">Encounters</a></li>{{- end -}}
+			{{- if .Content -}}<li><a href="#encounters">Encounters &amp; Encounters</a></li>{{- end -}}
 			{{- if .Params.tips -}}<li><a href="#tips">Tips for the <em>Guide</em></a></li>{{- end -}}
 			{{- if .Params.creatureDetails -}}<li><a href="#creatures">Creatures</a></li>{{- end -}}
 			{{- if .Params.npcs -}}<li><a href="#npcs">Non-Player Characters</a></li>{{- end -}}
@@ -19,7 +19,7 @@
 
 	{{ if .Params.storyline }}
 	<h2 id="storyline">Basic Storyline</h2>
-	<ol>
+	<ol class="list-spaced">
 		{{- range $plotpoint := .Params.storyline -}}
 		<li>{{ markdownify $plotpoint }}</li>
 		{{- end -}}
@@ -27,14 +27,14 @@
 	{{ end }}
 
 
-	<h2 id="encounters">Encounters</h2>
+	<h2 id="encounters">Locations &amp; Encounters</h2>
 
 	{{ .Content }}
 
 
 	{{ if .Params.tips }}
 	<h2 id="tips">Tips for the <em>Guide</em></h2>
-	<ul>
+	<ul class="list-spaced">
 		{{- range $tip := .Params.tips -}}
 		<li>{{ markdownify $tip }}</li>
 		{{- end -}}
