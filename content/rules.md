@@ -214,7 +214,9 @@ Players can be creative with how they attack, using their skills, tools, and ite
 - Cast a non-damage spell (for example, turning their skin into rock)
 - Use a tool or ability (for example, draping themself in an invisibility cloak or grabbing a weapon from their arsenal)
 
-*Players can do these things in-combat, too, but they use their action for that turn.*
+Players can do these things in-combat, too, but they use their action for that turn.
+
+_Only one piece of equipment can be worn at a time. Each spell can only be cast once per&nbsp;battle._
 
 
 
@@ -288,8 +290,9 @@ There are a few ways players can heal damage:
 <div class="list-spaced">
 {{%md%}}
 1. They can use their turn during a battle or encounter to heal themselves or another player with a healing potion or spell. If they do, they cannot attempt to solve the challenge or attack a villain until their next turn.
-2. If the player is a *Healer*, they can restore one health point to themself or another player. This also uses their turn.
-3. Waiting it out. Moving from one encounter to another restores a health point.
+2. They can use their turn to heal naturally, restoring one health point.
+3. If the player is a *Healer*, they can restore two health points to themself or another player. This also uses their turn.
+4. Waiting it out. Moving from one encounter to another restores health points. Roll one die, and regain half the result in health points, rounded down. Healers (and characters with healing magic) can add two to their die roll total (before dividing).
 {{%/md%}}
 </div>
 
@@ -315,6 +318,37 @@ This can add a really fun new aspect to the game, so don't be afraid to get crea
 
 
 
+## Equipment, Spells & Items
+
+You can **[download premade equpiment, spells, and items](/downloads)**, as well as templates to create your own.
+
+### Equipment
+
+<p class="margin-bottom-small">Equipment can take many forms. Be creative!</p>
+
+- Simple weapons like a sword or axe may add an additional die to a player's roll.
+- Advanced equipment, like a giant cross-bow, might be considered powerful but unwieldy. For a combat die roll, you might subtract 1 from the success total, but add 2 to the damage total to reflect that (hard to aim, dangerous when it connects).
+
+*Only one piece of equipment can be worn at a time.*
+
+### Spells
+
+<p class="margin-bottom-small">Spells are more interesting when they're nuanced add a limitation or penalty to the player in addition to a benefit.</p>
+
+- An invisibility spell might let you roll an extra die on an attack, but roll one less die when defending.
+- A spell that lets you do extra damage during combat might be so exhausting to cast that you're forced to skip the next turn.
+
+*Spells can only be used once per an encounter. A die roll determines if they're successfully cast or not.*
+
+### Items
+
+<p class="margin-bottom-small">Items can be single use, or things that can used over and over.</p>
+
+- Reusable items include things like rope, a net, a map, or a torch.
+- Single-use items include things like healing potion or food.
+
+
+
 ## Character Progression
 
 A player's character carries over from one came to the next. They bring with them any skills and items they acquired on previous adventures.
@@ -331,17 +365,6 @@ To keep *Adventure* exciting, you can reward players with new skills and items t
 
 Be careful not to give characters too much power all at once or it will throw off the balance of the game.
 
-### Creating Equipment & Spells
-
-<p class="margin-bottom-small">Equipment can take many forms. Be creative!</p>
-
-- Simple weapons like a sword or axe may add an additional die to a player's roll.
-- Advanced equipment, like a giant cross-bow, might be considered powerful but unwieldy. For a combat die roll, you might subtract 1 from the success total, but add 2 to the damage total to reflect that (hard to aim, dangerous when it connects).
-
-<p class="margin-bottom-small">Spells are more interesting when they're nuanced add a limitation or penalty to the player in addition to a benefit.</p>
-
-- An invisibility spell might let you roll an extra die on an attack, but roll one less die when defending.
-- A spell that lets you do extra damage during combat might be so exhausting to cast that you're forced to skip the next turn.
 
 
 ## A Few Extra Details

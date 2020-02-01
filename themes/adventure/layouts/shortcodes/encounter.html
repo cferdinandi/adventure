@@ -7,30 +7,13 @@
 
 	<ul class="list-spaced">
 		{{ if .Get "tips" }}<li><strong>Tips:</strong> {{ .Get "tips" | markdownify }}</li>{{ end }}
-		{{ if .Get "difficulty" }}<li>
-			<strong>Difficulty{{ if .Get "battle" }} (if the players choose to avoid fighting){{end}}:</strong>
-			<ul>
-				{{ $difficulties := split (.Get "difficulty") "||" }}
-				{{ range $difficulty := $difficulties }}
-				<li>{{ $difficulty }}</li>
-				{{ end }}
-			</ul>
-		</li>{{ end }}
+		{{ if .Get "difficulty" }}<li><strong>Difficulty Offset{{ if .Get "battle" }} (if the players choose to avoid fighting){{end}}:</strong> {{ .Get "difficulty" }}</li>{{ end }}
 		{{ if .Get "battle" }}<li>
 			<strong>Battle:</strong>
 			<ul>
 				{{ $battles := split (.Get "battle") "||" }}
 				{{ range $battle := $battles }}
 				<li>{{ $battle }}</li>
-				{{ end }}
-			</ul>
-		</li>{{ end }}
-		{{ if .Get "villains" }}<li>
-			<strong>Villains:</strong>
-			<ul>
-				{{ $villains := split (.Get "villains") "||" }}
-				{{ range $villain := $villains }}
-				<li>{{ $villain }}</li>
 				{{ end }}
 			</ul>
 		</li>{{ end }}
@@ -63,15 +46,6 @@
 				{{ $battles := split (.Get "battle") "||" }}
 				{{ range $battle := $battles }}
 				<li>{{ $battle }}</li>
-				{{ end }}
-			</ul>
-		</li>{{ end }}
-		{{ if .Get "villains" }}<li>
-			<strong>Villains:</strong>
-			<ul>
-				{{ $villains := split (.Get "villains") "||" }}
-				{{ range $villain := $villains }}
-				<li>{{ $villain }}</li>
 				{{ end }}
 			</ul>
 		</li>{{ end }}

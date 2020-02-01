@@ -11,6 +11,7 @@
 		<p class="margin-bottom-small"><strong>In this adventure...</strong></p>
 		<ul>
 			{{- if .Params.storyline -}}<li><a href="#storyline">Basic Storyline</a></li>{{- end -}}
+			{{- if or .Params.villains .Params.npcs -}}<li><a href="#creatures">Creatures</a></li>{{- end -}}
 			{{- if .Params.tips -}}<li><a href="#tips">Tips for the <em>Game Master</em></a></li>{{- end -}}
 			{{- if .Content -}}<li><a href="#encounters">Locations &amp; Encounters</a></li>{{- end -}}
 		</ul>
@@ -27,8 +28,35 @@
 	</ol>
 	{{ end }}
 
-	{{ if .Params.villains }}<p class="margin-bottom-small"><strong>Villains:</strong> {{ delimit .Params.villains ", " }}</p>{{ end }}
+	{{ if or .Params.villains .Params.npcs }}
+	<h2 id="creatures">Creatures</h2>
+
+	{{ if .Params.villains }}
+	<p class="margin-bottom-small"><strong>Villains:</strong></p>
+	<ul>
+		{{ range $villain := .Params.villains }}
+		{{ $stats := split $villain "||" }}
+
+		<li>{{ index $stats 0 }}{{ if (index $stats 1) }} - <em>Attack: {{ index $stats 1 }}{{ if (index $stats 2) }} &middot; Defend: {{ index $stats 2 }}{{ end }}{{ if (index $stats 3) }} &middot; Health Points: {{ index $stats 3 }}{{ end }}</em>{{ end }}</li>
+
+		{{- if false -}}
+		<li>{{ index $stats 0 }}{{ if (index $stats 1) }}: Attack - {{ index $stats 1 }}{{ end }}{{ if (index $stats 2) }}, Defend - {{ index $stats 2 }}{{ end }}{{ if (index $stats 3) }}, Health Points - {{ index $stats 3 }}{{ end }}</li>
+		<li>
+			{{ index $stats 0 }}
+			{{ if (index $stats 1) }}
+			<ul>
+				<li>Attack: {{ index $stats 1 }}</li>
+				{{ if (index $stats 2) }}<li>Defend: {{ index $stats 2 }}</li>{{ end }}
+				{{ if (index $stats 3) }}<li>Health Points - {{ index $stats 3 }}</li>{{ end }}
+			</ul>
+			{{ end }}
+		</li>
+		{{- end -}}
+		{{ end }}
+	</ul>
+	{{ end }}
 	{{ if .Params.npcs }}<p><strong>Non-Player Characters:</strong> {{ delimit .Params.npcs ", " }}</p>{{ end }}
+	{{ end }}
 
 	{{ if .Params.tips }}
 	<h2 id="tips">Tips for the <em>Game Master</em></h2>
