@@ -106,6 +106,8 @@ Each adventure has a starting encounter that sends your adventurers on their que
 
 The *Game Master* determines what side effects happen from Critical Failures, Partial Successes, and Critical Successes.
 
+*Adventure uses basic six-sided dice, often called D6's in the RPG community.*
+
 ### Example die rolls
 
 Let's revisit our example with *Lacey the Luck Dragon*. The group needs to figure out where to go looking for the first baby dragon.
