@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>The Pixie Dust Tree | Adventure v1</title>
+		<meta name="description" content="A fairy wakes you from your sleep, begging for your help. She explains that ice from the north froze and killed their pixie dust tree. Without, she and the rest of her village will never fly again.">
+		
+
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:site" content="@ChrisFerdinandi">
+		<meta property="og:url" content="/adventures/the-pixie-dust-tree/">
+		<meta property="og:title" content="The Pixie Dust Tree">
+		<meta property="og:description" content="A fairy wakes you from your sleep, begging for your help. She explains that ice from the north froze and killed their pixie dust tree. Without, she and the rest of her village will never fly again.">
+		
+
+		
+		
+		<link rel="shortcut icon" href="https://kitchentableadventure.com/img/favicon.ico">
+		<link rel="icon" sizes="16x16 32x32" href="https://kitchentableadventure.com/img/favicon.ico">
+
+		
+
+		
+		<style type="text/css">
+			/*! adventure v1.0.0 | (c) 2020 Chris Ferdinandi | MIT License | http://github.com/cferdinandi/adventure */
+@-webkit-viewport{width:device-width;zoom:1}@-moz-viewport{width:device-width;zoom:1}@-ms-viewport{width:device-width;zoom:1}@-o-viewport{width:device-width;zoom:1}@viewport{width:device-width;zoom:1}.link-block-styled,a,button,input,label,select,summary,textarea{touch-action:manipulation}*,:after,:before{box-sizing:border-box}html{overflow-y:scroll;text-size-adjust:100%}body{margin:0}article,aside,cite,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{display:block}summary{display:list-item}audio,canvas,progress,video{display:inline-block}progress{vertical-align:baseline}audio:not([controls]){display:none;height:0}img,video{height:auto}embed,iframe,img,object,video{max-width:100%}img{border-style:none;-ms-interpolation-mode:bicubic}@media (prefers-color-scheme:dark){img{opacity:.8}}svg:not(:root){overflow:hidden}figure{margin:0}[tabindex="-1"]:focus{outline:none}.container{margin-left:auto;margin-right:auto;max-width:38em;width:88%}.container-large{max-width:60em}.row{margin-left:-1.4%;margin-right:-1.4%}.grid-fifth,.grid-four-fifths,.grid-fourth,.grid-half,.grid-third,.grid-three-fifths,.grid-three-fourths,.grid-two-fifths,.grid-two-thirds{float:left;padding-left:1.4%;padding-right:1.4%;width:100%}.grid-flip{float:right}@media (min-width:38em){.grid-fifth{width:20%}.grid-fourth{width:25%}.grid-third{width:33.33333%}.grid-two-fifths{width:40%}.grid-half{width:50%}.grid-three-fifths{width:60%}.grid-two-thirds{width:66.66667%}.grid-three-fourths{width:75%}.grid-four-fifths{width:80%}.offset-fifth{margin-left:20%}.offset-fourth{margin-left:25%}.offset-third{margin-left:33.33333%}.offset-two-fifths{margin-left:40%}.offset-half{margin-left:50%}.offset-three-fifths{margin-left:60%}.offset-two-thirds{margin-left:66.66667%}.offset-three-fourths{margin-left:75%}.offset-four-fifths{margin-left:80%}}html{scroll-behavior:smooth}@media screen and (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}body{background:#fff;border-top:.5em solid #e5e5e5;color:#272727;font-family:Georgia,serif;font-size:112.5%;line-height:1.5;overflow-x:hidden}.fonts-loaded body{font-family:PT Serif,serif}@media (min-width:38em){body{line-height:1.5625em}}@media (prefers-color-scheme:dark){body{background:#272727;border-top-color:gray;color:#fff}}p{margin:0 0 1.5625em}.type-adventures details p{margin-bottom:.8125em}.link-block-styled,a{background-color:transparent;color:#08c;text-decoration:underline;text-decoration-skip:ink;text-decoration-skip-ink:auto;word-wrap:break-word}.link-block-styled:active,.link-block-styled:hover,.link-block:hover .link-block-styled,a:active,a:hover{outline:0}.link-block-styled:active,.link-block-styled:focus,.link-block-styled:hover,.link-block:hover .link-block-styled,a:active,a:focus,a:hover{color:#005580}.link-block-styled:visited,a:visited{color:purple}@media (prefers-color-scheme:dark){.link-block-styled,a{color:#73cffa}.link-block-styled:active,.link-block-styled:focus,.link-block-styled:hover,.link-block:hover .link-block-styled,a:active,a:focus,a:hover{color:#29b6f7}.link-block-styled:visited,a:visited{color:#debfde}}.link-no-underline,.nav-secondary .link-block-styled,.nav-secondary a{text-decoration:none}.link-block:hover .nav-secondary .link-block-styled,.link-no-underline:active,.link-no-underline:focus,.link-no-underline:hover,.nav-secondary .link-block-styled:active,.nav-secondary .link-block-styled:focus,.nav-secondary .link-block-styled:hover,.nav-secondary .link-block:hover .link-block-styled,.nav-secondary a:active,.nav-secondary a:focus,.nav-secondary a:hover{text-decoration:underline}.link-plain,.link-plain:visited{color:#272727;text-decoration:none}.link-plain:active,.link-plain:focus,.link-plain:hover{color:#08c}.link-block.link-block-styled,a.link-block{color:#272727;display:block;text-decoration:none}@media (prefers-color-scheme:dark){.link-block.link-block-styled,a.link-block{color:#fff}}ol,ul{margin:0 0 1.5625em 2em;padding:0}ol ol,ol ul,ul ol,ul ul{margin-bottom:0}li{margin-bottom:.5em}@media (min-width:38em){li{margin-bottom:.25em}}.list-spaced li{margin-bottom:1em}@media (min-width:38em){.list-spaced li{margin-bottom:.6875em}}.list-spaced li li{margin-bottom:0}@media (min-width:38em){.list-columns{column-count:2}}dd,dl{margin:0;padding:0}dd{margin-bottom:1.5625em}dt{font-weight:700}.list-unstyled{margin-left:0;list-style:none}.list-inline{list-style:none;margin-left:-.5em;margin-right:-.5em;padding:0}.list-inline li{display:inline-block;margin-left:.5em;margin-right:.5em}@media (max-width:38em){.list-inline.list-inline-responsive li{display:block}}.list-inline-spaced{margin-left:-1.3125em;margin-right:-1.3125em}.list-inline-spaced li{display:inline-block;margin-left:1.3125em;margin-right:1.3125em}.list-inline>li:before,.list-unstyled>li:before{content:"\200B";position:absolute}h1,h2,h3,h4,h5,h6{font-weight:700;line-height:1.2;margin:0 0 1em;padding:1em 0 0;word-wrap:break-word}.h1,h1{font-size:1.5em;padding-top:.5em}@media (min-width:38em){.h1,h1{font-size:1.75em}}.h2,h2{font-size:1.3125em}.type-adventures #conclusion{margin-top:1.5625em}.h3,h3{font-size:1.0625em}.type-page .h3,.type-page h3{padding-top:0}.h4,.h5,.h6,h4,h5,h6{font-size:1em}hr{border:0;border-top:1px solid #e5e5e5;border-bottom:0 solid transparent;box-sizing:content-box;margin:2em auto;overflow:visible}@media (prefers-color-scheme:dark){hr{border-top-color:gray}}.line-secondary{width:50%}.line-clear{border-top-color:transparent}.line-heading{position:relative}.line-heading:after{background-color:#fff;content:attr(data-heading);font-weight:700;left:50%;padding:0 1em;position:absolute;top:-1em;text-align:center;transform:translate(-50%);width:70%}@media (min-width:28em){.line-heading[data-heading-small]:after{content:attr(data-heading-small)}}@media (min-width:38em){.line-heading[data-heading-medium]:after{content:attr(data-heading-medium)}}@media (min-width:60em){.line-heading[data-heading-large]:after{content:attr(data-heading-large)}}b,strong{font-weight:inherit;font-weight:bolder}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}dfn{font-style:italic}mark{background:#fbf9c9;color:#272727}@media (prefers-color-scheme:dark){mark{background:transparent;color:#fff}}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}blockquote{border-left:.25em solid #e5e5e5;font-style:italic;margin:0 0 1.5625em;padding-left:1em;padding-right:1em}blockquote cite{color:gray;font-size:.9375em;padding-top:1em}@media (prefers-color-scheme:dark){blockquote cite{color:#e5e5e5}}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:""}code,kbd,pre,samp{font-family:Menlo,Monaco,Courier New,monospace;font-size:.875em}code{color:#d14;padding:.25em;word-wrap:break-word}@media (prefers-color-scheme:dark){code{color:#ded7d9}}pre{background-color:#f7f7f7;display:block;line-height:1.5;margin:0 0 1.5625em;overflow:auto;padding:.8125em;tab-size:4;white-space:pre-wrap;word-break:break-all}@media (prefers-color-scheme:dark){pre{background-color:#393939}}pre code{background-color:transparent;border:0;color:inherit;font-size:1em;padding:0}@media screen{.chroma .err,.chroma .il,.chroma .kc,.chroma .m,.chroma .mb,.chroma .mf,.chroma .mh,.chroma .mi,.chroma .mo,.chroma .no,.chroma .nt,.chroma .py,.chroma .ss{color:#905}}@media screen and (prefers-color-scheme:dark){.chroma .err,.chroma .il,.chroma .kc,.chroma .m,.chroma .mb,.chroma .mf,.chroma .mh,.chroma .mi,.chroma .mo,.chroma .no,.chroma .nt,.chroma .py,.chroma .ss{color:#bfbfbf}}@media screen{.chroma .k,.chroma .kd,.chroma .kn,.chroma .kp,.chroma .kr,.chroma .kt,.chroma .nb,.chroma .s{color:#07a}}@media screen and (prefers-color-scheme:dark){.chroma .k,.chroma .kd,.chroma .kn,.chroma .kp,.chroma .kr,.chroma .kt,.chroma .nb,.chroma .s{color:#95dbfb}}@media screen{.chroma .dl,.chroma .l,.chroma .ld,.chroma .n,.chroma .na,.chroma .nc,.chroma .ne,.chroma .s1,.chroma .s2,.chroma .sa,.chroma .sb,.chroma .sc,.chroma .se,.chroma .sh,.chroma .si,.chroma .sx{color:#690}}@media screen and (prefers-color-scheme:dark){.chroma .dl,.chroma .l,.chroma .ld,.chroma .n,.chroma .na,.chroma .nc,.chroma .ne,.chroma .s1,.chroma .s2,.chroma .sa,.chroma .sb,.chroma .sc,.chroma .se,.chroma .sh,.chroma .si,.chroma .sx{color:#c5d99c}}@media screen{.chroma .bp,.chroma .c,.chroma .c1,.chroma .ch,.chroma .cm,.chroma .cp,.chroma .cpf,.chroma .cs,.chroma .nd,.chroma .nl,.chroma .p,.chroma .sd{color:#708090}}@media screen and (prefers-color-scheme:dark){.chroma .bp,.chroma .c,.chroma .c1,.chroma .ch,.chroma .cm,.chroma .cp,.chroma .cpf,.chroma .cs,.chroma .nd,.chroma .nl,.chroma .p,.chroma .sd{color:#e5e5e5}}@media screen{.chroma .ni,.chroma .o{color:#a67f59;background:hsla(0,0%,100%,.5)}}@media screen and (prefers-color-scheme:dark){.chroma .ni,.chroma .o{background:transparent;color:#e5e5e5}}@media screen{.chroma .fm,.chroma .nf,.chroma .ow{color:#dd4a68}}@media screen and (prefers-color-scheme:dark){.chroma .fm,.chroma .nf,.chroma .ow{color:#deb6be}}@media screen{.chroma .nv,.chroma .sr,.chroma .vc,.chroma .vg,.chroma .vi,.chroma .vm{color:#e90}}@media screen and (prefers-color-scheme:dark){.chroma .nv,.chroma .sr,.chroma .vc,.chroma .vg,.chroma .vi,.chroma .vm{color:#ede1ca}}@media screen{.chroma .nn{opacity:.7}.chroma .ge{font-style:italic}.chroma .gs{font-weight:700}}.btn{background-color:#f7272f;border:.125em solid #f7272f;border-radius:1px;display:inline-block;font-size:.9375em;font-weight:400;line-height:1.2;margin-right:.3125em;margin-bottom:.3125em;padding:.5em .6875em}.btn,.btn:visited{color:#fff}@media (prefers-color-scheme:dark){.btn,.btn:visited{background-color:#fdd4d5;border-color:#fdd4d5;color:#000}}.btn.active,.btn:active,.btn:focus,.btn:hover{background-color:#cb070e;border-color:#cb070e;color:#fff}@media (prefers-color-scheme:dark){.btn.active,.btn:active,.btn:focus,.btn:hover{background-color:#fdbbbd;border-color:#fdbbbd;color:#000}}.btn.link-block-styled,a.btn{text-decoration:none}.btn-secondary{background-color:#343d4d;border-color:#343d4d}.btn-secondary.active,.btn-secondary:active,.btn-secondary:focus,.btn-secondary:hover{background-color:#15191f;border-color:#15191f}.btn-tertiary{background-color:#08c;border-color:#08c}.btn-tertiary.active,.btn-tertiary:active,.btn-tertiary:focus,.btn-tertiary:hover{background-color:#005580;border-color:#005580}.btn.active,.btn:active{box-shadow:inset 0 .15625em .25em rgba(0,0,0,.15),0 1px .15625em rgba(0,0,0,.05);outline:0}.btn.disabled,.btn[disabled]{box-shadow:none;cursor:not-allowed;opacity:.5;pointer-events:none}.btn-large{font-size:1em;line-height:normal;padding:.6875em .9375em}.btn-block,input[type=button].btn-block,input[type=reset].btn-block,input[type=submit].btn-block{display:block;margin-right:0;padding-right:0;padding-left:0;width:100%}.btn,button,html input[type=button],input[type=reset],input[type=submit]{cursor:pointer;text-align:center;vertical-align:middle;-webkit-appearance:none}.btn:last-child,input.btn{margin-right:0}fieldset,form{margin-bottom:1.5625em}fieldset{border:0;padding:0}label,legend{display:block;font-weight:400;margin:0 0 .3125em;padding:0}button,input,optgroup,select,textarea{color:#555;font:inherit;margin:0;padding:.3125em}@media (prefers-color-scheme:dark){button,input,optgroup,select,textarea{background-color:#e5e5e5;color:#272727}}button{overflow:visible}button,select{text-transform:none}input,select,textarea{border:1px solid #b8b8b8;display:block;line-height:1.5;margin-bottom:1.1875em;width:100%}@media (min-width:38em){input,select,textarea{line-height:1.5625}}@media (prefers-color-scheme:dark){input,select,textarea{border-color:gray}}optgroup{font-weight:700}form .button,form button{margin-bottom:1.1875em}textarea{height:12em;overflow:auto}[type=checkbox],[type=image],[type=radio]{cursor:pointer;display:inline-block;height:auto;margin-bottom:.3125em;padding:0;width:auto}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}input:focus,textarea:focus{border-color:rgba(82,168,236,.8);box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 .5em rgba(82,168,236,.6);outline:0;outline:thin dotted\9}[type=checkbox]:focus,[type=file]:focus,select:focus{outline:thin dotted;outline:.3125em auto -webkit-focus-ring-color;outline-offset:-.125em}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}.input-inline{display:inline-block;vertical-align:middle;width:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}.input-search{width:85%;padding-left:.9375em;padding-right:2.5em;border-radius:1.3125em;transition:width .3s ease-in}@media (min-width:38em){.input-search{width:65%}}.btn-search{display:inline;color:gray;border:none;background:none;margin-left:-2.5em;margin-bottom:0}.btn-search svg{fill:gray}@media (prefers-color-scheme:dark){.btn-search svg{fill:#272727}}.btn-search:hover{color:#5a5a5a}.btn-search:hover svg{fill:#5a5a5a}@media (prefers-color-scheme:dark){.btn-search:hover svg{fill:#000}}.error{border-color:#e30810}@media (prefers-color-scheme:dark){.error{border-color:#fdbbbd}}.error-message{color:#e30810;font-style:italic;margin-bottom:1em}@media (prefers-color-scheme:dark){.error-message{color:#fdbbbd}}.img-border{border:1px solid #ccc}.img-circle{border-radius:50%}.callout,.fluidvids{margin-bottom:1.5625em}.callout{background-color:#f7f7f7;border:1px solid #e5e5e5;padding:1em 1.5em}@media (prefers-color-scheme:dark){.callout{background-color:#272727;border-color:gray}}.aligncenter,.alignleft,.alignnone,.alignright{display:block;text-align:center;margin-left:auto;margin-right:auto}@media (min-width:28em){.alignleft{float:left;margin-right:1em}}@media (min-width:28em){.alignright{float:right;margin-left:1em}}@media (min-width:28em){.alignnone{margin-left:0;margin-right:0}}.wp-caption-text{font-size:.9375em;font-style:italic;color:gray;padding-top:.5em;text-align:center}@media (prefers-color-scheme:dark){svg path[fill="#272727"]{fill:#fff}svg path[fill="#808080"]{fill:#e5e5e5}svg path[fill="#f7272f"]{fill:#fdd4d5}svg path[fill="#800080"]{fill:#ff4dff}}table{border-collapse:collapse;border-spacing:0;margin-bottom:1.5625em;max-width:100%;width:100%}td,th{text-align:left;padding:.5em}th{border-bottom:.125em solid #e5e5e5;font-weight:700;vertical-align:bottom}td{border-top:1px solid #e5e5e5;vertical-align:top}.nav-wrap{padding-top:1em;padding-bottom:.5em;text-align:center}@media (min-width:60em){.nav-wrap{text-align:left}}.logo{display:inline-block;font-size:1.2em;font-weight:700;line-height:1.2;margin-bottom:.3125em;text-decoration:none}@media (min-width:60em){.logo{float:left;margin-bottom:0}}.logo,.logo:visited{color:#272727}@media (prefers-color-scheme:dark){.logo,.logo:visited{color:#fff}}.logo:active,.logo:focus,.logo:hover{color:#08c}@media (prefers-color-scheme:dark){.logo:active,.logo:focus,.logo:hover{color:#73cffa}}.logo .icon{height:.8em;width:.8em}.nav{list-style:none;margin:0 -.5em;padding:0}@media (min-width:60em){.nav{text-align:right}}.nav li{display:inline-block;float:none;margin-left:.5em;margin-right:.5em}.nav .link-block-styled,.nav a{color:gray;text-decoration:none}@media (prefers-color-scheme:dark){.nav .link-block-styled,.nav a{color:#e5e5e5}}.link-block:hover .nav .link-block-styled,.nav .active .link-block-styled,.nav .active a,.nav .link-block-styled:active,.nav .link-block-styled:focus,.nav .link-block-styled:hover,.nav .link-block:hover .link-block-styled,.nav a:active,.nav a:focus,.nav a:hover{border-bottom:.125em solid #fa7176;color:#272727}@media (prefers-color-scheme:dark){.link-block:hover .nav .link-block-styled,.nav .active .link-block-styled,.nav .active a,.nav .link-block-styled:active,.nav .link-block-styled:focus,.nav .link-block-styled:hover,.nav .link-block:hover .link-block-styled,.nav a:active,.nav a:focus,.nav a:hover{color:#fff}}.bg-muted{background-color:#f7f7f7}@media (prefers-color-scheme:dark){.bg-muted{background-color:#393939}}.text-small{font-size:.9375em}.text-large,.text-xlarge{font-size:1.1875em;line-height:1.4}@media (min-width:38em){.text-large,.text-xlarge{font-size:1.3125em}}.text-xlarge{font-size:1.7em}@media (min-width:38em){.text-xlarge{font-size:2em}}.text-muted{color:gray}@media (prefers-color-scheme:dark){.text-muted{color:#e5e5e5}}.btn del,.text-muted-light{color:#b2b2b2}.text-normal{font-weight:400;font-style:normal}.text-center{text-align:center}.text-right{text-align:right}@media (min-width:60em){.text-right-large{text-align:right}}.float-center{float:none;margin-left:auto;margin-right:auto}.no-margin-top{margin-top:0}.no-margin-bottom{margin-bottom:0}.margin-top{margin-top:1.5625em}.margin-bottom{margin-bottom:1.5625em}.error,.margin-bottom-small{margin-bottom:.5em}.margin-bottom-large{margin-bottom:2em}.margin-bottom-negative{margin-bottom:-1.75em}.margin-right{margin-right:.25em}.no-padding-top{padding-top:0}.no-padding-bottom{padding-bottom:0}.padding-top{padding-top:1.5625em}.padding-top-xsmall{padding-top:.25em}.padding-top-small{padding-top:.5em}.padding-top-medium{padding-top:1em}.padding-top-large{padding-top:2em}.padding-top-xlarge{padding-top:3em}.padding-bottom{padding-bottom:1.5625em}.padding-bottom-small{padding-bottom:.5em}.padding-bottom-large{padding-bottom:2em}.padding-bottom-xlarge{padding-bottom:3em}.screen-reader{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px}.screen-reader-focusable:active,.screen-reader-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;white-space:normal;width:auto}.tarpit,[hidden],template{display:none}.clearfix:after,.clearfix:before,.container:after,.container:before,.nav-wrap:after,.nav-wrap:before,.row:after,.row:before{display:table;content:" "}.clearfix:after,.container:after,.nav-wrap:after,.row:after{clear:both}.print-only{display:none}@media print{*{background:transparent!important;color:#000!important;box-shadow:none!important;text-shadow:none!important}@page{margin:.5cm}.link-block-styled,.link-block-styled:visited,a,a:visited{text-decoration:underline}.link-block-styled[href]:after,a[href]:after{content:" (" attr(href) ")"}.link-block-styled[href^="#"]:after,a[href^="#"]:after{content:""}h1,h2,h3,p{orphans:3;widows:3}h1,h2,h3{page-break-after:avoid}blockquote,pre{border-color:#999;page-break-inside:avoid}thead{display:table-header-group}img,tr{page-break-inside:avoid}.download-map,.toc,details{display:none}.print-only{display:block}body{border-top:0}#nav-menu,footer{display:none}}
+		</style><link href="https://fonts.googleapis.com/css?family=PT&#43;Serif:400,400i,700,700i&amp;display=swap" rel="stylesheet">
+		<script>
+			/*! adventure v1.0.0 | (c) 2020 Chris Ferdinandi | MIT License | http://github.com/cferdinandi/adventure */
+var getCookie=function(e){var o=("; "+document.cookie).split("; "+e+"=");if(2==o.length)return o.pop().split(";").shift()};"fonts"in document&&(getCookie("fontsLoaded")?document.documentElement.className+=" fonts-loaded":document.fonts.load("1em PT Serif").then((function(){var e=new Date(+new Date+6048e5).toUTCString();document.cookie="fontsLoaded=true; expires="+e,document.documentElement.className+=" fonts-loaded"})));
+		</script>
+	</head>
+
+	<body class="type-adventures page-single" id="page-4e6dbf0815311498223fe541c2404ddc">
+
+		<div class="container container-large">
+
+	
+	<a class="screen-reader screen-reader-focusable" href="#main">Skip to main content</a>
+
+	
+	<a class="screen-reader screen-reader-focusable" href="mailto:&#099;&#104;&#114;&#105;&#115;&#064;&#103;&#111;&#109;&#097;&#107;&#101;&#116;&#104;&#105;&#110;&#103;&#115;&#046;&#099;&#111;&#109;?subject=Go%20Make%20Things:%20Accessibility%20Feedback">Accessibility Feedback</a>
+
+</div>
+
+		<header class="container container-large margin-bottom">
+	<nav class="nav-wrap">
+		<a class="logo" href="https://kitchentableadventure.com/v1">
+			<svg xmlns="http://www.w3.org/2000/svg" style="height:.9em;width:.9em;margin-bottom:-0.1875em;" width="1em" height="1em"><title></title><path fill="currentColor" d="M15 0L8 2 1 0S.93.808 1 2l7 2.189L15 2c.07-1.192 0-2 0-2zM1.128 3.049C1.503 6.966 2.901 13.553 8 16c5.099-2.448 6.497-9.034 6.872-12.951L8 5.633 1.128 3.049z"/></svg>
+			Adventure v1
+		</a>
+		<div class="nav-menu" id="nav-menu">
+			<ul class="nav">
+				<li><a href="https://kitchentableadventure.com/v1/rules">How to Play</a></li><li><a href="https://kitchentableadventure.com/v1/downloads">Downloads</a></li><li class="active" ><a href="https://kitchentableadventure.com/v1/adventures">Adventures</a></li>
+			</ul>
+		</div>
+	</nav>
+</header>
+
+		<main id="main" tabindex="-1">
+
+			<div class="container">
+
+				<p class="margin-bottom-small"><em class="text-small text-muted">This is the documentation for Adventure v1. <a href="https://kitchentableadventure.com/v1/">Here are the v2 docs.</a></em></p><article>
+
+	<h1>The Pixie Dust Tree</h1>
+
+	<p class="margin-bottom-small">A fairy wakes you from your sleep, begging for your help. She explains that ice from the north froze and killed their pixie dust tree. Without, she and the rest of her village will never fly again.</p>
+	<p><em>Medium Duration</em></p>
+
+	<div class="toc">
+		<p class="margin-bottom-small"><strong>In this adventure...</strong></p>
+		<ul>
+			<li><a href="#background">Background</a></li>
+			<li><a href="#encounters">Encounters</a></li>
+			<li><a href="#conclusion">Conclusion</a></li>
+		</ul>
+	</div>
+
+
+	<h2 id="background">Background</h2>
+
+	<p>This story follows a relatively linear storyline. It&rsquo;s a great choice for beginners.</p>
+	
+	<p class="margin-bottom-small"><strong>Critical Encounters:</strong></p>
+	<ol><li><strong>Speak to the Elder Fairy.</strong> He knows the secret to creating a new pixie dust tree.</li><li><strong>Get more pixie dust from the Hunter Fairies.</strong> They&rsquo;re another tribe of fairies located in the Eastern Grove.</li><li><strong>Get water from the Sacred Stream.</strong> This is easier said than done. The water contains piranhas.</li></ol>
+	
+
+	
+	<details>
+		<summary class="margin-bottom-small"><strong>Tips for the <em>Guide</em></strong></summary>
+		<ul><li>Depending on the skill level of your players, you may need to suggest that they ask the Elder Fairy where they can find more pixie dust, or have a non-player character step in to guide them to the Hunter Fairies.</li></ul>
+	</details>
+
+	<div class="print-only">
+		<p class="margin-bottom-small"><strong>Tips for the <em>Guide</em>:</strong></p>
+		<ul><li>Depending on the skill level of your players, you may need to suggest that they ask the Elder Fairy where they can find more pixie dust, or have a non-player character step in to guide them to the Hunter Fairies.</li></ul>
+	</div>
+	
+
+	<details class="margin-bottom">
+		<summary class="margin-bottom-small"><strong>Creatures, Scenery, & Props</strong></summary>
+
+		
+		<p class="margin-bottom-small"><strong>Creatures:</strong></p>
+		<ul><li>Fairies</li><li>Pirates</li><li>Piranha</li></ul>
+		
+
+		
+		<p class="margin-bottom-small"><strong>Scenery:</strong></p>
+		<ul><li>Forest</li><li>Cabin</li><li>Mountains</li><li>River</li></ul>
+		
+
+		
+		<p class="margin-bottom-small"><strong>Props:</strong></p>
+		<ul><li>Compass</li></ul>
+		
+	</details>
+
+	<div class="print-only">
+		
+		<p class="margin-bottom-small"><strong>Creatures:</strong></p>
+		<ul><li>Fairies</li><li>Pirates</li><li>Piranha</li></ul>
+		
+
+		
+		<p class="margin-bottom-small"><strong>Scenery & Props:</strong></p>
+		<ul><li>Forest</li><li>Cabin</li><li>Mountains</li><li>River</li></ul>
+		
+
+		
+		<p class="margin-bottom-small"><strong>Props:</strong></p>
+		<ul><li>Compass</li></ul>
+		
+	</div>
+
+	<p><a class="btn download-map" href="https://kitchentableadventure.com/v1/downloads/map_the-pixie-dust-tree.pdf"><svg xmlns="http://www.w3.org/2000/svg"style="margin-bottom: -0.15em" width="1em" height="1em"><title></title><path fill="currentColor" d="M0 3l5-2v12l-5 2zM6 .5l5 3V15l-5-2.5zM12 3.5l4-3v12l-4 3z"/></svg> Download Maps</a></p>
+
+
+	<h2 id="encounters">Encounters</h2>
+
+	<p>A fairy wakes you from your sleep, begging for your help. She explains that ice from the north froze and killed their pixie dust tree. Without, she and the rest of her village will never fly again.</p>
+	<p>The fairy tells you that the Elder Fairy of the northern forest knows how to get a new pixie dust tree. She cannot go with you, as she does not have enough pixie dust to make the journey and is very tired. It&rsquo;s up to you to find him. She provides you with a compass to help you find your way.</p>
+
+	<p><strong>Starting Encounter:</strong> Locate the Elder Fairy</p>
+
+	
+
+<h3 id="1-the-village">1. The Village</h3>
+
+<details>
+	<summary class="margin-bottom-small">
+		<strong>a. Locate the Elder Fairy</strong> 
+	</summary>
+
+	<p>The Elder Fairy of the northern forest knows the secret to getting a new pixie dust tree, and it&rsquo;s up to you to find him.</p>
+
+
+	<ul class="list-spaced">
+		<li><strong>Tips:</strong> Players might trying using their compass, or rely on their pets to help.</li>
+		<li>
+			<strong>Difficulty:</strong>
+			<ul>
+				
+				
+				<li>Up to three players: 3</li>
+				
+				<li>Four or more players: 4</li>
+				
+			</ul>
+		</li>
+		
+		
+		<li><strong>Once the players succeed:</strong> It wasn&rsquo;t easy, but you&rsquo;ve located the Elder Fairy! You head in the direction of his remote woodland cabin.</li>
+		
+	</ul>
+</details>
+
+<div class="print-only">
+	<h4>a. Locate the Elder Fairy</h4>
+
+	<p>The Elder Fairy of the northern forest knows the secret to getting a new pixie dust tree, and it&rsquo;s up to you to find him.</p>
+
+
+	<ul class="list-spaced">
+		
+		<li><strong>Tips:</strong> Players might trying using their compass, or rely on their pets to help.</li>
+		
+		<li>
+			<strong>Difficulty:</strong>
+			<ul>
+				
+				
+				<li>Up to three players: 3</li>
+				
+				<li>Four or more players: 4</li>
+				
+			</ul>
+		</li>
+		
+		
+		<li><strong>Once players succeed:</strong> It wasn&rsquo;t easy, but you&rsquo;ve located the Elder Fairy! You head in the direction of his remote woodland cabin.</li>
+		
+		
+		
+		
+		
+		
+	</ul>
+</div>
+
+<h3 id="2-the-woods-of-the-west">2. The Woods of the West</h3>
+
+<details>
+	<summary class="margin-bottom-small">
+		<strong>a. A Rocky Cliff</strong> <em class="text-muted">(optional)</em>
+	</summary>
+
+	<p>You&rsquo;re making great progress, when your path suddenly ends in front of a steep, rocky cliff. It’s too high to climb with your bare hands, but it’s also the only way to get where you’re going.</p>
+
+
+	<ul class="list-spaced">
+		
+		<li>
+			<strong>Difficulty:</strong>
+			<ul>
+				
+				
+				<li>Up to three players: 4</li>
+				
+				<li>Four or more players: 5</li>
+				
+			</ul>
+		</li>
+		
+		
+		
+		
+	</ul>
+</details>
+
+<div class="print-only">
+	<h4>a. A Rocky Cliff</h4>
+
+	<p>You&rsquo;re making great progress, when your path suddenly ends in front of a steep, rocky cliff. It’s too high to climb with your bare hands, but it’s also the only way to get where you’re going.</p>
+
+
+	<ul class="list-spaced">
+		
+		
+		
+		<li>
+			<strong>Difficulty:</strong>
+			<ul>
+				
+				
+				<li>Up to three players: 4</li>
+				
+				<li>Four or more players: 5</li>
+				
+			</ul>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</ul>
+</div>
+
+<details>
+	<summary class="margin-bottom-small">
+		<strong>b. The Elder Fairy</strong> 
+	</summary>
+
+	<p>As you approach a small cabin in middle of the forest, the Elder Fairy emerges.</p>
+
+<p>You tell him why you&rsquo;re there, and he wants to help. But first, he needs to make sure you don&rsquo;t plan to use the fairy dust for your own personal gain.</p>
+
+<p><em>How can you prove to him that you are truly helping the fairies and not trying to steal the dust for yourself?</em></p>
+
+
+	<ul class="list-spaced">
+		
+		<li>
+			<strong>Difficulty:</strong>
+			<ul>
+				
+				
+				<li>One or two players: 4</li>
+				
+				<li>Three or more players: 5</li>
+				
+			</ul>
+		</li>
+		
+		
+		<li><strong>Once the players succeed:</strong> The Elder Fairy provides you with the secret recipe: 3 grains of blue dust, 1 grain of yellow. Heat in a pot, stir, and allow to cool into a seed. Plant in the ground, and pour water from the Sacred Stream to grow a new pixie dust tree.</li>
+		
+	</ul>
+</details>
+
+<div class="print-only">
+	<h4>b. The Elder Fairy</h4>
+
+	<p>As you approach a small cabin in middle of the forest, the Elder Fairy emerges.</p>
+
+<p>You tell him why you&rsquo;re there, and he wants to help. But first, he needs to make sure you don&rsquo;t plan to use the fairy dust for your own personal gain.</p>
+
+<p><em>How can you prove to him that you are truly helping the fairies and not trying to steal the dust for yourself?</em></p>
+
+
+	<ul class="list-spaced">
+		
+		
+		
+		<li>
+			<strong>Difficulty:</strong>
+			<ul>
+				
+				
+				<li>One or two players: 4</li>
+				
+				<li>Three or more players: 5</li>
+				
+			</ul>
+		</li>
+		
+		
+		<li><strong>Once players succeed:</strong> The Elder Fairy provides you with the secret recipe: 3 grains of blue dust, 1 grain of yellow. Heat in a pot, stir, and allow to cool into a seed. Plant in the ground, and pour water from the Sacred Stream to grow a new pixie dust tree.</li>
+		
+		
+		
+		
+		
+		
+	</ul>
+</div>
+
+<details>
+	<summary class="margin-bottom-small">
+		<strong>c. Locate More Pixie Dust</strong> 
+	</summary>
+
+	<p>The fairy&rsquo;s village does not have the special blue dust, only yellow. How will you find more?</p>
+
+
+	<ul class="list-spaced">
+		<li><strong>Tips:</strong> Players might try using tools like a Magic Map, use tracking skills, or ask for help.</li>
+		<li>
+			<strong>Difficulty:</strong>
+			<ul>
+				
+				
+				<li>Up to three players: 3</li>
+				
+				<li>Four or more players: 4</li>
+				
+			</ul>
+		</li>
+		
+		
+		<li><strong>Once the players succeed:</strong> The players learn that there&rsquo;s a tribe of Hunter Fairies near the mountains in the Eastern Grove who have more pixie dust.</li>
+		
+	</ul>
+</details>
+
+<div class="print-only">
+	<h4>c. Locate More Pixie Dust</h4>
+
+	<p>The fairy&rsquo;s village does not have the special blue dust, only yellow. How will you find more?</p>
+
+
+	<ul class="list-spaced">
+		
+		<li><strong>Tips:</strong> Players might try using tools like a Magic Map, use tracking skills, or ask for help.</li>
+		
+		<li>
+			<strong>Difficulty:</strong>
+			<ul>
+				
+				
+				<li>Up to three players: 3</li>
+				
+				<li>Four or more players: 4</li>
+				
+			</ul>
+		</li>
+		
+		
+		<li><strong>Once players succeed:</strong> The players learn that there&rsquo;s a tribe of Hunter Fairies near the mountains in the Eastern Grove who have more pixie dust.</li>
+		
+		
+		
+		
+		
+		
+	</ul>
+</div>
+
+<h3 id="3-the-eastern-grove">3. The Eastern Grove</h3>
+
+<details>
+	<summary class="margin-bottom-small">
+		<strong>a. The Hunter Fairies</strong> 
+	</summary>
+
+	<p>As you approach the border where the forest meets the mountains, you enter the territory of the Hunter Fairies. They have a healthy pixie dust tree, but think you’re dangerous and try to attack you. They&rsquo;re an important part of the ecosystem, so you don&rsquo;t want to harm them.</p>
+
+<p><em>How do you prove that you’re a friend, and protect yourself, without harming them?</em></p>
+
+
+	<ul class="list-spaced">
+		
+		<li>
+			<strong>Difficulty:</strong>
+			<ul>
+				
+				
+				<li>Up to three players: 4</li>
+				
+				<li>Four or more players: 5</li>
+				
+			</ul>
+		</li>
+		
+		
+		<li><strong>Once the players succeed:</strong> The fairies are overwhelmed by your kindness towards their species. They give a small pouch filled with pixie dust&mdash;three blue grains and one yellow. They also warn you that the forest can be dangerous.</li>
+		
+	</ul>
+</details>
+
+<div class="print-only">
+	<h4>a. The Hunter Fairies</h4>
+
+	<p>As you approach the border where the forest meets the mountains, you enter the territory of the Hunter Fairies. They have a healthy pixie dust tree, but think you’re dangerous and try to attack you. They&rsquo;re an important part of the ecosystem, so you don&rsquo;t want to harm them.</p>
+
+<p><em>How do you prove that you’re a friend, and protect yourself, without harming them?</em></p>
+
+
+	<ul class="list-spaced">
+		
+		
+		
+		<li>
+			<strong>Difficulty:</strong>
+			<ul>
+				
+				
+				<li>Up to three players: 4</li>
+				
+				<li>Four or more players: 5</li>
+				
+			</ul>
+		</li>
+		
+		
+		<li><strong>Once players succeed:</strong> The fairies are overwhelmed by your kindness towards their species. They give a small pouch filled with pixie dust&mdash;three blue grains and one yellow. They also warn you that the forest can be dangerous.</li>
+		
+		
+		
+		
+		
+		
+	</ul>
+</div>
+
+<details>
+	<summary class="margin-bottom-small">
+		<strong>b. Pirate Thieves!</strong> <em class="text-muted">(optional)</em>
+	</summary>
+
+	<p>As you make your way toward your next destination, you hear rustling in the leaves to your left. Suddenly, a band of pirates emerges from the dark forest.</p>
+
+<p>They&rsquo;ve heard that you’re in possession of pixie dust, and want it for themselves. They attack you and try to steal the pixie dust.</p>
+
+
+	<ul class="list-spaced">
+		<li><strong>Tips:</strong> Players can stand their ground and fight, or run away to safety</li>
+		<li>
+			<strong>Difficulty (if the players choose to avoid fighting):</strong>
+			<ul>
+				
+				
+				<li>One or two players: 4</li>
+				
+				<li>Three or four players: 5</li>
+				
+				<li>Five or more players: 6</li>
+				
+			</ul>
+		</li>
+		<li>
+			<strong>Battle:</strong>
+			<ul>
+				
+				
+				<li>One or two players: 3 pirates, 1 captain</li>
+				
+				<li>Three to four players: 4 pirates, 1 captain</li>
+				
+				<li>Five or more players: 6 pirates, 1 captain</li>
+				
+			</ul>
+		</li>
+		<li>
+			<strong>Villains:</strong>
+			<ul>
+				
+				
+				<li>Pirate: Difficulty - 3, Health - 1</li>
+				
+				<li>Captain: Difficulty - 5, Health - 3</li>
+				
+			</ul>
+		</li>
+		<li><strong>Once the players succeed:</strong> Still in possession of your pixie dust, you continue on to your next destination.</li>
+		<li><strong>If the players fail:</strong> You slowly recover from the attack as the pirates run off with your supply of pixie dust. Now, you have to choose: chase after them and try to get it back, or return to the village of the Hunter Fairies and beg for more?</li>
+	</ul>
+</details>
+
+<div class="print-only">
+	<h4>b. Pirate Thieves!</h4>
+
+	<p>As you make your way toward your next destination, you hear rustling in the leaves to your left. Suddenly, a band of pirates emerges from the dark forest.</p>
+
+<p>They&rsquo;ve heard that you’re in possession of pixie dust, and want it for themselves. They attack you and try to steal the pixie dust.</p>
+
+
+	<ul class="list-spaced">
+		
+		<li><strong>Tips:</strong> Players can stand their ground and fight, or run away to safety</li>
+		
+		<li>
+			<strong>Difficulty (if the players choose to avoid fighting):</strong>
+			<ul>
+				
+				
+				<li>One or two players: 4</li>
+				
+				<li>Three or four players: 5</li>
+				
+				<li>Five or more players: 6</li>
+				
+			</ul>
+		</li>
+		<li>
+			<strong>Battle:</strong>
+			<ul>
+				
+				
+				<li>One or two players: 3 pirates, 1 captain</li>
+				
+				<li>Three to four players: 4 pirates, 1 captain</li>
+				
+				<li>Five or more players: 6 pirates, 1 captain</li>
+				
+			</ul>
+		</li>
+		<li>
+			<strong>Villains:</strong>
+			<ul>
+				
+				
+				<li>Pirate: Difficulty - 3, Health - 1</li>
+				
+				<li>Captain: Difficulty - 5, Health - 3</li>
+				
+			</ul>
+		</li>
+		<li><strong>Once players succeed:</strong> Still in possession of your pixie dust, you continue on to your next destination.</li>
+		<li><strong>If players fail:</strong> You slowly recover from the attack as the pirates run off with your supply of pixie dust. Now, you have to choose: chase after them and try to get it back, or return to the village of the Hunter Fairies and beg for more?</li>
+		
+		
+		
+		
+		
+	</ul>
+</div>
+
+<h3 id="4-the-sacred-stream">4. The Sacred Stream</h3>
+
+<details>
+	<summary class="margin-bottom-small">
+		<strong>a. The Sacred Stream</strong> 
+	</summary>
+
+	<p>Just beyond the trees, you hear the rushing water of the Sacred Stream. You step out into the light, reach down towards the water excitedly.</p>
+
+<p>But before your hand touches the water, you catch sight of the hungry piranha&rsquo;s swimming just below the surface and pull your hand back. You cannot kill them, as they’re an important part of the ecosystem. But you can’t reach in to get water or they’ll bite you.</p>
+
+<p><em>How can you get water from the stream without getting hurt?</em></p>
+
+
+	<ul class="list-spaced">
+		
+		<li>
+			<strong>Difficulty:</strong>
+			<ul>
+				
+				
+				<li>Up to three players: 4</li>
+				
+				<li>Four or more players: 5</li>
+				
+			</ul>
+		</li>
+		
+		
+		<li><strong>Once the players succeed:</strong> With water from the Sacred Stream safely in hand, you move on quickly. You don&rsquo;t want to be around the piranha (or in pirate territory) any longer than you have to.</li>
+		
+	</ul>
+</details>
+
+<div class="print-only">
+	<h4>a. The Sacred Stream</h4>
+
+	<p>Just beyond the trees, you hear the rushing water of the Sacred Stream. You step out into the light, reach down towards the water excitedly.</p>
+
+<p>But before your hand touches the water, you catch sight of the hungry piranha&rsquo;s swimming just below the surface and pull your hand back. You cannot kill them, as they’re an important part of the ecosystem. But you can’t reach in to get water or they’ll bite you.</p>
+
+<p><em>How can you get water from the stream without getting hurt?</em></p>
+
+
+	<ul class="list-spaced">
+		
+		
+		
+		<li>
+			<strong>Difficulty:</strong>
+			<ul>
+				
+				
+				<li>Up to three players: 4</li>
+				
+				<li>Four or more players: 5</li>
+				
+			</ul>
+		</li>
+		
+		
+		<li><strong>Once players succeed:</strong> With water from the Sacred Stream safely in hand, you move on quickly. You don&rsquo;t want to be around the piranha (or in pirate territory) any longer than you have to.</li>
+		
+		
+		
+		
+		
+		
+	</ul>
+</div>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>After swinging back to the Village to get your fairy friend, you arrive in Pixie Hollow with the pixie dust and water from the sacred stream.</p>
+
+<p>You prepare the dust, plant the seed, and pour water onto it. The dusty swirls and turns a rainbow of colors. When the dusty settles, a new pixie tree sapling has emerged, and pixie dust is already starting to form on its small leaves.</p>
+
+<p>Over the next few days, it will grow into a mature tree. The fairies are saved!</p>
+
+
+</article>			</div>
+		</main>
+
+		<footer class="container container-large">
+			<hr class="margin-bottom">
+			<nav class="tabindex nav-secondary" id="nav-secondary" tabindex="-1">
+	<ul class="list-inline list-inline-responsive">
+		<li><a href="https://kitchentableadventure.com/v1/rules">How to Play</a></li><li><a href="https://kitchentableadventure.com/v1/downloads">Downloads</a></li><li><a href="https://kitchentableadventure.com/v1/adventures">Adventures</a></li>
+	</ul>
+</nav>
+			<p class="text-small">Made with ❤️ in Massachusetts by <a href="https://gomakethings.com">Chris Ferdinandi</a>. This game is licensed under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+		</footer>
+
+		<script>
+			/*! adventure v1.0.0 | (c) 2020 Chris Ferdinandi | MIT License | http://github.com/cferdinandi/adventure */
+!(function(){"use strict";var t=document.querySelector("[data-toc]");if(t){var e=document.querySelectorAll("h2");t.innerHTML="<h2>"+t.getAttribute("data-toc")+"</h2><ol>"+Array.prototype.map.call(e,(function(t){if(t.id.length)return'<li><a href="#'+t.id+'">'+t.textContent+"</a></li>"})).join("")}})();
+		</script>
+	</body>
+</html>

@@ -4,25 +4,24 @@ date: 2020-01-20T17:04:54-05:00
 draft: false
 readyToPlay: true
 duration: Long
+optional: true
+map: "map_lacey-the-luck-dragon.pdf"
 weight: 30
 premise: Lacey the Luck Dragon protects the forest from invaders. While out looking for food, her five baby dragons wandered off, and she can’t find them. She’s worried sick, and wants your help in locating them.
 details: The babies just learned to fly, and aren’t very good at it. For protection, baby luck dragons can turn themselves invisible, making them hard to find. Baby dragons screech, scratch stuff with their claws, accidentally burn things, and smell like wet&nbsp;dog.<br><br>Lacey gives you a satchel of gold coins to help you on your journey.
 intro: This story has five critical, nonlinear encounters that can be completed in any order. All involve the players rescuing baby dragons from creatures or situations.
-critical:
-- Forest Vines
-- Spider's Den
-- The Mountain Cliff
-- The Cave of the Sleeping Ogre
-- The Supply Shop
+storyline:
+- A dragon explains that she's lost her babies and needs help finding them. The adventurers search Farfaria for them.
+- They rescue a dragon tangled in forest vines, a dragon caught in a giant spider's web, a dragon stuck on a high cliff, a dragon inside a sleeping ogre's cave, and a dragon held captive in a supply shop.
+- As an optional encounter, the adventurers can explore the caves and tunnels of Farfaria (on purpose, or while fleeing from an ogre or giant spider).
+- As an optional encounter, thieves can offer to buy a baby dragon from the adventurers. If they refuse, the thieves later attempt a raid to steal one.
+villains: ['Spider', 'Ogre', 'Shopkeeper', 'Thieves']
+npcs: ['Dragons']
 tips:
 - After each encounter, the players' next task will be figuring out where to find the next baby dragon. You may need to provide help here in the form of suggestions or a non-player character.
 - After saving a baby dragon from the *Forest Vines*, *The Mountain Cliff*, or *The Supply Shop*, you can move players into one of the optional *Thieves Make an Offer* encounters if you want. If that happens, you can later introduce *The Thieves Raid*.
 - If players decide to flee into or explore the tunnel system in the *Spider's Den* or *Cave of the Sleeping Ogre*, challenges, jump to *The Tunnels* encounters.
 startingEncounter: Locate the first baby dragon
-creatures: ['Dragons', 'Thieves', 'Shopkeeper']
-scenery: ['Forest', 'Cabin', 'Camp', 'Caves', 'River']
-props: ['Gold Coins']
-map: "map_lacey-the-luck-dragon.pdf"
 ---
 
 ### 1. The Village
@@ -123,7 +122,7 @@ You hear a battle cry and an arrow whizzes by overhead. A horse whinnies and the
 The band of thieves emerges from the trees, bent on stealing the baby dragon.
 {{%/encounter%}}
 
-## Conclusion
+### Conclusion
 
 You return to the village with all five of Lacey the Luck Dragon's babies.
 

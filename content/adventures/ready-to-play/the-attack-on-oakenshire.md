@@ -4,19 +4,22 @@ date: 2020-01-24T14:02:00-05:00
 draft: false
 readyToPlay: true
 duration: Short
+optional: true
+map: "map_the-attack-on-oakenshire.pdf"
 weight: 10
 premise: You're enjoying lunch in the tavern with your friends when an elf bursts through the doors, out of breath with flush red cheeks. "There's been an attack on Oakenshire," he exclaims, "we've been completely overrun with spiders, and they've taken Lord Faelyn hostage!"
 details: Oakenshire is the elves' treetop home. It contains ancient books and special magic found nowhere else in Farfaria. Its safety is vital to Farfaria. The elves has always had a warm relationship with the people of the Village, and they need your help.
 intro: "This adventure follows a relatively linear storyline. This adventure follows a linear storyline. It’s a great choice for beginners.<br><br>Oakenshire is located in the heart of the Woods of the West."
-critical: []
+storyline:
+- The adventurers first have to enter Oakenshire. Normally, a ladder would lowered to allow guests in, but since the village is overrun, they'll need to figure out another way in.
+- Next, the adventurers battle giant spiders in various locations as they make their way to the throne room where Lord Faelyn is being held.
+- The adventurers must optionally complete a puzzle to unlock the door to the throne room.
+- Once in, the adventurers battle the King Spider and several of his subjects to save Lord Faelyn.
+villains: ['Giant Spiders']
+npcs: ['Elves']
 tips:
-- "*The Echanted Door* encounter is a chance to get your players to participate in an out-of-game challenge. You can skip this for ease or to keep the game shorter if you want."
+- "*The Enchanted Door* encounter is a chance to get your players to participate in an out-of-game challenge. You can skip this for ease or to keep the game shorter if you want."
 startingEncounter: "Entering Oakenshire"
-creatures: ['Elf', 'Spider']
-items: []
-scenery: []
-props: ['Potions', 'Books', 'Crystals', 'A game or challenge']
-map: "map_the-attack-on-oakenshire.pdf"
 ---
 
 ### Oakenshire
@@ -89,7 +92,7 @@ Directly ahead of you the biggest spider you've ever seen. He's the size of a fu
 Behind him sits Lord Faelyn, wrapped in a spider web and tied to his throne.
 {{%/encounter%}}
 
-## Conclusion
+### Conclusion
 
 Back down on the ground, Lord Faelyn is surrounded by a circle of elves, bows in their hands.
 

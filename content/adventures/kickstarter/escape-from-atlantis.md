@@ -3,9 +3,13 @@ title: "Escape from Atlantis"
 date: 2020-01-29T10:21:29-05:00
 draft: false
 readyToPlay: false
+duration: Short
+optional: false
 map: ""
-premise: "Out of the submarine port hole, you spy something strange on the ocean floor: what appears to be an underwater city.<br><br>As you bring the sub closer, the layout of the city comes into view. There's a large, perfectly symmetrical glass dome covering the city. It's surrounded by five smaller domes, each one connected to the center by a glass tube.<br><br>You've discovered the lost city of Atlantis.<br><br>*[The Ghost Ship](/adventures/the-ghost-ship/) segues nicely into this adventure, and explains why you're underwater in a submarine in the first place.*"
 weight: 20
+premise: "Out of the submarine port hole, you spy something strange on the ocean floor: what appears to be an underwater city.<br><br>As you bring the sub closer, the layout of the city comes into view. There's a large, perfectly symmetrical glass dome covering the city. It's surrounded by five smaller domes, each one connected to the center by a glass tube.<br><br>You've discovered the lost city of Atlantis.<br><br>*[The Ghost Ship](/adventures/the-ghost-ship/) segues nicely into this adventure, and explains why you're underwater in a submarine in the first place.*"
+details: ""
+intro: "This adventure follows a semi-linear, open-ended storyline."
 storyline:
 - "The adventurers approach the city, and notice a submarine-sized tunnel with a sign above it that says, &quot;Welcome to Atlantis.&quot; As they pull the submarine in, the door closes behind them, the airlock engages, and water begins draining out of the tunnel. A representative from Atlantis comes to greet them."
 - "The Atlanteans learn that the adventurers located a trove of gold from the Lost Isle. The coins are marked with the symbol of Atlantis. It's treasure believed to have been lost to the seas ages ago."
@@ -16,22 +20,12 @@ storyline:
 - "The adventurers have to escape. Once they do, they walk by another cell that contains none other than the King of Atlantis himself."
 - "The adventurers learn that the &quot;King&quot; they met is a shape-shifting wizard from another realm who imprisoned the real King and took his place. He's stealing Atlantium and shipping it off to where he's from so that his people can also benefit. In doing so, he's crippling the city of Atlantis."
 - " The adventurers must stop the imposter and free the real King. All of the guards are under the imposter's control, are highly trained, and will be difficult to get past."
+villains: ['The Crab King', 'Crab Guards', 'Atlantean Guards']
+npcs: ['The King', 'Atlantean Guards', 'Atlantean Citizens']
 tips:
 - "The imposter King and his guards are a race of crustacean hominids (crab-people or lobster-people). For added intrigue, *don't* reveal this to the players initially, and let them discover it on their own."
 - "If you want to explore complex morality and the gray area of political disagreements, the adventurers can learn through NPCs that the land Atlantis is built on actually belonged to the crustaceans. It was stolen so that Atlantis could mine the Altantium. While they flourished, the crustacean empire has suffered in poverty for millennia. Who's actually the villain?"
-creatureDetails:
-- The Crab King||6||3
-- Crab Guards||4||2
-- Atlantean Guards||4||2
-- Atlantean Citizens||3||1
-npcs:
-- Miners
-- Farmers
-- Scientists
-- Artists
-- Educators
-- Atlantean Guards
-- Crab Guards
+startingEncounter: "Out of the submarine port hole, you spy something strange on the ocean floor: what appears to be an underwater city."
 ---
 
 {{%location title="The Big Dome"%}}

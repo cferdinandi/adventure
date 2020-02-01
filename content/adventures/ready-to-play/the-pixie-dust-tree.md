@@ -4,21 +4,22 @@ date: 2020-01-17T15:23:43-05:00
 draft: false
 readyToPlay: true
 duration: Medium
+optional: false
+map: "map_the-pixie-dust-tree.pdf"
 weight: 20
 premise: A fairy wakes you from your sleep, begging for your help. She explains that ice from the north froze and killed their pixie dust tree. Without, she and the rest of her village will never fly again.
 details: The fairy tells you that the Elder Fairy of the northern forest knows how to get a new pixie dust tree. She cannot go with you, as she does not have enough pixie dust to make the journey and is very tired. It's up to you to find him. She provides you with a compass to help you find your way.
 intro: "This story follows a relatively linear storyline. It's a great choice for beginners."
-critical:
-- "**Speak to the Elder Fairy.** He knows the secret to creating a new pixie dust tree."
-- "**Get more pixie dust from the Hunter Fairies.** They're another tribe of fairies located in the Eastern Grove."
-- "**Get water from the Sacred Stream.** This is easier said than done. The water contains piranhas."
+storyline:
+- The adventurers locate the Elder Fairy and go speak with him. He shares the secret to creating a new pixie dust tree... but it requires items from around Farfaria.
+- The adventurers must decide if they want to go get more pixie dust from the Hunter Fairies first, or get water from the Sacred Stream.
+- The Hunter Fairies aren't sure if the adventurers are good or bad and attack them. Players must defend themselves without harming the fairies.
+- The Sacred Stream is filled with piranhas, and the surrounding woods are dangerous. They need to collect water without getting bit, and avoiding being caught.
+villains: ['Pirates', 'Piranha']
+npcs: ['Fairies']
 tips:
 - Depending on the skill level of your players, you may need to suggest that they ask the Elder Fairy where they can find more pixie dust, or have a non-player character step in to guide them to the Hunter Fairies.
 startingEncounter: Locate the Elder Fairy
-creatures: ['Fairies', 'Pirates', 'Piranha']
-scenery: ['Forest', 'Cabin', 'Mountains', 'River']
-props: ['Compass']
-map: "map_the-pixie-dust-tree.pdf"
 ---
 
 ### 1. The Village
@@ -69,7 +70,7 @@ But before your hand touches the water, you catch sight of the hungry piranha's 
 *How can you get water from the stream without getting hurt?*
 {{%/encounter%}}
 
-## Conclusion
+### Conclusion
 
 After swinging back to the Village to get your fairy friend, you arrive in Pixie Hollow with the pixie dust and water from the sacred stream.
 
