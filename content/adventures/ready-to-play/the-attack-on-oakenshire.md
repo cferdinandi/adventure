@@ -54,7 +54,7 @@ Above, tall branches sprawl out, one three's canopy bleeding into the next. A se
 *How will you get to the next building?*
 {{%/encounter%}}
 
-{{%encounter order="d" title="The Library" tips="The *Guide* should encourage players to fight the spiders before they destroy the irreplaceable books in this room." battle="One or two players: 4 Spiders||Three or four players: 5 Spiders||Five or more players: 6 Spiders" success="With another building of spiders taken care of and Lord Faelyn still held hostage, you waste no time and rush through the next door."%}}
+{{%encounter order="d" title="The Library" tips="The *Game Master* should encourage players to fight the spiders before they destroy the irreplaceable books in this room." battle="One or two players: 4 Spiders||Three or four players: 5 Spiders||Five or more players: 6 Spiders" success="With another building of spiders taken care of and Lord Faelyn still held hostage, you waste no time and rush through the next door."%}}
 As soon as you walk into a room, the smell of old books hits your nostrils. Lining each wall are long, tall bookcases filled floor to ceiling with books. In the middle of the room is a simple room-length wooden table, with a long benches on each side.
 
 You've entered the elven library. These tomes contains ancient wisdom about the forests of Farfaria, passed down from one generation to next over the millennia. The knowledge contained here is irreplaceable.

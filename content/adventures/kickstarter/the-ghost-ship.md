@@ -27,7 +27,7 @@ storyline:
 villains: ['Coconut Monster', 'Carnivorous Plant', 'Slime Monster', 'Tunnel Trolls', 'Kraken']
 npcs: ['The Ship Crew', 'A hermit']
 tips:
-- "The *Guide* might want to have some symbol on the ship that also appears at the camp on the Lost Isle to tie together that it's the same crew."
+- "The *Game Master* might want to have some symbol on the ship that also appears at the camp on the Lost Isle to tie together that it's the same crew."
 startingEncounter: "A mysterious ship drifts into Farfaria Harbor and runs aground. There doesn't seem to be anyone onboard."
 ---
 
@@ -48,7 +48,7 @@ Either time or the actions of one of the players causes the island to start shak
 {{%location title="The Lost Isle" encounters="Attacked by coconut monsters||Encounter giant carnivorous plants||Get stuck in quicksand||Have to cross a river, a shady bridge, or something of that nature||Find an abandoned camp and evidence of the same people as from the ship||Discover the trap door or hidden tunnel entrance"%}}
 This could be a tropical island (with palm trees) or a more temperate one (with pines, oaks, and maples). It's large enough that it would take an hour or two to explore the whole thing.
 
-The *Guide* might also want to scatter some useful items or even natural resources throughout the island.
+The *Game Master* might also want to scatter some useful items or even natural resources throughout the island.
 {{%/location%}}
 
 {{%location title="The Tunnels" encounters="The slide to the depths||A mutant slime that attacks the players and tries to envelop them||A battle with living mushrooms or tunnel trolls||An obstacle like a steep drop or water-filled section of tunnel||Locating the missing crew||Discovering the submarine"%}}

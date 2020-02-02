@@ -64,7 +64,7 @@ You tell him what the message in the bottle said, and ask if he's seen anything.
 
 ### 2. The Woods of the West
 
-{{%encounter order="a" title="Centaurs and Spiders" optional="true" difficulty="-1" battle="Up to three adventurers: 4 Giant Spiders||Four or more adventurers: 6 Giant Spiders" success="With the spiders gone, the centaurs return to their homes. The centaur you first spoke with trots over, shakes your hand, and thanks you sincerely.<br><br>As a token of appreciation, he offers you a gift (the *Guide* should choose a reward). You thank him and happily accept it.<br><br>*[If adventurers are not yet aware of the Castle of the North]* The centaur asks where you'll go next. You explain that you're looking for a sorcerer and the kidnapped mermaid. His eyes beam, and he explains that he saw them pass through earlier that day, headed towards the Castle of the North."%}}
+{{%encounter order="a" title="Centaurs and Spiders" optional="true" difficulty="-1" battle="Up to three adventurers: 4 Giant Spiders||Four or more adventurers: 6 Giant Spiders" success="With the spiders gone, the centaurs return to their homes. The centaur you first spoke with trots over, shakes your hand, and thanks you sincerely.<br><br>As a token of appreciation, he offers you a gift (the *Game Master* should choose a reward). You thank him and happily accept it.<br><br>*[If adventurers are not yet aware of the Castle of the North]* The centaur asks where you'll go next. You explain that you're looking for a sorcerer and the kidnapped mermaid. His eyes beam, and he explains that he saw them pass through earlier that day, headed towards the Castle of the North."%}}
 A centaur gallops by, an urgent look on his face. "Is everything ok," you ask. "Not at all," he exclaims. "Our home has been overrun with giant spiders. Can you help?"
 
 You look a short distance ahead and see about a dozen centaurs running away from their tent village, fearful looks on their faces.
@@ -84,7 +84,7 @@ You rush over to the unicorn and reassuringly pet his mane. "We'll get you out o
 You look at the trap more closely. It's a chain attached to a stake, with a simple lock at the unicorns ankle.
 {{%/encounter%}}
 
-{{%encounter order="c" title="Elves of the Eastern Grove" optional="true" tips="If the adventurers say yes, provide them with a puzzle or brain teaser from outside of the game to complete." success="*[If adventurers are not yet aware of the Castle of the North]* The Elvish Guard tells you that she saw the sorcerer and mermaid that you seek pass through the woods earlier that day, headed towards the Castle of the North.<br><br>*[If the adventurers already know or have already gone]*You've proven yourselves worth. I'm happy to present you with a gift that will aid you on your journey (the *Guide* should chose an item of value to the group)." failure="Unable to complete the task, the Elvish Guard wishes you luck and sends you on your way."%}}
+{{%encounter order="c" title="Elves of the Eastern Grove" optional="true" tips="If the adventurers say yes, provide them with a puzzle or brain teaser from outside of the game to complete." success="*[If adventurers are not yet aware of the Castle of the North]* The Elvish Guard tells you that she saw the sorcerer and mermaid that you seek pass through the woods earlier that day, headed towards the Castle of the North.<br><br>*[If the adventurers already know or have already gone]*You've proven yourselves worth. I'm happy to present you with a gift that will aid you on your journey (the *Game Master* should chose an item of value to the group)." failure="Unable to complete the task, the Elvish Guard wishes you luck and sends you on your way."%}}
 Your path brings you through Elf territory. While friendly, they're cautious about who's in their forest, and why.
 
 An Elvish Guard stands on the path ahead, spear in hand. She instructs you to stop, and asks why you're passing through the forest. You tell her where you're headed, and are permitted to pass.
@@ -100,7 +100,7 @@ The giant Castle of the North towers above you. Thankfully, the drawbridge is do
 There are two doors on either side of the courtyard. In the back left and back right corners are two tall, spiraling towers that provide visibility and protection against the threats of the Northern Mountains. In the middle of the courtyard is a cart, a traveling shop run by a woman selling exotic objects and magical spells.
 {{%/encounter%}}
 
-{{%encounter order="b" title="Room 1" tips="The *Guide* might choose to let adventurers discover useful items in the room."%}}
+{{%encounter order="b" title="Room 1" tips="The *Game Master* might choose to let adventurers discover useful items in the room."%}}
 You walk through the door into the first room on the right. There's a table and chairs, and some maps on the wall. Clearly, this is a meeting space of some sort. To the left is a narrow hallway that leads to another room. The space is otherwise empty.
 {{%/encounter%}}
 
@@ -126,7 +126,7 @@ You approach the shop owner, who waves her hands over her numerous wares with a 
 
 ### 5. The West Tower
 
-{{%encounter order="a" title="An Empty Tower" tips="The *Guide* may choose to scatter some useful items around the space. A map has been provided to allow for exploration if desired."%}}
+{{%encounter order="a" title="An Empty Tower" tips="The *Game Master* may choose to scatter some useful items around the space. A map has been provided to allow for exploration if desired."%}}
 You enter the tower, a narrow, three-story spire with a window on the top floor. You quickly search all three floors, and, aside from a few chairs and a desk, find it completely abandoned.
 {{%/encounter%}}
 
@@ -152,7 +152,7 @@ The sorcerer raises his wand and fires a spell in your direction.
 
 ### 7. The Dungeon
 
-{{%encounter order="a" title="The Door to the Dungeon" tips="The *Guide* should encourage the adventurers to head down the stairs."%}}
+{{%encounter order="a" title="The Door to the Dungeon" tips="The *Game Master* should encourage the adventurers to head down the stairs."%}}
 You open the door and peer into it. A narrow winding staircase leads down. You feel a damp, cold breeze blowing. The yelling gets louder. "Help! Help!"
 {{%/encounter%}}
 
@@ -303,4 +303,4 @@ You gasp and run over. He pops back up but a moment later, transformed. His skin
 - **If the adventurers were successful:** "Thank you! We had believed this lost for good."
 - **If not:** "You certainly had more important things to focus on. Perhaps another quest for another day."
 
-*__Note:__ The Guide should choose appropriately awesome rewards for completing these adventures.*
+*__Note:__ The Game Master should choose appropriately awesome rewards for completing these adventures.*

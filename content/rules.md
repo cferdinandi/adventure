@@ -176,6 +176,13 @@ For other encounters, *each* player needs to roll individually and succeed.
 
 For example, if you hear a band of thieves approaching and want to hide, each player should roll. Any player who wins the die roll hides successfully, while any player who doesn't is caught.
 
+### Ability Checks
+
+There may be information that the *Game Master* want to reveal to players selectively.
+
+For example, when approaching the area where the thieves are going to attack, the *Game Master* can ask the players to roll an *ability check*. Any players who have a successful roll (3 or higher) "hear the thieves approaching" and have a chance to take action before the attack.
+
+The *Game Master* can also call for ability checks if the players ask for information about their environment that in real would depend on their own awareness of their surroundings. For example, "Do I see anything out of the ordinary?"
 
 
 
