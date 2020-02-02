@@ -8,18 +8,13 @@ Downloadable, printable assets you can use to play *Adventure*. Each download al
 
 <div class="list-spaced">
 {{%md%}}
-- **[Cheatsheet.](/downloads/cheatsheet.pdf)** A handy reference on encounter and battle die roll rules.
-- **[Characters.](/downloads/characters.pdf)** Each premade character comes with combat and problem-solving styles. The set includes character cards with graphics in a variety of skin tones, as well as blank ones if your players want to draw their own.
-- **[Creatures.](/downloads/creatures.pdf)** Creature printables can be used to help spark an idea for an adventure, or be used as part of the game to provide visuals for the players.
-- **[Gear & Items.](/downloads/items.pdf)** You can hand these out to players to keep track of the items they find and earn as they play. Store them with their character cards to have gear and items carry over from game to game.
-- **[Locations.](/downloads/locations.pdf)** Location printables you can use to add visuals to your storytelling and inspire ideas for adventures.
+- **[Cheatsheet.](/downloads/cheatsheet-v2.pdf)** A handy reference on encounter and battle die roll rules.
+- **[Characters.](/downloads/character-sheets.pdf)** Each premade character comes with a problem-solving ability and graphic. The set also includes blank character cards if your players want to create their&nbsp;own.
+- **[Equipment, Spells & Items.](/downloads/equipment-spells-and-items.pdf)** You can hand these out to players to keep track of the items they find and earn as they play. Store them with their character cards to have equipment, spells, and items carry over from game-to-game.
 - **[Map.](/downloads/map.pdf)** Track your location around Farfaria, and learn more about the various landmarks and creatures that live there.
-- **[DIY Maps.](/downloads/diy-maps.pdf)** Every premade adventure comes with printable maps. But if you want to make up your own adventures, this DIY bundle contains all of the maps from all of the adventures without the adventure-specific information.
 {{%/md%}}
 </div>
 
 You can also find a ton of free and inexpensive maps and other printables at [2&#8209;Minute Tabletop](https://www.2minutetabletop.com/).
-
-*Huge kudos to [the wonderful Mel Choyce](https://melchoyce.design/) for adding an assortment of skin tones and hair colors to the premade character graphics.*
 
 *Character, creature, and item graphics made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com).*

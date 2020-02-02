@@ -3,9 +3,13 @@ title: "The Ghost Ship"
 date: 2020-01-26T08:26:13-05:00
 draft: false
 readyToPlay: false
+duration: Short
+optional: false
 map: ""
-premise: "A ship drifts into Farfaria Harbor and runs aground. It's completely empty.<br><br>There's food still on plates, and cabins filled with the crew's possessions. But there's not a single person to be found on the vessel.<br><br>You do find one clue, though: a map in the captain's cabin that points to a remote island in the Ocean of Lost Sailors.<br><br>*This adventure segues nicely into [Escape from Atlantis](/adventures/escape-from-atlantis/).*"
 weight: 10
+premise: "A ship drifts into Farfaria Harbor and runs aground. It's completely empty.<br><br>There's food still on plates, and cabins filled with the crew's possessions. But there's not a single person to be found on the vessel.<br><br>You do find one clue, though: a map in the captain's cabin that points to a remote island in the Ocean of Lost Sailors.<br><br>*This adventure segues nicely into [Escape from Atlantis](/adventures/escape-from-atlantis/).*"
+details: ""
+intro: "This adventure follows a linear storyline."
 storyline:
 - A ghost ship runs aground in Farfaria Harbor.
 - The adventurers explore the ship and discover a map in the captain's journal pointing to the Lost Isle.
@@ -20,17 +24,11 @@ storyline:
 - They find the lost crew in a cavern in the tunnels. They got stuck down here, too.
 - After some additional exploring, the group finds an old wooden submarine in a semi-flooded part of the tunnel. Their ticket out of there!
 - On their way out, they're attacked by a kraken or some other sea monster.
-creatureDetails:
-- "Coconut Monster||4||1"
-- "Carnivorous Plant||3||1"
-- "Slime Monster||4||2"
-- "Tunnel Trolls||5||2"
-- "Kraken||5||3"
-npcs:
-- The Ship Crew
-- A hermit
+villains: ['Coconut Monster', 'Carnivorous Plant', 'Slime Monster', 'Tunnel Trolls', 'Kraken']
+npcs: ['The Ship Crew', 'A hermit']
 tips:
 - "The *Guide* might want to have some symbol on the ship that also appears at the camp on the Lost Isle to tie together that it's the same crew."
+startingEncounter: "A mysterious ship drifts into Farfaria Harbor and runs aground. There doesn't seem to be anyone onboard."
 ---
 
 {{%location title="The Ship"%}}

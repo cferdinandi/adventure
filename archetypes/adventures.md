@@ -3,24 +3,18 @@ title: "{{ replace .TranslationBaseName "-" " " | humanize }}"
 date: {{ .Date }}
 draft: true
 readyToPlay: false
-map: ""
-premise: ""
-tips: []
-weight: 10
-
-storyline: []
-creatureDetails: []
-npcs: []
-
 duration: Short
+optional: false
+map: ""
+weight: 10
+premise: ""
 details: ""
 intro: "This adventure follows a linear storyline."
-critical: []
+storyline: []
+villains: []
+npcs: []
+tips: []
 startingEncounter: ""
-creatures: []
-items: []
-scenery: []
-props: []
 ---
 
 {{%location title="" encounters=""%}}
