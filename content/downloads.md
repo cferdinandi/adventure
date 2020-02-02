@@ -8,7 +8,7 @@ Downloadable, printable assets you can use to play *Adventure*. Each download al
 
 <div class="list-spaced">
 {{%md%}}
-- **[Cheatsheet.](/downloads/cheatsheet.pdf)** A handy reference on encounter and battle die roll rules.
+- **[Cheatsheet.](/downloads/cheatsheet-v2.pdf)** A handy reference on encounter and battle die roll rules.
 - **[Characters.](/downloads/character-sheets.pdf)** Each premade character comes with a problem-solving ability and graphic. The set also includes blank character cards if your players want to create their&nbsp;own.
 - **[Equipment, Spells & Items.](/downloads/equipment-spells-and-items.pdf)** You can hand these out to players to keep track of the items they find and earn as they play. Store them with their character cards to have equipment, spells, and items carry over from game-to-game.
 - **[Map.](/downloads/map.pdf)** Track your location around Farfaria, and learn more about the various landmarks and creatures that live there.

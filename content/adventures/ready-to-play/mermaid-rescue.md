@@ -5,7 +5,7 @@ draft: false
 readyToPlay: true
 duration: Very Long
 optional: false
-map: "map_mermaid-rescue.pdf"
+map: "assets_mermaid-rescue.pdf"
 weight: 40
 premise: Down in Farfaria Harbor, a bottle pops up from the depths. There's note rolled up inside, and a cork firmly pushed into the top. You fish the bottle from the Harbor, open it up, and read the note. A mermaid has been kidnapped!
 details: The note is from Triton, king of the mermaids. "My daughter has been kidnapped by an evil sorcerer. If she's not rescued, the entire land of Farfaria is in grave danger."<br><br>"What's the danger," you wonder, "and where did the sorcerer take her?" It's up to you to rescue her.

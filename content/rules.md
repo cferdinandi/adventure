@@ -292,7 +292,7 @@ There are a few ways players can heal damage:
 1. They can use their turn during a battle or encounter to heal themselves or another player with a healing potion or spell. If they do, they cannot attempt to solve the challenge or attack a villain until their next turn.
 2. They can use their turn to heal naturally, restoring one health point.
 3. If the player is a *Healer*, they can restore two health points to themself or another player. This also uses their turn.
-4. Waiting it out. Moving from one encounter to another restores health points. Roll one die, and regain half the result in health points, rounded down. Healers (and characters with healing magic) can add two to their die roll total (before dividing).
+4. Waiting it out. Moving from one encounter to another restores health points. Roll one die, and regain half the result in health points, rounded down. Healers (and characters with healing magic) can add two to the final number. That number of health points are healed.
 {{%/md%}}
 </div>
 
@@ -338,7 +338,7 @@ You can **[download premade equpiment, spells, and items](/downloads)**, as well
 - An invisibility spell might let you roll an extra die on an attack, but roll one less die when defending.
 - A spell that lets you do extra damage during combat might be so exhausting to cast that you're forced to skip the next turn.
 
-*Spells can only be used once per an encounter. A die roll determines if they're successfully cast or not.*
+*Each spell can only be used once per an encounter. A die roll determines if it's successfully cast or not.*
 
 ### Items
 

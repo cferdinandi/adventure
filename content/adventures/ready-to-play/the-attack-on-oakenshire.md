@@ -5,7 +5,7 @@ draft: false
 readyToPlay: true
 duration: Short
 optional: true
-map: "map_the-attack-on-oakenshire.pdf"
+map: "assets_the-attack-on-oakenshire.pdf"
 weight: 10
 premise: You're enjoying lunch in the tavern with your friends when an elf bursts through the doors, out of breath with flush red cheeks. "There's been an attack on Oakenshire," he exclaims, "we've been completely overrun with spiders, and they've taken Lord Faelyn hostage!"
 details: Oakenshire is the elves' treetop home. It contains ancient books and special magic found nowhere else in Farfaria. Its safety is vital to Farfaria. The elves has always had a warm relationship with the people of the Village, and they need your help.
