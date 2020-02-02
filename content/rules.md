@@ -206,7 +206,7 @@ Players can be creative with how they attack, using their skills, tools, and ite
 <p class="margin-bottom-small"><strong>Players are allowed one action per turn.</strong> During their turn, a player can do one of the following:</p>
 
 - Attack a villain (physically or with magic)
-- Heal damage to themself or someone else (if they have magic or a healing potion)
+- Heal damage to themself (or someone else if they have magic or a healing potion)
 - Flee the battle
 
 <p class="margin-bottom-small"><strong>Players also get one free action at the start of a battle</strong> that can be used for anything that's not a direct attack. A player might use this action to:</p>
