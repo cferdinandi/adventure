@@ -238,12 +238,12 @@ _Only one piece of equipment can be worn at a time. Each spell can only be cast 
 
 | Attack | Defend | Damage |
 |--------|--------|--------|
-| 3      | 3      | 1 HP   |
-| 3      | 4+     | 0 HP   |
-| 4+     | 4+     | 1 HP   |
-| 4+     | 6+     | 0 HP   |
-| 4+     | 3-     | 2 HP   |
 | 6+     | Any    | 3 HP   |
+| 4+     | 6+     | 0 HP   |
+| 4+     | 4+     | 1 HP   |
+| 4+     | 3-     | 2 HP   |
+| 3      | 4+     | 0 HP   |
+| 3      | 3-     | 1 HP   |
 
 ### Determining who wins a battle
 
