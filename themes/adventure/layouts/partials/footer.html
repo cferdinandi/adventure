@@ -10,6 +10,7 @@
 
 		<script>
 			{{ if eq $.Site.Params.minify true }}{{ readFile "/themes/adventure/static/js/table-of-contents.min.js" | safeJS }}{{ else }}{{ readFile "/themes/adventure/static/js/table-of-contents.js" | safeJS }}{{ end }}
+			{{ if eq $.Site.Params.minify true }}{{ readFile "/themes/adventure/static/js/main.min.js" | safeJS }}{{ else }}{{ readFile "/themes/adventure/static/js/main.js" | safeJS }}{{ end }}
 		</script>
 	</body>
 </html>
