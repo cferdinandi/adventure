@@ -427,7 +427,7 @@ Eventually, players may want to leave Farfaria itself. They may attempt to cross
 
 ### Game Master Tips
 
-The *Game Master* has a big impact on how much fun *Adventure* is to play. [This video on Dungeons & Dragons GM Matt Mercer](https://www.youtube.com/watch?v=NCOHqWttXzs) is chock full of tips on how to be an awesome *Game Master*.
+The *Game Master* has a big impact on how much fun *Adventure* is to play. [This video on Dungeons & Dragons GM Matt Mercer](https://www.youtube.com/watch?v=NCOHqWttXzs) is chock full of tips on how to be an awesome *Game Master* (warning, some R-rated content in this video).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NCOHqWttXzs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
