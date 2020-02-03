@@ -431,6 +431,8 @@ The *Game Master* has a big impact on how much fun *Adventure* is to play. [This
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NCOHqWttXzs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+The key takeaway from the video: good *Game Mastering* is about vivid, animated storytellings.
+
 
 
 ## Ending the Game
