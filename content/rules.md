@@ -196,7 +196,7 @@ While much of *Adventure* is focused on exploring and problem solving, you can i
 
 - **Attack.** How strong their attacks are.
 - **Defend.** How good they are at defending attacks against them.
-- **Health Points.** How much damage they can take.
+- **Health Points (HP).** How much damage they can take.
 
 ### Starting the Battle
 

@@ -37,7 +37,7 @@
 		{{ range $villain := .Params.villains }}
 		{{ $stats := split $villain "||" }}
 
-		<li>{{ index $stats 0 }}{{ if (index $stats 1) }} - <em>Attack: {{ index $stats 1 }}{{ if (index $stats 2) }} &middot; Defend: {{ index $stats 2 }}{{ end }}{{ if (index $stats 3) }} &middot; Health Points: {{ index $stats 3 }}{{ end }}</em>{{ end }}</li>
+		<li>{{ index $stats 0 }}{{ if (index $stats 1) }} - <em>Attack: {{ index $stats 1 }}{{ if (index $stats 2) }} &middot; Defend: {{ index $stats 2 }}{{ end }}{{ if (index $stats 3) }} &middot; HP: {{ index $stats 3 }}{{ end }}{{ if (index $stats 4) }} &middot; Abilities: {{ index $stats 4 }}{{ end }}</em>{{ end }}</li>
 
 		{{- if false -}}
 		<li>{{ index $stats 0 }}{{ if (index $stats 1) }}: Attack - {{ index $stats 1 }}{{ end }}{{ if (index $stats 2) }}, Defend - {{ index $stats 2 }}{{ end }}{{ if (index $stats 3) }}, Health Points - {{ index $stats 3 }}{{ end }}</li>

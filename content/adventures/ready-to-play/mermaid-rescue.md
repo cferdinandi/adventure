@@ -9,7 +9,7 @@ map: "assets_mermaid-rescue.pdf"
 weight: 40
 premise: Down in Farfaria Harbor, a bottle pops up from the depths. There's note rolled up inside, and a cork firmly pushed into the top. You fish the bottle from the Harbor, open it up, and read the note. A mermaid has been kidnapped!
 details: The note is from Triton, king of the mermaids. "My daughter has been kidnapped by an evil sorcerer. If she's not rescued, the entire land of Farfaria is in grave danger."<br><br>"What's the danger," you wonder, "and where did the sorcerer take her?" It's up to you to rescue her.
-intro: This is a complicated, linear storyline with three separate acts containing multiple critical encounters. There's also a lot more room for world exploration and side-encounters than some of the other adventures.
+intro: This is a complicated, linear storyline with three separate acts containing multiple main encounters. There's also a lot more room for world exploration and bonus encounters than some of the other adventures.
 storyline:
 - After learning about the mermaid's disappearance, adventurers must locate the sorcerer who took her. They'll eventually find him in the Castle of the North.
 - After searching (and exploring) the castle, adventurers will locate the the sorcerer at the top of the East Tower. They attempt to fight him, but he escapes before the fight ends.
