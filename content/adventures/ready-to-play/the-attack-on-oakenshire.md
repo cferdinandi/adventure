@@ -15,10 +15,8 @@ storyline:
 - Next, the adventurers battle giant spiders in various locations as they make their way to the throne room where Lord Faelyn is being held.
 - The adventurers must optionally complete a puzzle to unlock the door to the throne room.
 - Once in, the adventurers battle the King Spider and several of his subjects to save Lord Faelyn.
-villains:
-- Giant Spider||1||1||2
-- Spider King||2||2||4
-npcs: ['Elves']
+villains: ['spider', 'spiderKing']
+npcs: ['elf']
 tips:
 - "*The Enchanted Door* encounter is a chance to get your players to participate in an out-of-game challenge. You can skip this for ease or to keep the game shorter if you want."
 startingEncounter: "Entering Oakenshire"

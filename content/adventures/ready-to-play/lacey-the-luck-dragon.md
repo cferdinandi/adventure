@@ -18,14 +18,8 @@ storyline:
 - They free a dragon held captive in a supply shop.
 - As an optional encounter, the adventurers can explore the caves and tunnels of Farfaria (on purpose, or while fleeing from the ogre or giant spider).
 - As an optional encounter, thieves can offer to buy a baby dragon from the adventurers. If the players refuse, the thieves later attempt a raid to steal one.
-villains:
-- Giant Spider||2||2||4
-- Ogre||3||2||4
-- Shopkeeper||1||1||2
-- Three-Headed Dog||3||3||3
-- Thief||1||1||3
-- Thief Leader||3||2||4
-npcs: ['Dragons']
+villains: ['spider', 'ogre', 'shopkeeper', 'threeHeadedDog', 'thief', 'thiefLeader']
+npcs: ['dragon', 'dragonBaby']
 tips:
 - After each encounter, the players' next task will be figuring out where to find the next baby dragon. You may need to provide help here in the form of suggestions or a non-player character.
 - After saving a baby dragon from the *Forest Vines*, *The Mountain Cliff*, or *The Supply Shop*, you can move players into one of the optional *Thieves Make an Offer* encounters if you want. If that happens, you can later introduce *The Thieves Raid*.

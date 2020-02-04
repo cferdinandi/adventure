@@ -32,30 +32,37 @@
 	<h2 id="creatures">Creatures</h2>
 
 	{{ if .Params.villains }}
-	<p class="margin-bottom-small"><strong>Villains:</strong></p>
-	<ul>
+	<h3 class="no-padding-top">Villains</h3>
+		<ul>
 		{{ range $villain := .Params.villains }}
-		{{ $stats := split $villain "||" }}
-
-		<li>{{ index $stats 0 }}{{ if (index $stats 1) }} - <em>Attack: {{ index $stats 1 }}{{ if (index $stats 2) }} &middot; Defend: {{ index $stats 2 }}{{ end }}{{ if (index $stats 3) }} &middot; HP: {{ index $stats 3 }}{{ end }}{{ if (index $stats 4) }} &middot; Abilities: {{ index $stats 4 }}{{ end }}</em>{{ end }}</li>
-
-		{{- if false -}}
-		<li>{{ index $stats 0 }}{{ if (index $stats 1) }}: Attack - {{ index $stats 1 }}{{ end }}{{ if (index $stats 2) }}, Defend - {{ index $stats 2 }}{{ end }}{{ if (index $stats 3) }}, Health Points - {{ index $stats 3 }}{{ end }}</li>
-		<li>
-			{{ index $stats 0 }}
-			{{ if (index $stats 1) }}
-			<ul>
-				<li>Attack: {{ index $stats 1 }}</li>
-				{{ if (index $stats 2) }}<li>Defend: {{ index $stats 2 }}</li>{{ end }}
-				{{ if (index $stats 3) }}<li>Health Points - {{ index $stats 3 }}</li>{{ end }}
-			</ul>
-			{{ end }}
-		</li>
-		{{- end -}}
+		{{ if (index $.Site.Data.creatures $villain) }}
+			{{ $stats := index $.Site.Data.creatures $villain }}
+			<li>
+				<strong>{{ index $stats 0 }}</strong> - Attack {{ index $stats 1 }} &middot; Defend {{ index $stats 2 }} &middot; HP {{ index $stats 3 }}{{ if (index $stats 4) }} - <em>{{ index $stats 4 | markdownify }}</em>{{ end }}
+			</li>
+		{{ else }}
+			<li class="text-title-case">{{ humanize $villain }}</li>
 		{{ end }}
-	</ul>
+		{{ end }}
+		</ul>
 	{{ end }}
-	{{ if .Params.npcs }}<p><strong>Non-Player Characters:</strong> {{ delimit .Params.npcs ", " }}</p>{{ end }}
+
+	{{ if .Params.npcs }}
+	<h3 class="no-padding-top">Non-Player Characters</h3>
+		<ul>
+		{{ range $npc := .Params.npcs }}
+		{{ if (index $.Site.Data.creatures $npc) }}
+			{{ $stats := index $.Site.Data.creatures $npc }}
+			<li>
+				<strong>{{ index $stats 0 }}</strong>{{ if (index $stats 4) }} - {{ index $stats 4 | markdownify }}{{ end }}
+			</li>
+		{{ else }}
+			<li class="text-title-case">{{ humanize $npc }}</li>
+		{{ end }}
+		{{ end }}
+		</ul>
+	{{ end }}
+
 	{{ end }}
 
 	{{ if .Params.tips }}

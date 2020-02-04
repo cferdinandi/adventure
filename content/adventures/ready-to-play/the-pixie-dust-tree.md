@@ -15,10 +15,8 @@ storyline:
 - The adventurers must decide if they want to go get more pixie dust from the Hunter Fairies first, or get water from the Sacred Stream.
 - The Hunter Fairies aren't sure if the adventurers are good or bad and attack them. Players must defend themselves without harming the fairies.
 - The Sacred Stream is filled with piranhas, and the surrounding woods are dangerous. They need to collect water without getting bit, and avoiding being caught.
-villains:
-- Pirate||2||1||3
-- Pirate Captain||4||2||4
-npcs: ['Fairies']
+villains: ['pirate', 'pirateCaptain']
+npcs: ['fairy']
 tips:
 - Depending on the skill level of your players, you may need to suggest that they ask the Elder Fairy where they can find more pixie dust, or have a non-player character step in to guide them to the Hunter Fairies.
 startingEncounter: Locate the Elder Fairy
