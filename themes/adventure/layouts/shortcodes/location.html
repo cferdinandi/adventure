@@ -2,6 +2,16 @@
 
 {{ .Inner }}
 
+{{ if .Get "map" }}
+<p class="margin-bottom-small"><strong>Map Reference:</strong></p>
+<ol>
+	{{ $references := split (.Get "map") "||" }}
+	{{ range $reference := $references }}
+	<li>{{ markdownify $reference }}</li>
+	{{ end }}
+</ol>
+{{ end }}
+
 {{ if .Get "encounters" }}
 <p class="margin-bottom-small"><strong>Encounter Ideas:</strong></p>
 <ul>

@@ -18,20 +18,8 @@ storyline:
 - After battling the challenges of the cave and retrieving the torch, the dwarf forges the players a key, and they free the mermaid.
 - The mermaid informs the adventurers that the sorcerer stole her magical shell, and will use it to unleash an army of sea creatures on Farfaria. She believes he's hiding in the Northern Mountains.
 - After navigating the mountains and battling various creatures that live there, the adventurers have a final battle with the sorcerer in his mountain hideout.
-villains:
-- Giant Spider||1||1||2
-- Broom||2||1||1
-- Ogre||3||2||4
-- Yeti||3||2||3
-- Hydra||3||3||3
-- Wolves||2||1||2
-- Giant Crab||3||2||4
-- Goblin||1||1||2
-- Goblin Warrior||2||1||3
-- Cyclops||3||2||4
-- Sorcer's Apprentice||2||2||3
-- Sorcerer||4||3||6
-npcs: ['The Old Man by the Sea', 'Mermaid', 'Knights', 'Townspeople', 'Centaur']
+villains: ['spider', 'broom', 'ogre', 'yeti', 'hydra', 'wolf', 'crab', 'goblin', 'goblinWarrior', 'cyclops', 'sorcerersApprentice', 'sorcerer']
+npcs: ['oldManOfTheSea', 'mermaid', 'knight', 'townfolk', 'centaur']
 tips:
 - The old man by the sea is actually a merfolk wizard who will reward adventurers with a special gift if they go on his side-adventure and retrieve the magical hook. Don't reveal this until the end.
 - If adventurers don't immediately know where to look for the sorcerer and begin wandering Farfaria looking for him, the optional encounters *Centaurs and Spiders*, *Drops of Silver*, and *Elves of the Eastern Grove* all provide opportunities to be guided to the Castle of the North by non-player characters.
