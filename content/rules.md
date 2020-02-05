@@ -225,8 +225,6 @@ Players can do these things in-combat, too, but they use their action for that t
 
 _Only one piece of equipment can be worn at a time. Each spell can only be cast once per&nbsp;battle._
 
-
-
 ### Attacks and Calculating Damage
 
 <p class="margin-bottom-small">Like all other actions in <em>Adventure</em>, attacks are determined by rolling dice.</p>
@@ -267,6 +265,24 @@ Each battle encounter also has an overall difficulty level.
 If players decide to flee instead of fight, they each roll to flee the battle. Normal die roll rules apply (their highest role must meet or exceed the difficulty level). Players who fail the die roll don't get away, and must fight or get captured.
 
 Players can choose to flee a battle at any time, including in the middle of one.
+
+### Multiple Attack Targets (Multi-Attack)
+
+Some creatures (like hydra and kraken) have the ability to attack multiple targets at once. This is called *Multi-Attack*.
+
+Split their dice by the number of targets they're going to attack. Their *Attack* number (the number of attack dice they roll) is the maximum number of targets they can attack at once.
+
+For example, the *hydra* has an *Attack* level of 3. If it were to attack two targets, it would roll two dice for one of them, and one die for the other. It could attack at the most three targets at once.
+
+All of the targets should be in close physical proximity to each other on the battlefield. It's up the the *Game Master* to make a decision about what logically makes sense in the context of the game.
+
+#### Players and Multi-Attack
+
+If a player rolls a *6 - Critical Success*, the *Game Master* may choose to have their character accidentally hit multiple targets near each other.
+
+> As you swing your sword, it strikes with such force that it throws the goblin into the the one standing next to him, knocking them both out.
+
+The *Game Master* can remove 3 health points from all targets, or split them among the villains.
 
 
 

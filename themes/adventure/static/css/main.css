@@ -673,6 +673,7 @@ h3,
 h4, h5, h6,
 .h4, .h5, .h6 {
   font-size: 1em;
+  padding-top: 0;
 }
 
 /**
@@ -682,7 +683,7 @@ h4, h5, h6,
  * 1. Add the correct box sizing in Firefox.
  * 2. Show the overflow in Edge and IE.
  */
-/* line 319, src/sass/components/_typography.scss */
+/* line 320, src/sass/components/_typography.scss */
 hr {
   border: 0;
   border-top: 1px solid #e5e5e5;
@@ -695,28 +696,28 @@ hr {
 }
 
 @media (prefers-color-scheme: dark) {
-  /* line 319, src/sass/components/_typography.scss */
+  /* line 320, src/sass/components/_typography.scss */
   hr {
     border-top-color: #808080;
   }
 }
 
-/* line 332, src/sass/components/_typography.scss */
+/* line 333, src/sass/components/_typography.scss */
 .line-secondary {
   width: 50%;
 }
 
-/* line 336, src/sass/components/_typography.scss */
+/* line 337, src/sass/components/_typography.scss */
 .line-clear {
   border-top-color: transparent;
 }
 
-/* line 340, src/sass/components/_typography.scss */
+/* line 341, src/sass/components/_typography.scss */
 .line-heading {
   position: relative;
 }
 
-/* line 343, src/sass/components/_typography.scss */
+/* line 344, src/sass/components/_typography.scss */
 .line-heading:after {
   background-color: #ffffff;
   content: attr(data-heading);
@@ -731,21 +732,21 @@ hr {
 }
 
 @media (min-width: 28em) {
-  /* line 357, src/sass/components/_typography.scss */
+  /* line 358, src/sass/components/_typography.scss */
   .line-heading[data-heading-small]:after {
     content: attr(data-heading-small);
   }
 }
 
 @media (min-width: 38em) {
-  /* line 363, src/sass/components/_typography.scss */
+  /* line 364, src/sass/components/_typography.scss */
   .line-heading[data-heading-medium]:after {
     content: attr(data-heading-medium);
   }
 }
 
 @media (min-width: 60em) {
-  /* line 369, src/sass/components/_typography.scss */
+  /* line 370, src/sass/components/_typography.scss */
   .line-heading[data-heading-large]:after {
     content: attr(data-heading-large);
   }
@@ -754,7 +755,7 @@ hr {
 /**
  * Prevent the duplicate application of `bolder` by the next rule in Safari 6.
  */
-/* line 378, src/sass/components/_typography.scss */
+/* line 379, src/sass/components/_typography.scss */
 b,
 strong {
   font-weight: inherit;
@@ -763,7 +764,7 @@ strong {
 /**
  * Add the correct font weight in Chrome, Edge, and Safari.
  */
-/* line 386, src/sass/components/_typography.scss */
+/* line 387, src/sass/components/_typography.scss */
 b,
 strong {
   font-weight: bolder;
@@ -773,7 +774,7 @@ strong {
  * 1. Remove the bottom border in Firefox 39-.
  * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
  */
-/* line 395, src/sass/components/_typography.scss */
+/* line 396, src/sass/components/_typography.scss */
 abbr[title] {
   border-bottom: none;
   /* 1 */
@@ -786,7 +787,7 @@ abbr[title] {
 /**
  * Address styling not present in Safari and Chrome.
  */
-/* line 404, src/sass/components/_typography.scss */
+/* line 405, src/sass/components/_typography.scss */
 dfn {
   font-style: italic;
 }
@@ -794,14 +795,14 @@ dfn {
 /**
  * Address styling not present in IE 8/9.
  */
-/* line 411, src/sass/components/_typography.scss */
+/* line 412, src/sass/components/_typography.scss */
 mark {
   background: #fbf9c9;
   color: #272727;
 }
 
 @media (prefers-color-scheme: dark) {
-  /* line 411, src/sass/components/_typography.scss */
+  /* line 412, src/sass/components/_typography.scss */
   mark {
     background: transparent;
     color: #ffffff;
@@ -811,7 +812,7 @@ mark {
 /**
  * Address inconsistent and variable font size in all browsers.
  */
-/* line 424, src/sass/components/_typography.scss */
+/* line 425, src/sass/components/_typography.scss */
 small {
   font-size: 80%;
 }
@@ -819,7 +820,7 @@ small {
 /**
  * Prevent `sub` and `sup` affecting `line-height` in all browsers.
  */
-/* line 431, src/sass/components/_typography.scss */
+/* line 432, src/sass/components/_typography.scss */
 sub,
 sup {
   font-size: 75%;
@@ -828,12 +829,12 @@ sup {
   vertical-align: baseline;
 }
 
-/* line 439, src/sass/components/_typography.scss */
+/* line 440, src/sass/components/_typography.scss */
 sup {
   top: -0.5em;
 }
 
-/* line 443, src/sass/components/_typography.scss */
+/* line 444, src/sass/components/_typography.scss */
 sub {
   bottom: -0.25em;
 }
@@ -841,7 +842,7 @@ sub {
 /**
  * Blockquotes
  */
-/* line 452, src/sass/components/_typography.scss */
+/* line 453, src/sass/components/_typography.scss */
 blockquote {
   border-left: 0.25em solid #e5e5e5;
   font-style: italic;
@@ -850,7 +851,7 @@ blockquote {
   padding-right: 1em;
 }
 
-/* line 460, src/sass/components/_typography.scss */
+/* line 461, src/sass/components/_typography.scss */
 blockquote cite {
   color: #808080;
   font-size: 0.9375em;
@@ -858,19 +859,19 @@ blockquote cite {
 }
 
 @media (prefers-color-scheme: dark) {
-  /* line 460, src/sass/components/_typography.scss */
+  /* line 461, src/sass/components/_typography.scss */
   blockquote cite {
     color: #e5e5e5;
   }
 }
 
-/* line 471, src/sass/components/_typography.scss */
+/* line 472, src/sass/components/_typography.scss */
 blockquote,
 q {
   quotes: none;
 }
 
-/* line 476, src/sass/components/_typography.scss */
+/* line 477, src/sass/components/_typography.scss */
 blockquote:before,
 blockquote:after,
 q:before,

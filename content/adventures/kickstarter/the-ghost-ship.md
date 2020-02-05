@@ -24,8 +24,8 @@ storyline:
 - They find the lost crew in a cavern in the tunnels. They got stuck down here, too.
 - After some additional exploring, the group finds an old wooden submarine in a semi-flooded part of the tunnel. Their ticket out of there!
 - On their way out, they're attacked by a kraken or some other sea monster.
-villains: ['Coconut Monster', 'Carnivorous Plant', 'Slime Monster', 'Tunnel Trolls', 'Kraken']
-npcs: ['The Ship Crew', 'A hermit']
+villains: ['coconutMonster', 'carnivorousPlant', 'slime', 'troll', 'kraken']
+npcs: ['crewShip']
 tips:
 - "The *Game Master* might want to have some symbol on the ship that also appears at the camp on the Lost Isle to tie together that it's the same crew."
 startingEncounter: "A mysterious ship drifts into Farfaria Harbor and runs aground. There doesn't seem to be anyone onboard."
