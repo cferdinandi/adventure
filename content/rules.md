@@ -45,12 +45,6 @@ I've created **[about a dozen premade characters](/downloads)** to choose from. 
 
 *If a player creates their own character, they should pick just one problem-solving ability*
 
-### Pets
-
-For added fun, each character can have a pet that accompanies them on their adventures and helps them along the way. This isn't required, but can add a fun dimension to the game.
-
-Pets can be small and sensible (a cat, dog, or woodland creature) or large and absurd (a dinosaur, dragon, or elephant).
-
 
 
 ## Starting the Game
@@ -333,7 +327,7 @@ A TGKO can happen if the difficulty of a particular challenge isn't properly bal
 
 <p class="margin-bottom-small">Some examples:</p>
 
-- A pet belonging to one of the players runs off and returns with healing potion, or a non-player character that can help.
+- A pet belonging to one of the players (see [House Rules](/house-rules#pets)) runs off and returns with healing potion, or a non-player character that can help.
 - Players awaken some unknown time later. The creature is gone, along with what they were looking for and a bunch of their gear and items.
 - Players awaken to find themselves trapped in a locked room, unsure of where they are or how they got there. They must use their skills and items they can find in there surroundings to escape.
 
