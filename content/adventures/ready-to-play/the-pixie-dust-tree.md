@@ -42,7 +42,7 @@ You tell him why you're there, and he wants to help. But first, he needs to make
 *How can you prove to him that you are truly helping the fairies and not trying to steal the dust for yourself?*
 {{%/encounter%}}
 
-{{%encounter order="c" title="Locate More Pixie Dust" tips="Players might try using tools like a Magic Map, use tracking skills, or ask for help." success="The players learn that there's a tribe of Hunter Fairies near the mountains in the Eastern Grove who have more pixie dust."%}}
+{{%encounter order="c" title="Locate More Pixie Dust" tips="Players might try using tools like a Magic Map, use tracking skills, or ask for help." ability="The players have heard rumors that there's another tribe of Faires near the mountains in the Eastern Grove.||-1" success="The players learn that there's a tribe of Hunter Fairies near the mountains in the Eastern Grove who have more pixie dust."%}}
 The fairy's village does not have the special blue dust, only yellow. How will you find more?
 {{%/encounter%}}
 
@@ -54,8 +54,8 @@ As you approach the border where the forest meets the mountains, you enter the t
 *How do you prove that you’re a friend, and protect yourself, without harming them?*
 {{%/encounter%}}
 
-{{%encounter order="b" title="Pirate Thieves!" optional="true" tips="Players can stand their ground and fight, or run away to safety" difficulty="-1" battle="One or two players: 3 pirates, 1 captain||Three to four players: 4 pirates, 1 captain||Five or more players: 6 pirates, 1 captain" success="Still in possession of your pixie dust, you continue on to your next destination." failure="You slowly recover from the attack as the pirates run off with your supply of pixie dust. Now, you have to choose: chase after them and try to get it back, or return to the village of the Hunter Fairies and beg for more?" %}}
-As you make your way toward your next destination, you hear rustling in the leaves to your left. Suddenly, a band of pirates emerges from the dark forest.
+{{%encounter order="b" title="Pirate Thieves!" optional="true" tips="Players can stand their ground and fight, or run away to safety" ability="You hear the rustling of leaves coming from the forest to your left." difficulty="-1" battle="One or two players: 3 pirates, 1 captain||Three to four players: 4 pirates, 1 captain||Five or more players: 6 pirates, 1 captain" success="Still in possession of your pixie dust, you continue on to your next destination." failure="You slowly recover from the attack as the pirates run off with your supply of pixie dust. Now, you have to choose: chase after them and try to get it back, or return to the village of the Hunter Fairies and beg for more?" %}}
+A band of pirates emerges from the dark forest.
 
 They've heard that you’re in possession of pixie dust, and want it for themselves. They attack you and try to steal the pixie dust.
 {{%/encounter%}}

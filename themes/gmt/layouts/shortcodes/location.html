@@ -1,0 +1,13 @@
+<h3>{{ .Get "title" }}</h3>
+
+{{ .Inner }}
+
+{{ if .Get "encounters" }}
+<p class="margin-bottom-small"><strong>Encounter Ideas:</strong></p>
+<ul>
+	{{ $encounters := split (.Get "encounters") "||" }}
+	{{ range $encounter := $encounters }}
+	<li>{{ markdownify $encounter }}</li>
+	{{ end }}
+</ul>
+{{ end }}

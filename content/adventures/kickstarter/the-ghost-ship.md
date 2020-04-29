@@ -31,7 +31,7 @@ tips:
 startingEncounter: "A mysterious ship drifts into Farfaria Harbor and runs aground. There doesn't seem to be anyone onboard."
 ---
 
-{{%location title="The Ship" map="The Captain's quarters||The Captain's office||Hatch to mid-deck||Steps to the bridge||Lifeboats||The helm||The kitchen and mess hall||The Second Mate's quarters||Storage closet||Storage Closet||Ladder to main deck||Hatch to the hold||The crew's sleeping hammocks||Jail cells||Storage closet||Storage closet||Ladder up to mid-deck||Main cargo hold||Secondary cargo hold"%}}
+{{%location title="The Ship"%}}
 An old-school wooden ship. Below deck is a kitchen and crews quarters. Below that is the hold. There's nothing in it to indicate that this is a transport vessel. You may want to let the adventurers have fun exploring this a bit, and scatter useful items around the ship.
 {{%/location%}}
 
@@ -45,13 +45,13 @@ For added flavor, perhaps an old hermit lives there.
 Either time or the actions of one of the players causes the island to start shaking violently. A giant turtle head pops out of the water, and the edges of the island lift out so that players can see that the "island" is actually a monstrously large turtle. They have to flee back to their ship before the turtle submerges with them still on it.
 {{%/location%}}
 
-{{%location title="The Lost Isle" map="Shipwreck Cove||Shipwreck Beach||The Big Lake||The Small Lake||The Forgotten Forest||The Cave of No Return||The Grasslands||Small Lake Beach||Quicksand Beach||Mount Wanahakaloogi" encounters="Attacked by coconut monsters||Encounter giant carnivorous plants||Get stuck in quicksand||Have to cross a river, a rickety old bridge, or something of that nature||Find an abandoned camp and evidence of the same people as from the ship||Discover the trap door or hidden tunnel entrance"%}}
+{{%location title="The Lost Isle"%}}
 This could be a tropical island (with palm trees) or a more temperate one (with pines, oaks, and maples). It's large enough that it would take an hour or two to explore the whole thing.
 
 The *Game Master* might also want to scatter some useful items or even natural resources throughout the island.
 {{%/location%}}
 
-{{%location title="The Tunnels" map="The cave entrance||A cavern with a series of ledges||A cavern with glowing mushrooms||Quicksand Cavern||A big space with collapsed rocks||A man-made bridge over a subterranean river||A pool of brackish water||A small puddle obscuring a trapdoor to the next level down||A 150-foot long slide descending at least 50 feet down into the cave system||A 30-foot deep pool of water to catch your fall||Spider den||More mushrooms||Another brackish pool||Stalactite cavern||A series of ledges and levels||A tunnel cave-in||A hidden tunnel tucked behind some rocks on the upper level||Electricity generating crystals||A long-lost wooden submarine" encounters="The slide to the depths||A mutant slime that attacks the players and tries to envelop them||A battle with living mushrooms or tunnel trolls||An obstacle like a steep drop or water-filled section of tunnel||Locating the missing crew||Discovering the submarine"%}}
+{{%location title="The Tunnels" encounters="The slide to the depths||A mutant slime that attacks the players and tries to envelop them||A battle with living mushrooms or tunnel trolls||An obstacle like a steep drop or water-filled section of tunnel||Locating the missing crew||Discovering the submarine"%}}
 These natural tunnels appear to be formed by water erosion or old lava flows. They're home to exotic creatures, and a weird, bioluminescent algae or mushrooms (it glows) that create a beautiful blue/green light.
 
 They're winding and asymmetrical. Some tunnels loop back on each other, while others are dead ends. At least one has a slide-like drop that brings players dozens of feet lower into the tunnel system.

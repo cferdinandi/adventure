@@ -5,7 +5,7 @@ draft: true
 readyToPlay: true
 duration: Long
 optional: false
-map: ""
+map: "assets_escape-from-the-volcano.pdf"
 weight: 30
 premise: You're enjoying lunch at the tavern when the door slams open, and an old man with disheveled hair and a long, white beard rushes into the room. "My son!" he exclaims. "He's been taken by the Fire Wizard!"
 details: The man is from the village on the other side of the Norther Mountains. The Fire Wizard was last seen disappearing with the boy into the tunnels underneath the giant volcano at the edge of their village.<br><br>The boy possesses a magical gift. If his hand is placed upon the Heart Stone located deep inside the volcano, it will cause it to erupt, burying the village in an ocean of lava.
@@ -28,17 +28,39 @@ tips:
 startingEncounter: ""
 ---
 
-{{%location title="" encounters=""%}}
-Location description...
-{{%/location%}}
+### The Volcano
 
-### Oakenshire
+{{%encounter order="a" title="Entrance to the Volcano" ability="" tips="" difficulty="" battle="" villains="" success="Beyond the opening of the cave, you spot a dark, winding tunnel. You can feel the heat of the volcano emanating from inside. You step into the tunnel." failure=""%}}
+As you approach the base of the volcano, you come across the entrance to a cave.
 
-{{%encounter order="a" title="" tips="" difficulty="" battle="" villains="" success="" failure=""%}}
+The opening has been completely sealed up with hardened lava, and it appears to be pretty new. It also appears to have been sealed from the inside, rather than from lava cascading down the side of the volcano.
+
+*How will you get inside?*
+{{%/encounter%}}
+
+{{%encounter order="b" title="Lava Pond" ability="" tips="If they're hopping from rock-to-rock, have the players stop in the middle when they encounter a large gap." difficulty="" battle="" villains="" success="You start moving across the pond, headed toward the tunnel on the other side." failure=""%}}
+As you move deeper into the volcano, you can feel the temperature rising. As you emerge around a bend in the tunnel, you come to a sudden stop.
+
+Ahead of you is a giant pond of lava, dotted with small rocks. The tunnel continues on the other end of the pond.
+
+*How will you get across?*
+{{%/encounter%}}
+
+{{%encounter order="c" title="The Gap in the Lava Pond" ability="You notice some rocky protrusions in the cave wall that you might be able to hold onto or hook a rope on." tips="" difficulty="" battle="" villains="" success="You continue across the lava pond, and breath a sigh of relief as your feet touch the ground on the opposite side." failure=""%}}
+Halfway across the pond, you encounter a large gap between the rocks. About 12 feet wide, it's too far to jump.
+
+*How do you continue across the pond?*
+{{%/encounter%}}
+
+{{%encounter order="d" title="Rope Bridge" ability="You notice that the bridge looks like its seen better days. The rope is thinning and frayed in places, and the wooden planks show signs of rot." tips="If too many players try to cross at once (or on an unsuccessful die roll), have the bridge start to collapse." difficulty="" battle="" villains="" success="Successfully across the bridge, you continue into the volcano." failure=""%}}
+Continuing down the tunnel, you come to a rope bridge spanning a river of lava.
+{{%/encounter%}}
+
+{{%encounter order="e" title="Rock Elemental" ability="" tips="" difficulty="" battle="" villains="" success="" failure=""%}}
 Encounter description...
 {{%/encounter%}}
 
-{{%encounter order="z" title="" tips="" difficulty="" battle="" villains="" success="" failure=""%}}
+{{%encounter order="z" title="" ability="" tips="" difficulty="" battle="" villains="" success="" failure=""%}}
 Encounter description...
 {{%/encounter%}}
 

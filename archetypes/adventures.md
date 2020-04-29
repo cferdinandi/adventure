@@ -23,11 +23,11 @@ Location description...
 
 ### Oakenshire
 
-{{%encounter order="a" title="" tips="" difficulty="" battle="" villains="" success="" failure=""%}}
+{{%encounter order="a" title="" ability="" tips="" difficulty="" battle="" villains="" success="" failure=""%}}
 Encounter description...
 {{%/encounter%}}
 
-{{%encounter order="z" title="" tips="" difficulty="" battle="" villains="" success="" failure=""%}}
+{{%encounter order="z" title="" ability="" tips="" difficulty="" battle="" villains="" success="" failure=""%}}
 Encounter description...
 {{%/encounter%}}
 

@@ -60,7 +60,7 @@ You look a short distance ahead and see about a dozen centaurs running away from
 
 ### 3. The Eastern Grove
 
-{{%encounter order="a" title="Drops of Silver" optional="true" success="You follow the drops for a few minutes before coming to a small opening in the forest. You look up and let out a small gasp. Just ahead is a beautiful unicorn, one hoof stuck in a trap."%}}
+{{%encounter order="a" title="Drops of Silver" optional="true" ability="You notice drops of silver liquid in the grass." success="You follow the drops for a few minutes before coming to a small opening in the forest. You look up and let out a small gasp. Just ahead is a beautiful unicorn, one hoof stuck in a trap."%}}
 As you make your way through the forest, you see drops of silver in the grass and leaves beneath your feet. They lead slightly off the path, between a small crop of trees.
 
 *Do you follow them, or continue on?*
@@ -82,13 +82,13 @@ An Elvish Guard stands on the path ahead, spear in hand. She instructs you to st
 
 ### 4. The Castle of the North
 
-{{%encounter order="a" title="Entering the Castle of the North" tips="Players can try to talk to the people in the castle, or explore some of the rooms."%}}
+{{%encounter order="a" title="Entering the Castle of the North" ability="You can't quite put your finger on it, but something feels *off* about the castle and the people in it. Everyone has a slightly dazed look in their eye." tips="Players can try to talk to the people in the castle, or explore some of the rooms."%}}
 The giant Castle of the North towers above you. Thankfully, the drawbridge is down. You cross it, and enter the castle courtyard. Knights and townspeople scurry about, busy with the day's tasks.
 
 There are two doors on either side of the courtyard. In the back left and back right corners are two tall, spiraling towers that provide visibility and protection against the threats of the Northern Mountains. In the middle of the courtyard is a cart, a traveling shop run by a woman selling exotic objects and magical spells.
 {{%/encounter%}}
 
-{{%encounter order="b" title="Room 1" tips="The *Game Master* might choose to let adventurers discover useful items in the room."%}}
+{{%encounter order="b" title="Room 1" ability="Red markings on one of the maps catches your eye. You notice that Farfari Harbor has a circle around it. Two words are scribbled next to it: East Tower.||-1" tips="The *Game Master* might choose to let adventurers discover useful items in the room."%}}
 You walk through the door into the first room on the right. There's a table and chairs, and some maps on the wall. Clearly, this is a meeting space of some sort. To the left is a narrow hallway that leads to another room. The space is otherwise empty.
 {{%/encounter%}}
 
@@ -200,10 +200,8 @@ You've just come across a deep crevice plunging into the darkness. It's about te
 Suddenly, you hear howling from the tunnel to your left. Wolves!
 {{%/encounter%}}
 
-{{%encounter order="f" title="Underwater" tips="Players should try to get through the tunnel at the bottom. All adventurers must complete this challenge individually. To heighten tension, if some adventurers have made it and others have not yet, you can act as if the successful adventurers don't know what happened to the rest of their group." difficulty="-2" success="You're soaking wet and out of breath, but you made it. You keep walking into the darkness."%}}
+{{%encounter order="f" title="Underwater" ability="Staring into the gloom, you notice what appears to be a small opening at the bottom of the pool, along the far wall. You don't know what's on the other side." tips="Players should try to get through the tunnel at the bottom. All adventurers must complete this challenge individually. To heighten tension, if some adventurers have made it and others have not yet, you can act as if the successful adventurers don't know what happened to the rest of their group." difficulty="-2" success="You're soaking wet and out of breath, but you made it. You keep walking into the darkness."%}}
 You come to a murky pool of water. It looks to be about 15 feet deep. Directly ahead of you is a solid wall of rock.
-
-Staring into the gloom, you notice what appears to be a small opening at the bottom of the pool, along the far wall. You don't know what's on the other side.
 {{%/encounter%}}
 
 {{%encounter order="g" title="The Giant Crab" difficulty="-2" battle="A Giant Crab" success="With the terrifying crab out of the way, you race out of the room and down the next tunnel. (*If applicable, don't forget to grab the hook.*)"%}}
@@ -264,7 +262,7 @@ You look down, and notice that the bridge is in a horrible state of disrepair.
 Many of the wooden planks are rotted. You're not sure they'll hold your weight. Others are missing entirely. The entire structure is listing to the right, victim to erosion and the forces of nature.
 {{%/encounter%}}
 
-{{%encounter order="b" title="The Apprentices" tips="" difficulty="-3" battle="Up to three adventurers: 3 Apprentices||Four or more adventurers: 6 Apprentices" success="The room secured, you notice a door you hadn't seen before. Thick vegetation grew down from what was left of the rotting ceiling, blocking most of it from view. You look at the hinges, and notice fresh metal underneath, where the grime was scraped off from someone opening the door."%}}
+{{%encounter order="b" title="The Apprentices" ability="In the shadows, you detect movement out the corner of your eye." difficulty="-3" battle="Up to three adventurers: 3 Apprentices||Four or more adventurers: 6 Apprentices" success="The room secured, you notice a door you hadn't seen before. Thick vegetation grew down from what was left of the rotting ceiling, blocking most of it from view. You look at the hinges, and notice fresh metal underneath, where the grime was scraped off from someone opening the door."%}}
 You step through the collapsed entryway and glance around. The room smells of wet earth and decay.
 
 Directly ahead of you is what's left of a stone wall. To the left, another half-collapsed wall. In the back corner is what was perhaps a closet or supply room.
