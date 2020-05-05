@@ -51,19 +51,33 @@ For a *partial success (3)*, the item may also not work quite as expected.
 
 
 
+## Animorph
+
+Animorph lets an adventurer turn into an animal for a random number of turns.
+
+Here's how it works:
+
+1. The adventurer announces the animal they want to transform into.
+2. They roll a die, and turn into the animal for that many turns. They *cannot* transform back until that number of turns has passed.
+3. After they transform back into human form, they must wait one turn before they can use animorph again.
+
+The adventurer will pick up all of the benefits and limitations of the animal they choose. For example, if they chose a turtle, they may have added protection during a battle, but move far more slowly if they choose to flee.
+
+You can choose to make this a spell that needs to be case, or a piece of equipment that has magical properties.
+
+
+
 ## Random Effects
 
 One way to make the game more interesting is to add random effects for certain [equipment, items, or spells](/rules/#equipment-spells-items).
 
-For example, adventurers may find an unlabeled potion in an abandoned camp. If they choose to take the potion, roll a die to determine what happens.
+For example, adventurers may find an unlabeled talisman in an abandoned camp. If they choose to use the talisman, roll a die to determine what happens.
 
-| Roll | Effect                    |
-|------|---------------------------|
-| 1/2  | Fall into a magical sleep |
-| 2/4  | Gain strength for 1 turn  |
-| 5/6  | Gain flight for 3 turns   |
-
-*__Note:__ if your players are young, make sure you talk to them very seriously about the dangers of eating or drinking something when you don't know what it is.*
+| Roll    | Effect                    |
+|---------|---------------------------|
+| 1&#47;2 | Fall into a magical sleep |
+| 2/4     | Gain strength for 1 turn  |
+| 5/6     | Gain flight for 3 turns   |
 
 
 
