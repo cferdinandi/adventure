@@ -19,7 +19,7 @@ noIndex: true
 
 Quill is an eccentric little forest gnome bard. After leaving his forest village to go on an adventure, he discovered that he also loves the coast and sea.
 
-His mess hair and beard are decorated with shells, charms, gems, and colorful thread&mdash;each a souvenir from an adventure he's been on.
+His messy hair and beard are decorated with shells, charms, gems, and colorful thread&mdash;each a souvenir from an adventure he's been on.
 
 As a forest gnome, he has an innate love for small animals, furry and otherwise. Everywhere he travels, he’s likely to have a squirrel or bunny (or, while at sea, a crab or ship rat) by his side.
 
