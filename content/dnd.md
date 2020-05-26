@@ -27,6 +27,38 @@ His messy hair and beard are decorated with shells, charms, gems, and colorful t
 
 As a forest gnome, he has an innate love for small animals, furry and otherwise. Everywhere he travels, he’s likely to have a squirrel or bunny (or, while at sea, a crab or ship rat) by his side.
 
+<details>
+<summary><strong>Backstory</strong></summary>
+{{%md%}}
+Quill is uncharacteristically enthusiastic for a forest gnome.
+
+Usually quiet and private, Quill loves to meet new creatures of all (err… most) races, trade stories, and sing songs. Tired of feeling like a misfit among his people, Quill left his idyllic village, and struck out in search of adventure and new companions.
+
+After wandering from town to town for a decade or so, Quill found himself at a seaside hamlet, where he discovered a love of the ocean (and the wonderful little creatures that live there).
+
+He took up work aboard a merchant ship (sometimes legit, sometimes a bit below the law) as a deckhand and onboard entertainment.
+
+Having spent the last 18 years traveling throughout the known land (and seas), Quill’s in search of a new adventure.
+{{%/md%}}
+</details>
+
+<details>
+<summary><strong>Personality</strong></summary>
+{{%md%}}
+Quill has a lust for life that’s more common of rock gnomes than forest. He’s a bit too enthusiastic at times (imagine a puppy that chugged a RedBull), and his biggest passion beyond meeting new people is chocolate.
+
+Nearly two decades as a sailor’s has given Quill a flavorful language would make his kinfolk blush. He’s not much for grog, but he does love a good berry wine.
+
+As a forest gnome, he has an innate love for small animals, furry and otherwise. Everywhere he travels, he’s likely to have a squirrel or bunny (or, while at sea, a crab or ship rat) by his side.
+
+Despite his outgoing nature, forest gnomes aren’t a particularly common sight. They generally avoid outsiders. As a result, people don’t always know what to make of Quill, the hyperactive little gnome that can talk to animals.
+
+His biggest fear in life is feeling like an outcast.
+
+Also, running out chocolate. He’ll happily face down dragons and giants, but gods help him if he runs out of chocolate.
+{{%/md%}}
+</details>
+
 ## Instruments
 
 1. A flute made from a tree branch
