@@ -14,11 +14,11 @@ noIndex: true
 - **Race:** Forest Gnome
 - **Class:** Bard
 - **Alignment:** Neutral Good
-- **Age:** 137
+- **Age:** 137 (equivalent to a human in their mid-30s)
 - **Height:** 2’9 (0.8m)
 - **Weight:** 32lbs (14.5kg)
 - **Eyes:** Blue 
-- **Hair:** Brown and unkempt
+- **Hair:** Brown and unkempt, with a bit of salt-and-pepper
 - **D&D Character Sheet:** https://www.dndbeyond.com/characters/29119172
 
 Quill is an eccentric little forest gnome bard. After leaving his forest village to go on an adventure, he discovered that he also loves the coast and sea.
