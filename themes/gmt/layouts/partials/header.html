@@ -33,6 +33,17 @@
 		<!-- Stylesheet -->
 		<style type="text/css">
 			{{ if eq $.Site.Params.minify true }}{{ readFile "/themes/gmt/static/css/main.min.css" | safeCSS }}{{ else }}{{ readFile "/themes/gmt/static/css/main.css" | safeCSS }}{{ end }}
+			.print-only {
+				display: none;
+			}
+			@media print {
+				.print-only {
+					display: block;
+				}
+				.type-adventures details {
+					display: none;
+				}
+			}
 		</style>
 
 		<!-- Font Loading -->
