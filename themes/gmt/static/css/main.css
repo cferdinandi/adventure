@@ -996,6 +996,16 @@ textarea:focus {
 }
 
 /**
+ * Condensed inputs
+ */
+.input-condensed {
+	line-height: 1;
+	padding-top: 0.125em;
+	padding-bottom: 0.125em;
+	vertical-align: top;
+}
+
+/**
  * Search
  */
 /**

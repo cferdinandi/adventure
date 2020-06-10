@@ -9,7 +9,8 @@
 		</footer>
 
 		<script>
-			{{ if eq $.Site.Params.minify true }}{{ readFile "/themes/gmt/static/js/tableOfContents.min.js" | safeJS }}{{ else }}{{ readFile "/themes/gmt/static/js/table-of-contents.js" | safeJS }}{{ end }}
+			{{ if eq $.Site.Params.minify true }}{{ readFile "/themes/gmt/static/js/tableOfContents.min.js" | safeJS }}{{ else }}{{ readFile "/themes/gmt/static/js/tableOfContents.js" | safeJS }}{{ end }}
+			{{ if eq .URL "/adventure-app/" }}{{ if eq $.Site.Params.minify true }}{{ readFile "/themes/gmt/static/js/app.min.js" | safeJS }}{{ else }}{{ readFile "/themes/gmt/static/js/app.js" | safeJS }}{{ end }}{{ end }}
 		</script>
 	</body>
 </html>

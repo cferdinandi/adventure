@@ -19,7 +19,7 @@ noIndex: true
 - **Weight:** 32lbs (14.5kg)
 - **Eyes:** Blue 
 - **Hair:** Brown and unkempt, with a bit of salt-and-pepper
-- **D&D Character Sheet:** https://www.dndbeyond.com/characters/29119172
+- **D&D Character Sheet:** https://www.dndbeyond.com/characters/29956392
 
 Quill is an eccentric little forest gnome bard. After leaving his forest village to go on an adventure, he discovered that he also loves the coast and sea.
 
@@ -51,6 +51,10 @@ Nearly two decades as a sailor’s has given Quill a flavorful language would ma
 
 As a forest gnome, he has an innate love for small animals, furry and otherwise. Everywhere he travels, he’s likely to have a squirrel or bunny (or, while at sea, a crab or ship rat) by his side.
 
+Quill entertains through word and song. His best stories are in musical form.
+
+His natural talent for minor illusions also makes him quite the showman, allowing him to perform feats of seeming magic by creating convincing illusions.
+
 Despite his outgoing nature, forest gnomes aren’t a particularly common sight. They generally avoid outsiders. As a result, people don’t always know what to make of Quill, the hyperactive little gnome that can talk to animals.
 
 His biggest fear in life is feeling like an outcast.
@@ -63,20 +67,15 @@ Also, running out chocolate. He’ll happily face down dragons and giants, but g
 
 1. A flute made from a tree branch
 2. A conch shell horn
-3. A small lute
 
 <div class="row">
-	<div class="grid-third margin-bottom">
+	<div class="grid-half margin-bottom">
 		<div class="text-muted text-small">1. Flute</div>
 		<img alt="" src="/img/dnd/flute.jpg">
 	</div>
-	<div class="grid-third margin-bottom">
+	<div class="grid-half margin-bottom">
 		<div class="text-muted text-small">2. Horn</div>
 		<img alt="" src="/img/dnd/conch-horn.jpg">
-	</div>
-	<div class="grid-third margin-bottom">
-		<div class="text-muted text-small">3. Lute</div>
-		<img alt="" src="/img/dnd/lute.jpg">
 	</div>
 </div>
 
