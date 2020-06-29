@@ -1626,4 +1626,20 @@ blockquote {
 img {
 		page-break-inside: avoid;
 	}
+
+	/**
+	 * Hide header and footer nav, and email subscribe form
+	 */
+	header .nav,
+footer,
+main aside form {
+		display: none;
+	}
+
+	/**
+	 * Remove body border
+	 */
+	body {
+		border-top: none;
+	}
 }
