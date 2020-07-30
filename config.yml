@@ -4,7 +4,6 @@ baseURL: "https://kitchentableadventure.com"
 # Customer parameters
 params:
   description: "A simplish, imagination-based kitchen table RPG."
-  font: "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i&display=swap"
   rssURL: ""
   rssLimit: 7
   minify: false
