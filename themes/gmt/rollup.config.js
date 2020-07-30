@@ -5,7 +5,7 @@ import pkg from './package.json';
 
 // Configs
 var configs = {
-	files: ['tableOfContents.js', 'fonts.js', 'app.js'],
+	files: ['tableOfContents.js', 'fonts.js', 'app.js', 'swInit.js'],
 	formats: ['iife'],
 	default: 'iife',
 	pathIn: 'src/js',
