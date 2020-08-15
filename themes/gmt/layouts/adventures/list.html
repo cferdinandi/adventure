@@ -2,7 +2,7 @@
 
 	{{ partial "content-page.html" . }}
 
-	<h2>Ready-to-Play</h2>
+	<h2 id="ready-to-play">Ready-to-Play</h2>
 
 	<p>Each one includes notes for the <em>Guide</em>, printable maps, and detailed encounters.</p>
 
@@ -20,7 +20,7 @@
 	</ul>
 	{{- end -}}
 
-	<h2>Kickstarters</h2>
+	<h2 id="kickstarters">Kickstarters</h2>
 
 	<p>These include a story outline, major encounter ideas, and maps. You fill in the details and create your own story.</p>
 
@@ -30,7 +30,17 @@
 		{{- end -}}
 	</ul>
 
-	<h2>Ideas</h2>
+	<h2 id="third-party">Third-Party</h2>
+
+	<p>You can use the <em>Adventure</em> rule system with other RPGs. Here are some that have interesting stories and helpful <em>Game Master</em> guides.</p>
+
+	<ul class="list-spaced">
+		{{- range $.Site.Data.thirdparty -}}
+		<li><strong><a href="{{ index . 1 }}">{{ index . 0 }}.</a></strong> {{ index . 2 | safeHTML }}</li>
+		{{- end -}}
+	</ul>
+
+	<h2 id="ideas">Ideas</h2>
 
 	<p>Here are some adventure ideas I haven't had time to write yet.</p>
 

@@ -1,7 +1,7 @@
 ---
 title: "Adventure App"
 date: 2018-01-11T16:03:33-05:00
-draft: false
+draft: true
 ---
 
 Get a new, randomly generated adventure every time you play.
