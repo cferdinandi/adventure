@@ -34,16 +34,8 @@
 		<style type="text/css">
 			{{ readFile "/themes/gmt/static/css/fonts.css" | safeCSS }}
 			{{ if eq $.Site.Params.minify true }}{{ readFile "/themes/gmt/static/css/main.min.css" | safeCSS }}{{ else }}{{ readFile "/themes/gmt/static/css/main.css" | safeCSS }}{{ end }}
-			.print-only {
-				display: none;
-			}
-			@media print {
-				.print-only {
-					display: block;
-				}
-				.type-adventures details {
-					display: none;
-				}
+			.text-uppercase {
+				text-transform: uppercase;
 			}
 		</style>
 

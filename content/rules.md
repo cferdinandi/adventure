@@ -4,457 +4,230 @@ date: 2018-01-11T16:03:33-05:00
 draft: false
 ---
 
-Every game of *Adventure* follows a three-part structure:
-
-1. **A problem arises** that needs the help of a group of adventurers.
-2. The group has **a series of encounters** as they try to solve the problem.
-3. Once resolved, **a conclusion** ties off all the loose ends, and the adventurers are given a reward or find a prize for their efforts.
-
+In Adventure, players work together to overcome challenges, battle ferocious monsters, explore new worlds, discover hidden treasures, and, hopefully, save the day.
 
 <div data-toc="Table of Content"></div>
 
 
-## The Game Master
 
-Each game needs a *Game Master* (or *GM*) to run the game.
+## How it works
 
-This person is generally not a player themselves. They introduce the problem, guide players through encounters, and introduce challenges in response to player actions.
+The game follows a simple pattern.
 
-As the *Game Master*, its your job to keep the pacing, action, and suspense at the right level for the skills and age-level of your players.
+1. The _Game Master_ (or _GM_, the person running the game) describes a situation.
+2. The player or players state what they want to do.
+3. The GM describes what happens.
 
+The most important phrase in Adventure is, "What do you do?"
 
+{{<callout title="Example">}}
+**GM:** "You approach a bridge. There are boards missing in places, and the ones that remain appear old and rotted. What do you do?"
 
-## Picking a Character
+**Player:** "I try to walk across, carefully checking for loose boards as I go."
 
-Each player picks a character to represent them on their adventures (this is what makes *Adventure* an RPG, or *role-playing game*).
+**GM:** "As you're walking across, one of the boards starts to break under your feet. As you scramble across, the entire bridge begins to collapse. What do you do?"
 
-I've created **[about a dozen premade characters](/downloads)** to choose from. Players can also create their own using the templates included with the character list.
+**Player:** "I try to jump to the other side before the whole bridge falls down."
 
-*Players may want to use a toy, figurine, or paper cut-out to represent their character while they play.*
+**GM:** "You push off the breaking board with all of your might, catching the ledge with your fingers and hoisting yourself over the edge. The bridge falls into the chasm below you. But as you do, your sword falls out of your hilt and drops onto a ledge about 20 feet down. What do you do?"
+{{</callout>}}
 
-### Skills & Abilities
 
-<p class="margin-bottom-small">Each character has <strong>a problem-solving ability</strong> that impact how they solve problems and battle foes.</p>
 
-- Strength
-- Speed/Dexterity
-- Wisdom
-- Charisma
+## What you need to play
 
-**Players can also add additional open-ended skills of their choosing.** This can include things like tracking, hand-to-hand combat, or acrobatics. It can also be silly things that give the character more depth, like yodeling.
+1. **A set of polyhedral dice.** Adventure uses the following dice: D4, D6, D8, D10, and D20. If you don't have any, [you can roll digital dice here](https://www.wizards.com/dnd/dice/dice.htm).
+2. **Character sheets.** You can print them out from [the downloads page](/downloads).
+3. **Your imagination.** The most important part!
 
-*If a player creates their own character, they should pick just one problem-solving ability*
+You might want to keep a pen and notebook handy, but it's not at all required to play.
 
+_Dice are described using D* naming, where * is the number of sides the die has. For example, a standard six-sided die is a D6. A die with eight sides is a D8._
 
 
-## Starting the Game
 
-The first time you play, the *Game Master* should introduce the world to the&nbsp;players.
+## Creating a Character
 
-You can create any type of fantasy world you want, but I've put together an imaginary land, **[Farfaria](/farfaria/)**, that you can use with my premade adventures. An intro is included with each adventure.
+Every player creates a character to play in the game.
 
-### Introducing the Situation
+The [downloads section](/downloads) includes printable character sheets to guide you through the process. You'll also reference them throughout the game.
 
-At the start of each game, a problem arises that needs the help of a group of adventurers. The *Game Master* reads the game introduction to the players.
+### 1. Picking a class
 
-Feel free to use toys, props, sketches/drawings, and fun voices to add to the excitement and mystery.
+A class is a bit like a job or way of life.
 
-Here's an example from **[Lacey the Luck Dragon](/adventures/lacey-the-luck-dragon/)**:
+Each class comes with unique features and abilities. Classes are designed to be customized and tailored to fit whatever kind of character you want to be.
 
-> Lacey the Luck Dragon protects the forest from invaders. While out looking for food, her five baby dragons wandered off, and she can’t find them. She’s worried sick, and wants your help in locating them.
->
-> Can you help her?
+- **Fighter.** Skilled with armor and a wide range of weapons, fighters are athletic warriors. *ex. Barbarian, Soldier, Samurai, Knight, Superhero*
+- **Wizard.** Masters of magic, wizards can do stuff like shoot fireballs from their hands, teleport, and create illusions. *ex. Wizard, Witch, Sorcerer, Warlock, Mystic, Enchanter*
+- **Druid.** Sharing a deep connection with nature, druids can control the elements and even transform into animals. *ex. Druid, Ranger, Shapeshifter*
+- **Rogue.** Quick on their feet and skilled at stealth, rogues move in the shadows and operate behind the scenes. *ex. Thief, Robin Hood, Ninja, Spy*
+- **Bard.** Talented and outgoing, bards weave a touch of magic into every performance. *ex. Musician, Storyteller, Fire Breather, Diplomat*
 
-Once your adventurer's answer "yes," you can provide more details.
+### 2. Picking a name and ancestry
 
-> The babies just learned to fly, and aren’t very good at it. For protection, baby luck dragons can turn themselves invisible, making them hard to find. Baby dragons screech, scratch stuff with their claws, accidentally burn things, and smell like wet&nbsp;dog.
->
-> Lacey gives you a satchel of gold coins to help you on your journey.
+Your ancestry is your background and the type of creature you are.
 
-### The Starting Encounter
+You can be a human, of course. But you can also be any other sort of fantastical creature you'd like: an elf, gnome, fairy, dragon, and more. The only limit here is your imagination.
 
-Each adventure has a starting encounter that sends your adventurers on their quest. In *Lacey the Luck Dragon*, players need to locate the first baby dragon.
+And your name is, well... your name!
 
-> Lacey has provided some basic information about her babies and how they behave. You also have various skills and items at your disposal.
->
-> How will you locate the first baby dragon?
+### 3. Assigning your stats
 
+Just like in real life, every character is good at some things and not-so-good at others.
 
+Stats are broad categories that you assign a number value to. Positive numbers are things you're good at, and negative numbers are things you bad at. The higher the number, the better you are at that thing (and vice-versa).
 
-## Actions and Deciding Outcomes
+Your stats affect how easy or hard certain tasks are for your in the game.
 
-<p class="margin-bottom-small">The outcome of every action that a player takes is decided with a roll of the dice.</p>
+- **Strength (STR).** Athletics, Feats of Strength
+- **Dexterity (DEX).** Acrobatics, Slight of Hand, Stealth
+- **Constituation (CON).** Endurance, Stamina, Concentration
+- **Intelligence (INT).** Knowing Things, Book Smarts
+- **Wisdom (WIS).** Perceiving Things, Street Smarts
+- **Charisma (CHA).** Deception, Persuasion, Performance
 
-- Start with a base die.
-- Add one die for each relevant skill, tool, spell, or item the player wants to use.
+When you start the game, take the following numbers and assign each one to a stat: +2, +1, +1, 0, -1, -1.
 
-**The highest number rolled determines the outcome.** For every 6 rolled, add 1 to your total.
+{{<callout title="Example">}}
+Quill is a Gnome Bard with the following stats:
 
-| Roll | Result           | What it means |
-|------|------------------|---------------|
-| 1    | Critical Failure | "No, and..."  |
-| 2    | Failure          | "No"          |
-| 3    | Partial Success  | "Yes, but..." |
-| 4/5  | Success          | "Yes"         |
-| 6+   | Critical Success | "Yes, and..." |
+<ul class="list-columns">
+	<li><strong>STR:</strong> -1</li>
+	<li><strong>DEX:</strong> +1</li>
+	<li><strong>CON:</strong> +1</li>
+	<li><strong>INT:</strong> 0</li>
+	<li><strong>WIS:</strong> -1</li>
+	<li><strong>CHA:</strong> +2</li>
+</ul>
 
-The *Game Master* determines what side effects happen from Critical Failures, Partial Successes, and Critical Successes.
+Based on these stats, he's very charismatic and quick on his feet, but he's not very strong. He has a low WIS score, so he's also pretty aloof and spacey.
+{{</callout>}}
 
-*Adventure uses basic six-sided dice, often called D6's in the RPG community.*
+### 4. Pick your features
 
-### Example die rolls
+Every class starts with a handful of features, skills and traits that make you unique.
 
-Let's revisit our example with *Lacey the Luck Dragon*. The group needs to figure out where to go looking for the first baby dragon.
+Classes that know magic&mdash;the Wizard, Druid, and Bard&mdash;also get to pick one or two additional _Advanced Features_ at the start.
 
-**Example 1: Tracking Skills**
+You can also create your own _Ancestry Feature_. This is a feature that relates specifically to your chosen ancestry. A fairy might have the ability to fly short distances. A dragon might have a fire breathing feature. A gnome might be able to hide really well.
 
-One player decides to try tracking the baby dragons in the forest by looking for burn marks and scratches on the tree, and listening for screeches.
+As you progress in the game, you'll pick up additional features that let you customize your character even more and give them new ways to play.
 
-The player is a Druid with *Knowledge* as their problem-solving ability. They also gave themselves a tracking skill. They get one base die, plus two bonus die, for a total of three.
+### 5. Pick your gear
 
-Their highest roll is a *4 - Success*, so they find a dragon.
+Every adventurer needs gear.
 
-**Example 2: Charisma**
+In addition to unique features, every character starts the game with class-specific equipment. Bard's get an instrument. Fighters get to choose from an assortment of weapons. Wizards get a spellbook.
 
-Another player decides to ask a local they found near Lacey's cave if they saw anything.
+The character sheet includes a list of options for each class. You can also choose a personal trinket, something small and unique to your character. Totally optional.
 
-The player is a pirate with a *Charismatic* problem-solving ability. They get one base die plus one bonus die, for a total of two.
 
-Their highest roll is a *1 - Critical Failure*. Not only does the local not tell the player anything, but he turns out to be a thief who steals something from the player.
+## Rolling dice to learn what happens
 
-**Example 3: Using Pets**
+For most player actions, what happens is decided by rolling a 20-sided die, called a D20.
 
-One player has a pet owl that they're going to use to look for baby dragons.
+To determine the outcome of an action, a player rolls a D20 and adds one of their stat modifiers based on what they're trying to do. The GM will tell you which stat to use.
 
-They're a viking with a *Strength* problem-solving ability, and also play to climb a tree and look with the owl. They get one base die, plus a base die for *Strength* and another for using the owl. They roll three dice.
+| Roll | Outcome         | What it means                         |
+|------|-----------------|---------------------------------------|
+| 18+  | Success         | The player's action works as planned  |
+| 9-17 | Partial Success | The players action works, with a cost |
+| 8-   | Failure         | The player's action doesn't work      |
 
-Their highest roll is a *6 - Critical Success*. They find a baby dragon, and notice a stash of supplies they can use on their adventure.
+_**Don't have a D20?** [You can roll digital dice here.](https://www.wizards.com/dnd/dice/dice.htm)_
 
+{{<callout title="Examples">}}
+**The player is trying to convince a wealthy noble that they're a distance relative.** This is an act of deception. They roll a D20, and add their CHA stat.
 
+- On 18 or above, the noble believes them, offering them a room in their palace and a feast in their honor.
+- On a 9 to 17, the noble reluctantly believes them, but secretly sends someone to look into their background.
+- On an 8 or less, the noble becomes angry, and has them arrested.
 
-## Encounters & Modifiers
+**The player is trying to run across a collapsing old bridge.** This requires dexterity. They roll a D20, and add their DEX stat.
 
-Every game or adventure is made up of a series of encounters.
+- On an 18 or above, they run across and leap safely to the other side just as the bridge collapses.
+- On a 9 to 17, they leap safely to the other side, but drop their weapon into the canyon.
+- On an 8 or less, the bridge collapses under their feet.
+{{</callout>}}
 
-In some adventures, those encounters are linear and need to follow a specific path, with one encounter leading to the next. In others, they're non-linear, and players can explore more openly as long as they complete all of their tasks.
 
-<p class="margin-bottom-small"><em>Lacey the Luck Dragon</em> is a non-linear adventure. The encounters include things like:</p>
 
-- Rescuing a baby dragon from a cave with a sleeping ogre
-- Saving a dragon from the edge of a mountain side cliff
-- Convincing a shopkeep to free a baby dragon they have trapped in a cage
+## Combat
 
-### Difficulty Modifiers
+Combat in Adventure works just like any other player action.
 
-Just like in real life, some encounters are easier than others. To account for this, encounters have a *Difficulty Modifier* that's added to or subtracted from the highest die roll.
+- The player says what they want to do, rolls a D20, and adds their modifier
+- The GM describes what happens as a result
 
-For example, convincing a shopkeep to free the dragon might have a *Difficulty* of *-2*. You would subtract two from the highest die roll before determining your success.
+Attacks with a melee or up-close weapon (swords, axes, and such) use the STR stat. Ranged or far-away attacks (using a spear, bow, and so on) use the DEX stat. Similar, blocking uses STR, while dodging uses DEX.
 
-If the player's highest roll was a 5, their final number would be 3.
+{{<callout title="Examples">}}
+**The player is trying to hit an ogre with their sword.** This is a feat of strength. They roll a D20, and add their STR stat.
 
-*Positive difficulty modifiers are added to the total instead. For simple, low difficulty actions, the Game Master can choose to skip a die roll and just continue the story.*
+- On 18 or above, the sword hits, causing the ogre to scream and stumble back a few feet.
+- On a 9 to 17, the sword hits, but the ogre swings at them at the same time slams its fist into their shoulder.
+- On an 8 or less, the sword misses, slamming into the ground beside the ogre.
 
-### Open-Ended Problem Solving
+**A troll throws a giant boulder at the player, and they attempt to jump out of the way.** This requires dexterity. They roll a D20, and add their DEX stat.
 
-Encounters do not typically have a single prescribed solution.
+- On an 18 or above, the jump out of the way, and the boulder bounces off into the distance.
+- On a 9 to 17, they leap out of the way, but the boulder catches their sword and knocks it 20 feet away.
+- On an 8 or less, the boulder slams into them before they can jump out of the way.
+{{</callout>}}
 
-Players are encouraged to come up with creative solutions and ideas based on the tools they have available and the objects in their environment. Team work is also encouraged.
+### Hit points
 
-The *Game Master* decides if the proposed actions are logical and work within the context of the encounter, and then decide how many dice the player taking the action can roll.
+Every character and creature has a pool of _Hit Points_ (or _HP_). Hit Points represent a creatures overall health.
 
-### Individual vs. Group Encounters
+A characters _max HP_ is determined by adding their CON stat to a base number that varies by class (as indicated on their character sheet).
 
-For many encounters, only one person in the group needs to succeed. For example, if one player successfully unlocks a cage, the dragon trapped inside is free.
+Whenever a character or creature takes damage, points are subtracted from their _current HP_. When their HP reaches 0, they're knocked out, and remain that way until another party member revives them.
 
-For other encounters, *each* player needs to roll individually and succeed.
+_A character's current HP can never exceed their max HP._
 
-For example, if you hear a band of thieves approaching and want to hide, each player should roll. Any player who wins the die roll hides successfully, while any player who doesn't is caught.
+{{<callout title="Example">}}
+A rogue has a CON of +1. Their character sheet says their max HP is _6 + CON_, so their max HP is 7.
 
-### Ability Checks
+Their current HP starts at 7 as well. Then they get hit with an arrow and take 2 points of damage. Their current HP is now 5.
+{{</callout>}}
 
-There may be information that the *Game Master* want to reveal to players selectively.
+### Calculating damage
 
-For example, when approaching the area where the thieves are going to attack, the *Game Master* can ask the players to roll an *ability check*. Any players who have a successful roll (3 or higher) "hear the thieves approaching" and have a chance to take action before the attack.
+Every character sheet specifies the _damage die_ used by that class.
 
-The *Game Master* can also call for ability checks if the players ask for information about their environment that in real would depend on their own awareness of their surroundings. For example, "Do I see anything out of the ordinary?"
+Whenever your character successfully hits a creature, roll your damage die to determine how much damage is dealt.
 
+Some weapons provide a _damage modifier_, additional damage dealt above what's rolled. For example, a warhammer deals _+1 damage_. When using it, you would add 1 to whatever number you roll.
 
+{{<callout title="Example">}}
+A fighter swings his warhammer, striking a goblin in the chest.
 
-## Battles
+The fighter's damage die is a D10. They roll a 7, and the warhammer provides an additional +1 damage. The GM subtracts 8 from the goblin's HP.
+{{</callout>}}
 
-While much of *Adventure* is focused on exploring and problem solving, you can introduce battles as a way to keep things interesting.
+### Armor
 
-### Villains
+Armor and shields provide protection against attacks.
 
-<p class="margin-bottom-small">The <em>Game Master</em> controls the villains. Each villain has three numbers:</p>
+When a character or creature receives damage while wearing armor, they subtract their _armor value_ from the damage received before subtracting it from their HP.
 
-- **Attack.** How strong their attacks are.
-- **Defend.** How good they are at defending attacks against them.
-- **Health Points (HP).** How much damage they can take.
+Most protective gear has an *n armor* rating. You can only wear one piece of armor of this type at a time.
 
-### Starting the Battle
+Some protective gear, like shields, are additive and have a _+n armor_ rating. This can be added to whatever your current armor value is.
 
-<p class="margin-bottom-small">When a battle starts, the players and the <em>Game Master</em> each roll one die.</p>
+{{<callout title="Example">}}
+The fighter is wearing chain mail (1 armor) and carrying a shield (+1).
 
-- The players and villains each take turns attacking, starting with the highest number and working down to the lowest.
-- If two players roll the same number, their attacks happen at the same time.
-- If a player and villain roll the same number, the player goes first.
+A giant slams his club into the player, doing 5 points of damage. The player subtracts 3 from their current HP. The armor prevented 2 HP of damage.
+{{</callout>}}
 
-Players can be creative with how they attack, using their skills, tools, and items in the environment.
 
-### Battle Actions
 
-<p class="margin-bottom-small"><strong>Players are allowed one action per turn.</strong> During their turn, a player can do one of the following:</p>
+## Healing
 
-- Attack a villain (physically or with magic)
-- Heal damage to themself (or someone else if they have magic or a healing potion)
-- Flee the battle
+As an adventurer, you're going to take damage from time-to-time. Fortunately, you can heal yourself in a variety of ways.
 
-<p class="margin-bottom-small"><strong>Players also get one free action at the start of a battle</strong> that can be used for anything that's not a direct attack. A player might use this action to:</p>
-
-- Cast a non-damage spell (for example, turning their skin into rock)
-- Use a tool or ability (for example, draping themself in an invisibility cloak or grabbing a weapon from their arsenal)
-
-Players can do these things in-combat, too, but they use their action for that turn.
-
-_Only one piece of equipment can be worn at a time. Each spell can only be cast once per&nbsp;battle._
-
-### Attacks and Calculating Damage
-
-<p class="margin-bottom-small">Like all other actions in <em>Adventure</em>, attacks are determined by rolling dice.</p>
-
-- Start with one base die.
-- Add one die for each relevant skill, tool, spell, or item the player uses in the attack.
-
-<p class="margin-bottom-small">If the attack was a success, the defender has a chance to block or dodge the attack.</p>
-
-- Start with one base die.
-- Add one die for each relevant skill, tool, or item the player wants to use to block the attack.
-
-*Villains roll a number of dice equal to their attack and defend numbers instead of the guidelines above.*
-
-**Use this table to determine how much damage the defender takes.**
-
-| Attack | Defend | Damage |
-|--------|--------|--------|
-| 6+     | Any    | 3 HP   |
-| 4+     | 6+     | 0 HP   |
-| 4+     | 4+     | 1 HP   |
-| 4+     | 3-     | 2 HP   |
-| 3      | 4+     | 0 HP   |
-| 3      | 3-     | 1 HP   |
-
-### Determining who wins a battle
-
-When a villain has no health points left, they're knocked out of the game.
-
-If a player loses all of their health points, they're knocked out until one of the other players can help them. More on that in the *Health and Healing* section below.
-
-The battle is over when all of the villains have been defeated or the players retreat.
-
-### Fleeing a battle
-
-Each battle encounter also has an overall difficulty level.
-
-If players decide to flee instead of fight, they each roll to flee the battle. Normal die roll rules apply (their highest role must meet or exceed the difficulty level). Players who fail the die roll don't get away, and must fight or get captured.
-
-Players can choose to flee a battle at any time, including in the middle of one.
-
-### Multiple Attack Targets (Multi-Attack)
-
-Some creatures (like hydra and kraken) have the ability to attack multiple targets at once. This is called *Multi-Attack*.
-
-Split their dice by the number of targets they're going to attack. Their *Attack* number (the number of attack dice they roll) is the maximum number of targets they can attack at once.
-
-For example, the *hydra* has an *Attack* level of 3. If it were to attack two targets, it would roll two dice for one of them, and one die for the other. It could attack at the most three targets at once.
-
-All of the targets should be in close physical proximity to each other on the battlefield. It's up the the *Game Master* to make a decision about what logically makes sense in the context of the game.
-
-#### Players and Multi-Attack
-
-If a player rolls a *6 - Critical Success*, the *Game Master* may choose to have their character accidentally hit multiple targets near each other.
-
-> As you swing your sword, it strikes with such force that it throws the goblin into the the one standing next to him, knocking them both out.
-
-The *Game Master* can remove 3 health points from all targets, or split them among the villains.
-
-
-
-## Health and Healing
-
-Every player starts with five health points.
-
-### Losing Health Points
-
-Players can lose health points in combat, and from *Critical Failure* die rolls when taking actions.
-
-For example, if a player tries to scale a cliff and they roll a *1 - Critical Failure*, the *Game Master* might say:
-
-> You lose your footing and tumble backwards down the side of the cliff, striking a rock.
-
-The *Game Master* would then subtract one health point.
-
-### Getting Knocked Out
-
-If a player loses all of their health points, they're *knocked out* until someone in their group heals them or the next encounter starts.
-
-*Knocked out* players cannot solve challenges or participate in battles.
-
-### Healing Damage
-
-There are a few ways players can heal damage:
-
-<div class="list-spaced">
-{{%md%}}
-1. They can use their turn during a battle or encounter to heal themselves or another player with a healing potion or spell. If they do, they cannot attempt to solve the challenge or attack a villain until their next turn.
-2. They can use their turn to heal naturally, restoring one health point.
-3. If the player is a *Healer*, they can restore two health points to themself or another player. This also uses their turn.
-4. Waiting it out. Moving from one encounter to another restores health points. Roll one die, and regain half the result in health points, rounded down. Healers (and characters with healing magic) can add two to the final number. That number of health points are healed.
-{{%/md%}}
-</div>
-
-Healing potions make great items for players to find after defeating creatures and solving problems.
-
-The *Game Master* can reward them (or restrict them) as needed to keep the tension and pacing of the game well balanced.
-
-### Total Group Knock Out
-
-If every member of a group loses all of their health points, that's a *total group knock out* (or *TGKO*).
-
-A TGKO can happen if the difficulty of a particular challenge isn't properly balanced for the skills of your group. It can also happen if luck just doesn't work in the players' favor (a series of low die rolls, for example).
-
-**Since a TGKO would otherwise stop the adventure in its tracks, the _Game Master_ can use their creativity to save players from this situation.**
-
-<p class="margin-bottom-small">Some examples:</p>
-
-- A pet belonging to one of the players (see [House Rules](/house-rules#pets)) runs off and returns with healing potion, or a non-player character that can help.
-- Players awaken some unknown time later. The creature is gone, along with what they were looking for and a bunch of their gear and items.
-- Players awaken to find themselves trapped in a locked room, unsure of where they are or how they got there. They must use their skills and items they can find in there surroundings to escape.
-
-This can add a really fun new aspect to the game, so don't be afraid to get creative!
-
-
-
-## Equipment, Spells & Items
-
-You can **[download premade equpiment, spells, and items](/downloads)**, as well as templates to create your own.
-
-### Equipment
-
-<p class="margin-bottom-small">Equipment can take many forms. Be creative!</p>
-
-- Simple weapons like a sword or axe may add an additional die to a player's roll.
-- Advanced equipment, like a giant cross-bow, might be considered powerful but unwieldy. For a combat die roll, you might subtract 1 from the success total, but add 2 to the damage total to reflect that (hard to aim, dangerous when it connects).
-
-*Only one piece of equipment can be worn at a time.*
-
-### Spells
-
-<p class="margin-bottom-small">Spells are more interesting when they're nuanced add a limitation or penalty to the player in addition to a benefit.</p>
-
-- An invisibility spell might let you roll an extra die on an attack, but roll one less die when defending.
-- A spell that lets you do extra damage during combat might be so exhausting to cast that you're forced to skip the next turn.
-
-*Each spell can only be used once per an encounter. A die roll determines if it's successfully cast or not.*
-
-### Items
-
-<p class="margin-bottom-small">Items can be single use, or things that can used over and over.</p>
-
-- Reusable items include things like rope, a net, a map, or a torch.
-- Single-use items include things like healing potion or food.
-
-
-
-## Character Progression
-
-A player's character carries over from one came to the next. They bring with them any skills and items they acquired on previous adventures.
-
-To keep *Adventure* exciting, you can reward players with new skills and items that they can use in future adventure.
-
-<p class="margin-bottom-small"><strong>Reward ideas:</strong></p>
-
-- Equipment like weapons and armor
-- Spells
-- Extra health points
-- An additional problem-solving ability
-- New skills relevant to the adventure they just completed
-
-Be careful not to give characters too much power all at once or it will throw off the balance of the game.
-
-
-
-## A Few Extra Details
-
-### Exploration vs. the Main Story
-
-<p class="margin-bottom-small">Two things are true about <em>Adventure</em>:</p>
-
-1. Every adventure has critical encounters that are required to drive the story to it's natural conclusion.
-2. Players are free to explore the world and deviate from the main storyline.
-
-It's the *Game Master's* job to encourage exploration when appropriate for the players' ages and skill levels, and help steer players back towards the critical encounters if they drift too far.
-
-### Creating Worlds
-
-You can play *Adventure* entirely as a word-based RPG, and let your players use their imaginations.
-
-However, depending on the age and interests of your players, it might be more fun and interesting if you added a physical element to the game. You can create sets for each of your encounters by sketching simple maps in a notebook, building them with Lego blocks, or using toys that you already have.
-
-**[Every premade adventure comes with printable maps](/adventures/)** that are labeled and annotated to help the *Game Master* run the adventure. They also include unlabeled versions so that players don't know where key actions are going to happen.
-
-It can be a lot of fun to use action figures or paper cutouts for each of the characters, and let them move through physical environments as you play.
-
-### Duration and Complexity
-
-Games of *Adventure* can take as little as 30 minutes, or can last several hours.
-
-As the *Game Master*, you have a lot of control over the length and complexity of each game. You can add more villains and optional encounters, adjust difficulty levels for encounters up or down, and save the day with non-player characters you introduce to the game.
-
-You can also spread an adventure over several sessions, stopping after an encounter, and picking things back up another time.
-
-### Non-Player Characters
-
-Depending on the skills of the players and the difficulty of the challenges they're facing, it can be interesting to add *non-player characters* into the game.
-
-These are characters that the *Game Master* creates and controls. They can be friends, foes, or somewhere in-between.
-
-*Non-player characters* can provide critical information that players aren't picking up on, give them misinformation to send them on a bonus encounter, jump in to provide extra fire power for an epic battle, or thwart their efforts if they're finding an adventure too easy.
-
-They could be shopkeepers who can sell useful items to the players in exchange for favors or gold. Or they might be inn keepers who provide a place to rest before a big campaign.
-
-Use *non-player characters* as much or as little as needed to keep the game fun and interesting.
-
-### Exploring Farfaria
-
-A big part of what makes RPGs so fun is how open-ended they are.
-
-As players get more experienced playing *Adventure*, they may start to explore areas of Farfaria that aren't part of the current adventure's storyline. They might want to explore the mountains, search for a unicorn, or try to bypass a fearsome creature by using an underground cave system.
-
-The *Game Master* should encourage this!
-
-Eventually, players may want to leave Farfaria itself. They may attempt to cross the mountains, go beyond the edges of the Dark Forest, or sail off in a ship. The same game mechanics apply. Go create new worlds!
-
-### Game Master Tips
-
-The *Game Master* has a big impact on how much fun *Adventure* is to play. [This video on Dungeons & Dragons GM Matt Mercer](https://www.youtube.com/watch?v=NCOHqWttXzs) is chock full of tips on how to be an awesome *Game Master* (warning, some R-rated content in this video).
-
-<div class="fluid-vids"><iframe width="560" height="315" src="https://www.youtube.com/embed/NCOHqWttXzs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-The key takeaway from the video: good *Game Mastering* is about vivid, animated storytellings.
-
-
-
-## Ending the Game
-
-Once all of the critical encounters have been completed and the problem has been solved, you can bring the adventure to a close.
-
-For example, in *Lacey the Luck Dragon*, you might end the game by saying:
-
-> You return to the village with all five of Lacey the Luck Dragon's babies.
->
-> She emerges from the shadows, lowers her head to the ground, and looks each of you in the eye. “Thank you, truly, for returning my babies. I cannot thank you enough for what you have done.”
->
-> As a token of her appreciation, she gives you a pair of magic gloves that protect you from anything you touch.
-
-And with that, your game of *Adventure* draws to a close.
+- During a _short rest_ (1 hour or less), you can recover one damage die roll of HP
+- During a _long rest_ (8 hours or more), you recover all of your HP
+- Using tools like bandages, an herbalism kit, or healing potion
