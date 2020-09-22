@@ -36,7 +36,7 @@ The most important phrase in Adventure is, "What do you do?"
 
 ## What you need to play
 
-1. **A set of polyhedral dice.** Adventure uses the following dice: D4, D6, D8, D10, and D20. If you don't have any, [you can roll digital dice here](https://www.wizards.com/dnd/dice/dice.htm).
+1. **A set of polyhedral dice.** Adventure uses the following dice: D4, D6, D8, D10, and D20. If you don't have any, you can pick up [an affordable set from Kraken Dice](https://www.krakendice.com/) or [roll digital dice here](https://www.wizards.com/dnd/dice/dice.htm).
 2. **Character sheets.** You can print them out from [the downloads page](/downloads).
 3. **Your imagination.** The most important part!
 
@@ -46,7 +46,7 @@ _Dice are described using D* naming, where * is the number of sides the die has.
 
 
 
-## Creating a Character
+## Creating a character
 
 Every player creates a character to play in the game.
 
@@ -129,6 +129,8 @@ For most player actions, what happens is decided by rolling a 20-sided die, call
 
 To determine the outcome of an action, a player rolls a D20 and adds one of their stat modifiers based on what they're trying to do. The GM will tell you which stat to use.
 
+(*For negative stats, subtract the number from your die roll instead of adding it.*)
+
 | Roll | Outcome         | What it means                         |
 |------|-----------------|---------------------------------------|
 | 18+  | Success         | The player's action works as planned  |
@@ -138,7 +140,7 @@ To determine the outcome of an action, a player rolls a D20 and adds one of thei
 _**Don't have a D20?** [You can roll digital dice here.](https://www.wizards.com/dnd/dice/dice.htm)_
 
 {{<callout title="Examples">}}
-**The player is trying to convince a wealthy noble that they're a distance relative.** This is an act of deception. They roll a D20, and add their CHA stat.
+**The player is trying to convince a wealthy noble that they're a distant relative.** This is an act of deception. They roll a D20, and add their CHA stat.
 
 - On 18 or above, the noble believes them, offering them a room in their palace and a feast in their honor.
 - On a 9 to 17, the noble reluctantly believes them, but secretly sends someone to look into their background.
@@ -157,10 +159,10 @@ _**Don't have a D20?** [You can roll digital dice here.](https://www.wizards.com
 
 Combat in Adventure works just like any other player action.
 
-- The player says what they want to do, rolls a D20, and adds their modifier
+- The player says what they want to do, rolls a D20, and adds a stat
 - The GM describes what happens as a result
 
-Attacks with a melee or up-close weapon (swords, axes, and such) use the STR stat. Ranged or far-away attacks (using a spear, bow, and so on) use the DEX stat. Similar, blocking uses STR, while dodging uses DEX.
+Attacks with a melee or up-close weapon (swords, axes, and such) use the STR stat. Ranged or far-away attacks (using a spear, bow, and so on) use the DEX stat. Similarly, blocking uses STR, while dodging uses DEX.
 
 {{<callout title="Examples">}}
 **The player is trying to hit an ogre with their sword.** This is a feat of strength. They roll a D20, and add their STR stat.
@@ -180,16 +182,16 @@ Attacks with a melee or up-close weapon (swords, axes, and such) use the STR sta
 
 Every character and creature has a pool of _Hit Points_ (or _HP_). Hit Points represent a creatures overall health.
 
-A characters _max HP_ is determined by adding their CON stat to a base number that varies by class (as indicated on their character sheet).
+Your characters _Max HP_ is determined by adding their CON stat to a base number that varies by class (as indicated on your character sheet).
 
-Whenever a character or creature takes damage, points are subtracted from their _current HP_. When their HP reaches 0, they're knocked out, and remain that way until another party member revives them.
+Whenever a character or creature takes damage, points are subtracted from their _Current HP_. When their HP reaches 0, they're knocked out, and remain that way until another party member revives them.
 
-_A character's current HP can never exceed their max HP._
+_A character's Current HP can never exceed their Max HP._
 
 {{<callout title="Example">}}
-A rogue has a CON of +1. Their character sheet says their max HP is _6 + CON_, so their max HP is 7.
+A rogue has a CON of +1. Their character sheet says their Max HP is _6 + CON_, so their Max HP is 7.
 
-Their current HP starts at 7 as well. Then they get hit with an arrow and take 2 points of damage. Their current HP is now 5.
+Their Current HP starts at 7 as well. Then they get hit with an arrow and take 2 points of damage. Their Current HP is now 5.
 {{</callout>}}
 
 ### Calculating damage
@@ -219,7 +221,7 @@ Some protective gear, like shields, are additive and have a _+n armor_ rating. T
 {{<callout title="Example">}}
 The fighter is wearing chain mail (1 armor) and carrying a shield (+1).
 
-A giant slams his club into the player, doing 5 points of damage. The player subtracts 3 from their current HP. The armor prevented 2 HP of damage.
+A giant slams his club into the player, doing 5 points of damage. The player subtracts 3 from their Current HP. The armor prevented 2 HP of damage.
 {{</callout>}}
 
 
@@ -231,3 +233,86 @@ As an adventurer, you're going to take damage from time-to-time. Fortunately, yo
 - During a _short rest_ (1 hour or less), you can recover one damage die roll of HP
 - During a _long rest_ (8 hours or more), you recover all of your HP
 - Using tools like bandages, an herbalism kit, or healing potion
+
+When you roll a damage die or use healing tools, add the amount of HP healing back to your Current HP (up to your Max HP).
+
+{{<callout title="Examples">}}
+**Healing with Damage Dice**<br>
+Your Current HP is 3, and your Max HP is 14. You roll a D10, and get a 6. Your new Current HP is 9.
+
+**Healing with Potion**<br>
+Your Current HP is 6, and your Max HP is 8. You drink a Healing Potion, which heals 7 HP of damage. Since your Max HP is 8, your new Current HP is 8. The remaining 5 HP of healing is lost.
+{{</callout>}}
+
+
+
+## Bonuses & Conditions
+
+You might have better or worse odds of succeeding in action based on your current circumstances. Adventure uses _Best Of_ and _Worst Of_ die mechanics to account for that.
+
+- **Best Of.** Roll two D20 and take the higher number.
+- **Worst Of.** Roll two D20 and take the lower number.
+
+### Conditions
+
+While adventuring, you might find yourself in situations the provide you an advantage of some kind.
+
+For example, you might try to sneak past a guard who's partied too hard the night before and fallen asleep. Or perhaps your ancestry grants you superb jumping ability, and you're trying to leap across a gap.
+
+You might also find yourself under conditions that make what you're trying to do harder.
+
+Perhaps you sustained a nasty gash in battle that's become infected, making it harder for you to hold a weapon. Maybe an evil wizard charmed you, or the creatures you're facing are so terrible the frighten you.
+
+**Conditions that provide an advantage give you _Best Of_ on die rolls. Conditions that hinder you give you _Word Of_ on die rolls.**
+
+### Teamwork
+
+Adventure is a cooperative, team game. The more you work together, the more likely you are to succeed.
+
+- **For group tasks**, like trying to cross a river or sneak into a castle, if at least half of the party succeeds, everyone does.
+- **For individual tasks**, if you can reasonably assist a teammate, they get _Best Of_ on their roll.
+
+
+
+## Buying & Hauling Stuff
+
+The common currency in Adventure is _Coin_.
+
+Every character gets a few starting coins, noted on your character sheet. As you go on adventures, you'll find or earn more. You'll also acquire treasure, magical items, and gear.
+
+### Buying Stuff
+
+You can use Coin to purchase things you need, including weapons and armor, supplies, lodging, and more.
+
+In populated areas, like villages and cities, you're likely to find everything you need at reasonable prices. In more remote areas, some items might be harder to find, not available at all, or more expensive than typical market rates.
+
+### Item Weight
+
+There's only so much stuff you can carry with you before it becomes too heavy.
+
+Adventure uses a simple system for calculating how much stuff you can carry. All items have a _Weight_.
+
+The _Max Load_ your character can carry is determined by adding their STR stat to a base number that varies by class (as indicated on your character sheet).
+
+**There's a list of common items, and their prices and weight, [on the equipment page](/equipment).**
+
+
+
+## Character growth
+
+All adventurers start the game at level 1. As your character goes on adventures, they'll gain new experiences and pick up new skills.
+
+Whenever the party does something particularly meaningful of awesome, the GM should _level up_ the party, increasing your current level by 1.
+
+**When you level up...**
+
+- Select a new feature from the _Feature List_ on your character sheet
+- At odd levels (3, 5, 7, and so on), increase a stat of your choice by 1, up to a max of 5
+
+{{<callout title="Example">}}
+Your party successfully snuck into the old wizard's tower, and retrieved the magical black pearl just as the tower collapsed into the ocean. Along the way, you fought monsters, overcame dubious traps, and raced a crew of pirates.
+
+**You're currently a level 2 druid. The GM decides to _level you up_ to level 3.**
+
+You pick a new feature, _Tangle of Vines_, from the Features list. Because you hit an odd level, you also increase your WIS stat from 3 to 4. WIS is your spell stat, so you want to maximize the likelihood that your spells work.
+{{</callout>}}
