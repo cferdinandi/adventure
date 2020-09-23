@@ -155,7 +155,7 @@ Use this table to calculate how much damage to assign.
 
 ## Creating quick monsters
 
-You might need to spin up a new monster in the middle of a game. Here's a reference you can use to do that quickly.
+You might need to spin up a new monster in the middle of a game. Here's a reference you can use to do that quickly. (*Alternatively, you can [search the Dungeon World codex](http://codex.dungeon-world.com/).*)
 
 <p class="margin-bottom-small"><strong>What's their primary instinct?</strong></p>
 

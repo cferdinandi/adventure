@@ -1,36 +1,31 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | humanize }}"
 date: {{ .Date }}
-draft: true
-readyToPlay: false
-duration: Short
-optional: false
-map: ""
-weight: 10
-premise: ""
-details: ""
-intro: "This adventure follows a linear storyline."
-storyline: []
-villains: []
-npcs: []
-tips: []
-startingEncounter: ""
+draft: false
 ---
 
-{{%location title="" encounters=""%}}
-Location description...
-{{%/location%}}
+<div data-toc="In This Adventure"></div>
 
-### Oakenshire
+## The Situation
 
-{{%encounter order="a" title="" ability="" tips="" difficulty="" battle="" villains="" success="" failure=""%}}
-Encounter description...
-{{%/encounter%}}
 
-{{%encounter order="z" title="" ability="" tips="" difficulty="" battle="" villains="" success="" failure=""%}}
-Encounter description...
-{{%/encounter%}}
+## Locations
 
-## Conclusion
+-
 
-Conclusion text...
+
+## Creatures
+
+-
+
+## Events
+
+-
+
+## Things to find out
+
+-
+
+## Questions for the players
+
+-
