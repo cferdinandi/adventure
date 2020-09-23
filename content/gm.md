@@ -134,13 +134,11 @@ When creature deal damage to players, you if you don't want to roll for damage, 
 
 Add 1 to the damage dice and divide by 2 to get the average.
 
-| Dice | Average Damage |
-|------|----------------|
-| D4   | 2-3 HP         |
-| D6   | 3-4 HP         |
-| D8   | 4-5 HP         |
-| D10  | 5-6 HP         |
-| D12  | 6-7 HP         |
+- D4: 2-3 HP
+- D6: 3-4 HP
+- D8: 4-5 HP
+- D10: 5-6 HP
+- D12: 6-7 HP
 
 ### Improvised Damage
 
@@ -148,12 +146,10 @@ Sometimes, players get hurt by the environment itself. They fall, get caught in 
 
 Use this table to calculate how much damage to assign.
 
-| Severity          | Damage Dice |
-|-------------------|-------------|
-| Bruises & Scrapes | D4          |
-| Cuts              | D6          |
-| Broken Bones      | D8          |
-| Deadly            | D10         |
+- Bruises & Scrapes: D4
+- Cuts: D6
+- Broken Bones: D8
+- Deadly: D10
 
 
 
@@ -198,7 +194,7 @@ Do they have any special attacks or weapons? What are they? How do they work?
 
 
 
-## Creating immersive worlds
+## Building immersive worlds
 
 Adventure is all about immersing players in a new world.
 

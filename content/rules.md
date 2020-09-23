@@ -214,9 +214,9 @@ Armor and shields provide protection against attacks.
 
 When a character or creature receives damage while wearing armor, they subtract their _armor value_ from the damage received before subtracting it from their HP.
 
-Most protective gear has an *n armor* rating. You can only wear one piece of armor of this type at a time.
+Most protective gear has an *n armor* rating. You can only wear one piece of armor of this type at a time. Some protective gear, like shields, are additive and have a _+n armor_ rating. This can be added to whatever your current armor value is.
 
-Some protective gear, like shields, are additive and have a _+n armor_ rating. This can be added to whatever your current armor value is.
+Armor labeled _clumsy_ is tough to move around in, and imposes Worst Of on all STR, DEX, CON, and spellcasting rolls.
 
 {{<callout title="Example">}}
 The fighter is wearing chain mail (1 armor) and carrying a shield (+1).
@@ -280,6 +280,8 @@ The common currency in Adventure is _Coin_.
 
 Every character gets a few starting coins, noted on your character sheet. As you go on adventures, you'll find or earn more. You'll also acquire treasure, magical items, and gear.
 
+**There's a list of common items, and their prices and weight, [on the equipment page](/equipment).**
+
 ### Buying Stuff
 
 You can use Coin to purchase things you need, including weapons and armor, supplies, lodging, and more.
@@ -290,11 +292,9 @@ In populated areas, like villages and cities, you're likely to find everything y
 
 There's only so much stuff you can carry with you before it becomes too heavy.
 
-Adventure uses a simple system for calculating how much stuff you can carry. All items have a _Weight_.
+Adventure uses a simple system for calculating how much stuff you can carry. All items have a _Weight_. The _Max Load_ your character can carry is determined by adding their STR stat to a base number that varies by class (as indicated on your character sheet).
 
-The _Max Load_ your character can carry is determined by adding their STR stat to a base number that varies by class (as indicated on your character sheet).
-
-**There's a list of common items, and their prices and weight, [on the equipment page](/equipment).**
+**When the weight of the stuff a character has with them exceeds their Max Load, they're _encumbered_, and get _Worst Of_ on all STR, DEX, CON, and spellcasting rolls.**
 
 
 
