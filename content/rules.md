@@ -21,7 +21,7 @@ The game follows a simple pattern.
 The most important phrase in Adventure is, "What do you do?"
 
 {{<callout title="Example">}}
-**GM:** "You approach a bridge. There are boards missing in places, and the ones that remain appear old and rotted. What do you do?"
+**GM:** "Before you lies a bridge. There are boards missing in places, and the ones that remain appear old and rotted. What do you do?"
 
 **Player:** "I try to walk across, carefully checking for loose boards as I go."
 
