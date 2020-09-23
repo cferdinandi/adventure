@@ -6,7 +6,7 @@ draft: false
 
 The Game Master has a big impact on how much fun Adventure is to play. Here are some tips and principles to make it as easy and successful as possible for you.
 
-_You can find a [one-page GM Cheat Sheet on the downloads page](/downloads)._
+_You can find a [one-page GM cheatsheet on the downloads page](/downloads)._
 
 <div data-toc="Table of Content"></div>
 
