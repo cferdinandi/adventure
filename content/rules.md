@@ -36,7 +36,7 @@ The most important phrase in Adventure is, "What do you do?"
 
 ## What you need to play
 
-1. **A set of polyhedral dice.** Adventure uses the following dice: D4, D6, D8, D10, and D20. If you don't have any, you can pick up [an affordable set from Kraken Dice](https://www.krakendice.com/) or [roll digital dice here](https://www.wizards.com/dnd/dice/dice.htm).
+1. **A set of dice.** Adventure uses polyhedral dice: D4, D6, D8, D10, and D20. If you don't have any, you can use the D6 variant detailed below.
 2. **Character sheets.** You can print them out from [the downloads page](/downloads).
 3. **Your imagination.** The most important part!
 
@@ -153,6 +153,41 @@ _**Don't have a D20?** [You can roll digital dice here.](https://www.wizards.com
 - On an 8 or less, the bridge collapses under their feet.
 {{</callout>}}
 
+### D6 Variant
+
+If you don't have polyhedral dice (and don't want to [roll digital dice](https://www.wizards.com/dnd/dice/dice.htm)), you can use a variant of the rules that uses only D6 dice.
+
+- Instead of a D20, roll one D6 and multiply the result by 3. Then add the relevant stat modifier.
+- Instead of damage rolls, use [average damage amounts](/gm/#average-damage) based on damage die size.
+
+{{<callout title="Example">}}
+- **You roll a 3.** Multiplied by 3, it becomes a 9. You succeed, with a cost.
+- **You roll a 1.** Multiplied by 3, it becomes a 3. You fail.
+- **You roll a 2.** Multilpied by 3, it becomes a 6. But after you add your +3 DEX, it becomes an 9. You succeed, with a cost.
+{{</callout>}}
+
+### Best Of & Worst Of
+
+You might have better or worse odds of succeeding in action based on your current circumstances. Adventure uses _Best Of_ and _Worst Of_ die mechanics to account for that.
+
+- **Best Of.** Roll two D20 and take the higher number.
+- **Worst Of.** Roll two D20 and take the lower number.
+
+Conditions that provide an advantage give you _Best Of_ on die rolls. Conditions that hinder you give you _Word Of_ on die rolls.
+
+{{<callout title="Examples">}}
+<p class="margin-bottom-small"><strong>Best Of:</strong></p>
+
+- You try to sneak past a guard who's partied too hard the night before and fallen asleep
+- Your ancestry grants you superb jumping ability, and you're trying to leap across a gap
+
+<p class="margin-bottom-small"><strong>Worst Of:</strong></p>
+
+- You sustained a nasty gash in battle that's become infected, making it harder for you to hold a weapon
+- An evil wizard charmed you
+- The creatures you're facing are so terrible that they frighten you
+{{</callout>}}
+
 
 
 ## Combat
@@ -245,27 +280,7 @@ Your Current HP is 6, and your Max HP is 8. You drink a Healing Potion, which he
 {{</callout>}}
 
 
-
-## Bonuses & Conditions
-
-You might have better or worse odds of succeeding in action based on your current circumstances. Adventure uses _Best Of_ and _Worst Of_ die mechanics to account for that.
-
-- **Best Of.** Roll two D20 and take the higher number.
-- **Worst Of.** Roll two D20 and take the lower number.
-
-### Conditions
-
-While adventuring, you might find yourself in situations the provide you an advantage of some kind.
-
-For example, you might try to sneak past a guard who's partied too hard the night before and fallen asleep. Or perhaps your ancestry grants you superb jumping ability, and you're trying to leap across a gap.
-
-You might also find yourself under conditions that make what you're trying to do harder.
-
-Perhaps you sustained a nasty gash in battle that's become infected, making it harder for you to hold a weapon. Maybe an evil wizard charmed you, or the creatures you're facing are so terrible the frighten you.
-
-**Conditions that provide an advantage give you _Best Of_ on die rolls. Conditions that hinder you give you _Word Of_ on die rolls.**
-
-### Teamwork
+## Teamwork
 
 Adventure is a cooperative, team game. The more you work together, the more likely you are to succeed.
 
@@ -296,6 +311,8 @@ Adventure uses a simple system for calculating how much stuff you can carry. All
 
 **When the weight of the stuff a character has with them exceeds their Max Load, they're _encumbered_, and get _Worst Of_ on all STR, DEX, CON, and spellcasting rolls.**
 
+_This is totally optional. Feel free to drop this rule from your games if you don't like it._
+
 
 
 ## Character growth
@@ -316,3 +333,37 @@ Your party successfully snuck into the old wizard's tower, and retrieved the mag
 
 You pick a new feature, _Tangle of Vines_, from the Features list. Because you hit an odd level, you also increase your WIS stat from 3 to 4. WIS is your spell stat, so you want to maximize the likelihood that your spells work.
 {{</callout>}}
+
+
+
+## House Rules
+
+House rules are strongly encouraged in Adventure. Here are some ideas you may want to adapt to your game.
+
+### Pets
+
+For added fun, characters can have a pet that accompanies them on their adventures and helps them along the way. This can add a fun dimension to the game.
+
+Pets can be small and sensible (a cat, dog, or woodland creature) or large and absurd (a dinosaur, dragon, or elephant). A player’s pet can be used to get them out of a tough situation, as a weapon in battle, or just for added flavor and interest in role playing.
+
+{{<callout title="Example">}}
+Quill didn't expect the rope to snap on the sharp edge of the well, or he never would have come down here by himself.
+
+Fortunately, he brought along Geoffrey, his pet rat. He instructed Geoffrey to scurry up the wall and find help.
+
+_Roll to see what happens._
+{{</callout>}}
+
+
+### Tinkering
+
+If you have an adventurer who loves to build things and has a big imagination, tinkering is an awesome special skill. A tinkerer can build small creations from bits of scrap metal and wood.
+
+**Here’s how it works.**
+
+- Tinkered items can be robotic toys, weapons, tools, and more.
+- Tinkered items are small and fragile, and stop working after a few turns.
+- Only one tinkered item can exist at a time.
+- The parts from a tinkered item can be reclaimed to build another (either after it break, or when the adventurer decides they’d like to build something else).
+
+The Game Master may choose to have the adventurer first acquire a tinker kit: gears, bits of scrap metal, and some small tools from a shopkeeper in the game.
