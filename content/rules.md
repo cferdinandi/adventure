@@ -36,7 +36,7 @@ The most important phrase in Adventure is, "What do you do?"
 
 ## What you need to play
 
-1. **A set of dice.** Adventure uses polyhedral dice: D4, D6, D8, D10, and D20. If you don't have any, you can use the D6 variant detailed below.
+1. **A set of dice.** Adventure uses polyhedral dice: D4, D6, D8, D10, and D20. If you don't have any, you can use the D6 variant detailed below or [roll digital dice](/dice/).
 2. **Character sheets.** You can print them out from [the downloads page](/downloads).
 3. **Your imagination.** The most important part!
 
@@ -137,7 +137,7 @@ To determine the outcome of an action, a player rolls a D20 and adds one of thei
 | 9-17 | Partial Success | The players action works, with a cost |
 | 8-   | Failure         | The player's action doesn't work      |
 
-_**Don't have a D20?** [You can roll digital dice here.](https://www.wizards.com/dnd/dice/dice.htm)_
+_**Don't have a D20?** [You can roll digital dice here.](/dice/)_
 
 {{<callout title="Examples">}}
 **The player is trying to convince a wealthy noble that they're a distant relative.** This is an act of deception. They roll a D20, and add their CHA stat.
@@ -155,7 +155,7 @@ _**Don't have a D20?** [You can roll digital dice here.](https://www.wizards.com
 
 ### D6 Variant
 
-If you don't have polyhedral dice (and don't want to [roll digital dice](https://www.wizards.com/dnd/dice/dice.htm)), you can use a variant of the rules that uses only D6 dice.
+If you don't have polyhedral dice (and don't want to [roll digital dice](/dice/)), you can use a variant of the rules that uses only D6 dice.
 
 - Instead of a D20, roll one D6 and multiply the result by 3. Then add the relevant stat modifier.
 - Instead of damage rolls, use [average damage amounts](/gm/#average-damage) based on damage die size.
