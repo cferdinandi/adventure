@@ -9,6 +9,7 @@ draft: false
 ## The Situation
 
 
+
 ## Locations
 
 -
@@ -18,13 +19,16 @@ draft: false
 
 -
 
+
 ## Events
 
 -
 
+
 ## Things to find out
 
 -
+
 
 ## Questions for the players
 

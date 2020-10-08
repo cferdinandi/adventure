@@ -10,6 +10,8 @@ Here are some adventure starters to help you kick-start your games.
 - [The Pixie Dust Tree](/adventures/the-pixie-dust-tree/)
 - [Lacey the Luck Dragon](/adventures/lacey-the-luck-dragon/)
 - [The Ghost Ship](/adventures/the-ghost-ship/)
+- [Escape from Atlantis](/adventures/escape-from-atlantis/)
+- [Mermaid Rescue](/adventures/mermaid-rescue/)
 
 **Write your own adventure?** I’d love to add it to this site! Send me an email at {{<email>}}.
 
