@@ -141,13 +141,6 @@
   drd20: 10
   abilities: "Attacks in swarms. Does 2D6 when attacking in a group."
 
-- name: Knight
-  damage: D6
-  hp: 8
-  dr: 5
-  drd20: 16
-  abilities: "Slow in armor. Resistant: Bludgeoning, Slashing. Vulnerable: Fire, Lightning."
-
 - name: Hydra
   damage: 2D6
   hp: 15
@@ -161,6 +154,13 @@
   dr: 4
   drd20: 13
   abilities: "Throws ice. Can merge into the snow and ice. Immune: Cold. Vulnerable: Bludgeoning, Slashing, Fire."
+
+- name: Knight
+  damage: D6
+  hp: 8
+  dr: 5
+  drd20: 16
+  abilities: "Slow in armor. Resistant: Bludgeoning, Slashing. Vulnerable: Fire, Lightning."
 
 - name: Kobold
   damage: D6WR
@@ -182,6 +182,13 @@
   dr: 4
   drd20: 13
   abilities: "Throws lava balls. Immune: Fire. Vulnerable: Cold."
+
+- name: Lizardfolk
+  damage: D6
+  hp: 4
+  dr: 4
+  drd20: 13
+  abilities: "MA2: Weapon & Bite"
 
 - name: Mammoth
   damage: 2D6

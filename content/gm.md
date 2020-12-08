@@ -208,7 +208,7 @@ _In this example, monsters and events are connected to specific locations._
 
 {{<details summary="View Details">}}
 
-**The Situation:** The players have been hired by Lord Grasshopper to find the mysterious "Sorcer's Gem." It was lost some years ago, and is rumored to be hidden deep within the Cave of Mysteries. No one is quite sure exactly what it does, but many powerful people want to get their hands on it.
+**The Situation:** The players have been hired by Lord Grasshopper to find the mysterious "Sorcerer's Gem." It was lost some years ago, and is rumored to be hidden deep within the Cave of Mysteries. No one is quite sure exactly what it does, but many powerful people want to get their hands on it.
 
 - **The Cavern of Mysteries**
 	+ _Monsters_
@@ -232,14 +232,14 @@ _In this example, monsters and events are connected to specific locations._
 		* Wolves
 		* Elves
 	+ _Events_
-		* The elves are also searching for the Sorcer's Gem, and want create an alliance
+		* The elves are also searching for the Sorcerer's Gem, and want create an alliance
 		* The elves double cross the players
-		* The wolves are controlled by the sorcer, and track the players wherever they go
+		* The wolves are controlled by the sorcerer, and track the players wherever they go
 
 <p class="margin-bottom-small"><strong>Questions</strong></p>
 
-- What does the Sorcer's Gem actually do?
-- Why does the sorcer want it back?
+- What does the Sorcerer's Gem actually do?
+- Why does the Sorcerer want it back?
 - What do you know about the elves? Why are they interested in the gem?
 
 {{</details>}}
