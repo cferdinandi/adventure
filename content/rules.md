@@ -10,7 +10,7 @@ In Adventure, players work together to overcome challenges, battle ferocious mon
 
 
 
-## How it works
+## How It Works
 
 The game follows a simple pattern.
 
@@ -34,304 +34,292 @@ The most important phrase in Adventure is, "What do you do?"
 
 
 
-## What you need to play
+## What You Need to Play
 
-1. **A set of dice.** Adventure uses polyhedral dice: D4, D6, D8, D10, and D20. If you don't have any, you can use the D6 variant detailed below or [roll digital dice](/dice/).
+1. **A set of dice.** Adventure uses six-sided dice (_there's also a D20 variant if you'd prefer_). If you don't have any dice, you can [roll digital dice](/dice/).
 2. **Character sheets.** You can print them out from [the downloads page](/downloads).
 3. **Your imagination.** The most important part!
 
 You might want to keep a pen and notebook handy, but it's not at all required to play.
 
-_Dice are described using D* naming, where * is the number of sides the die has. For example, a standard six-sided die is a D6. A die with eight sides is a D8._
+_Dice are described using D* naming, where * is the number of sides the die has. For example, a standard six-sided die is a D6. A die with twenty sides is a D20. Leading numbers tell you how many dice to roll. With 2D6, you would roll two D6 and add them together._
 
 
 
-## Creating a character
+## Creating a Character
 
 Every player creates a character to play in the game.
 
-The [downloads section](/downloads) includes printable character sheets to guide you through the process. You'll also reference them throughout the game.
+The [downloads section](/downloads) includes printable character sheets to guide you through the process, as well as pre-made characters. You'll reference them throughout the game.
 
-### 1. Picking a class
+_Players may want to use a toy, figurine, or paper cut-out to represent their character while they play._
 
-A class is a bit like a job or way of life.
+Name & Description
+: You can be anyone you want to be in adventure: an elf wizard, a fairy tinkerer, a space cowboy, a dragonfly spy. Be anything you want.
 
-Each class comes with unique features and abilities. Classes are designed to be customized and tailored to fit whatever kind of character you want to be.
+Health
+: Every player starts with 10 _Health Points (HP)_. This is your _Max HP_. Throughout the game, your HP will up and down as things happen.
 
-- **Fighter.** Skilled with armor and a wide range of weapons, fighters are athletic warriors. *ex. Barbarian, Soldier, Samurai, Knight, Superhero*
-- **Wizard.** Masters of magic, wizards can do stuff like shoot fireballs from their hands, teleport, and create illusions. *ex. Wizard, Witch, Sorcerer, Warlock, Mystic, Enchanter*
-- **Druid.** Sharing a deep connection with nature, druids can control the elements and even transform into animals. *ex. Druid, Ranger, Shapeshifter*
-- **Rogue.** Quick on their feet and skilled at stealth, rogues move in the shadows and operate behind the scenes. *ex. Thief, Robin Hood, Ninja, Spy*
-- **Bard.** Talented and outgoing, bards weave a touch of magic into every performance. *ex. Musician, Storyteller, Fire Breather, Diplomat*
+Specialty
+: While your character may be good at a few things, they specialize in one: _Strength_, _Speed_, or _Wisdom_. The thing you specialize in will help you complete certain types of tasks.
+	- _Strength._ Athletics, Intimidation, Feats of Strength
+	- _Speed._ Acrobatics, Dexterity, Slight of Hand, Stealth
+	- _Wisdom._ Perceiving, Knowing, Figuring Things Out
 
-### 2. Picking a name and ancestry
+Armor
+: Does your character wear armor? If so, you'll be less likely to get hurt in combat, but will have a harder time with tasks that require _Speed_.
 
-Your ancestry is your background and the type of creature you are.
+Features
+: What makes your character unique? Do they have a special skill, like fire breathing or the ability to fly? Are they a really good swimmer? Can they make themselves invisible or fly?
 
-You can be a human, of course. But you can also be any other sort of fantastical creature you'd like: an elf, gnome, fairy, dragon, and more. The only limit here is your imagination.
-
-And your name is, well... your name!
-
-### 3. Assigning your stats
-
-Just like in real life, every character is good at some things and not-so-good at others.
-
-Stats are broad categories that you assign a number value to. Positive numbers are things you're good at, and negative numbers are things you bad at. The higher the number, the better you are at that thing (and vice-versa).
-
-Your stats affect how easy or hard certain tasks are for your in the game.
-
-- **Strength (STR).** Athletics, Feats of Strength
-- **Dexterity (DEX).** Acrobatics, Slight of Hand, Stealth
-- **Constituation (CON).** Endurance, Stamina, Concentration
-- **Intelligence (INT).** Knowing Things, Book Smarts
-- **Wisdom (WIS).** Perceiving Things, Street Smarts
-- **Charisma (CHA).** Deception, Persuasion, Performance
-
-When you start the game, take the following numbers and assign each one to a stat: +2, +1, +1, 0, -1, -1.
-
-{{<callout title="Example">}}
-Quill is a Gnome Bard with the following stats:
-
-<ul class="list-columns">
-	<li><strong>STR:</strong> -1</li>
-	<li><strong>DEX:</strong> +1</li>
-	<li><strong>CON:</strong> +1</li>
-	<li><strong>INT:</strong> 0</li>
-	<li><strong>WIS:</strong> -1</li>
-	<li><strong>CHA:</strong> +2</li>
-</ul>
-
-Based on these stats, he's very charismatic and quick on his feet, but he's not very strong. He has a low WIS score, so he's also pretty aloof and spacey.
-{{</callout>}}
-
-### 4. Pick your features
-
-Every class starts with a handful of features, skills and traits that make you unique.
-
-Classes that know magic&mdash;the Wizard, Druid, and Bard&mdash;also get to pick one or two additional _Advanced Features_ at the start.
-
-You can also create your own _Ancestry Feature_. This is a feature that relates specifically to your chosen ancestry. A fairy might have the ability to fly short distances. A dragon might have a fire breathing feature. A gnome might be able to hide really well.
-
-As you progress in the game, you'll pick up additional features that let you customize your character even more and give them new ways to play.
-
-### 5. Pick your gear
-
-Every adventurer needs gear.
-
-In addition to unique features, every character starts the game with class-specific equipment. Bard's get an instrument. Fighters get to choose from an assortment of weapons. Wizards get a spellbook.
-
-The character sheet includes a list of options for each class. You can also choose a personal trinket, something small and unique to your character. Totally optional.
+Gear & Treasure
+: You start the game with a simple weapon, wand, or tool; a travelers pack; and one healing potion. Magical characters should have a few simple spells. In your adventures, you may find and pick up more cool stuff.
 
 
-## Rolling dice to learn what happens
 
-For most player actions, what happens is decided by rolling a 20-sided die, called a D20.
+## Rolling Dice
 
-To determine the outcome of an action, a player rolls a D20 and adds one of their stat modifiers based on what they're trying to do. The GM will tell you which stat to use.
+Every challenge a player has to overcome has a _Difficulty Rating_ (or _DR_).
 
-(*For negative stats, subtract the number from your die roll instead of adding it.*)
+For most things a player tries to do, what happens is decided by rolling a six-side die. If the number they roll is equal to or higher than the Difficulty Rating, they succeed. If it's lower, they fail.
 
-| Roll | Outcome         | What it means                         |
-|------|-----------------|---------------------------------------|
-| 18+  | Success         | The player's action works as planned  |
-| 9-17 | Partial Success | The players action works, with a cost |
-| 8-   | Failure         | The player's action doesn't work      |
+The higher the Difficulty Rating, the harder a task is.
 
-_**Don't have a D20?** [You can roll digital dice here.](/dice/)_
+| Rating | Difficulty |
+|--------|------------|
+| 2      | Easy       |
+| 3      | Medium     |
+| 5      | Hard       |
+| 6      | Impossible |
 
-{{<callout title="Examples">}}
-**The player is trying to convince a wealthy noble that they're a distant relative.** This is an act of deception. They roll a D20, and add their CHA stat.
+{{<details summary="D20 Variant" margin="true">}}
 
-- On 18 or above, the noble believes them, offering them a room in their palace and a feast in their honor.
-- On a 9 to 17, the noble reluctantly believes them, but secretly sends someone to look into their background.
-- On an 8 or less, the noble becomes angry, and has them arrested.
+| Rating | Difficulty |
+|--------|------------|
+| 5      | Easy       |
+| 10     | Medium     |
+| 15     | Hard       |
+| 20     | Impossible |
 
-**The player is trying to run across a collapsing old bridge.** This requires dexterity. They roll a D20, and add their DEX stat.
-
-- On an 18 or above, they run across and leap safely to the other side just as the bridge collapses.
-- On a 9 to 17, they leap safely to the other side, but drop their weapon into the canyon.
-- On an 8 or less, the bridge collapses under their feet.
-{{</callout>}}
-
-### D6 Variant
-
-If you don't have polyhedral dice (and don't want to [roll digital dice](/dice/)), you can use a variant of the rules that uses only D6 dice.
-
-- Instead of a D20, roll one D6 and multiply the result by 3. Then add the relevant stat modifier.
-- Instead of damage rolls, use [average damage amounts](/gm/#average-damage) based on damage die size.
+{{</details>}}
 
 {{<callout title="Example">}}
-- **You roll a 3.** Multiplied by 3, it becomes a 9. You succeed, with a cost.
-- **You roll a 1.** Multiplied by 3, it becomes a 3. You fail.
-- **You roll a 2.** Multilpied by 3, it becomes a 6. But after you add your +3 DEX, it becomes an 9. You succeed, with a cost.
+
+<p class="margin-bottom-small"><strong>The player is trying to convince a wealthy noble that they're a distant relative.</strong> The noble isn't very trusting. The Difficult Rating is 5.</p>
+
+- On 5 or above, the noble believes them
+- On a 4 or lower, they fail
 {{</callout>}}
 
-### Best Of & Worst Of
+_You can choose not to require a die roll. Ask for a roll any time you want to add chance to an outcome._
 
-You might have better or worse odds of succeeding in action based on your current circumstances. Adventure uses _Best Of_ and _Worst Of_ die mechanics to account for that.
+### Best Roll & Worst Roll
 
-- **Best Of.** Roll two D20 and take the higher number.
-- **Worst Of.** Roll two D20 and take the lower number.
+Items, special skills, and circumstances may give the player an advantage or disadvantage in attempting to complete a task.
 
-Conditions that provide an advantage give you _Best Of_ on die rolls. Conditions that hinder you give you _Word Of_ on die rolls.
+<p class="margin-bottom-small">Adventure uses <em>Best Roll (BR)</em> and <em>Worst Roll (WR)</em> to account for that.</p>
+
+- **Best Roll.** Roll two dice and take the higher number.
+- **Worst Roll.** Roll two dice and take the lower number.
+
+If the player has a specialty, feature, or tool that would aid them in their task, they can use Best Roll. If a condition would make it harder for them, they use Worst Roll.
+
+If a player would get both Best Roll _and_ Worst Roll, they cancel each other out.
 
 {{<callout title="Examples">}}
-<p class="margin-bottom-small"><strong>Best Of:</strong></p>
+Best Roll
+: The player is attempting to sneak up on a camp and surprise them. Their specialty is Speed. The Game Master tells them to use Best Roll.
 
-- You try to sneak past a guard who's partied too hard the night before and fallen asleep
-- Your ancestry grants you superb jumping ability, and you're trying to leap across a gap
+Worst Roll
+: An evil wizard uses a spell to shroud the cavern in darkness, and the player cannot see them. They attempt to shoot an arrow at wizard through the darkness. The Game Master tells them to use Worst Roll.
 
-<p class="margin-bottom-small"><strong>Worst Of:</strong></p>
-
-- You sustained a nasty gash in battle that's become infected, making it harder for you to hold a weapon
-- An evil wizard charmed you
-- The creatures you're facing are so terrible that they frighten you
+Both
+: The player whose trying to sneak up on the camp is also wearing armor, which gives them Worst Roll on Speed tasks. This cancels out the Best Roll from their specialty in Speed. They roll one die.
 {{</callout>}}
+
+### Knowledge & Perception (Wisdom) Checks
+
+There may be information that the Game Master want to reveal to players selectively.
+
+For example, when approaching the area where the thieves are going to attack, the Game Master can ask the players to roll a perception check. Any players who have a successful roll “hear the thieves approaching” and have a chance to take action before the attack.
+
+The Game Master can also call for knowledge checks if the players ask for information about their environment that in real would depend on their own awareness of their surroundings. For example, “Do I see anything out of the ordinary?”
+
+_Players who specialize in Wisdom take Best Roll on knowledge and perception checks._
+
+{{<callout title="Example">}}
+The players find a mysterious, glowing rock deep in a cavern. It pulses green. The cavern is surprisingly quiet. The players ask,
+
+> "What is this? What does it do?"
+
+<p class="margin-bottom-small"><strong>The Game Master asks for a knowledge check with a DR of 4</strong> (<em>he doesn't tell the players the DR</em>).</p>
+
+- On a 3 or lower, they can tell it's magical, but know nothing about it's specific properties or uses.
+- On a 4 or 5, the GM tells them that they've heard rumors of a magical gem that belonged to the sorcerer of the North. It was stolen from him some years ago, and he's been looking for it every since. They don't know what it does, only that it's very valuable.
+- On a 6, the GM also tells them that it's rumored to be able to bring trees to life, if you know the right magical phrase, and can be used to create a powerful army of treefolk.
+{{</callout>}}
+
+### Teamwork
+
+Adventure is a cooperative, team game. The more you work together, the more likely you are to succeed.
+
+- **For group tasks**, like trying to cross a river or sneak into a castle, if at least half of the party succeeds, everyone does.
+- **For individual tasks**, if you can reasonably assist a teammate, they get _Best Roll_.
+
+{{<callout title="Example">}}
+
+<p class="margin-bottom-small">A three-person party is trying to sneak into the castle undetected. The Game Master asks for a roll. Because this involves stealth, players who specialize in Speed take Best Roll.</p>
+
+- If all three players make their roll, the party succeeds.
+- If one player fails and two succeed, the party still succeeds.
+- If two players fail, but one succeeds, they all fail.
+{{</callout>}}
+
+
+
+## Gear & Treasure
+
+<p class="margin-bottom-small">An item that's ready for use is <em>Equipped</em>. At any one time, players can have the following items equipped:</p>
+
+- 1 weapon, and
+- 1 piece of armor or a shield, and
+- Up to 3 magical items.
+
+_Players can carry unequipped armor, shields, weapons, and magical items with them, as well as any treasure they've collected, with them._
 
 
 
 ## Combat
 
-Combat in Adventure works just like any other player action.
+While much of Adventure is focused on exploring and problem solving, you can introduce combat with monsters as a way to keep things interesting.
 
-- The player says what they want to do, rolls a D20, and adds a stat
-- The GM describes what happens as a result
+<p class="margin-bottom-small">During combat, a player can...</p>
 
-Attacks with a melee or up-close weapon (swords, axes, and such) use the STR stat. Ranged or far-away attacks (using a spear, bow, and so on) use the DEX stat. Similarly, blocking uses STR, while dodging uses DEX.
+- Take one of the following actions
+	+ Attack a monster
+	+ Heal (themself or someone else)
+	+ Help another player
+	+ Equip an unequipped item
+- Move around the battlefield
+- Pick up or put down objects in the area
+- Talk to other players or monsters
+
+### Monsters
+
+<p class="margin-bottom-small">In Adventure, a monster is any villain, not just literal monsters. Every monster has three&nbsp;stats:</p>
+
+- **Difficulty Rating.** How hard they are to hit, and how likely they are to hit the players.
+- **Health Points.** How much damage they can take before they're knocked out.
+- **Damage Dice.** How many dice to roll when figuring out how much damage their successful attacks do.
+
+Some creatures can attack more than once in a turn. This is called _Multi-Attack (MA)_. They have also have other features and abilities that help or hinder them in combat.
+
+<p class="margin-bottom-small">Monster's have a few different types of damage dice.</p>
+
+- **D6.** Roll one six-sided die.
+- **D6WR.** Roll two six-sided dice and take the worst roll.
+- **2D6.** Roll two size-sided dice and add them together.
+- **3D6.** Roll three size-sided dice and add them together.
+
+### When a player attacks a monster...
+
+<p class="margin-bottom-small">Roll a die to see what happens. If the roll is equal to or higher than the monster's DR, the attack is a success. If they have a specialty in...</p>
+
+- _Strength_, take Best Roll on up-close/melee attacks
+- _Speed_, take Best Roll on distanced/ranged attacks
+- _Wisdom_, take Best Roll on magical attacks
+
+<p class="margin-bottom-small">If the attack is a success, the roll again to determine how much damage the monster takes and subtract it from the monster's total Health Points.</p>
+
+- Roll a D6 for weapon attacks
+- Roll a D6 Worst Roll for attacks with hands or feet
+
+When the monster reaches 0 HP, they're knocked out.
+
+{{<callout title="Example">}}
+
+<p class="margin-bottom-small"><strong>The player is trying to hit an ogre with their sword.</strong> This is a Strength attack, and the ogre's DR is 4.</p>
+
+- On 4 or above, the sword hits, causing the ogre to scream and stumble back a few feet. The ogre takes D6 damage.
+- On 3 or lower, the sword misses, slamming into the ground beside the ogre.
+
+{{</callout>}}
+
+### When a monster attacks a player...
+
+The player describes how they want to respond and rolls a die. If they're wearing armor, they take Best Roll.
+
+<p class="margin-bottom-small">If the roll is lower than the monster's DR, the monster's attack is a success.</p>
+
+- Roll the monster's Damage Dice to determine how much damage they take
+- Subtract it from the player's HP
+
+When a player's HP reaches 0, they're knocked out and cannot continue to fight until they have at least one Health Point.
+
+{{<callout title="Example">}}
+
+<p class="margin-bottom-small"><strong>A troll throws a giant boulder at the player, and they attempt to jump out of the way.</strong> This uses their Speed, and the troll's DR is 3</p>
+
+- On an 3 or above, they jump out of the way, and the boulder bounces off into the distance.
+- On a 2 or less, the boulder slams into them before they can jump out of the way. The GM rolls the troll's damage dice.
+{{</callout>}}
+
+### Fleeing a battle
+
+Every now and then, players may find themselves in a battle they just can't win.
+
+If players decide to flee instead of fight, they can make a team roll to determine if they get away. The Game Master can determine the DR. If the players fail, the GM may choose to force the players to keep fighting, or have some of all them get captured.
+
+Players can choose to flee a battle at any time, including in the middle of one.
+
+
+
+## Damage & Healing
+
+<p class="margin-bottom-small">As adventurers, you will more than occasionally get hurt, either in battle or through exploration. There are different types of damage.</p>
+
+- **Bludgeoning.** From falls and blunt force attacks with things like hammers and staffs
+- **Slashing.** From swords, spears, claws, and teeth
+- **Fire.** From fire and lava, natural or magical
+- **Lightning.** From lightning and electricity, natural or magical
+- **Cold.** From ice, snow, and cold temperatures, natural or magical
+- **Acid.** From chemicals and toxic substances
+- **Magic.** From magical forces like energy blasts and radiant light
+
+### Healing
+
+When a player's HP reaches 0, they're knocked out and cannot continue to fight until they have at least 1 HP.
+
+<p class="margin-bottom-small">Fortunately, players can heal in a few ways.</p>
+
+- If you _take a rest_, you can recover one damage die roll of HP
+- Using tools like bandages or healing potion
+
+When you roll a damage die or use healing tools, add the amount of HP healing back to your Current HP (up to your Max HP). Your Current HP cannot exceed your Max HP.
 
 {{<callout title="Examples">}}
-**The player is trying to hit an ogre with their sword.** This is a feat of strength. They roll a D20, and add their STR stat.
+Healing with Damage Dice
+: Your Current HP is 3, and your Max HP is 10. You roll a D6, and get a 4. Your new Current HP is 7.
 
-- On 18 or above, the sword hits, causing the ogre to scream and stumble back a few feet.
-- On a 9 to 17, the sword hits, but the ogre swings at them at the same time slams its fist into their shoulder.
-- On an 8 or less, the sword misses, slamming into the ground beside the ogre.
-
-**A troll throws a giant boulder at the player, and they attempt to jump out of the way.** This requires dexterity. They roll a D20, and add their DEX stat.
-
-- On an 18 or above, the jump out of the way, and the boulder bounces off into the distance.
-- On a 9 to 17, they leap out of the way, but the boulder catches their sword and knocks it 20 feet away.
-- On an 8 or less, the boulder slams into them before they can jump out of the way.
+Healing with Potion
+: Your Current HP is 6, and your Max HP is 10. You drink a Healing Potion, which heals 7 HP of damage. Since your Max HP is 10, your new Current HP is 10. The extra 1 HP of healing is lost.
 {{</callout>}}
 
-### Hit points
+### Resistance, Immunity & Vulnerability
 
-Every character and creature has a pool of _Hit Points_ (or _HP_). Hit Points represent a creatures overall health.
+<p class="margin-bottom-small">Some creatures (and players) have resistance, immunity, or vulnerability to certain types of damage.</p>
 
-Your characters _Max HP_ is determined by adding their CON stat to a base number that varies by class (as indicated on your character sheet).
-
-Whenever a character or creature takes damage, points are subtracted from their _Current HP_. When their HP reaches 0, they're knocked out, and remain that way until another party member revives them.
-
-_A character's Current HP can never exceed their Max HP._
-
-{{<callout title="Example">}}
-A rogue has a CON of +1. Their character sheet says their Max HP is _6 + CON_, so their Max HP is 7.
-
-Their Current HP starts at 7 as well. Then they get hit with an arrow and take 2 points of damage. Their Current HP is now 5.
-{{</callout>}}
-
-### Calculating damage
-
-Every character sheet specifies the _damage die_ used by that class.
-
-Whenever your character successfully hits a creature, roll your damage die to determine how much damage is dealt.
-
-Some weapons provide a _damage modifier_, additional damage dealt above what's rolled. For example, a warhammer deals _+1 damage_. When using it, you would add 1 to whatever number you roll.
-
-{{<callout title="Example">}}
-A fighter swings his warhammer, striking a goblin in the chest.
-
-The fighter's damage die is a D10. They roll a 7, and the warhammer provides an additional +1 damage. The GM subtracts 8 from the goblin's HP.
-{{</callout>}}
-
-### Armor
-
-Armor and shields provide protection against attacks.
-
-When a character or creature receives damage while wearing armor, they subtract their _armor value_ from the damage received before subtracting it from their HP.
-
-Most protective gear has an *n armor* rating. You can only wear one piece of armor of this type at a time. Some protective gear, like shields, are additive and have a _+n armor_ rating. This can be added to whatever your current armor value is.
-
-Armor labeled _clumsy_ is tough to move around in, and imposes Worst Of on all STR, DEX, CON, and spellcasting rolls.
-
-{{<callout title="Example">}}
-The fighter is wearing chain mail (1 armor) and carrying a shield (+1).
-
-A giant slams his club into the player, doing 5 points of damage. The player subtracts 3 from their Current HP. The armor prevented 2 HP of damage.
-{{</callout>}}
-
-
-
-## Healing
-
-As an adventurer, you're going to take damage from time-to-time. Fortunately, you can heal yourself in a variety of ways.
-
-- During a _short rest_ (1 hour or less), you can recover one damage die roll of HP
-- During a _long rest_ (8 hours or more), you recover all of your HP
-- Using tools like bandages, an herbalism kit, or healing potion
-
-When you roll a damage die or use healing tools, add the amount of HP healing back to your Current HP (up to your Max HP).
+- **Resistance.** Take Worst Roll on damage rolls for damage of this type
+- **Immune.** Take no damage for damage of this type
+- **Vulnerable.** Take Best Roll on damage rolls for damage of this type
 
 {{<callout title="Examples">}}
-**Healing with Damage Dice**<br>
-Your Current HP is 3, and your Max HP is 14. You roll a D10, and get a 6. Your new Current HP is 9.
 
-**Healing with Potion**<br>
-Your Current HP is 6, and your Max HP is 8. You drink a Healing Potion, which heals 7 HP of damage. Since your Max HP is 8, your new Current HP is 8. The remaining 5 HP of healing is lost.
-{{</callout>}}
+<p class="margin-bottom-small">The player hits three creatures with a fireball.</p>
 
-
-## Teamwork
-
-Adventure is a cooperative, team game. The more you work together, the more likely you are to succeed.
-
-- **For group tasks**, like trying to cross a river or sneak into a castle, if at least half of the party succeeds, everyone does.
-- **For individual tasks**, if you can reasonably assist a teammate, they get _Best Of_ on their roll.
-
-
-
-## Buying & Hauling Stuff
-
-The common currency in Adventure is _Coin_.
-
-Every character gets a few starting coins, noted on your character sheet. As you go on adventures, you'll find or earn more. You'll also acquire treasure, magical items, and gear.
-
-**There's a list of common items, and their prices and weight, [on the equipment page](/equipment).**
-
-### Buying Stuff
-
-You can use Coin to purchase things you need, including weapons and armor, supplies, lodging, and more.
-
-In populated areas, like villages and cities, you're likely to find everything you need at reasonable prices. In more remote areas, some items might be harder to find, not available at all, or more expensive than typical market rates.
-
-### Item Weight
-
-There's only so much stuff you can carry with you before it becomes too heavy.
-
-Adventure uses a simple system for calculating how much stuff you can carry. All items have a _Weight_. The _Max Load_ your character can carry is determined by adding their STR stat to a base number that varies by class (as indicated on your character sheet).
-
-**When the weight of the stuff a character has with them exceeds their Max Load, they're _encumbered_, and get _Worst Of_ on all STR, DEX, CON, and spellcasting rolls.**
-
-_This is totally optional. Feel free to drop this rule from your games if you don't like it._
-
-
-
-## Character growth
-
-All adventurers start the game at level 1. As your character goes on adventures, they'll gain new experiences and pick up new skills.
-
-Whenever the party does something particularly meaningful of awesome, the GM should _level up_ the party, increasing your current level by 1.
-
-**When you level up...**
-
-- Select a new feature from the _Feature List_ on your character sheet
-- At odd levels (3, 5, 7, and so on), increase a stat of your choice by 1, up to a max of 5
-
-{{<callout title="Example">}}
-Your party successfully snuck into the old wizard's tower, and retrieved the magical black pearl just as the tower collapsed into the ocean. Along the way, you fought monsters, overcame dubious traps, and raced a crew of pirates.
-
-**You're currently a level 2 druid. The GM decides to _level you up_ to level 3.**
-
-You pick a new feature, _Tangle of Vines_, from the Features list. Because you hit an odd level, you also increase your WIS stat from 3 to 4. WIS is your spell stat, so you want to maximize the likelihood that your spells work.
+- **The Dragon has _Resistance: Fire_.**  It takes Worst Roll on the damage roll.
+- **The Gargoyle has _Immune: Fire_.** It takes no damage.
+- **The Knight has _Vulnerable: Fire._** It takes Worst Roll on the damage roll.
 {{</callout>}}
 
 

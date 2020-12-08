@@ -1,0 +1,2313 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>How to Play | Adventure</title>
+		<meta name="description" content="In Adventure, players work together to overcome challenges, battle ferocious monsters, explore new worlds, discover hidden treasures, and, hopefully, save the day.
+ How it works The game follows a simple pattern.
+ The Game Master (or GM, the person running the game) describes a situation. The player or players state what they want to do. The GM describes what happens.  The most important phrase in Adventure is, &ldquo;What do you do?">
+		
+
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:site" content="@ChrisFerdinandi">
+		<meta property="og:url" content="/rules/">
+		<meta property="og:title" content="How to Play">
+		<meta property="og:description" content="In Adventure, players work together to overcome challenges, battle ferocious monsters, explore new worlds, discover hidden treasures, and, hopefully, save the day.
+ How it works The game follows a simple pattern.
+ The Game Master (or GM, the person running the game) describes a situation. The player or players state what they want to do. The GM describes what happens.  The most important phrase in Adventure is, &ldquo;What do you do?">
+		
+
+		
+		
+		<link rel="shortcut icon" href="https://kitchentableadventure.com/img/favicon.ico">
+		<link rel="icon" sizes="16x16 32x32" href="https://kitchentableadventure.com/img/favicon.ico">
+
+		
+
+		
+		<style type="text/css">
+			/*! gmt-theme v2.6.0 | (c) 2020 Chris Ferdinandi | MIT License | http://github.com/cferdinandi/gmt-theme */
+/* pt-serif-regular - latin */
+@font-face {
+	font-family: "PT Serif";
+	font-style: normal;
+	font-weight: 400;
+	src: local("PT Serif"), local("PTSerif-Regular"), url("https://gomakethings.com/fonts/pt-serif-v11-latin-regular.woff2") format("woff2"), url("https://gomakethings.com/fonts/pt-serif-v11-latin-regular.woff") format("woff");
+}
+/* pt-serif-italic - latin */
+@font-face {
+	font-family: "PT Serif";
+	font-style: italic;
+	font-weight: 400;
+	src: local("PT Serif Italic"), local("PTSerif-Italic"), url("https://gomakethings.com/fonts/pt-serif-v11-latin-italic.woff2") format("woff2"), url("https://gomakethings.com/fonts/pt-serif-v11-latin-italic.woff") format("woff");
+}
+/* pt-serif-700 - latin */
+@font-face {
+	font-family: "PT Serif";
+	font-style: normal;
+	font-weight: 700;
+	src: local("PT Serif Bold"), local("PTSerif-Bold"), url("https://gomakethings.com/fonts/pt-serif-v11-latin-700.woff2") format("woff2"), url("https://gomakethings.com/fonts/pt-serif-v11-latin-700.woff") format("woff");
+}
+/* pt-serif-700italic - latin */
+@font-face {
+	font-family: "PT Serif";
+	font-style: italic;
+	font-weight: 700;
+	src: local("PT Serif Bold Italic"), local("PTSerif-BoldItalic"), url("https://gomakethings.com/fonts/pt-serif-v11-latin-700italic.woff2") format("woff2"), url("https://gomakethings.com/fonts/pt-serif-v11-latin-700italic.woff") format("woff");
+}
+/* pt-sans-regular - latin */
+@font-face {
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 400;
+	src: local("PT Sans"), local("PTSerif-Regular"), url("https://gomakethings.com/fonts/pt-sans-v12-latin-regular.woff2") format("woff2"), url("https://gomakethings.com/fonts/pt-sans-v12-latin-regular.woff") format("woff");
+}
+/* pt-sans-italic - latin */
+@font-face {
+	font-family: "PT Sans";
+	font-style: italic;
+	font-weight: 400;
+	src: local("PT Sans Italic"), local("PTSerif-Italic"), url("https://gomakethings.com/fonts/pt-sans-v12-latin-italic.woff2") format("woff2"), url("https://gomakethings.com/fonts/pt-sans-v12-latin-italic.woff") format("woff");
+}
+/* pt-sans-700 - latin */
+@font-face {
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: 700;
+	src: local("PT Sans Bold"), local("PTSerif-Bold"), url("https://gomakethings.com/fonts/pt-sans-v12-latin-700.woff2") format("woff2"), url("https://gomakethings.com/fonts/pt-sans-v12-latin-700.woff") format("woff");
+}
+/* pt-sans-700italic - latin */
+@font-face {
+	font-family: "PT Sans";
+	font-style: italic;
+	font-weight: 700;
+	src: local("PT Sans Bold Italic"), local("PTSerif-BoldItalic"), url("https://gomakethings.com/fonts/pt-sans-v12-latin-700italic.woff2") format("woff2"), url("https://gomakethings.com/fonts/pt-sans-v12-latin-700italic.woff") format("woff");
+}
+			/*! gmt-theme v2.6.0 | (c) 2020 Chris Ferdinandi | MIT License | http://github.com/cferdinandi/gmt-theme */
+@charset "UTF-8";
+/**
+ * @section CSS Reset
+ * Adapted from Andy Bell's modern CSS reset
+ * @link https://hankchizljaw.com/wrote/a-modern-css-reset/
+ */
+/**
+ * Remove the tap delay in webkit
+ * @link https://medium.com/@adactio/delay-a9df9edceef3#.7dmbl3xow
+ */
+a,
+button,
+input,
+select,
+textarea,
+label,
+summary {
+	touch-action: manipulation;
+}
+
+/**
+ * Add box sizing to everything
+ * @link http://www.paulirish.com/2012/box-sizing-border-box-ftw/
+ */
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+}
+
+/**
+ * 1. Force scrollbar display to prevent jumping on pages.
+ * 2. Prevent iOS text size adjust after orientation change, without disabling
+ *    user zoom.
+ */
+html {
+	overflow-y: scroll;
+	/* 1 */
+	text-size-adjust: 100%;
+	/* 2 */
+}
+
+/**
+ * 1. Remove the margin in all browsers (opinionated).
+ * 2. For the body to fill the viewport
+ */
+body {
+	margin: 0;
+	/* 1 */
+	min-height: 100vh;
+	/* 2 */
+}
+
+/**
+ * Prevent img and video elements from spilling outside of the page on smaller screens.
+ */
+img,
+video {
+	max-width: 100%;
+	height: auto;
+}
+
+/**
+ * Prevent iframe, object, and embed elements from spilling outside of the page on smaller screens.
+ * height: auto causes iframes to smush, so it's omitted here.
+ */
+iframe,
+object,
+embed {
+	max-width: 100%;
+}
+
+audio {
+	width: 100%;
+}
+
+/**
+ * @workaround Remove focus from tabindex="-1" elements which are only script focusable
+ * @link https://code.google.com/p/chromium/issues/detail?id=37721
+ */
+[tabindex="-1"]:focus {
+	outline: none;
+}
+
+/**
+ * @section Grid
+ * Structure and layout
+ */
+/**
+ * Base grid styles: single column
+ */
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 38em;
+	width: 88%;
+}
+
+.container-large {
+	max-width: 60em;
+}
+
+/**
+ * Grids
+ */
+@media (min-width: 38em) {
+	.row {
+		display: flex;
+		margin-left: -1.4%;
+		margin-right: -1.4%;
+		justify-content: space-between;
+	}
+
+	.row-reverse {
+		flex-direction: row-reverse;
+	}
+
+	.grid-auto,
+.grid-fourth,
+.grid-third,
+.grid-two-thirds,
+.grid-half,
+.grid-three-fourths {
+		margin-left: 1.4%;
+		margin-right: 1.4%;
+	}
+
+	.grid-auto {
+		flex: 1 1;
+	}
+
+	.grid-fifth {
+		width: 20%;
+	}
+
+	.grid-fourth {
+		width: 25%;
+	}
+
+	.grid-third {
+		width: 33.33333%;
+	}
+
+	.grid-two-thirds {
+		width: 66.66666%;
+	}
+
+	.grid-half {
+		width: 50%;
+	}
+
+	.grid-three-fourths {
+		width: 75%;
+	}
+
+	.grid-four-fifths {
+		width: 80%;
+	}
+}
+/**
+ * Columns
+ */
+@media (min-width: 38em) {
+	.list-columns {
+		column-count: 2;
+	}
+}
+/**
+ * @section Typography
+ * Sets font styles for entire site
+ */
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	background: #ffffff;
+	border-top: 0.5em solid #e5e5e5;
+	color: #272727;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font-size: 112.5%;
+	line-height: 1.5;
+}
+@media (min-width: 38em) {
+	body {
+		line-height: 1.5625em;
+	}
+}
+@media (prefers-color-scheme: dark) {
+	body {
+		background: #272727;
+		border-top-color: #808080;
+		color: #ffffff;
+	}
+}
+.fonts-loaded body {
+	font-family: "PT Sans", sans-serif;
+}
+
+p {
+	margin: 0 0 1.5625em;
+}
+
+/**
+ * Hyperlink styling
+ */
+a {
+	color: #0088cc;
+	text-decoration-skip-ink: auto;
+	word-wrap: break-word;
+}
+a:active, a:focus, a:hover {
+	color: #005580;
+}
+a:visited {
+	color: #800080;
+}
+@media (prefers-color-scheme: dark) {
+	a {
+		color: #73cffa;
+	}
+	a:active, a:focus, a:hover {
+		color: #29b6f7;
+	}
+	a:visited {
+		color: #debfde;
+	}
+}
+
+.link-no-underline, .nav-secondary a {
+	text-decoration: none;
+}
+.link-no-underline:active, .nav-secondary a:active, .link-no-underline:focus, .nav-secondary a:focus, .link-no-underline:hover, .nav-secondary a:hover {
+	text-decoration: underline;
+}
+
+/**
+ * Remove default link styling
+ */
+.link-plain, .link-plain:visited {
+	color: #272727;
+	text-decoration: none;
+}
+.link-plain:active, .link-plain:focus, .link-plain:hover {
+	color: #0088cc;
+}
+
+/**
+ * List styling
+ */
+ul,
+ol {
+	margin: 0 0 1.5625em 2em;
+	padding: 0;
+}
+
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+	margin-bottom: 0;
+}
+
+li {
+	margin-bottom: 0.5em;
+}
+@media (min-width: 38em) {
+	li {
+		margin-bottom: 0.25em;
+	}
+}
+.list-spaced li {
+	margin-bottom: 1em;
+}
+@media (min-width: 38em) {
+	.list-spaced li {
+		margin-bottom: 0.6875em;
+	}
+}
+
+dl,
+dd {
+	margin: 0;
+	padding: 0;
+}
+
+dd {
+	margin-bottom: 1.5625em;
+}
+
+dt {
+	font-weight: bold;
+}
+
+/**
+ * @bugfix Prevent webkit from removing list semantics
+ * 1. Add a non-breaking space
+ * 2. Make sure it doesn't mess up the DOM flow
+ */
+.list-inline, .nav, .list-unstyled {
+	list-style: none;
+	margin-left: 0;
+}
+.list-inline > li::before, .nav > li::before, .list-unstyled > li::before {
+	content: "​";
+	/* 1 */
+	position: absolute;
+	/* 2 */
+}
+
+/**
+ * Removes list styling.
+ * For semantic reasons, should only be used on unordered lists.
+ */
+.list-unstyled {
+	margin-left: 0;
+}
+
+/**
+ * Display lists on a single line.
+ */
+.list-inline, .nav {
+	margin-left: -0.5em;
+	margin-right: -0.5em;
+	padding: 0;
+}
+.list-inline > li, .nav > li {
+	display: inline-block;
+	margin-left: 0.5em;
+	margin-right: 0.5em;
+}
+@media (max-width: 38em) {
+	.list-inline.list-inline-responsive > li, .list-inline-responsive.nav > li {
+		display: block;
+	}
+}
+
+.list-inline-spaced {
+	margin-left: -1.3125em;
+	margin-right: -1.3125em;
+}
+.list-inline-spaced > li {
+	margin-left: 1.3125em;
+	margin-right: 1.3125em;
+}
+
+.list-inline-compact {
+	margin-left: -0.25em;
+	margin-right: -0.25em;
+}
+.list-inline-compact li {
+	margin-left: 0.25em;
+	margin-right: 0.25em;
+}
+
+/**
+ * Heading styling for h1 through h6 elements.
+ * Heading class lets you use one heading type for semantics, but style it as another heading type.
+ */
+h1, h2, h3, h4, h5, h6 {
+	line-height: 1.2;
+	margin: 0 0 1em;
+	padding: 1em 0 0;
+	word-wrap: break-word;
+}
+.fonts-loaded h1, .fonts-loaded h2, .fonts-loaded h3, .fonts-loaded h4, .fonts-loaded h5, .fonts-loaded h6 {
+	font-family: "PT Serif", serif;
+}
+
+h1,
+.h1 {
+	font-size: 1.5em;
+	padding-top: 0.5em;
+}
+@media (min-width: 38em) {
+	h1,
+.h1 {
+		font-size: 1.75em;
+	}
+}
+
+h2,
+.h2 {
+	font-size: 1.3125em;
+}
+
+h3,
+.h3 {
+	font-size: 1.1875em;
+}
+
+h4, h5, h6,
+.h4, .h5, .h6 {
+	font-size: 1em;
+}
+
+h4,
+.h4 {
+	font-size: 0.8125em;
+	text-transform: uppercase;
+}
+
+/**
+ * Lines
+ */
+hr {
+	border: 0;
+	border-top: 1px solid #e5e5e5;
+	margin: 2em auto;
+}
+@media (prefers-color-scheme: dark) {
+	hr {
+		border-top-color: #808080;
+	}
+}
+
+.line-secondary {
+	width: 50%;
+}
+
+.line-clear {
+	border-top-color: transparent;
+}
+
+.line-overlay {
+	margin-top: -2.8em;
+}
+.line-overlay > strong {
+	background-color: #ffffff;
+	display: inline-block;
+	padding: 0 1em;
+}
+@media (min-width: 38em) {
+	.line-overlay > strong {
+		padding: 0 2em;
+	}
+}
+@media (prefers-color-scheme: dark) {
+	.line-overlay > strong {
+		background-color: #272727;
+	}
+}
+
+/**
+ * Address styling not present in IE 8/9.
+ */
+mark {
+	background: #fbf9c9;
+	color: #272727;
+}
+@media (prefers-color-scheme: dark) {
+	mark {
+		background: transparent;
+		color: #ffffff;
+	}
+}
+
+/**
+ * Blockquotes
+ */
+blockquote {
+	border-left: 0.25em solid #e5e5e5;
+	font-style: italic;
+	margin: 0 0 1.5625em;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+blockquote pre {
+	font-style: normal;
+}
+
+cite {
+	color: #808080;
+	display: block;
+	font-size: 0.9375em;
+	padding-top: 1em;
+}
+@media (prefers-color-scheme: dark) {
+	cite {
+		color: #e5e5e5;
+	}
+}
+
+/**
+ * @section Code
+ * Styling for code and preformatted text.
+ */
+code,
+kbd,
+pre,
+samp {
+	font-family: Menlo, Monaco, "Courier New", monospace;
+	font-size: 0.875em;
+}
+
+code {
+	color: #dd1144;
+	word-wrap: break-word;
+}
+@media (prefers-color-scheme: dark) {
+	code {
+		color: #ded7d9;
+	}
+}
+
+pre {
+	background-color: #f7f7f7;
+	display: block;
+	line-height: 1.5;
+	margin: 0 0 1.5625em;
+	overflow: auto;
+	padding: 0.8125em;
+	tab-size: 2;
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+@media (min-width: 38em) {
+	pre {
+		tab-size: 4;
+	}
+}
+@media (prefers-color-scheme: dark) {
+	pre {
+		background-color: #393939;
+	}
+}
+pre code {
+	color: inherit;
+	font-size: 1em;
+}
+
+/**
+ * @section Chroma syntax highlighting
+ * Styles for Hugo's syntax highlighting engine
+ */
+@media screen {
+	.chroma .err,
+.chroma .kc,
+.chroma .no,
+.chroma .py,
+.chroma .nt,
+.chroma .ss,
+.chroma .m,
+.chroma .mb,
+.chroma .mf,
+.chroma .mh,
+.chroma .mi,
+.chroma .il,
+.chroma .mo {
+		color: #905;
+	}
+}
+@media screen and (prefers-color-scheme: dark) {
+	.chroma .err,
+.chroma .kc,
+.chroma .no,
+.chroma .py,
+.chroma .nt,
+.chroma .ss,
+.chroma .m,
+.chroma .mb,
+.chroma .mf,
+.chroma .mh,
+.chroma .mi,
+.chroma .il,
+.chroma .mo {
+		color: #bfbfbf;
+	}
+}
+@media screen {
+	.chroma .k,
+.chroma .kd,
+.chroma .kn,
+.chroma .kp,
+.chroma .kr,
+.chroma .kt,
+.chroma .nb,
+.chroma .s {
+		color: #07a;
+	}
+}
+@media screen and (prefers-color-scheme: dark) {
+	.chroma .k,
+.chroma .kd,
+.chroma .kn,
+.chroma .kp,
+.chroma .kr,
+.chroma .kt,
+.chroma .nb,
+.chroma .s {
+		color: #95dbfb;
+	}
+}
+@media screen {
+	.chroma .n,
+.chroma .na,
+.chroma .nc,
+.chroma .ne,
+.chroma .l,
+.chroma .ld,
+.chroma .sa,
+.chroma .sb,
+.chroma .sc,
+.chroma .dl,
+.chroma .s1,
+.chroma .s2,
+.chroma .se,
+.chroma .sh,
+.chroma .si,
+.chroma .sx {
+		color: #690;
+	}
+}
+@media screen and (prefers-color-scheme: dark) {
+	.chroma .n,
+.chroma .na,
+.chroma .nc,
+.chroma .ne,
+.chroma .l,
+.chroma .ld,
+.chroma .sa,
+.chroma .sb,
+.chroma .sc,
+.chroma .dl,
+.chroma .s1,
+.chroma .s2,
+.chroma .se,
+.chroma .sh,
+.chroma .si,
+.chroma .sx {
+		color: #c5d99c;
+	}
+}
+@media screen {
+	.chroma .bp,
+.chroma .nd,
+.chroma .nl,
+.chroma .sd,
+.chroma .p,
+.chroma .c,
+.chroma .ch,
+.chroma .cm,
+.chroma .c1,
+.chroma .cs,
+.chroma .cp,
+.chroma .cpf {
+		color: slategray;
+	}
+}
+@media screen and (prefers-color-scheme: dark) {
+	.chroma .bp,
+.chroma .nd,
+.chroma .nl,
+.chroma .sd,
+.chroma .p,
+.chroma .c,
+.chroma .ch,
+.chroma .cm,
+.chroma .c1,
+.chroma .cs,
+.chroma .cp,
+.chroma .cpf {
+		color: #e5e5e5;
+	}
+}
+@media screen {
+	.chroma .ni,
+.chroma .o {
+		color: #a67f59;
+		background: rgba(255, 255, 255, 0.5);
+	}
+}
+@media screen and (prefers-color-scheme: dark) {
+	.chroma .ni,
+.chroma .o {
+		background: transparent;
+		color: #e5e5e5;
+	}
+}
+@media screen {
+	.chroma .nf,
+.chroma .fm,
+.chroma .ow {
+		color: #dd4a68;
+	}
+}
+@media screen and (prefers-color-scheme: dark) {
+	.chroma .nf,
+.chroma .fm,
+.chroma .ow {
+		color: #deb6be;
+	}
+}
+@media screen {
+	.chroma .nv,
+.chroma .vc,
+.chroma .vg,
+.chroma .vi,
+.chroma .vm,
+.chroma .sr {
+		color: #e90;
+	}
+}
+@media screen and (prefers-color-scheme: dark) {
+	.chroma .nv,
+.chroma .vc,
+.chroma .vg,
+.chroma .vi,
+.chroma .vm,
+.chroma .sr {
+		color: #ede1ca;
+	}
+}
+@media screen {
+	.chroma .nn {
+		opacity: 0.7;
+	}
+}
+@media screen {
+	.chroma .ge {
+		font-style: italic;
+	}
+}
+@media screen {
+	.chroma .gs {
+		font-weight: bold;
+	}
+}
+/**
+ * @section Buttons
+ * Styling for CSS buttons.
+ */
+/**
+ * Primary buttons
+ */
+.btn {
+	background-color: #f7272f;
+	border: 0.125em solid #f7272f;
+	display: inline-block;
+	font-size: 0.9375em;
+	font-weight: normal;
+	line-height: 1.2;
+	margin-right: 0.3125em;
+	margin-bottom: 0.3125em;
+	padding: 0.5em 0.6875em;
+}
+.btn, .btn:focus, .btn:visited {
+	color: #ffffff;
+}
+@media (prefers-color-scheme: dark) {
+	.btn, .btn:focus, .btn:visited {
+		background-color: #fdd4d5;
+		border-color: #fdd4d5;
+		color: #000000;
+	}
+}
+.btn:hover, .btn:active {
+	background-color: #cb070e;
+	border-color: #cb070e;
+	color: #ffffff;
+}
+@media (prefers-color-scheme: dark) {
+	.btn:hover, .btn:active {
+		background-color: #fdbbbd;
+		border-color: #fdbbbd;
+		color: #000000;
+	}
+}
+a.btn {
+	text-decoration: none;
+}
+
+/**
+ * Secondary buttons
+ */
+.btn-secondary {
+	background-color: #343d4d;
+	border-color: #343d4d;
+}
+@media (prefers-color-scheme: dark) {
+	.btn-secondary {
+		background-color: #d2d7e1;
+		border-color: #d2d7e1;
+		color: #000000;
+	}
+}
+.btn-secondary:hover, .btn-secondary:active, .btn-secondary.active {
+	background-color: #15191f;
+	border-color: #15191f;
+}
+@media (prefers-color-scheme: dark) {
+	.btn-secondary:hover, .btn-secondary:active, .btn-secondary.active {
+		background-color: #c3cad6;
+		border-color: #c3cad6;
+		color: #000000;
+	}
+}
+
+/**
+ * Tertiary buttons
+ */
+.btn-tertiary {
+	background-color: #0088cc;
+	border-color: #0088cc;
+}
+@media (prefers-color-scheme: dark) {
+	.btn-tertiary {
+		background-color: #cceeff;
+		border-color: #cceeff;
+		color: #000000;
+	}
+}
+.btn-tertiary:hover, .btn-tertiary:active, .btn-tertiary.active {
+	background-color: #005580;
+	border-color: #005580;
+}
+@media (prefers-color-scheme: dark) {
+	.btn-tertiary:hover, .btn-tertiary:active, .btn-tertiary.active {
+		background-color: #b3e6ff;
+		border-color: #b3e6ff;
+		color: #000000;
+	}
+}
+
+/**
+ * Active state
+ */
+.btn:active {
+	box-shadow: inset 0 0.15625em 0.25em rgba(0, 0, 0, 0.15), 0 1px 0.15625em rgba(0, 0, 0, 0.05);
+	outline: 0;
+}
+
+/**
+ * Disabled state
+ */
+.btn[disabled],
+[data-submitting] .btn {
+	box-shadow: none;
+	cursor: not-allowed;
+	opacity: 0.5;
+	pointer-events: none;
+}
+
+/**
+ * Button size
+ */
+.btn-large {
+	font-size: 1em;
+	line-height: normal;
+	padding: 0.6875em 0.9375em;
+}
+
+/**
+ * Block-level buttons
+ */
+.btn-block {
+	display: block;
+	margin-right: 0;
+	padding-right: 0;
+	padding-left: 0;
+	width: 100%;
+}
+
+/**
+ * General styles
+ */
+.btn,
+button,
+html input[type=button],
+input[type=reset],
+input[type=submit] {
+	cursor: pointer;
+	text-align: center;
+	vertical-align: middle;
+}
+
+/**
+ * Remove right margin on last element and inputs
+ */
+.btn:last-child,
+input.btn {
+	margin-right: 0;
+}
+
+/**
+ * @section Forms
+ * Styling for form elements.
+ */
+form,
+fieldset {
+	margin-bottom: 1.5625em;
+}
+
+fieldset {
+	border: 0;
+	padding: 0;
+}
+
+legend,
+label {
+	display: block;
+	margin: 0 0 0.3125em;
+	padding: 0;
+}
+
+/**
+ * 1. Correct color not being inherited.
+ *    Known issue: affects color of disabled elements.
+ * 2. Correct font properties not being inherited.
+ * 3. Address margins set differently in Firefox 4+, Safari, and Chrome.
+ */
+button,
+input,
+optgroup,
+select,
+textarea {
+	color: #555555;
+	/* 1 */
+	font: inherit;
+	/* 2 */
+	margin: 0;
+	/* 3 */
+	padding: 0.3125em;
+}
+@media (prefers-color-scheme: dark) {
+	button,
+input,
+optgroup,
+select,
+textarea {
+		background-color: #e5e5e5;
+		color: #272727;
+	}
+}
+
+input,
+textarea,
+select {
+	border: 1px solid #b8b8b8;
+	display: block;
+	line-height: 1.5;
+	margin-bottom: 1.1875em;
+	width: 100%;
+}
+@media (min-width: 38em) {
+	input,
+textarea,
+select {
+		line-height: 1.5625;
+	}
+}
+@media (prefers-color-scheme: dark) {
+	input,
+textarea,
+select {
+		border-color: #808080;
+	}
+}
+
+form button,
+form .btn {
+	margin-bottom: 1.1875em;
+}
+
+textarea {
+	height: 8em;
+	overflow: auto;
+	resize: vertical;
+}
+
+[type=image],
+[type=checkbox],
+[type=radio] {
+	cursor: pointer;
+	display: inline-block;
+	height: auto;
+	margin-bottom: 0.3125em;
+	padding: 0;
+	width: auto;
+}
+
+[type=checkbox],
+[type=radio] {
+	margin-right: 0.25em;
+}
+
+input:focus,
+textarea:focus {
+	border-color: rgba(82, 168, 236, 0.8);
+}
+
+/**
+ * Inline inputs
+ */
+.input-inline {
+	display: inline-block;
+	vertical-align: middle;
+	width: auto;
+}
+
+/**
+ * Condensed inputs
+ */
+.input-condensed {
+	line-height: 1;
+	padding-top: 0.125em;
+	padding-bottom: 0.125em;
+	vertical-align: top;
+}
+
+/**
+ * Search
+ */
+/**
+ * Create rounded search bar
+ */
+.input-search {
+	width: 85%;
+	padding-left: 0.9375em;
+	padding-right: 2.5em;
+	border-radius: 1.3125em;
+	transition: width 300ms ease-in;
+}
+@media (min-width: 38em) {
+	.input-search {
+		width: 65%;
+	}
+}
+
+/**
+ * Special styling for search icon as button
+ */
+.btn-search {
+	display: inline;
+	color: #808080;
+	border: none;
+	background: none;
+	margin-left: -2.5em;
+	margin-bottom: 0;
+}
+.btn-search:hover {
+	color: #5a5a5a;
+}
+
+/**
+ * @section Form Validation
+ * Styling for form validation
+ */
+.error {
+	border-color: #e30810;
+}
+@media (prefers-color-scheme: dark) {
+	.error {
+		border-color: #fdbbbd;
+	}
+}
+
+.error-message {
+	color: #e30810;
+	font-style: italic;
+	margin-bottom: 1em;
+}
+@media (prefers-color-scheme: dark) {
+	.error-message {
+		color: #fdbbbd;
+	}
+}
+
+/**
+ * @Section Images
+ * Image styling
+ */
+figure {
+	margin: 0 0 1.5625em;
+	padding: 0;
+}
+
+figcaption {
+	font-size: 0.9375em;
+	font-style: italic;
+	color: #808080;
+	padding-top: 0.5em;
+	text-align: center;
+}
+
+/**
+ * Adds a border
+ */
+.img-border {
+	border: 1px solid #cccccc;
+}
+
+/**
+ * Adds a 50% border radius, turning square images into a circle.
+ */
+.img-circle {
+	border-radius: 50%;
+}
+
+/**
+ * Image alignment
+ */
+.img-center, .img-left {
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@media (min-width: 28em) {
+	.img-left {
+		float: left;
+		margin-right: 1em;
+	}
+}
+
+/**
+ * @Section Icons
+ * Adjust SVG fills in dark mode
+ */
+@media (prefers-color-scheme: dark) {
+	svg path[fill="#272727"] {
+		fill: #ffffff;
+	}
+	svg path[fill="#808080"] {
+		fill: #e5e5e5;
+	}
+	svg path[fill="#f7272f"] {
+		fill: #fdd4d5;
+	}
+	svg path[fill="#800080"] {
+		fill: #ff4dff;
+	}
+
+	.company-logo path {
+		fill: #ffffff;
+	}
+}
+/**
+ * @section FluidVids
+ * Responsive iframe videos
+ */
+/**
+ * JavaScript added classes
+ */
+.fluidvids {
+	margin-bottom: 1.5625em;
+}
+
+/**
+ * Manually added classes
+ */
+.fluid-vids {
+	margin-bottom: 1.5625em;
+	max-width: 100%;
+	padding-top: 60.625%;
+	position: relative;
+	width: 100%;
+}
+
+.fluid-vids iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+/**
+ * @section Callouts
+ * Styling for callout boxes
+ */
+.callout {
+	background-color: #f7f7f7;
+	border: 1px solid #e5e5e5;
+	margin-bottom: 1.5625em;
+	padding: 1em 1.5em;
+}
+@media (prefers-color-scheme: dark) {
+	.callout {
+		background-color: #272727;
+		border-color: #808080;
+	}
+}
+
+/**
+ * @section Honeypot
+ * Styling for honeypot fields
+ */
+.tarpit {
+	display: none;
+}
+
+/**
+ * @section Tables
+ * Styling for tables
+ */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin-bottom: 1.5625em;
+	max-width: 100%;
+	width: 100%;
+}
+
+th,
+td {
+	text-align: left;
+	padding: 0.5em;
+}
+
+th {
+	border-bottom: 0.125em solid #e5e5e5;
+	font-weight: bold;
+	vertical-align: bottom;
+}
+
+td {
+	border-top: 1px solid #e5e5e5;
+	vertical-align: top;
+}
+
+/**
+ * Adds zebra striping
+ */
+.table-striped tbody tr:nth-child(odd) {
+	background-color: #f7f7f7;
+}
+
+/**
+ * @section Main Nav
+ * Styling for the main navigation area
+ */
+/**
+ * The navigation wrapper
+ */
+.nav-wrap {
+	padding-top: 1em;
+	padding-bottom: 0.5em;
+	text-align: center;
+}
+@media (min-width: 60em) {
+	.nav-wrap {
+		display: flex;
+		justify-content: space-between;
+	}
+}
+
+/**
+ * The logo
+ */
+.logo {
+	display: inline-block;
+	font-size: 1.2em;
+	font-weight: bold;
+	line-height: 1.2;
+	margin-bottom: 0.3125em;
+	text-decoration: none;
+}
+@media (min-width: 60em) {
+	.logo {
+		margin-bottom: 0;
+	}
+}
+.logo, .logo:focus, .logo:visited {
+	color: #272727;
+}
+@media (prefers-color-scheme: dark) {
+	.logo, .logo:focus, .logo:visited {
+		color: #ffffff;
+	}
+}
+.logo:active, .logo:hover {
+	color: #0088cc;
+}
+@media (prefers-color-scheme: dark) {
+	.logo:active, .logo:hover {
+		color: #73cffa;
+	}
+}
+.fonts-loaded .logo {
+	font-family: "PT Serif", serif;
+}
+
+/**
+ * The navigation menu
+ */
+.nav {
+	margin-bottom: 0;
+}
+.nav a {
+	color: #808080;
+	text-decoration: none;
+}
+@media (prefers-color-scheme: dark) {
+	.nav a {
+		color: #e5e5e5;
+	}
+}
+.nav a:hover,
+.nav a:active,
+.nav a:focus,
+.nav .active a,
+.nav [aria-current=page] {
+	border-bottom: 0.125em solid #fa7176;
+	color: #272727;
+}
+@media (prefers-color-scheme: dark) {
+	.nav a:hover,
+.nav a:active,
+.nav a:focus,
+.nav .active a,
+.nav [aria-current=page] {
+		color: #ffffff;
+	}
+}
+
+/**
+ * @section Secondary Nav
+ * Styling for the secondary navigation area
+ */
+/**
+ * @section Overrides
+ * Nudge and tweak alignment, spacing, and visibility.
+ */
+/**
+ * Text sizes
+ */
+.text-small {
+	font-size: 0.9375em;
+}
+
+.text-large, .text-xlarge {
+	font-size: 1.1875em;
+	line-height: 1.4;
+}
+@media (min-width: 38em) {
+	.text-large, .text-xlarge {
+		font-size: 1.3125em;
+	}
+}
+
+.text-xlarge {
+	font-size: 1.7em;
+}
+@media (min-width: 38em) {
+	.text-xlarge {
+		font-size: 2em;
+	}
+}
+
+/**
+ * Text colors
+ */
+.text-muted {
+	color: #808080;
+}
+@media (prefers-color-scheme: dark) {
+	.text-muted {
+		color: #e5e5e5;
+	}
+}
+
+.text-muted-light, .btn del {
+	color: #b2b2b2;
+}
+
+/**
+ * Text transforms
+ */
+.text-normal {
+	font-weight: normal;
+	font-style: normal;
+}
+
+.text-capitalize {
+	text-transform: capitalize;
+}
+
+.fonts-loaded .text-sans {
+	font-family: "PT Sans", sans-serif;
+}
+
+.fonts-loaded .text-serif {
+	font-family: "PT Serif", serif;
+}
+
+/**
+ * Text alignment
+ */
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
+}
+
+@media (min-width: 38em) {
+	.text-right-large {
+		text-align: right;
+	}
+}
+/**
+ * Margins
+ */
+.no-margin-top {
+	margin-top: 0;
+}
+
+.no-margin-bottom {
+	margin-bottom: 0;
+}
+
+.margin-top {
+	margin-top: 1.5625em;
+}
+
+.margin-bottom, audio {
+	margin-bottom: 1.5625em;
+}
+
+.margin-bottom-small, .error {
+	margin-bottom: 0.5em;
+}
+
+.margin-bottom-medium {
+	margin-bottom: 1.1875em;
+}
+
+.margin-bottom-large {
+	margin-bottom: 2em;
+}
+
+.margin-bottom-negative {
+	margin-bottom: -1.75em;
+}
+
+.margin-right {
+	margin-right: 0.25em;
+}
+
+/**
+ * Padding
+ */
+.no-padding-top {
+	padding-top: 0;
+}
+
+.no-padding-bottom {
+	padding-bottom: 0;
+}
+
+.padding-top {
+	padding-top: 1.5625em;
+}
+
+.padding-top-xsmall {
+	padding-top: 0.25em;
+}
+
+.padding-top-small {
+	padding-top: 0.5em;
+}
+
+.padding-top-medium {
+	padding-top: 1em;
+}
+
+.padding-top-large {
+	padding-top: 2em;
+}
+
+.padding-top-xlarge {
+	padding-top: 3em;
+}
+
+.padding-bottom {
+	padding-bottom: 1.5625em;
+}
+
+.padding-bottom-small {
+	padding-bottom: 0.5em;
+}
+
+.padding-bottom-large {
+	padding-bottom: 2em;
+}
+
+.padding-bottom-xlarge {
+	padding-bottom: 3em;
+}
+
+/**
+ * Accessibility
+ */
+/*
+ * Hide only visually, but have it available for screen readers:
+ * @link https://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+ *
+ * 1. For long content, line feeds are not interpreted as spaces and small width
+ *    causes content to wrap 1 word per line:
+ *    https://medium.com/@jessebeach/beware-smushed-off-screen-accessible-text-5952a4c2cbfe
+ */
+.screen-reader {
+	border: 0;
+	clip: rect(0 0 0 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	white-space: nowrap;
+	/* 1 */
+	width: 1px;
+}
+
+/*
+ * Extends the .visuallyhidden class to allow the element to be focusable when navigated to via the keyboard
+ * @link https://www.drupal.org/node/897638
+ */
+.screen-reader-focusable:active,
+.screen-reader-focusable:focus {
+	clip: auto;
+	height: auto;
+	margin: 0;
+	overflow: visible;
+	position: static;
+	white-space: inherit;
+	width: auto;
+}
+
+/**
+ * Remove all animations and transitions for people that prefer not to see them
+ */
+@media (prefers-reduced-motion: reduce) {
+	* {
+		animation-duration: 0.01ms !important;
+		animation-iteration-count: 1 !important;
+		transition-duration: 0.01ms !important;
+		scroll-behavior: auto !important;
+	}
+}
+/**
+ * Clear any floats
+ */
+.clearfix:before, .container:before,
+.clearfix:after,
+.container:after {
+	display: table;
+	content: " ";
+}
+
+.clearfix:after, .container:after {
+	clear: both;
+}
+
+/**
+ * @section Print
+ * Styling for printed content. Adapted from HTML5BP.
+ * @link http://html5boilerplate.com
+ */
+@media print {
+	/**
+	 * Universal selector.
+	 * Reset all content to transparent background, black color, and remove box and text shadows.
+	 */
+	* {
+		background: transparent !important;
+		color: #000 !important;
+		box-shadow: none !important;
+		text-shadow: none !important;
+	}
+
+	/**
+	 * Specifies page margin
+	 */
+	@page {
+		margin: 0.5cm;
+	}
+	/**
+	 * Underline all links
+	 */
+	a,
+a:visited {
+		text-decoration: underline;
+	}
+
+	/**
+	 * Show URL after links
+	 */
+	a[href]:after {
+		content: " (" attr(href) ")";
+	}
+
+	/**
+	 * Don't show URL for internal links
+	 */
+	a[href^="#"]:after {
+		content: "";
+	}
+
+	/**
+	 * Specifies the minimum number of lines to print at the top and bottom of a page.
+	 */
+	p,
+h1, h2, h3 {
+		orphans: 3;
+		widows: 3;
+	}
+
+	/**
+	 * Avoid inserting a page break after headers
+	 */
+	h1, h2, h3 {
+		page-break-after: avoid;
+	}
+
+	/**
+	 * Change border color on blockquotes and preformatted text.
+	 * Avoid page breaks inside the content
+	 */
+	pre,
+blockquote {
+		border-color: #999;
+		page-break-inside: avoid;
+	}
+
+	/**
+	 * Displayed as a table header row group
+	 */
+	thead {
+		display: table-header-group;
+	}
+
+	/**
+	 * Avoid inserting a page break inside table rows and images
+	 */
+	tr,
+img {
+		page-break-inside: avoid;
+	}
+
+	/**
+	 * Hide header and footer nav, and email subscribe form
+	 */
+	header .nav,
+footer,
+main aside form {
+		display: none;
+	}
+
+	/**
+	 * Remove body border
+	 */
+	body {
+		border-top: none;
+	}
+}
+			.text-uppercase {
+				text-transform: uppercase;
+			}
+		</style>
+
+		
+		<script>
+			/*! adventure v1.0.0 | (c) 2020 Chris Ferdinandi | MIT License | http://github.com/cferdinandi/adventure */
+(function () {
+	'use strict';
+
+	// Detect when font files are fully loaded before using them in the UI
+	if ('fonts' in document) {
+		Promise.all([
+			document.fonts.load('1em PT Sans'),
+			document.fonts.load('700 1em PT Sans'),
+			document.fonts.load('italic 1em PT Sans'),
+			document.fonts.load('italic 700 1em PT Sans'),
+			document.fonts.load('700 1em PT Serif'),
+			document.fonts.load('italic 700 1em PT Serif')
+		]).then(function () {
+			document.documentElement.className += ' fonts-loaded';
+		});
+	}
+
+}());
+
+		</script>
+	</head>
+
+	<body class="type-page page-single" id="page-91508a78c1f574c8c31da226cf3e7622">
+
+		<div class="container container-large">
+
+	
+	<a class="screen-reader screen-reader-focusable" href="#main">Skip to main content</a>
+
+	
+	<a class="screen-reader screen-reader-focusable" href="mailto:&#099;&#104;&#114;&#105;&#115;&#064;&#103;&#111;&#109;&#097;&#107;&#101;&#116;&#104;&#105;&#110;&#103;&#115;&#046;&#099;&#111;&#109;?subject=Go%20Make%20Things:%20Accessibility%20Feedback">Accessibility Feedback</a>
+
+</div>
+
+		<header class="container container-large margin-bottom">
+	<nav class="nav-wrap">
+		<a class="logo" href="https://kitchentableadventure.com/v3">
+			<svg xmlns="http://www.w3.org/2000/svg" style="height:.9em;width:.9em;margin-bottom:-0.1875em;" width="1em" height="1em"><title></title><path fill="currentColor" d="M15 0L8 2 1 0S.93.808 1 2l7 2.189L15 2c.07-1.192 0-2 0-2zM1.128 3.049C1.503 6.966 2.901 13.553 8 16c5.099-2.448 6.497-9.034 6.872-12.951L8 5.633 1.128 3.049z"/></svg>
+			Adventure
+		</a>
+		<div class="nav-menu" id="nav-menu">
+			<ul class="nav">
+				<li><a aria-current="page" href="https://kitchentableadventure.com/v3/rules">How to Play</a></li><li><a href="https://kitchentableadventure.com/v3/gm">GM Tips</a></li><li><a href="https://kitchentableadventure.com/v3/equipment">Equipment</a></li><li><a href="https://kitchentableadventure.com/v3/adventures">Adventures</a></li><li><a href="https://kitchentableadventure.com/v3/downloads">Downloads</a></li>
+			</ul>
+		</div>
+	</nav>
+</header>
+
+		<main id="main" tabindex="-1">
+
+			<div class="container">
+
+	<article>
+
+	
+	<h1>How to Play</h1>
+	
+
+	
+
+<p>In Adventure, players work together to overcome challenges, battle ferocious monsters, explore new worlds, discover hidden treasures, and, hopefully, save the day.</p>
+
+<div data-toc="Table of Content"></div>
+
+<h2 id="how-it-works">How it works</h2>
+
+<p>The game follows a simple pattern.</p>
+
+<ol>
+<li>The <em>Game Master</em> (or <em>GM</em>, the person running the game) describes a situation.</li>
+<li>The player or players state what they want to do.</li>
+<li>The GM describes what happens.</li>
+</ol>
+
+<p>The most important phrase in Adventure is, &ldquo;What do you do?&rdquo;</p>
+
+<div class="callout"><p><strong class="text-uppercase">Example</strong></p><p><strong>GM:</strong> &ldquo;Before you lies a bridge. There are boards missing in places, and the ones that remain appear old and rotted. What do you do?&rdquo;</p>
+
+<p><strong>Player:</strong> &ldquo;I try to walk across, carefully checking for loose boards as I go.&rdquo;</p>
+
+<p><strong>GM:</strong> &ldquo;As you&rsquo;re walking across, one of the boards starts to break under your feet. As you scramble across, the entire bridge begins to collapse. What do you do?&rdquo;</p>
+
+<p><strong>Player:</strong> &ldquo;I try to jump to the other side before the whole bridge falls down.&rdquo;</p>
+
+<p><strong>GM:</strong> &ldquo;You push off the breaking board with all of your might, catching the ledge with your fingers and hoisting yourself over the edge. The bridge falls into the chasm below you. But as you do, your sword falls out of your hilt and drops onto a ledge about 20 feet down. What do you do?&rdquo;</p>
+
+</div>
+
+<h2 id="what-you-need-to-play">What you need to play</h2>
+
+<ol>
+<li><strong>A set of dice.</strong> Adventure uses polyhedral dice: D4, D6, D8, D10, and D20. If you don&rsquo;t have any, you can use the D6 variant detailed below or <a href="https://kitchentableadventure.com/v3/dice/">roll digital dice</a>.</li>
+<li><strong>Character sheets.</strong> You can print them out from <a href="https://kitchentableadventure.com/v3/downloads">the downloads page</a>.</li>
+<li><strong>Your imagination.</strong> The most important part!</li>
+</ol>
+
+<p>You might want to keep a pen and notebook handy, but it&rsquo;s not at all required to play.</p>
+
+<p><em>Dice are described using D* naming, where * is the number of sides the die has. For example, a standard six-sided die is a D6. A die with eight sides is a D8.</em></p>
+
+<h2 id="creating-a-character">Creating a character</h2>
+
+<p>Every player creates a character to play in the game.</p>
+
+<p>The <a href="https://kitchentableadventure.com/v3/downloads">downloads section</a> includes printable character sheets to guide you through the process. You&rsquo;ll also reference them throughout the game.</p>
+
+<h3 id="1-picking-a-class">1. Picking a class</h3>
+
+<p>A class is a bit like a job or way of life.</p>
+
+<p>Each class comes with unique features and abilities. Classes are designed to be customized and tailored to fit whatever kind of character you want to be.</p>
+
+<ul>
+<li><strong>Fighter.</strong> Skilled with armor and a wide range of weapons, fighters are athletic warriors. <em>ex. Barbarian, Soldier, Samurai, Knight, Superhero</em></li>
+<li><strong>Wizard.</strong> Masters of magic, wizards can do stuff like shoot fireballs from their hands, teleport, and create illusions. <em>ex. Wizard, Witch, Sorcerer, Warlock, Mystic, Enchanter</em></li>
+<li><strong>Druid.</strong> Sharing a deep connection with nature, druids can control the elements and even transform into animals. <em>ex. Druid, Ranger, Shapeshifter</em></li>
+<li><strong>Rogue.</strong> Quick on their feet and skilled at stealth, rogues move in the shadows and operate behind the scenes. <em>ex. Thief, Robin Hood, Ninja, Spy</em></li>
+<li><strong>Bard.</strong> Talented and outgoing, bards weave a touch of magic into every performance. <em>ex. Musician, Storyteller, Fire Breather, Diplomat</em></li>
+</ul>
+
+<h3 id="2-picking-a-name-and-ancestry">2. Picking a name and ancestry</h3>
+
+<p>Your ancestry is your background and the type of creature you are.</p>
+
+<p>You can be a human, of course. But you can also be any other sort of fantastical creature you&rsquo;d like: an elf, gnome, fairy, dragon, and more. The only limit here is your imagination.</p>
+
+<p>And your name is, well&hellip; your name!</p>
+
+<h3 id="3-assigning-your-stats">3. Assigning your stats</h3>
+
+<p>Just like in real life, every character is good at some things and not-so-good at others.</p>
+
+<p>Stats are broad categories that you assign a number value to. Positive numbers are things you&rsquo;re good at, and negative numbers are things you bad at. The higher the number, the better you are at that thing (and vice-versa).</p>
+
+<p>Your stats affect how easy or hard certain tasks are for your in the game.</p>
+
+<ul>
+<li><strong>Strength (STR).</strong> Athletics, Feats of Strength</li>
+<li><strong>Dexterity (DEX).</strong> Acrobatics, Slight of Hand, Stealth</li>
+<li><strong>Constituation (CON).</strong> Endurance, Stamina, Concentration</li>
+<li><strong>Intelligence (INT).</strong> Knowing Things, Book Smarts</li>
+<li><strong>Wisdom (WIS).</strong> Perceiving Things, Street Smarts</li>
+<li><strong>Charisma (CHA).</strong> Deception, Persuasion, Performance</li>
+</ul>
+
+<p>When you start the game, take the following numbers and assign each one to a stat: +2, +1, +1, 0, -1, -1.</p>
+
+<div class="callout"><p><strong class="text-uppercase">Example</strong></p><p>Quill is a Gnome Bard with the following stats:</p>
+
+<ul class="list-columns">
+    <li><strong>STR:</strong> -1</li>
+    <li><strong>DEX:</strong> +1</li>
+    <li><strong>CON:</strong> +1</li>
+    <li><strong>INT:</strong> 0</li>
+    <li><strong>WIS:</strong> -1</li>
+    <li><strong>CHA:</strong> +2</li>
+</ul>
+
+<p>Based on these stats, he&rsquo;s very charismatic and quick on his feet, but he&rsquo;s not very strong. He has a low WIS score, so he&rsquo;s also pretty aloof and spacey.</p>
+
+</div>
+
+<h3 id="4-pick-your-features">4. Pick your features</h3>
+
+<p>Every class starts with a handful of features, skills and traits that make you unique.</p>
+
+<p>Classes that know magic&mdash;the Wizard, Druid, and Bard&mdash;also get to pick one or two additional <em>Advanced Features</em> at the start.</p>
+
+<p>You can also create your own <em>Ancestry Feature</em>. This is a feature that relates specifically to your chosen ancestry. A fairy might have the ability to fly short distances. A dragon might have a fire breathing feature. A gnome might be able to hide really well.</p>
+
+<p>As you progress in the game, you&rsquo;ll pick up additional features that let you customize your character even more and give them new ways to play.</p>
+
+<h3 id="5-pick-your-gear">5. Pick your gear</h3>
+
+<p>Every adventurer needs gear.</p>
+
+<p>In addition to unique features, every character starts the game with class-specific equipment. Bard&rsquo;s get an instrument. Fighters get to choose from an assortment of weapons. Wizards get a spellbook.</p>
+
+<p>The character sheet includes a list of options for each class. You can also choose a personal trinket, something small and unique to your character. Totally optional.</p>
+
+<h2 id="rolling-dice-to-learn-what-happens">Rolling dice to learn what happens</h2>
+
+<p>For most player actions, what happens is decided by rolling a 20-sided die, called a D20.</p>
+
+<p>To determine the outcome of an action, a player rolls a D20 and adds one of their stat modifiers based on what they&rsquo;re trying to do. The GM will tell you which stat to use.</p>
+
+<p>(<em>For negative stats, subtract the number from your die roll instead of adding it.</em>)</p>
+
+<table>
+<thead>
+<tr>
+<th>Roll</th>
+<th>Outcome</th>
+<th>What it means</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>18+</td>
+<td>Success</td>
+<td>The player&rsquo;s action works as planned</td>
+</tr>
+
+<tr>
+<td>9-17</td>
+<td>Partial Success</td>
+<td>The players action works, with a cost</td>
+</tr>
+
+<tr>
+<td>8-</td>
+<td>Failure</td>
+<td>The player&rsquo;s action doesn&rsquo;t work</td>
+</tr>
+</tbody>
+</table>
+
+<p><em><strong>Don&rsquo;t have a D20?</strong> <a href="https://kitchentableadventure.com/v3/dice/">You can roll digital dice here.</a></em></p>
+
+<div class="callout"><p><strong class="text-uppercase">Examples</strong></p><p><strong>The player is trying to convince a wealthy noble that they&rsquo;re a distant relative.</strong> This is an act of deception. They roll a D20, and add their CHA stat.</p>
+
+<ul>
+<li>On 18 or above, the noble believes them, offering them a room in their palace and a feast in their honor.</li>
+<li>On a 9 to 17, the noble reluctantly believes them, but secretly sends someone to look into their background.</li>
+<li>On an 8 or less, the noble becomes angry, and has them arrested.</li>
+</ul>
+
+<p><strong>The player is trying to run across a collapsing old bridge.</strong> This requires dexterity. They roll a D20, and add their DEX stat.</p>
+
+<ul>
+<li>On an 18 or above, they run across and leap safely to the other side just as the bridge collapses.</li>
+<li>On a 9 to 17, they leap safely to the other side, but drop their weapon into the canyon.</li>
+<li>On an 8 or less, the bridge collapses under their feet.</li>
+</ul>
+
+</div>
+
+<h3 id="d6-variant">D6 Variant</h3>
+
+<p>If you don&rsquo;t have polyhedral dice (and don&rsquo;t want to <a href="https://kitchentableadventure.com/v3/dice/">roll digital dice</a>), you can use a variant of the rules that uses only D6 dice.</p>
+
+<ul>
+<li>Instead of a D20, roll one D6 and multiply the result by 3. Then add the relevant stat modifier.</li>
+<li>Instead of damage rolls, use <a href="https://kitchentableadventure.com/v3/gm/#average-damage">average damage amounts</a> based on damage die size.</li>
+</ul>
+
+<div class="callout"><p><strong class="text-uppercase">Example</strong></p><ul>
+<li><strong>You roll a 3.</strong> Multiplied by 3, it becomes a 9. You succeed, with a cost.</li>
+<li><strong>You roll a 1.</strong> Multiplied by 3, it becomes a 3. You fail.</li>
+<li><strong>You roll a 2.</strong> Multilpied by 3, it becomes a 6. But after you add your +3 DEX, it becomes an 9. You succeed, with a cost.</li>
+</ul>
+
+</div>
+
+<h3 id="best-of-worst-of">Best Of &amp; Worst Of</h3>
+
+<p>You might have better or worse odds of succeeding in action based on your current circumstances. Adventure uses <em>Best Of</em> and <em>Worst Of</em> die mechanics to account for that.</p>
+
+<ul>
+<li><strong>Best Of.</strong> Roll two D20 and take the higher number.</li>
+<li><strong>Worst Of.</strong> Roll two D20 and take the lower number.</li>
+</ul>
+
+<p>Conditions that provide an advantage give you <em>Best Of</em> on die rolls. Conditions that hinder you give you <em>Word Of</em> on die rolls.</p>
+
+<div class="callout"><p><strong class="text-uppercase">Examples</strong></p><p class="margin-bottom-small"><strong>Best Of:</strong></p>
+
+<ul>
+<li>You try to sneak past a guard who&rsquo;s partied too hard the night before and fallen asleep</li>
+<li>Your ancestry grants you superb jumping ability, and you&rsquo;re trying to leap across a gap</li>
+</ul>
+
+<p class="margin-bottom-small"><strong>Worst Of:</strong></p>
+
+<ul>
+<li>You sustained a nasty gash in battle that&rsquo;s become infected, making it harder for you to hold a weapon</li>
+<li>An evil wizard charmed you</li>
+<li>The creatures you&rsquo;re facing are so terrible that they frighten you</li>
+</ul>
+
+</div>
+
+<h2 id="combat">Combat</h2>
+
+<p>Combat in Adventure works just like any other player action.</p>
+
+<ul>
+<li>The player says what they want to do, rolls a D20, and adds a stat</li>
+<li>The GM describes what happens as a result</li>
+</ul>
+
+<p>Attacks with a melee or up-close weapon (swords, axes, and such) use the STR stat. Ranged or far-away attacks (using a spear, bow, and so on) use the DEX stat. Similarly, blocking uses STR, while dodging uses DEX.</p>
+
+<div class="callout"><p><strong class="text-uppercase">Examples</strong></p><p><strong>The player is trying to hit an ogre with their sword.</strong> This is a feat of strength. They roll a D20, and add their STR stat.</p>
+
+<ul>
+<li>On 18 or above, the sword hits, causing the ogre to scream and stumble back a few feet.</li>
+<li>On a 9 to 17, the sword hits, but the ogre swings at them at the same time slams its fist into their shoulder.</li>
+<li>On an 8 or less, the sword misses, slamming into the ground beside the ogre.</li>
+</ul>
+
+<p><strong>A troll throws a giant boulder at the player, and they attempt to jump out of the way.</strong> This requires dexterity. They roll a D20, and add their DEX stat.</p>
+
+<ul>
+<li>On an 18 or above, the jump out of the way, and the boulder bounces off into the distance.</li>
+<li>On a 9 to 17, they leap out of the way, but the boulder catches their sword and knocks it 20 feet away.</li>
+<li>On an 8 or less, the boulder slams into them before they can jump out of the way.</li>
+</ul>
+
+</div>
+
+<h3 id="hit-points">Hit points</h3>
+
+<p>Every character and creature has a pool of <em>Hit Points</em> (or <em>HP</em>). Hit Points represent a creatures overall health.</p>
+
+<p>Your characters <em>Max HP</em> is determined by adding their CON stat to a base number that varies by class (as indicated on your character sheet).</p>
+
+<p>Whenever a character or creature takes damage, points are subtracted from their <em>Current HP</em>. When their HP reaches 0, they&rsquo;re knocked out, and remain that way until another party member revives them.</p>
+
+<p><em>A character&rsquo;s Current HP can never exceed their Max HP.</em></p>
+
+<div class="callout"><p><strong class="text-uppercase">Example</strong></p><p>A rogue has a CON of +1. Their character sheet says their Max HP is <em>6 + CON</em>, so their Max HP is 7.</p>
+
+<p>Their Current HP starts at 7 as well. Then they get hit with an arrow and take 2 points of damage. Their Current HP is now 5.</p>
+
+</div>
+
+<h3 id="calculating-damage">Calculating damage</h3>
+
+<p>Every character sheet specifies the <em>damage die</em> used by that class.</p>
+
+<p>Whenever your character successfully hits a creature, roll your damage die to determine how much damage is dealt.</p>
+
+<p>Some weapons provide a <em>damage modifier</em>, additional damage dealt above what&rsquo;s rolled. For example, a warhammer deals <em>+1 damage</em>. When using it, you would add 1 to whatever number you roll.</p>
+
+<div class="callout"><p><strong class="text-uppercase">Example</strong></p><p>A fighter swings his warhammer, striking a goblin in the chest.</p>
+
+<p>The fighter&rsquo;s damage die is a D10. They roll a 7, and the warhammer provides an additional +1 damage. The GM subtracts 8 from the goblin&rsquo;s HP.</p>
+
+</div>
+
+<h3 id="armor">Armor</h3>
+
+<p>Armor and shields provide protection against attacks.</p>
+
+<p>When a character or creature receives damage while wearing armor, they subtract their <em>armor value</em> from the damage received before subtracting it from their HP.</p>
+
+<p>Most protective gear has an <em>n armor</em> rating. You can only wear one piece of armor of this type at a time. Some protective gear, like shields, are additive and have a <em>+n armor</em> rating. This can be added to whatever your current armor value is.</p>
+
+<p>Armor labeled <em>clumsy</em> is tough to move around in, and imposes Worst Of on all STR, DEX, CON, and spellcasting rolls.</p>
+
+<div class="callout"><p><strong class="text-uppercase">Example</strong></p><p>The fighter is wearing chain mail (1 armor) and carrying a shield (+1).</p>
+
+<p>A giant slams his club into the player, doing 5 points of damage. The player subtracts 3 from their Current HP. The armor prevented 2 HP of damage.</p>
+
+</div>
+
+<h2 id="healing">Healing</h2>
+
+<p>As an adventurer, you&rsquo;re going to take damage from time-to-time. Fortunately, you can heal yourself in a variety of ways.</p>
+
+<ul>
+<li>During a <em>short rest</em> (1 hour or less), you can recover one damage die roll of HP</li>
+<li>During a <em>long rest</em> (8 hours or more), you recover all of your HP</li>
+<li>Using tools like bandages, an herbalism kit, or healing potion</li>
+</ul>
+
+<p>When you roll a damage die or use healing tools, add the amount of HP healing back to your Current HP (up to your Max HP).</p>
+
+<div class="callout"><p><strong class="text-uppercase">Examples</strong></p><p><strong>Healing with Damage Dice</strong><br>
+Your Current HP is 3, and your Max HP is 14. You roll a D10, and get a 6. Your new Current HP is 9.</p>
+
+<p><strong>Healing with Potion</strong><br>
+Your Current HP is 6, and your Max HP is 8. You drink a Healing Potion, which heals 7 HP of damage. Since your Max HP is 8, your new Current HP is 8. The remaining 5 HP of healing is lost.</p>
+
+</div>
+
+<h2 id="teamwork">Teamwork</h2>
+
+<p>Adventure is a cooperative, team game. The more you work together, the more likely you are to succeed.</p>
+
+<ul>
+<li><strong>For group tasks</strong>, like trying to cross a river or sneak into a castle, if at least half of the party succeeds, everyone does.</li>
+<li><strong>For individual tasks</strong>, if you can reasonably assist a teammate, they get <em>Best Of</em> on their roll.</li>
+</ul>
+
+<h2 id="buying-hauling-stuff">Buying &amp; Hauling Stuff</h2>
+
+<p>The common currency in Adventure is <em>Coin</em>.</p>
+
+<p>Every character gets a few starting coins, noted on your character sheet. As you go on adventures, you&rsquo;ll find or earn more. You&rsquo;ll also acquire treasure, magical items, and gear.</p>
+
+<p><strong>There&rsquo;s a list of common items, and their prices and weight, <a href="https://kitchentableadventure.com/v3/equipment">on the equipment page</a>.</strong></p>
+
+<h3 id="buying-stuff">Buying Stuff</h3>
+
+<p>You can use Coin to purchase things you need, including weapons and armor, supplies, lodging, and more.</p>
+
+<p>In populated areas, like villages and cities, you&rsquo;re likely to find everything you need at reasonable prices. In more remote areas, some items might be harder to find, not available at all, or more expensive than typical market rates.</p>
+
+<h3 id="item-weight">Item Weight</h3>
+
+<p>There&rsquo;s only so much stuff you can carry with you before it becomes too heavy.</p>
+
+<p>Adventure uses a simple system for calculating how much stuff you can carry. All items have a <em>Weight</em>. The <em>Max Load</em> your character can carry is determined by adding their STR stat to a base number that varies by class (as indicated on your character sheet).</p>
+
+<p><strong>When the weight of the stuff a character has with them exceeds their Max Load, they&rsquo;re <em>encumbered</em>, and get <em>Worst Of</em> on all STR, DEX, CON, and spellcasting rolls.</strong></p>
+
+<p><em>This is totally optional. Feel free to drop this rule from your games if you don&rsquo;t like it.</em></p>
+
+<h2 id="character-growth">Character growth</h2>
+
+<p>All adventurers start the game at level 1. As your character goes on adventures, they&rsquo;ll gain new experiences and pick up new skills.</p>
+
+<p>Whenever the party does something particularly meaningful of awesome, the GM should <em>level up</em> the party, increasing your current level by 1.</p>
+
+<p><strong>When you level up&hellip;</strong></p>
+
+<ul>
+<li>Select a new feature from the <em>Feature List</em> on your character sheet</li>
+<li>At odd levels (3, 5, 7, and so on), increase a stat of your choice by 1, up to a max of 5</li>
+</ul>
+
+<div class="callout"><p><strong class="text-uppercase">Example</strong></p><p>Your party successfully snuck into the old wizard&rsquo;s tower, and retrieved the magical black pearl just as the tower collapsed into the ocean. Along the way, you fought monsters, overcame dubious traps, and raced a crew of pirates.</p>
+
+<p><strong>You&rsquo;re currently a level 2 druid. The GM decides to <em>level you up</em> to level 3.</strong></p>
+
+<p>You pick a new feature, <em>Tangle of Vines</em>, from the Features list. Because you hit an odd level, you also increase your WIS stat from 3 to 4. WIS is your spell stat, so you want to maximize the likelihood that your spells work.</p>
+
+</div>
+
+<h2 id="house-rules">House Rules</h2>
+
+<p>House rules are strongly encouraged in Adventure. Here are some ideas you may want to adapt to your game.</p>
+
+<h3 id="pets">Pets</h3>
+
+<p>For added fun, characters can have a pet that accompanies them on their adventures and helps them along the way. This can add a fun dimension to the game.</p>
+
+<p>Pets can be small and sensible (a cat, dog, or woodland creature) or large and absurd (a dinosaur, dragon, or elephant). A player’s pet can be used to get them out of a tough situation, as a weapon in battle, or just for added flavor and interest in role playing.</p>
+
+<div class="callout"><p><strong class="text-uppercase">Example</strong></p><p>Quill didn&rsquo;t expect the rope to snap on the sharp edge of the well, or he never would have come down here by himself.</p>
+
+<p>Fortunately, he brought along Geoffrey, his pet rat. He instructed Geoffrey to scurry up the wall and find help.</p>
+
+<p><em>Roll to see what happens.</em></p>
+
+</div>
+
+<h3 id="tinkering">Tinkering</h3>
+
+<p>If you have an adventurer who loves to build things and has a big imagination, tinkering is an awesome special skill. A tinkerer can build small creations from bits of scrap metal and wood.</p>
+
+<p><strong>Here’s how it works.</strong></p>
+
+<ul>
+<li>Tinkered items can be robotic toys, weapons, tools, and more.</li>
+<li>Tinkered items are small and fragile, and stop working after a few turns.</li>
+<li>Only one tinkered item can exist at a time.</li>
+<li>The parts from a tinkered item can be reclaimed to build another (either after it break, or when the adventurer decides they’d like to build something else).</li>
+</ul>
+
+<p>The Game Master may choose to have the adventurer first acquire a tinker kit: gears, bits of scrap metal, and some small tools from a shopkeeper in the game.</p>
+
+
+</article>
+
+			</div>
+		</main>
+
+		<footer class="container container-large">
+			<hr class="margin-bottom">
+			<nav class="tabindex nav-secondary" id="nav-secondary" tabindex="-1">
+	<ul class="text-small list-inline list-inline-responsive">
+		<li><a href="https://kitchentableadventure.com/v3/versions">Version 3</a></li><li><a href="https://dungeon-world.com/">Inspired by Dungeon World</a></li><li><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 License</a>
+	</ul>
+</nav>
+			<p class="text-small">Made with ❤️ in Massachusetts by <a href="https://gomakethings.com">Chris Ferdinandi</a>.</p>
+		</footer>
+
+		<script>
+			/*! adventure v1.0.0 | (c) 2020 Chris Ferdinandi | MIT License | http://github.com/cferdinandi/adventure */
+(function () {
+	'use strict';
+
+	/**
+	 * Generate a table of contents from headings
+	 * @param  {String} navSelector      Selector for the nav container
+	 * @param  {String} headingsSelector Selector for the headings
+	 * @param  {String} heading          The table of contents heading
+	 * @param  {String} styles           Any classes to add to the list nav
+	 * @param  {String} type             The list type (ul/ol)
+	 */
+	var tableOfContents = function (navSelector, headingsSelector, heading, styles, type) {
+
+		// Make sure a selector was provided
+		if (!navSelector || !headingsSelector) return;
+
+		// Get the nav
+		var nav = document.querySelector(navSelector);
+		if (!nav) return;
+
+		// Variables
+		var headings = document.querySelectorAll(headingsSelector);
+		type = type || 'ul';
+		var navList = '';
+
+		// Loop through each heading
+		for (var i = 0; i < headings.length; i++) {
+			if (!headings[i].id) continue;
+			navList += '<li><a href="#' + headings[i].id + '">' + headings[i].textContent + '</a></li>';
+		}
+
+		// Make sure a navList exists
+		if (navList.length < 1) return;
+
+		nav.innerHTML =
+			(heading ? heading : '') +
+			'<' + type + (styles ? ' class="' + styles + '"' : '') + '>' +
+				navList +
+			'</' + type + '>';
+
+	};
+
+	// Add table of contents
+	var toc = document.querySelector('[data-toc]');
+	if (toc) {
+		tableOfContents('[data-toc]', 'h2', '<h2>' + toc.getAttribute('data-toc') + '</h2>', null, 'ol');
+	}
+
+}());
+
+			
+			/*! adventure v1.0.0 | (c) 2020 Chris Ferdinandi | MIT License | http://github.com/cferdinandi/adventure */
+(function () {
+	'use strict';
+
+	// Initialize the service worker
+	if (navigator && navigator.serviceWorker) {
+		navigator.serviceWorker.register('/sw.js');
+	}
+
+	// Cleanup old cache on page load
+	if (navigator.serviceWorker.controller) {
+		window.addEventListener('load', function () {
+			navigator.serviceWorker.controller.postMessage('cleanUp');
+		});
+	}
+
+}());
+
+		</script>
+	</body>
+</html>

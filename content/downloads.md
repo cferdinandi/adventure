@@ -8,3 +8,4 @@ Downloadable, printable assets you can use to play Adventure.
 
 - **[Character Sheets.](/downloads/character-sheets.pdf)** Everything you need to build your Adventure character.
 - **[GM Cheatsheet.](/downloads/gm-cheatsheet.pdf)** A handy one-page reference to make GMing your games a bit easier.
+- **[Map of Fararia.](/downloads/map.pdf)** Track your location around Farfaria, and learn more about the various landmarks and creatures that live there.

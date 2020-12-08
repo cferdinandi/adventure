@@ -19,50 +19,30 @@ A fairy wakes you from your sleep, begging for your help. She explains that ice 
 - **The Sacred Stream.** A fast moving river, the waters of the sacred stream having magical properties and can be used for many things. They're also home to piranha and other dangerous creatures.
 
 
-## Creatures
+## Monsters
 
-- **Fairies**
-	+ Instinct: Defend their territory
-	+ Damage: D6
-	+ HP: 3
-	+ Use bows. Can disappear and reappear elsewhere.
-- **The Elder Fairy**
-	+ Instinct: Share knowledge with whomever will listen
-	+ Damage: D10-2
-	+ HP: 12
-	+ Has a powerful magical blast from his or her fairy wand
-- **Piranha**
-	+ Instinct: Bite and eat anything that enters the water
-	+ Damage: D6
-	+ HP: 3
-	+ Armor: 2
-	+ Powerful bite. Swarms at the taste of blood, doing an extra +2 damage.
-- **Thieves**
-	+ Instinct: Steal anything of value
-	+ Damage: D8
-	+ HP: 6
-	+ Armor: 1
-	+ Uses swords and thrown objects. Fights dirty and cheats.
+- {{<monster name="Fairy/Pixie">}}
+- {{<monster name="The Elder Fairy">}}
+- {{<monster name="Piranha">}}
+- {{<monster name="Bandit">}}
+
 
 
 ## Events
 
 - Caught in a rock slide
 - Captured by traps used by fairies
-- Offered money in exchange for pixie dust by thieves
-- Ambushed by thieves
+- Offered money in exchange for pixie dust by bandits
+- Ambushed by bandits
 
 
-## Things to find out
 
-- Are these the only fairies? If not, do the other groups know about each other?
-- Are there other trees in existence?
-- Why is the Elder Fairy alone in the woods?
-- What do the thieves want with the pixie dust?
-
-
-## Questions for the players
+## Questions
 
 - What do you know about the fairies?
 - How is pixie dust made?
 - Can you create a new pixie dust tree? How?
+- Are these the only fairies? If not, do the other groups know about each other?
+- Are there other trees in existence?
+- Why is the Elder Fairy alone in the woods?
+- What do the thieves want with the pixie dust?

@@ -15,71 +15,79 @@ The babies just learned to fly, and aren’t very good at it. For protection, ba
 Until the babies are returned, she'll be far too distressed to protect the village.
 
 
-## Locations
+## Locations, Monsters & Events
 
-- **The Forest.** Tall trees and tangles of vines provide ample places for baby dragons to get stuck.
-- **Spider Den.** Among a grove a trees, a giant spider guards a massive web that could easy capture a baby dragon.
-- **Mountain Cliffs.** High up on the edge of the cliffs, a dragon just learning to fly could easily find themselves unable to get down.
-- **The Supply Shop.** A remote supply shop provides food and goods to weary travelers. But you can't help but notice something strange (smells, sounds, or smoke) coming from the the back room.
-- **Cave of the Sleeping Ogre.** A cave system is home to a giant ogre and his cavern home. He happens to be asleep at the moment, but a giant pile of gold (and a baby dragon) lie behind him.
-- **The Tunnels.** Beyond the Sleeping Ogre's home is a network of tunnels. Adventurers can escape into them if needed.
-	+ **The Deep Pool.** It’s not very clear, but in the glow of the bioluminescent fungi on the walls, you see something glinting at the bottom. The pool seems quite deep, about 25 feet. What could be at the bottom?
+{{<details summary="The Forest." blurb="Tall trees and tangles of vines provide ample places for baby dragons to get stuck." margin="">}}
+- _Monsters_
+	+ {{<monster name="Bandit">}}
+	+ {{<monster name="Wolf">}}
+	+ {{<monster name="Bear">}}
+- _Events_
+	+ Dragon starts to fall from vines and is unable to fly
+	+ Ambushed by bandits who attempt to buy (or steal) the dragon
+	+ Surrounded by wolves or a bear after wandering off the beaten path
+{{</details>}}
 
-
-## Creatures
-
-- **Giant Spider**
-	+ Instinct: Take control over the city, destroy elven society
-	+ Damage: D10
-	+ HP: 12
-	+ Bites with fangs, can shoot webbing and create traps
-- **Ogre**
-	+ Instinct: Horde treasure, crush people
-	+ Damage: 10
-	+ HP: 12
-	+ Armor: 1
-	+ Clumsy. Fights up close using giant wooden club. Easily distracted. Horrible breath and farts.
-- **Three-Headed Dog**
-	+ Instinct: Attack anything that comes into it's territory
-	+ Damage: 10+3
-	+ HP: 12
-	+ Moves fast. Attacks with all three heads at once.
-- **Shop Keeper**
-	+ Instinct: Hide a baby dragon, sell it on the black market
-	+ Damage: D8
-	+ HP: 6
-	+ Not a skilled fighter, tries to deceive
-- **Thieves**
-	+ Instinct: Steal anything of value
-	+ Damage: D8
-	+ HP: 6
-	+ Armor: 1
-	+ Uses swords and thrown objects. Fights dirty and cheats.
-- **Goblins**
-	+ Instinct: Take over the city and setup a new outpost
-	+ Damage: D6+1
-	+ HP: 3
-	+ Armor: 1
-	+ Uses daggers and thrown objects. Attack in pairs. Rally hard when almost defeated.
+{{<details summary="Spider Den." blurb="Among a grove a trees, a giant spider guards a massive web that could easy capture a baby dragon.">}}
+- _Monsters_
+	+ {{<monster name="Spider (Giant)">}}
+- _Events_
+	+ If they take too long, spider eggs burst open, sending a swarm of baby spiders after the adventurers
+{{</details>}}
 
 
-## Events
+{{<details summary="Mountain Cliffs." blurb="High up on the edge of the cliffs, a dragon just learning to fly could easily find themselves unable to get down.">}}
+- _Monsters_
+	+ {{<monster name="Goblin">}}
+- _Events_
+	+ After some time, goblins who live nearby hear the noise and come to check it out
+	+ A rock slide (natural or set by the goblins) crashes down on the explorers
+{{</details>}}
 
-- Offered money in exchange for one or more dragons by thieves
-- Ambushed by thieves
-- If dragons aren't returned in time, goblins from the north ambush the city
+{{<details summary="The Supply Shop." blurb="A remote supply shop provides food and goods to weary travelers. But you can't help but notice something strange (smells, sounds, or smoke) coming from the the back room.">}}
+- _Monsters_
+	+ {{<monster name="Shopkeep">}}
+	+ {{<monster name="Bandit">}}
+- _Events_
+	+ The noise/smoke/odor from the back room grows more intense
+	+ The shopkeep kicks the adventurers out of their store
+	+ Bandits hear the commotion and seize the opportunity
+{{</details>}}
+
+{{<details summary="Cave of the Sleeping Ogre." blurb="A cave system is home to a giant ogre and his cavern home. He happens to be asleep at the moment, but a giant pile of gold (and a baby dragon) lie behind him.">}}
+- _Monsters_
+	+ {{<monster name="Ogre">}}
+- _Events_
+	+ The ogre awakes... and he's not happy!
+{{</details>}}
+
+{{<details summary="The Tunnels." blurb="Beyond the Sleeping Ogre's home is a network of tunnels. Adventurers can escape into them if needed.">}}
+- _Monsters_
+	+ {{<monster name="Rat">}}
+	+ {{<monster name="Scorpion">}}
+	+ {{<monster name="Slime/Ooze">}}
+	+ {{<monster name="Toad (Giant)">}}
+	+ {{<monster name="Ogre">}}
+- _Events_
+	+ The tunnel caves in
+	+ A section of floor collapses beneath the adventurers
+	+ A mysterious gas fills the tunnel
+	+ A deep pool of water blocks their way. There seems to be an opening at the bottom of it.
+	+ A magical darkness envelops the party
+{{</details>}}
+
+{{<details summary="The Village." blurb="If the baby dragons aren't returned in time, goblins ambush the unprotected village." margin="true">}}
+- _Monsters_
+	+ {{<monster name="Goblin">}}
+{{</details>}}
 
 
-## Things to find out
-
-- Where did the dragons go?
-- Why do the goblins want to take over the village?
-- What is the shopkeeper planning to do with the dragon?
-
-
-## Questions for the players
+## Questions
 
 - What do you know about baby dragons?
 - Are they're likely to have gone to or that could be especially dangerous?
 - What kinds of dangers does Lacey the Luck Dragon protect the village from?
 - Is there anyone else who might be looking for the baby dragons?
+- Where did the dragons go?
+- Why do the goblins want to take over the village?
+- What is the shopkeeper planning to do with the dragon?

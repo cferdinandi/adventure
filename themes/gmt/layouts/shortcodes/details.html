@@ -1,0 +1,4 @@
+<details{{ with .Get "margin" }} class="margin-bottom"{{ end }}{{ with .Get "open" }} open{{ end }}>
+	<summary class="margin-bottom-small"><strong>{{ .Get "summary" | markdownify }}</strong>{{ if .Get "blurb" }} {{ .Get "blurb" | markdownify }}{{ end }}</summary>
+	{{ .Inner | markdownify }}
+</details>

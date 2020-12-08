@@ -36,34 +36,11 @@ The King that the players meet is actually an imposter. He and his guards are a 
 
 If you want to explore complex morality and the gray area of political disagreements, the adventurers can learn through NPCs that the land Atlantis is built on actually belonged to the crustaceans. It was stolen so that Atlantis could mine the Altantium. While they flourished, the crustacean empire has suffered in poverty for millennia.
 
-- **Atlantean Citizens**
-	+ Instinct: Run from danger, carry on with life
-	+ Damage: D6
-	+ HP: 3
-- **Atlantean Guards**
-	+ Instinct: Defend the city at all costs
-	+ Damage: D10
-	+ HP: 6
-	+ Armor: 2
-	+ Throw tridents and attack with shell swords
-- **Atlantean King**
-	+ Instinct: Maintain power
-	+ Damage: D6
-	+ HP: 6
-	+ Armor: 1
-	+ Skilled politician, good at persuasion and deceit
-- **Crab Guards**
-	+ Instinct: Put their crab king in power over the city
-	+ Damage: D10
-	+ HP: 6
-	+ Armor: 3
-	+ Throw tridents, pinch with claws, shapeshift into Atlantean citizens
-- **Crab King (Imposter)**
-	+ Instinct: Regain possession of city that previously belonged to his people
-	+ Damage: D8
-	+ HP: 6
-	+ Armor: 2
-	+ Skilled politician, good at persuasion and deceit, can shapeshift into Atlantean king
+- {{<monster-custom name="Atlantean Citizen" damage="D6WR" hp="3" dr="3" drd20="10">}}
+- {{<monster-custom name="Atlantean Guards" damage="D6" hp="8" dr="4" drd20="13" abilities="Resistant: Bludgeoning, Slashing. Vulnerable: Fire, Lightning.">}}
+- {{<monster-custom name="Atlantean King" damage="D6WR" hp="8" dr="34" drd20="10" abilities="Good persuasion and deceit.">}}
+- {{<monster-custom name="Crab Guards" damage="2D6" hp="12" dr="5" drd20="15" abilities="Pinching Grasp: 3D6 damage. Resistant: Bludgeoning, Slashing. Vulnerable: Fire, Lightning.">}}
+- {{<monster-custom name="Crab King (Imposter)" damage="2D6WR" hp="10" dr="4" drd20="13" abilities="Shapeshifting. Resistant: Bludgeoning, Slashing. Vulnerable: Fire, Lightning.">}}
 
 
 ## Events
@@ -76,18 +53,15 @@ If you want to explore complex morality and the gray area of political disagreem
 - The crab guards and fake king attack or attempt a hostile takeover of the city. The adventurer's must decide whose side they're on in this fight, and help accordingly.
 
 
-## Things to find out
 
-- How does Atlantium work? What does it do?
-- Where did the crab people come from, and where do they live now?
-- Where did the current Atlanteans come from? Why and how did they take over the city?
-- Who's the real villain in this story?
-- Is there a political agreement that can satisfy both parties?
-
-
-## Questions for the players
+## Questions
 
 - How old is Atlantis?
 - Do the people of the outside world know where it is, or have you just discovered it?
 - What have you heard about Atlantis before now? What do you know about it and the people who live there?
 - What do the people of Atlantis value? What do they fear?
+- How does Atlantium work? What does it do?
+- Where did the crab people come from, and where do they live now?
+- Where did the current Atlanteans come from? Why and how did they take over the city?
+- Who's the real villain in this story?
+- Is there a political agreement that can satisfy both parties?

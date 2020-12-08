@@ -10,7 +10,7 @@ draft: false
 
 You’re enjoying lunch in the tavern with your friends when an elf bursts through the doors, out of breath with flush red cheeks. “There’s been an attack on Oakenshire,” he exclaims, “we’ve been completely overrun with spiders, and they’ve taken Lord Faelyn hostage!”
 
-Oakenshire is the elves’ treetop home. It contains ancient books and special magic found nowhere else in Farfaria. Its safety is vital to Farfaria. The elves has always had a warm relationship with the people of the Village, and they need your help.
+Oakenshire is the elves’ treetop home. It contains ancient books and special magic found nowhere else in Farfaria. Its safety is vital to Farfaria. The elves has always had a warm relationship with the people of Farfaria, and they need your help.
 
 
 ## Locations
@@ -26,29 +26,11 @@ A rope ladder, out-of-reach and accessible only if someone from inside the city 
 - **The Throne Room.** To the right is a sturdy desk, covered in crystals, potions, and a hardcover book. To the left is another tall bookcase filled with sacred texts. At your feed is an ornate purple and green carpet that leads to a large wooden throne at the back of the room. Animals and legendary elven figures are carved into the wood.
 
 
-## Creatures
+## Monsters
 
-- **Giant Spiders**
-	+ Instinct: Attack and capture
-	+ Damage: D6
-	+ HP: 3
-	+ Bites with fangs, can shoot webbing and create traps
-- **Spider King**
-	+ Instinct: Take control over the city, destroy elven society
-	+ Damage: D10
-	+ HP: 12
-	+ Bites with fangs, can shoot webbing and create traps
-- **Giant Centipedes**
-	+ Instinct: Burrow and build homes
-	+ Damage: D8
-	+ HP: 6
-	+ Doesn't like to attack, but will if cornered
-- **Elves**
-	+ Instinct: Observe, study, and protect the forest
-	+ Damage: D8
-	+ HP: 6
-	+ Armor: 1
-	+ Expert with bows and swords, quick on their feet
+- {{<monster name="Spider (Giant)">}}
+- {{<monster name="Centipede (Giant)">}}
+- {{<monster name="Elf">}}
 
 
 ## Events
@@ -59,16 +41,13 @@ A rope ladder, out-of-reach and accessible only if someone from inside the city 
 - The door to one of the rooms is enchanted and locked, and can only be opened by solving a puzzle or completing a feat
 
 
-## Things to find out
 
-- Why did the spiders attack Oakenshire?
-- How were they able to gain access without being detected?
-- What can the elves do to prevent this from happening again?
-
-
-## Questions for the players
+## Questions
 
 - What have you heard about Oakenshire?
 - Have you been to the city before?
 - The elves are normally very secretive. Why do they trust you to help them?
 - What do you know about giant spiders? Do they have any weaknesses? Special abilities or powers?
+- Why did the spiders attack Oakenshire?
+- How were they able to gain access without being detected?
+- What can the elves do to prevent this from happening again?
