@@ -8,6 +8,8 @@ draft: false
 
 ## The Situation
 
+{{<maps href="">}}
+
 
 
 ## Locations
@@ -25,11 +27,6 @@ draft: false
 -
 
 
-## Things to find out
-
--
-
-
-## Questions for the players
+## Questions
 
 -

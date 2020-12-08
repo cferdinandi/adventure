@@ -16,6 +16,8 @@ It's from Triton, king of the mermaids.
 
 “What’s the danger,” you wonder, “and where did the sorcerer take her?” It’s up to you to rescue her.
 
+{{<maps href="/downloads/assets_mermaid-rescue.pdf">}}
+
 
 ## Locations, Monsters & Events
 
@@ -50,6 +52,7 @@ It's from Triton, king of the mermaids.
 	+ **The Hall of the Torch of Hallows.** You see the glowing flame reflecting off the wall before you even enter the room. As you step into the space, you see it: the Torch of Hallows.
 - _Monsters_
 	+ {{<monster name="Hydra">}}
+	+ {{<monster name="Wolf">}}
 	+ {{<monster name="Crab (Giant)">}}
 - _Events_
 {{</details>}}

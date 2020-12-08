@@ -14,6 +14,8 @@ The babies just learned to fly, and aren’t very good at it. For protection, ba
 
 Until the babies are returned, she'll be far too distressed to protect the village.
 
+{{<maps href="/downloads/map.pdf">}}
+
 
 ## Locations, Monsters & Events
 

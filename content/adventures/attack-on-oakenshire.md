@@ -12,6 +12,8 @@ You’re enjoying lunch in the tavern with your friends when an elf bursts throu
 
 Oakenshire is the elves’ treetop home. It contains ancient books and special magic found nowhere else in Farfaria. Its safety is vital to Farfaria. The elves has always had a warm relationship with the people of Farfaria, and they need your help.
 
+{{<maps href="/downloads/assets_the-attack-on-oakenshire.pdf">}}
+
 
 ## Locations
 

@@ -120,6 +120,13 @@
   drd20: 13
   abilities: "Sneaky. Usually doesn't attack outright but sets traps and uses magic to create problems."
 
+- name: Gnome
+  damage: D6WR
+  hp: 5
+  dr: 3
+  drd20: 10
+  abilities: "Secretive. Master of illusion. Avoid conflict, but will attack in groups if threatened."
+
 - name: Gargoyle
   damage: D6
   hp: 8
@@ -223,7 +230,7 @@
   hp: 15
   dr: 5
   drd20: 16
-  abilities: "Throws rocks. Can merge into the earth. Resistant: Bludgeoning, Slashing, Fire."
+  abilities: "Throws rocks. Resistant: Bludgeoning, Slashing, Fire."
 
 - name: Scorpion (Giant)
   damage: 2D6

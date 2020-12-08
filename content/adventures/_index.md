@@ -12,6 +12,7 @@ Here are some adventure starters to help you kick-start your games.
 - [The Ghost Ship](/adventures/the-ghost-ship/)
 - [Escape from Atlantis](/adventures/escape-from-atlantis/)
 - [Mermaid Rescue](/adventures/mermaid-rescue/)
+- [Escape from the Volcano](/adventures/escape-from-the-volcano/)
 
 **Write your own adventure?** I’d love to add it to this site! Send me an email at {{<email>}}.
 

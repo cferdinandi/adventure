@@ -14,6 +14,8 @@ There’s food still on plates, and cabins filled with the crew’s possessions.
 
 **You do find one clue, though:** a map in the captain’s cabin that points to a remote island in the Ocean of Lost Sailors.
 
+{{<maps href="/downloads/assets_the-ghost-ship.pdf">}}
+
 
 ## Locations, Monsters & Events
 
@@ -62,6 +64,7 @@ There’s food still on plates, and cabins filled with the crew’s possessions.
 - _Monsters_
 	+ {{<monster name="Slime/Ooze">}}
 	+ {{<monster name="Troll">}}
+	+ {{<monster name="Spider (Giant)">}}
 	+ {{<monster name="Ship Crew (NPC)">}}
 - _Events_
 	+ A trapdoor drops them into a slide down to a deeper level

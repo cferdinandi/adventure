@@ -10,6 +10,8 @@ draft: false
 
 A fairy wakes you from your sleep, begging for your help. She explains that ice from the north froze and killed their pixie dust tree. Without, she and the rest of her village will never fly again.
 
+{{<maps href="/downloads/map.pdf">}}
+
 
 ## Locations
 
