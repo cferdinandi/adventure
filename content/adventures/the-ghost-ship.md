@@ -17,9 +17,10 @@ There’s food still on plates, and cabins filled with the crew’s possessions.
 {{<maps href="/downloads/assets_the-ghost-ship.pdf">}}
 
 
+
 ## Locations, Monsters & Events
 
-{{<details summary="The Ship." blurb="An old-school wooden ship. Below deck is a kitchen and crews quarters. Below that is the hold. There’s nothing in it to indicate that this is a transport vessel. You may want to let the adventurers have fun exploring this a bit, and scatter useful items around the ship." margin="true">}}
+{{<details summary="The Ship." blurb="An old-school wooden ship. Below deck is a kitchen and crews quarters. Below that is the hold. There’s nothing in it to indicate that this is a transport vessel. However, they do find a map indicating where the crew may have gone." margin="true">}}
 - _Monsters_
 	+ {{<monster name="Shark">}}
 	+ {{<monster name="Piranha">}}
@@ -72,6 +73,13 @@ There’s food still on plates, and cabins filled with the crew’s possessions.
 	+ A tunnel troll attacks and tries to eat them or steal their coins
 	+ An obstacle like a steep drop or water-filled section of tunnel
 {{</details>}}
+
+
+
+## Game Master Tips
+
+- One fun element you can use to add more mystery to this adventure is a recurring symbol that shows up at every new stop. It may show up on the cover of the captain's log on the ship, then again on an item found on Turtle Back Island, then again still on a tent the Lost Isle. Perhaps it's carved into the walls in the tunnels as well.
+- When I run this adventure, I like to have a storm crash the ship onto the Lost Isle, destroying it. In the tunnels, players find an old wooden submarine that they use to escape the island with the sailors (if they find and rescue them).
 
 
 

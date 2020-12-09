@@ -19,6 +19,7 @@ It's from Triton, king of the mermaids.
 {{<maps href="/downloads/assets_mermaid-rescue.pdf">}}
 
 
+
 ## Locations, Monsters & Events
 
 {{<details summary="The Castle of the North." blurb="The giant Castle of the North towers above you. Thankfully, the drawbridge is down. You cross it, and enter the castle courtyard. Knights and townspeople scurry about, busy with the day’s tasks.">}}
@@ -40,6 +41,7 @@ It's from Triton, king of the mermaids.
 	+ Everyone in the Castle courtyard seems dazed or "off"
 	+ Enchanted brooms attack
 	+ The mermaid informs the adventurers that her magical shell was stolen, and with it, the sorcerer can command an army of sea creatures to invade the land
+	+ The players encounter and have an initial battle with the sorcerer. He takes off before the battle is over.
 {{</details>}}
 
 {{<details summary="The Mines of the Mountain." blurb="Contains a rare ore and a magical torch, _the Torch of Hallows_, that are required to forge a key that can open the mermaid's dungeon door.">}}
@@ -54,7 +56,6 @@ It's from Triton, king of the mermaids.
 	+ {{<monster name="Hydra">}}
 	+ {{<monster name="Wolf">}}
 	+ {{<monster name="Crab (Giant)">}}
-- _Events_
 {{</details>}}
 
 {{<details summary="The Mountain Pass." blurb="A winding path through the mountains. The pass is filled with dangerous terrain, goblins, and cyclops.">}}
@@ -62,6 +63,8 @@ It's from Triton, king of the mermaids.
 	+ {{<monster name="Goblin">}}
 	+ {{<monster name="Cyclops">}}
 - _Events_
+	+ Players encounter rough terrain, or a cliff face that needs to be scaled
+	+ Players are ambushed by several monsters
 {{</details>}}
 
 {{<details summary="The Hideout." blurb="A former mountain outpost where the sorcerer and his minions are now hiding. There's a rotting bridge traversing a rapidly moving stream that leads to the front entrance. The walls are crumbling, and the building is in heavy disrepair." margin="true">}}
@@ -70,7 +73,17 @@ It's from Triton, king of the mermaids.
 	+ {{<monster name="Sorcerer's Apprentice">}}
 	+ {{<monster name="Sorcerer">}}
 - _Events_
+	+ A small group of Sorcerer's Apprentices ambush the players when they enter the hideout
+	+ The sorcerer is preparing to use the shell when the players find him
 {{</details>}}
+
+
+
+## Game Master Tips
+
+- To extend this adventure further, the sorcerer can use the shell before the players have a chance to stop him, setting off another series of events.
+- Various NPCs in this adventure can be useful party companions if they're finding it too challenging. Notable options include one of the merfolk, the mermaid herself, a knight or unassuming townsperson, or a reformed sorcerer's apprentice whose committed to stopping the sorcer before it's too late.
+- This adventure can be quite long. You might want to break it up over several sessions, or cut out the storyline about going into the caves.
 
 
 

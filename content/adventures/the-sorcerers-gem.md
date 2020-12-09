@@ -75,10 +75,24 @@ Reaching into a pocket inside his jacket, Lord Graghammer produces the largest s
 	+ {{<monster name="Lizardfolk">}}
 	+ {{<monster name="Wolf">}}
 - _Events_
-	+ The players see goblins attack a traveler and steal everything (including his horse and cart)
+	+ The players see goblins attack a traveler and steal everything (including his horse and cart), _or_ the goblins save the players from wolves
 	+ At the goblin village, players find lizardfolk being held captive
 	+ Lizardfolk turn on the players and attack them
 {{</details>}}
+
+
+
+## Game Master Tips
+
+- There are a few ways you can sequence certain events in this adventure. I would recommend...
+	+ Giving the players the sense they're being followed in the woods.
+	+ Having the elves approach them to warm them that it's dangerous, ask them why they're there, and then ask for an alliance.
+	+ Have wolves ambush them while talking to the elves. The elves help them fight.
+	+ Enter the tunnels, find the gem, and so on.
+	+ Have the elves double cross the players while still in the tunnels.
+	+ Have the wolves attack again once out, get saved by goblins, who also try to steal the Gem.
+	+ Find and free the lizardfolk, who then turn on the players.
+- This adventure can be quite long. You might want to break it up over several sessions, or cut out the storylines with the goblins and elves
 
 
 

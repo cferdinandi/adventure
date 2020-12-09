@@ -139,6 +139,12 @@ He places a small sack of gold on the table.
 
 
 
+## Game Master Tips
+
+- If you want to make the campaign more difficult or longer, you can have Lorak the Sorcerer awaken the volcano before the players have a chance to stop them. This will create an additional side-campaign: stopping the volcano from destroying the village.
+
+
+
 ## Questions
 
 - What have they heard about Lorak the Sorcerer?

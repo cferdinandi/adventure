@@ -15,6 +15,7 @@ As you bring the sub closer, the layout of the city comes into view. There’s a
 You’ve discovered the lost city of Atlantis.
 
 
+
 ## Locations
 
 - **The Big Dome.** The main hub of Atlantis, the Big Dome is divided into three sections.
@@ -30,7 +31,8 @@ You’ve discovered the lost city of Atlantis.
 - **The Art Dome.** In the Art Dome, the various artists of Atlantis create the beautiful architecture, sculptures, and paintings that abound the city. Imagine Rome, but with an aquatic flavor.
 
 
-## Creatures
+
+## Monsters
 
 The King that the players meet is actually an imposter. He and his guards are a race of crustacean hominids (crab-people or lobster-people) who can shapeshift to appear as Atlanteans. Don’t reveal this to the players initially. Let them discover it on their own.
 
@@ -43,6 +45,7 @@ If you want to explore complex morality and the gray area of political disagreem
 - {{<monster-custom name="Crab King (Imposter)" damage="2D6WR" hp="10" dr="4" drd20="13" abilities="Shapeshifting. Resistant: Bludgeoning, Slashing. Vulnerable: Fire, Lightning.">}}
 
 
+
 ## Events
 
 - The King of Atlantis greets the adventurers, thanks them for coming ("It's been a *long* time since we've encountered people from the outside"), and invites them to stay for a feast in their honor that evening. He tells them to explore the city and spend the night.
@@ -51,6 +54,13 @@ If you want to explore complex morality and the gray area of political disagreem
 - The King’s guard approaches, tells the adventures that they’re not allowed to be here. They’re arrested and thrown in a prison located in an abandoned section of the mines.
 - Once the Adventurer's escape, they walk by another cell that contains none other than the King of Atlantis himself. The adventurers learn that the "King" they met is a shape-shifting wizard from another realm who imprisoned the real King and took his place. He’s stealing Atlantium and shipping it off to where he’s from so that his people can also benefit. In doing so, he’s crippling the city of Atlantis.
 - The crab guards and fake king attack or attempt a hostile takeover of the city. The adventurer's must decide whose side they're on in this fight, and help accordingly.
+
+
+
+## Game Master Tips
+
+- For a different angle, the players could decide that the crab people are the rightful owners of the land and aid them in their quest to reclaim their homeland.
+- You can also introduce environmental challenges, like a crack in one of the domes, that poses a looming threat if not addressed.
 
 
 

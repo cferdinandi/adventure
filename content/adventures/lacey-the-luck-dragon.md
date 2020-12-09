@@ -17,6 +17,7 @@ Until the babies are returned, she'll be far too distressed to protect the villa
 {{<maps href="/downloads/map.pdf">}}
 
 
+
 ## Locations, Monsters & Events
 
 {{<details summary="The Forest." blurb="Tall trees and tangles of vines provide ample places for baby dragons to get stuck." margin="">}}
@@ -82,6 +83,14 @@ Until the babies are returned, she'll be far too distressed to protect the villa
 - _Monsters_
 	+ {{<monster name="Goblin">}}
 {{</details>}}
+
+
+
+## Game Master Tips
+
+- If the baby dragons aren’t returned in time, goblins ambush the unprotected village. The players will need to decide how to focus their time at that point: on rescuing the baby dragons, or protecting the village.
+- If you want a longer campaign, have the bandits make off with a dragon. It will create an additional side campaign the players will need to complete.
+
 
 
 ## Questions

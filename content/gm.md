@@ -62,6 +62,17 @@ The tunnel you're in suddenly forks into three small tunnels. Looking around and
 
 {{</callout>}}
 
+### Balancing Campaigns
+
+When you first start GMing games, finding the right balance between "not too tough" and "not too boring" can be hard. There's a few things you can do to help balance games in real-time as you play.
+
+<div class="list-spaced">
+{{%md%}}
+- **Bring in NPCs.** If players are missing things while exploring, getting stuck on challenges, or struggling in battle, a friendly NPC can help point things out and and give them much needed aid. If they're finding things too easy, a troublesome NPC can slow them down and create more of a challenge.
+- **Hold monsters back.** Rather than sending in _all the monsters_ at once, send in a few and see how the players handle them. If it's too easy, you can send in a second-wave of attackers while they're fighting the first. If it's just right, you can wait until the first wave is done, or skip the second-wave altogether.
+{{%/md%}}
+</div>
+
 ### More Exciting Dice Rolls
 
 Adventure is more exciting when rolls aren't simply pass/fail. One way to do that is to make the outcome more intense the more above or below the Difficulty Rating the player rolls.

@@ -15,16 +15,19 @@ Oakenshire is the elves’ treetop home. It contains ancient books and special m
 {{<maps href="/downloads/assets_the-attack-on-oakenshire.pdf">}}
 
 
-## Locations
+## Locations & Events
 
 Oakenshire is a small city built into the trees of the forest. It's a collection of treehouses connected to each other by bridges.
 
 A rope ladder, out-of-reach and accessible only if someone from inside the city lowers it, provides access to the city. There's a second hidden entrance built into the roots of one of the trees that provides an emergency entrance and exit.
 
 - **The Kitchen.** This room has a raised loft in the back with a small kitchen. You see a sink and wood stove against the back wall, a table and some chairs to the right. To your left are a set of stairs leading up to it.
+- **The Bridge.** The bridge connects the kitchen to the library. It has been weakened, and collapses as the adventurers cross it.
 - **The Library.** As soon as you walk into a room, the smell of old books hits your nostrils. Lining each wall are long, tall bookcases filled floor to ceiling with books. In the middle of the room is a simple room-length wooden table, with a long benches on each side. You’ve entered the elven library. These tomes contains ancient wisdom about the forests, passed down from one generation to next over the millennia. The knowledge contained here is irreplaceable.
 - **The Lab.** Against the back wall is a standing-height table covered in books, beakers, and magical artifacts. This room is the elven lab, where they experiment with potions and unlock the mysteries of the universe.
 - **Sleeping Quarters.** Rows of bunk beds line the walls, and create rows in the middle of the room. At the foot of each bed is an ornate chest that hold each elf’s clothes and other belongings. Magical candles glow in sconces mounted to the walls.
+	- One of the chests is trapped, and will attack if opened
+- **The Door to the Throne Room.** The door to the throne room is enchanted and locked, and can only be opened by solving a puzzle or completing a feat.
 - **The Throne Room.** To the right is a sturdy desk, covered in crystals, potions, and a hardcover book. To the left is another tall bookcase filled with sacred texts. At your feed is an ornate purple and green carpet that leads to a large wooden throne at the back of the room. Animals and legendary elven figures are carved into the wood.
 
 
@@ -35,12 +38,12 @@ A rope ladder, out-of-reach and accessible only if someone from inside the city 
 - {{<monster name="Elf">}}
 
 
-## Events
 
-- The rope ladder into Oakenshire is *not* lowered, and there are no elves in the city to lower it down
-- Bridge has been weakened, and collapses as the adventurers cross it
-- One of the chests in the *Sleep Quarters* is trapped, and will attack if opened
-- The door to one of the rooms is enchanted and locked, and can only be opened by solving a puzzle or completing a feat
+## Game Master Tips
+
+- You can make this as battle-heavy or exploratory as you want. Every room can be filled with spiders and centipedes, or you can make most of the rooms interesting places to learn more about elven culture.
+- The _Door to the Throne Room_ provides a chance to weave a puzzle or "out of game" challenge into Adventure. This is totally optional, and can be skipped if you want.
+- You can optionally incorporate an Elf NPC to aid players through this adventure.
 
 
 
