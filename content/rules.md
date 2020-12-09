@@ -182,7 +182,7 @@ Adventure is a cooperative, team game. The more you work together, the more like
 <p class="margin-bottom-small">An item that's ready for use is <em>Equipped</em>. At any one time, players can have the following items equipped:</p>
 
 - 1 weapon, and
-- 1 piece of armor or a shield, and
+- 1 set of armor or a shield, and
 - Up to 3 magical items.
 
 _Players can carry unequipped armor, shields, weapons, and magical items with them, as well as any treasure they've collected, with them._
