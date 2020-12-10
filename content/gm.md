@@ -183,7 +183,7 @@ To help this all stick, let's look at a sample game. In this game, Mercer is a k
 
 **Mercer:** I try to quietly sneak past the ogre.
 
-**Ashley:** While he does that, I'm going to attempt to careful steal a few coins from the ogre's treasure while he sleeps.
+**Ashley:** While he does that, I'm going to attempt to carefully steal a few coins from the ogre's treasure while he sleeps.
 
 **GM:** Ok. Both of you make a Speed Rolls. Mercer, you take Worst Roll because you're wearing armor.
 
@@ -225,12 +225,12 @@ Then, he lets out a road and swings the club down towards you. What do you do?
 
 **GM:** As the club rushes down toward Ashley's head, she closes her eyes and instinctively ducks. Mercer rushes between her and the ogre, unhilting his sword and swinging it up towards the club in one fluid movement.
 
-His sword meets the club inches before it hits Ashley. The ogre, caught off guard, stumbles a few backwards. What do you do?
+His sword meets the club inches before it hits Ashley. The ogre, caught off guard, stumbles backwards a few feet. What do you do?
 {{</callout>}}
 
 As you can see, the game is a series of choices, actions, die rolls, consequences, and next steps. Every choice the players make, and every random outcome of the dice, leads to the next logical step in the story.
 
-Most stories have a natural arch to them, but it's important to not force a specific direction if the players actions lead it somewhere else.
+Most stories have a natural arch to them, but it's important to not force a specific direction if the players' actions lead it somewhere else.
 
 Adventure is a collaborative story you make up as you go. Lean into it.
 
