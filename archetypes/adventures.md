@@ -14,7 +14,11 @@ draft: false
 
 ## Locations
 
+{{<details summary="" blurb="">}}
+{{</details>}}
+
 -
+
 
 
 ## Creatures
@@ -22,9 +26,17 @@ draft: false
 -
 
 
+
 ## Events
 
 -
+
+
+
+## Game Master Tips
+
+-
+
 
 
 ## Questions

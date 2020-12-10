@@ -274,6 +274,19 @@ Players can choose to flee a battle at any time, including in the middle of one.
 
 
 
+## Spellcasting
+
+For characters that know magic, casting spells works just like any other action.
+
+When using a spell to solve a challenge, spellcasting players roll against the DR for that challenge. When using spells in combat, they roll against the monster's DR instead.
+
+<p class="margin-bottom-small">There are two exceptions to this:</p>
+
+- **For really simple spells** that aren't directly working towards a challenge (for example, lighting a campfire, or making an object glow to provide light), the Game Master can choose to skip the die roll.
+- **For really powerful spells**, the Game Master may choose to limit them in some way. Maybe they can only be cast once per day, or they require a special, rare item (like a phoenix feather) to use.
+
+
+
 ## Damage & Healing
 
 <p class="margin-bottom-small">As adventurers, you will more than occasionally get hurt, either in battle or through exploration. There are different types of damage.</p>

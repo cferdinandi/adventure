@@ -78,6 +78,13 @@
   drd20: 12
   abilities: "Very strong. Throws rocks. Horrible vision up-close."
 
+- name: Crab
+  damage: D6
+  hp: 4
+  dr: 3
+  drd20: 10
+  abilities: ""
+
 - name: Crab (Giant)
   damage: 2D6
   hp: 12
@@ -287,6 +294,13 @@
   dr: 3
   drd20: 10
   abilities: "Knows a limited selection of spells."
+
+- name: Spider
+  damage: D6WR
+  hp: 4
+  dr: 3
+  drd20: 10
+  abilities: "Can climb walls. Can attack with webs. Can see in the dark."
 
 - name: Spider (Giant)
   damage: D6

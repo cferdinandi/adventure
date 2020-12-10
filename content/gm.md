@@ -174,6 +174,68 @@ This can add a really fun new aspect to the game, so don’t be afraid to get cr
 
 
 
+## A Sample Game
+
+To help this all stick, let's look at a sample game. In this game, Mercer is a knight, and Ashley is a wizard.
+
+{{<callout>}}
+**GM:** As you enter the cave, you see a sleeping ogre curled up around a massive pile of gold. One arm rests over the pile, while his other hand gently clutches a massive wooden club. In the back of the cave, you see the baby dragon you've been sent to rescue wrapped up in an old blanket. What do you do?
+
+**Mercer:** I try to quietly sneak past the ogre.
+
+**Ashley:** While he does that, I'm going to attempt to careful steal a few coins from the ogre's treasure while he sleeps.
+
+**GM:** Ok. Both of you make a Speed Rolls. Mercer, you take Worst Roll because you're wearing armor.
+
+**Ashley:** I rolled a 5.
+
+**Mercer:** I rolled a 5 and a 3.
+
+(_The DR was 5. The Game Master does not tell the players this._)
+
+**GM:** Great, thanks. Ashley carefully picks up three gold coins and tucks them into her pocket. As she reaches for a fourth, Mercer's elbow accidentally bumps into the cave wall. The metal of his armor "clangs" and reverberates through the cave, growing louder before tapering off.
+
+The ogre's eyes flutter open. He catches sight of Ashley's outstretched arm reaching for his horde. He shouts:
+
+> Just what do you think you're doing!?
+
+He stands up, towering a good six feet over Ashley's head. What do you do?
+
+**Ashley:** Umm... uh... I tell him that the coins looked dirty and I was just going to clean them for him!
+
+**GM:** Ok, make a Wisdom Roll. You take Best Roll on that because you specialize in Wisdom.
+
+**Ashley:** I rolled a 5 and a 4.
+
+(_The DR was 6. The ogre is a bit dumb, but not THAT dumb._)
+
+**GM:** The ogre rubs the crust from his eyes, lifts the club over his head, and says:
+
+> Do you think I was born yesterday?
+
+Then, he lets out a road and swings the club down towards you. What do you do?
+
+**Mercer:** Seeing the ogre about to crush my friend, I unhilt my sword and swing it up to meet the club before it hits her.
+
+**GM:** Excellent, make a Strength Roll, and take Best Roll because you specialize in Strength.
+
+**Mercer:** I rolled a 2 and a 4.
+
+(_The ogre has a DR of 3._)
+
+**GM:** As the club rushes down toward Ashley's head, she closes her eyes and instinctively ducks. Mercer rushes between her and the ogre, unhilting his sword and swinging it up towards the club in one fluid movement.
+
+His sword meets the club inches before it hits Ashley. The ogre, caught off guard, stumbles a few backwards. What do you do?
+{{</callout>}}
+
+As you can see, the game is a series of choices, actions, die rolls, consequences, and next steps. Every choice the players make, and every random outcome of the dice, leads to the next logical step in the story.
+
+Most stories have a natural arch to them, but it's important to not force a specific direction if the players actions lead it somewhere else.
+
+Adventure is a collaborative story you make up as you go. Lean into it.
+
+
+
 ## How to Create Adventures
 
 You can get by for a long time on [pre-made adventures](/adventures). But eventually, you may want to create your own.
