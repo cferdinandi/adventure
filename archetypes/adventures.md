@@ -15,6 +15,10 @@ draft: false
 ## Locations
 
 {{<details summary="" blurb="">}}
+- _Events_
+	+ a
+- _Monsters_
+	+ {{<monster name="">}}
 {{</details>}}
 
 -

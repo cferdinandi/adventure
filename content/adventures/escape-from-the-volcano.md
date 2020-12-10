@@ -66,21 +66,21 @@ He places a small sack of gold on the table.
 {{</details>}}
 
 {{<details summary="Cavern of the Rock Monster" blurb="The adventurers enter what appears to be an empty cavern.">}}
-- _Monsters_
-	+ {{<monster name="Rock Monster">}}
 - _Events_
 	+ If the party is not _extermely_ quite, a giant boulder begins to move, revealing a previously sleeping Rock Monster
+- _Monsters_
+	+ {{<monster name="Rock Monster">}}
 {{</details>}}
 
 {{<details summary="Mushroom Cavern" blurb="The dim cavern is illuminated by large clusters of iridescent mushrooms.">}}
 
 <p class="margin-bottom-small">The mushrooms are magical. Eating one will produce a random effect. Roll a D6: 1-2 produces a detrimental effect, 3-6 produces a helpful one. (<em>Don't eat random mushrooms in real life!</em>)</p>
 
-- _Monsters_
-	+ {{<monster name="Gnome">}}
 - _Events_
 	+ If the party lingers too long, they'll begin to experience hallucinations
 	+ If the party picks a mushroom, cave gnomes will emerge and attack them
+- _Monsters_
+	+ {{<monster name="Gnome">}}
 {{</details>}}
 
 {{<details summary="Trap Door" blurb="The floor transitions from rock to wooden beams, then back again.">}}
@@ -98,17 +98,11 @@ He places a small sack of gold on the table.
 {{</details>}}
 
 {{<details summary="Lava Lake" blurb="The hallway opens up into a tall, wide cavern, with a giant lake of lava. In the middle are two islands of volcanic rock. A sturdy wooden bridge connects each end of the cavern to the islands, and the islands to each other.">}}
-- _Monsters_
-	+ {{<monster name="Goblin">}}
 - _Events_
 	+ A successful DR Medium Perception Check reveals hidden archers high up in the cavern walls
 	+ Goblin archers begin shooting at the party from hidden balconies in the walls
-{{</details>}}
-
-{{<details summary="Supply Closet" blurb="A place to resupply and heal up if needed.">}}
-- Healing Potion
-- Armor
-- Anything else the party might need
+- _Monsters_
+	+ {{<monster name="Goblin">}}
 {{</details>}}
 
 {{<details summary="The Lone Goblin" blurb="As they round the corner, the party finds an nearly empty cavern... except for a long goblin, crying in the corner.">}}
@@ -116,25 +110,34 @@ He places a small sack of gold on the table.
 	+ If the party is nice to the Goblin, he will reveal secrets about what's ahead and urge them to turn back: more archers, lava and rock monsters, and a small contingent of goblin soldiers.
 {{</details>}}
 
+{{<details summary="Supply Closet" blurb="A place to resupply and heal up if needed.">}}
+- Healing Potion
+- Armor
+- Magical items (the next battle is going to be brutal)
+{{</details>}}
+
 {{<details summary="The Palace" blurb="At the end of the short hallway, players come to the entrance to the Volcano Palace. The room is massive. Way off in the distance, beyond a stone bridge spanning a wide river of lava, they spot Lorak the Sorcerer sitting on a throne of lava and bones.">}}
-- _Monsters_
-	+ {{<monster name="Goblin">}}
-	+ {{<monster name="Lava Monster">}}
-	+ {{<monster name="Rock Monster">}}
+
+<p class="margin-bottom-small">The rock and lava monsters can be absolutely devastating for smaller parties. In those situations, you may want to lower their stats.</p>
+
 - _Events_
 	+ A small band of goblin soldiers attacks the party
 	+ Before the battle with the goblins is over, goblin archers begin shooting at them as well.
 	+ On the next tier of the mezzanine, one or two hideous statues move, revealing rock monsters launching a surprise attack
 	+ Just before the bridge and lava river, a lava monster oozes from the walls. On the far side of the bridge, more archers launch attacks.
+- _Monsters_
+	+ {{<monster name="Goblin">}}
+	+ {{<monster name="Lava Monster">}}
+	+ {{<monster name="Rock Monster">}}
 {{</details>}}
 
 {{<details summary="The Throne" blurb="As the party approaches the throne, the see the Zephyr Skiprock, the child, locked behind a gate built into the wall. A key hangs on the throne behind Lorak the Sorcerer." margin="true">}}
-- _Monsters_
-	+ {{<monster name="Sorcerer">}}
 - _Events_
 	+ Lorak engages the party in a battle
 	+ If the party begins to win, he casts a spell that causes the cavern to begin collapsing, and flees. The party must rescue Zephyr and escape before the whole mountain collapses.
 	+ If they befriended the Lone Goblin, he appears at the last second and leads them to a hidden tunnel under the throne that gets them out of the volcano.
+- _Monsters_
+	+ {{<monster name="Sorcerer">}}
 {{</details>}}
 
 
@@ -149,4 +152,5 @@ He places a small sack of gold on the table.
 
 - What have they heard about Lorak the Sorcerer?
 - What gift (or curse) does the child possess?
-- Why does Lorak want to awaken the volcano?
+- How does the sorcerer awaken the volcano?
+- Why does sorcerer want to awaken the volcano?

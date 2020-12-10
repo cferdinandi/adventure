@@ -31,20 +31,22 @@ It's from Triton, king of the mermaids.
 	+ **The Vault.** As soon as the door opens, you hear the clinking of coins. Against he back wall is a table. Seated at it is a tiny goblin, with tall pointed ears and a hunch in his back, counting a massive pile of gold coins and noting them in a small journal. On either side are tall shelves stacked high with coins, jewels, and other objects of value.
 	+ **The Tower.** The moment you enter the tower, you sense that something is amiss. A dark, magical aura fills the first floor. The tower is filled with traps, monsters, and, on the top floor, either the wizard himself or evidence that he was here.
 	+ **The Dungeon.** You open the door and peer into it. A narrow winding staircase leads down. You feel a damp, cold breeze blowing. The yelling gets louder. “Help! Help!” In the dungeon, you'll find the mermaid locked in a cell.
+- _Events_
+	+ Everyone in the Castle courtyard seems dazed or "off"
+	+ Enchanted brooms attack
+	+ The players encounter and have an initial battle with the sorcerer. He takes off before the battle is over.
+	+ The mermaid's cell is magically locked. She informs the players that...
+		* The only way to unlock it is with a key forged by one of the dwarves in the Mines of the Mountain
+		* Her magical shell was stolen, and with it, the sorcerer can command an army of sea creatures to invade the land
 - _Monsters_
 	+ {{<monster name="Knight">}}
 	+ {{<monster name="Townspeople">}}
 	+ {{<monster name="Enchanted Broom (use enchanted objects stats below)">}}
 	+ {{<monster name="Enchanted Objects">}}
 	+ {{<monster name="Sorcerer">}}
-- _Events_
-	+ Everyone in the Castle courtyard seems dazed or "off"
-	+ Enchanted brooms attack
-	+ The mermaid informs the adventurers that her magical shell was stolen, and with it, the sorcerer can command an army of sea creatures to invade the land
-	+ The players encounter and have an initial battle with the sorcerer. He takes off before the battle is over.
 {{</details>}}
 
-{{<details summary="The Mines of the Mountain." blurb="Contains a rare ore and a magical torch, _the Torch of Hallows_, that are required to forge a key that can open the mermaid's dungeon door.">}}
+{{<details summary="The Mines of the Mountain." blurb="Approaching the mountains, you're greeting by a gruff dwarf named Targus Balefrost. Once he learns of your need for a magic key, he informs you that you'll need to retrieve the _Torch of Hallows_ from deep within the Mines for him to complete his task.">}}
 - _Locations_
 	+ **The Ledge.** It’s about 12 feet high, with a rough face. Plenty of places to tuck hands and feet if you wanted to try to climb it. But if you fall, you could get hurt.
 	+ **Cavern of the Hydra.** You enter a dark, cavernous space. It’s about 30 feet wide and 20 feet high. A pile of fallen rocks sits against the wall to one side. Stalactites hang from the ceiling, and a stalagmites grow from the ground. You hear the drip of water. Then you hear a low grow.
@@ -59,22 +61,21 @@ It's from Triton, king of the mermaids.
 {{</details>}}
 
 {{<details summary="The Mountain Pass." blurb="A winding path through the mountains. The pass is filled with dangerous terrain, goblins, and cyclops.">}}
-- _Monsters_
-	+ {{<monster name="Goblin">}}
-	+ {{<monster name="Cyclops">}}
 - _Events_
 	+ Players encounter rough terrain, or a cliff face that needs to be scaled
 	+ Players are ambushed by several monsters
+- _Monsters_
+	+ {{<monster name="Goblin">}}
+	+ {{<monster name="Cyclops">}}
 {{</details>}}
 
 {{<details summary="The Hideout." blurb="A former mountain outpost where the sorcerer and his minions are now hiding. There's a rotting bridge traversing a rapidly moving stream that leads to the front entrance. The walls are crumbling, and the building is in heavy disrepair." margin="true">}}
-- _Locations_
-- _Monsters_
-	+ {{<monster name="Sorcerer's Apprentice">}}
-	+ {{<monster name="Sorcerer">}}
 - _Events_
 	+ A small group of Sorcerer's Apprentices ambush the players when they enter the hideout
 	+ The sorcerer is preparing to use the shell when the players find him
+- _Monsters_
+	+ {{<monster name="Sorcerer's Apprentice">}}
+	+ {{<monster name="Sorcerer">}}
 {{</details>}}
 
 

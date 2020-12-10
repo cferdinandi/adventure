@@ -21,14 +21,14 @@ There’s food still on plates, and cabins filled with the crew’s possessions.
 ## Locations, Monsters & Events
 
 {{<details summary="The Ship." blurb="An old-school wooden ship. Below deck is a kitchen and crews quarters. Below that is the hold. There’s nothing in it to indicate that this is a transport vessel. However, they do find a map indicating where the crew may have gone." margin="true">}}
-- _Monsters_
-	+ {{<monster name="Shark">}}
-	+ {{<monster name="Piranha">}}
-	+ {{<monster name="Kraken">}}
 - _Events_
 	+ A storm shows up expectedly
 	+ A rogue wave flips the ship, trapping the adventurers in the ship upside down
 	+ Sharks, piranha, and/or a kraken attack
+- _Monsters_
+	+ {{<monster name="Shark">}}
+	+ {{<monster name="Piranha">}}
+	+ {{<monster name="Kraken">}}
 {{</details>}}
 
 {{<details summary="**Turtle Back Island.**" blurb="An island not marked on the map. If the adventurers decide to stop there, they don’t find any animals on the island, but do find an assortment of trees and other plants. They also see evidence that people have been there before." margin="true">}}
@@ -49,29 +49,29 @@ There’s food still on plates, and cabins filled with the crew’s possessions.
 	+ **Mount Wanahakaloogi.** A mountain or volcano at the center of the island, it's the tallest visible landmark.
 	+ **The Big Lake.** Sits at the base of Mount Wanahakaloogi. The bottom is not visible from the surface. It's unclear how deep it is or what lives within its depths.
 	+ **The Tunnels.** These natural tunnels appear to be formed by water erosion or old lava flows (see next location).
-- _Monsters_
-	+ {{<monster name="Coconut/Pinecone Monster">}}
-	+ {{<monster name="Carnivorous Plant">}}
 - _Events_
 	+ The adventurers get stuck in a trap
 	+ Gear starts disappearing from their packs
 	+ They keep passing the same landmarks, as if lost and walking in circles
+- _Monsters_
+	+ {{<monster name="Coconut/Pinecone Monster">}}
+	+ {{<monster name="Carnivorous Plant">}}
 {{</details>}}
 
 {{<details summary="The Tunnels of the Lost Isles" blurb="These natural tunnels appear to be formed by water erosion or old lava flows." margin="true">}}
 
 <p class="margin-bottom-small">The tunnels are home to exotic creatures, and a weird, bioluminescent algae or mushrooms (it glows) that create a beautiful blue/green light. They’re winding and asymmetrical. Some tunnels loop back on each other, while others are dead ends. At least one has a slide-like drop that brings players dozens of feet lower into the tunnel system.</p>
 
-- _Monsters_
-	+ {{<monster name="Slime/Ooze">}}
-	+ {{<monster name="Troll">}}
-	+ {{<monster name="Spider (Giant)">}}
-	+ {{<monster name="Ship Crew (NPC)">}}
 - _Events_
 	+ A trapdoor drops them into a slide down to a deeper level
 	+ A mutant slime that attacks the players and tries to envelop them
 	+ A tunnel troll attacks and tries to eat them or steal their coins
 	+ An obstacle like a steep drop or water-filled section of tunnel
+- _Monsters_
+	+ {{<monster name="Slime/Ooze">}}
+	+ {{<monster name="Troll">}}
+	+ {{<monster name="Spider (Giant)">}}
+	+ {{<monster name="Ship Crew (NPC)">}}
 {{</details>}}
 
 

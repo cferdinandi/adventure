@@ -21,62 +21,63 @@ Until the babies are returned, she'll be far too distressed to protect the villa
 ## Locations, Monsters & Events
 
 {{<details summary="The Forest." blurb="Tall trees and tangles of vines provide ample places for baby dragons to get stuck." margin="">}}
+- _Events_
+	+ The baby dragon starts to fall from vines and is unable to fly
+	+ Ambushed by bandits who attempt to buy (or steal) the dragon
+	+ Surrounded by wolves or a bear after wandering off the beaten path
 - _Monsters_
 	+ {{<monster name="Bandit">}}
 	+ {{<monster name="Wolf">}}
 	+ {{<monster name="Bear">}}
-- _Events_
-	+ Dragon starts to fall from vines and is unable to fly
-	+ Ambushed by bandits who attempt to buy (or steal) the dragon
-	+ Surrounded by wolves or a bear after wandering off the beaten path
 {{</details>}}
 
 {{<details summary="Spider Den." blurb="Among a grove a trees, a giant spider guards a massive web that could easy capture a baby dragon.">}}
-- _Monsters_
-	+ {{<monster name="Spider (Giant)">}}
 - _Events_
 	+ If they take too long, spider eggs burst open, sending a swarm of baby spiders after the adventurers
+- _Monsters_
+	+ {{<monster name="Spider (Giant)">}}
+	+ {{<monster name="Spider">}}
 {{</details>}}
 
 
 {{<details summary="Mountain Cliffs." blurb="High up on the edge of the cliffs, a dragon just learning to fly could easily find themselves unable to get down.">}}
-- _Monsters_
-	+ {{<monster name="Goblin">}}
 - _Events_
 	+ After some time, goblins who live nearby hear the noise and come to check it out
 	+ A rock slide (natural or set by the goblins) crashes down on the explorers
+- _Monsters_
+	+ {{<monster name="Goblin">}}
 {{</details>}}
 
 {{<details summary="The Supply Shop." blurb="A remote supply shop provides food and goods to weary travelers. But you can't help but notice something strange (smells, sounds, or smoke) coming from the the back room.">}}
-- _Monsters_
-	+ {{<monster name="Shopkeep">}}
-	+ {{<monster name="Bandit">}}
 - _Events_
 	+ The noise/smoke/odor from the back room grows more intense
 	+ The shopkeep kicks the adventurers out of their store
 	+ Bandits hear the commotion and seize the opportunity
+- _Monsters_
+	+ {{<monster name="Shopkeep">}}
+	+ {{<monster name="Bandit">}}
 {{</details>}}
 
 {{<details summary="Cave of the Sleeping Ogre." blurb="A cave system is home to a giant ogre and his cavern home. He happens to be asleep at the moment, but a giant pile of gold (and a baby dragon) lie behind him.">}}
-- _Monsters_
-	+ {{<monster name="Ogre">}}
 - _Events_
 	+ The ogre awakes... and he's not happy!
+- _Monsters_
+	+ {{<monster name="Ogre">}}
 {{</details>}}
 
 {{<details summary="The Tunnels." blurb="Beyond the Sleeping Ogre's home is a network of tunnels. Adventurers can escape into them if needed.">}}
-- _Monsters_
-	+ {{<monster name="Rat">}}
-	+ {{<monster name="Scorpion">}}
-	+ {{<monster name="Slime/Ooze">}}
-	+ {{<monster name="Toad (Giant)">}}
-	+ {{<monster name="Ogre">}}
 - _Events_
 	+ The tunnel caves in
 	+ A section of floor collapses beneath the adventurers
 	+ A mysterious gas fills the tunnel
 	+ A deep pool of water blocks their way. There seems to be an opening at the bottom of it.
 	+ A magical darkness envelops the party
+- _Monsters_
+	+ {{<monster name="Rat">}}
+	+ {{<monster name="Scorpion">}}
+	+ {{<monster name="Slime/Ooze">}}
+	+ {{<monster name="Toad (Giant)">}}
+	+ {{<monster name="Ogre">}}
 {{</details>}}
 
 {{<details summary="The Village." blurb="If the baby dragons aren't returned in time, goblins ambush the unprotected village." margin="true">}}

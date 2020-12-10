@@ -29,21 +29,31 @@ Reaching into a pocket inside his jacket, Lord Graghammer produces the largest s
 ## Locations, Monsters & Events
 
 {{<details summary="The Dark Forest" blurb="To the East of the town of Farfaria, the Dark Forest is home to creatures of a more primal nature. Goblins. Lizardfolk. Wolves. Werebears. Unfortunately, it's also where the entrance to the Cavern of Mysteries lies.">}}
-- _Monsters_
-	+ {{<monster name="Wolf">}}
-	+ {{<monster name="Bear">}}
-	+ {{<monster name="Treefolk">}}
-	+ {{<monster name="Bandit">}}
-	+ {{<monster name="Elf">}}
 - _Events_
 	+ The wolves are controlled by the sorcerer, Fenton Stormcloud, and track the players wherever they go (don't reveal this to the players right away)
 	+ Bandits attempt to rob the adventurers of their gold, or the Gem if their in possession of it
 	+ The elves are also searching for the Sorcerer's Gem, and want create an alliance
 	+ The elves double cross the players
 	+ Once in possession of the Gem, trees begin to come to life
+- _Monsters_
+	+ {{<monster name="Wolf">}}
+	+ {{<monster name="Bear">}}
+	+ {{<monster name="Treefolk">}}
+	+ {{<monster name="Bandit">}}
+	+ {{<monster name="Elf">}}
 {{</details>}}
 
 {{<details summary="The Cavern of Mysteries" blurb="A deep, winding cave system with many entrances. It winds under most of Farfaria. Certain parts are completely sealed off by time or haven't been explored in years. Many an adventurer has entered the caves... and never returned.">}}
+- _Events_
+	+ A trap door gives way to another level of tunnels
+	+ Water floods a chamber
+	+ A troll accuses the players of trying to steal his gold
+	+ A cave-in traps the players in a section of tunnel
+	+ The only way forward is over a giant precipice that falls to unknown depths
+	+ A low fog fills a section of tunnel... then turns into poison gas
+	+ A chamber of ice creates cold slippery conditions, and contains an Ice Monster
+	+ The walls of the tunnel appear to shift and move. It feels like they've been walking in circles.
+	+ Once the gem in their possession, the party gets the feeling they're being followed
 - _Monsters_
 	+ {{<monster name="Rat">}}
 	+ {{<monster name="Bat">}}
@@ -57,27 +67,17 @@ Reaching into a pocket inside his jacket, Lord Graghammer produces the largest s
 	+ {{<monster name="Troll">}}
 	+ {{<monster name="Kobold">}}
 	+ {{<monster name="Ice Monster">}}
-- _Events_
-	+ A trap door gives way to another level of tunnels
-	+ Water floods a chamber
-	+ A troll accuses the players of trying to steal his gold
-	+ A cave-in traps the players in a section of tunnel
-	+ The only way forward is over a giant precipice that falls to unknown depths
-	+ A low fog fills a section of tunnel... then turns into poison gas
-	+ A chamber of ice creates cold slippery conditions, and contains an Ice Monster
-	+ The walls of the tunnel appear to shift and move. It feels like they've been walking in circles.
-	+ Once the gem in their possession, the party gets the feeling they're being followed
 {{</details>}}
 
 {{<details summary="The Goblin Village" blurb="Deep in the Dark Forest is a village of goblins. They leave the town of Farfaria alone, but will attack travelers and other woodland creatures." margin="true">}}
-- _Monsters_
-	+ {{<monster name="Goblin">}}
-	+ {{<monster name="Lizardfolk">}}
-	+ {{<monster name="Wolf">}}
 - _Events_
 	+ The players see goblins attack a traveler and steal everything (including his horse and cart), _or_ the goblins save the players from wolves
 	+ At the goblin village, players find lizardfolk being held captive
 	+ Lizardfolk turn on the players and attack them
+- _Monsters_
+	+ {{<monster name="Goblin">}}
+	+ {{<monster name="Lizardfolk">}}
+	+ {{<monster name="Wolf">}}
 {{</details>}}
 
 
