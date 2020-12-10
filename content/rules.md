@@ -50,7 +50,7 @@ _Dice are described using D* naming, where * is the number of sides the die has.
 
 Every player creates a character to play in the game.
 
-The [downloads section](/downloads) includes printable character sheets to guide you through the process, as well as pre-made characters. You'll reference them throughout the game.
+The [downloads section](/downloads) includes printable character sheets to guide you through the process, as well as premade characters. You'll reference them throughout the game.
 
 _Players may want to use a toy, figurine, or paper cut-out to represent their character while they play._
 
