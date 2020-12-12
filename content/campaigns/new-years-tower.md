@@ -5,6 +5,16 @@ draft: false
 noIndex: true
 ---
 
+{{<campaign-intro>}}
+
+
+<div data-toc="On this page..."></div>
+
+
+## Character Ideas
+
+{{<campaign-character>}}
+
 ## The Land of Farfaria
 
 {{<farfaria>}}
