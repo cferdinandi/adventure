@@ -129,33 +129,26 @@ _The GM subtracts 7 from the pool of 24 HP assigned to the rats._
 
 You might need to spin up a new monster in the middle of a game. Here's a reference you can use to do that quickly. (*Alternatively, you can [browse the monster list](/monsters).*)
 
-| Size       | Damage | Health | Difficulty |
-|------------|--------|--------|------------|
-| Small      | D6WR   | 2      | 3          |
-| Medium     | D6     | 5      | 3          |
-| Large      | 2D6    | 10     | 3          |
-| Monsterous | 3D6    | 15     | 3          |
+| Size       | Damage | Health |
+|------------|--------|--------|
+| Small      | D6WR   | 2      |
+| Medium     | D6     | 5      |
+| Large      | 2D6    | 10     |
+| Monsterous | 3D6    | 15     |
 
-- **Does the monster have armor or scales?** Add +1 DR
-- **Do they have extra heavy armor or scales?** Add +2 DR instead
+**Difficulty Rating:** 3 (_or 10 for the D20 variant_)
+
+- **Does the monster have armor or scales?** Add +1 DR (_+3 for D20 Variant_)
+- **Do they have extra heavy armor or scales?** Add +2 DR instead (_+6 for D20 Variant_)
 - **Are they extra tough or resilient?** Add +3-5 HP
 - **Can they attack more than once?** Add Multi-Attack
 - **Do they have any special abilities or traits?** Describe them
 
-_**For the D20 Variant,** use a base DR of 10, and triple the DR modifiers listed above._
-
 {{<callout title="Examples">}}
-- **Rats.** Small, D6WR, 2 HP, 3 DR
-- **Alligator.** Large, 2D6, 10 HP, 4 DR (scales)
-- **Dragon.** Monsterous, 3D6, 20 HP, 5 DR (tough scales, resilient), fire-breathing, resistant to fire damage
-- **Hydra.** Monsterous, 3D6, 15 HP, 4 DR (scales), MA3 (one attack per head)
-
-{{<details summary="D20 Variant Difficulty Ratings">}}
-- **Rats.** 10 DR
-- **Alligator.** 13 DR
-- **Dragon.** 16 DR
-- **Hydra.** 13 DR
-{{</details>}}
+- **Rats.** Small, D6WR, 2 HP, 3 DR (_10 DR for D20_)
+- **Alligator.** Large, 2D6, 10 HP, 4 DR (_13 DR for D20_) [scales]
+- **Dragon.** Monsterous, 3D6, 20 HP, 5 DR  (_16 DR for D20_) [tough scales, resilient], fire-breathing, resistant to fire damage
+- **Hydra.** Monsterous, 3D6, 15 HP, 4 DR (_13 DR for D20_) [scales], MA3 (one attack per head)
 {{</callout>}}
 
 ### Total Group Knock Out

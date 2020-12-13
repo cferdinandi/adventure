@@ -85,23 +85,12 @@ For most things a player tries to do, what happens is decided by rolling a six-s
 
 The higher the Difficulty Rating, the harder a task is.
 
-| Rating | Difficulty |
-|--------|------------|
-| 2      | Easy       |
-| 3      | Medium     |
-| 5      | Hard       |
-| 6      | Impossible |
-
-{{<details summary="D20 Variant" margin="true">}}
-
-| Rating | Difficulty |
-|--------|------------|
-| 5      | Easy       |
-| 10     | Medium     |
-| 15     | Hard       |
-| 20     | Impossible |
-
-{{</details>}}
+| D6 Rating | Difficulty | D20 Rating |
+|-----------|------------|------------|
+| 2         | Easy       | 5          |
+| 3         | Medium     | 10         |
+| 5         | Hard       | 15         |
+| 6         | Impossible | 20         |
 
 {{<callout title="Example">}}
 
