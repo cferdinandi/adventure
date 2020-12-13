@@ -357,3 +357,14 @@ If you have an adventurer who loves to build things and has a big imagination, t
 - The parts from a tinkered item can be reclaimed to build another (either after it break, or when the adventurer decides they’d like to build something else).
 
 The Game Master may choose to have the adventurer first acquire a tinker kit: gears, bits of scrap metal, and some small tools from a shopkeeper in the game.
+
+
+### Chaos Magic
+
+For added fun, you can introduce magical items that randomly unleash a surge of chaotic magic and create random effects.
+
+<p class="margin-bottom-small">Some things that can cause chaos magic:</p>
+
+- Wands, staffs, and magical talismans, when used to cast spells or conjure abilities
+- Weapons and armor, when used in battle
+- Potions and herbs of unknown origin, when consumed
