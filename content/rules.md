@@ -363,8 +363,12 @@ The Game Master may choose to have the adventurer first acquire a tinker kit: ge
 
 For added fun, you can introduce magical items that randomly unleash a surge of chaotic magic and create random effects.
 
-<p class="margin-bottom-small">Some things that can cause chaos magic:</p>
+<p class="margin-bottom-small"><strong>Some things that can cause chaos magic:</strong></p>
 
 - Wands, staffs, and magical talismans, when used to cast spells or conjure abilities
 - Weapons and armor, when used in battle
 - Potions and herbs of unknown origin, when consumed
+
+You don't need to have random effects occur _every_ time the item is used. In fact, it's probably more fun if it happens occasionally. If you want, you can flip a coin.
+
+**[Here's a list of random effects you can use.](/random-effects/)** Roll some dice to pick one at random.

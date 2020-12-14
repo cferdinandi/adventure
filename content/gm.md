@@ -87,6 +87,10 @@ Adventure is more exciting when rolls aren't simply pass/fail. One way to do tha
 - On a 1, they climb halfway up, but fall and get hurt.
 {{</callout>}}
 
+### Random Effects
+
+If players discover an item and they're not sure what it does, you can roll some dice to create a random effect. [Here's a table you can use.](/random-effects/)
+
 ### Easier Combat & Damage
 
 In big battles, managing damage and attacks from all of the players and monsters can get a big complicated. Here are some ways to make it easier.
