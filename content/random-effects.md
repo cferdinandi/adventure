@@ -6,7 +6,7 @@ draft: false
 
 Whether you're using [the Chaos Magic house rule](/rules#chaos-magic) or just need a random effect for a potion or herb, this table can help you quickly come up with some ideas.
 
-Roll two D6 dice, or one D20 and flip a coin. Then find the matching numbers on the table (_H is heads, T is tails_). All effects end after a minute.
+Roll two D6 dice, or one D20 and flip a coin. Then find the matching numbers on the table (_H is heads, T is tails_). All effects end after a few rounds of combat, or a few minutes of exploration.
 
 | 2D6 | Effect | D20-Coin |
 |-----|--------|------------|
@@ -28,7 +28,7 @@ Roll two D6 dice, or one D20 and flip a coin. Then find the matching numbers on 
 | 3-4 | You grow a beard of feathers that falls off when you sneeze | 8-T  |
 | 3-5 | A random DR Medium monster appears nearby | 9-H  |
 | 3-6 | A burst of sounds erupts from you, doing D6 damage to nearby creatures | 9-T  |
-| 4-1 | You turn into a giant stuffed animal, and cannot move or be hurt | 10-H |
+| 4-1 | You turn into a giant stuffed animal, and cannot move or be hurt except by fire | 10-H |
 | 4-2 | 3-5 [Carnivorous Plants](/monsters/#carnivorous-plant) sprout near you | 10-T |
 | 4-3 | Everyone within 20' of you falls down | 11-H |
 | 4-4 | The next attack a monster makes against you automatically fails | 11-T |
