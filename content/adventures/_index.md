@@ -15,6 +15,7 @@ Here are some ready-to-play adventures, set in [the land of Farfaria](/farfaria/
 - [Escape from the Volcano](/adventures/escape-from-the-volcano/)
 - [The Sorcerer's Gem](/adventures/the-sorcerers-gem/)
 - [Isle of the Kraken](/adventures/isle-of-the-kraken/)
+- [New Year's Bell](/adventures/new-years-bell/)
 
 
 **Write your own adventure?** I’d love to add it to this site! Send me an email at {{<email>}}.

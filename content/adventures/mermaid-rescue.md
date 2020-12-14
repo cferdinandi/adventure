@@ -4,6 +4,8 @@ date: 2020-10-08T11:23:08-04:00
 draft: false
 ---
 
+An evil sorcerer has kidnapped the mermaid king's daughter, and stolen a powerful amulet that threatens to destroy the whole realm.
+
 <div data-toc="In This Adventure"></div>
 
 ## The Situation

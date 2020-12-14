@@ -4,7 +4,11 @@ date: 2020-10-07T16:24:33-04:00
 draft: false
 ---
 
+The dragon who protects your village has lost her babies. She needs your help to get them back.
+
 <div data-toc="In This Adventure"></div>
+
+
 
 ## The Situation
 

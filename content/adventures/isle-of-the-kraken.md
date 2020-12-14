@@ -4,7 +4,10 @@ date: 2020-12-09T16:37:31-05:00
 draft: false
 ---
 
+Once every few years, a tiny island mysteriously rises from the depths of the sea for just a few hours. A power artifact is rumored hidden there.
+
 <div data-toc="In This Adventure"></div>
+
 
 ## The Situation
 
@@ -20,7 +23,7 @@ Suddenly, you catch sight of it. In the distance, you see the monolith, the carv
 
 You row harder towards the island...
 
-<!-- {{<maps href="">}} -->
+{{<maps href="">}}
 
 
 

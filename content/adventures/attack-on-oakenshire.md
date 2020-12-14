@@ -4,6 +4,8 @@ date: 2020-10-07T13:17:38-04:00
 draft: false
 ---
 
+Giant spiders overrun the ancient elven treetop city of Oakenshire. Can you drive them out before centuries of invaluable knowledge are lost forever?
+
 <div data-toc="In This Adventure"></div>
 
 ## The Situation

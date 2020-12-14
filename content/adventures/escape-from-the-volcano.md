@@ -4,7 +4,10 @@ date: 2020-12-08T16:18:46-05:00
 draft: false
 ---
 
+Can you stop a powerful sorcerer before he awakens a dormant volcano and destroys the village at its base?
+
 <div data-toc="In This Adventure"></div>
+
 
 ## The Situation
 

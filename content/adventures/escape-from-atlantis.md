@@ -4,7 +4,10 @@ date: 2020-10-08T10:35:55-04:00
 draft: false
 ---
 
+Out of the submarine port hole, you spy something strange on the ocean floor: what appears to be an underwater city.
+
 <div data-toc="In This Adventure"></div>
+
 
 ## The Situation
 

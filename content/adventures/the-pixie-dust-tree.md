@@ -4,11 +4,19 @@ date: 2020-10-07T16:02:16-04:00
 draft: false
 ---
 
+A group of fairies needs your help after their pixie dust tree is destroyed by ice.
+
 <div data-toc="In This Adventure"></div>
+
+
 
 ## The Situation
 
 A fairy wakes you from your sleep, begging for your help. She explains that ice from the north froze and killed their pixie dust tree. Without, she and the rest of her village will never fly again.
+
+> The Elder Fairy lives deep in the woods. He was around generations before any of us were born. If anyone will no one what to do, he will.
+>
+> But be warned: he's very reclusive. He doesn't take kindly to visitors, so tread lightly.
 
 {{<maps href="/downloads/map.pdf">}}
 

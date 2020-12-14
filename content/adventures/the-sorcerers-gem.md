@@ -4,6 +4,8 @@ date: 2020-12-08T17:23:20-05:00
 draft: false
 ---
 
+A mysterious noble offers you a large sum of gold to retrieve a legendary gem for him. But he's not the only one looking for the gem. Can you navigate the many subterranean perils inside the Cave of Mysteries, and make it home safely before trouble finds you?
+
 <div data-toc="In This Adventure"></div>
 
 ## The Situation
@@ -14,7 +16,7 @@ He sits before you, teacup held delicately in his meaty fingers. You sip your te
 
 > I have an important mission that requires adventurers of a certain... pedigree. Brave. Strong. Discrete.
 >
-> You may have heard stories about "the Sorcer's Gem," a magic purple jewel that once belonged to the powerful Sorcerer Fenton Stormcloud, lost under mysterious circumstances?
+> You may have heard stories about "the Sorcerer's Gem," a magic purple jewel that once belonged to the powerful Sorcerer Fenton Stormcloud, lost under mysterious circumstances?
 >
 > Many think that the tale is just that, a story. But I have reason to believe that it's real. My sources tell me that the Gem may be hidden deep within the Cave of Mysteries, within the Dark Forest.
 >

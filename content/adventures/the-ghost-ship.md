@@ -4,15 +4,21 @@ date: 2020-10-07T14:37:16-04:00
 draft: false
 ---
 
+A ship washes ashore and runs aground without a single person onboard. Can you find the lost crew?
+
 <div data-toc="In This Adventure"></div>
 
 ## The Situation
 
-A ship drifts into the harbor and runs aground. It’s completely empty.
+Shortly after a lunch, a ship drifts into Farfaria harbor. Despite repeated signals from the harbormaster, it doesn't slow down, but heads straight towards the beach next to the docks.
 
-There’s food still on plates, and cabins filled with the crew’s possessions. But there’s not a single person to be found on the vessel.
+As people scramble out of the way, the ship runs aground. An eerie silence falls over the docks.
 
-**You do find one clue, though:** a map in the captain’s cabin that points to a remote island in the Ocean of Lost Sailors.
+Inspecting the ship, the harbormaster finds food still on plates, and cabins filled with the crew’s possessions. But there’s not a single person to be found on the vessel.
+
+**He does find one clue, though:** a map in the captain’s cabin that points to a remote island in the Ocean of Lost Sailors.
+
+The harbormaster has called you to the docks and asked you get the bottom of this mystery. Can you find the lost crew, or at least figure out what happened to them?
 
 {{<maps href="/downloads/assets_the-ghost-ship.pdf">}}
 
