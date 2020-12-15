@@ -27,6 +27,7 @@ theme: "gmt"
 permalinks:
   articles: /:title/
   adventures: /adventures/:filename/
+  campaigns: /campaigns/:filename/
 
 # Use absolute URLs
 canonifyURLs: true

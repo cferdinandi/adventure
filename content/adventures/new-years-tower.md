@@ -38,17 +38,22 @@ As you leave her office, she calls out to you...
 
 The entire campaign takes place in the dungeon inside and underneath the tower.
 
+After entering the door at the base, players find a big, empty tower filled with overgrown trees, roots breaking through the floor. A giant hole in the roof lets a beam of sun shine through, casting dancing shadows on the walls and floor. The occasional bird flies in or out and lands on one of the trees.
+
+In the middle of the room, a narrow set of stairs leads downward and curves to the right. It's unclear how far down it goes...
+
 
 
 ## Events
 
+- **Stairs Slide.** A set of stairs drops out midway, turning into a slide that carries the party into the depths of the dungeon. On a failed DR Medium Speed roll, players crash at the bottom and injure themselves.
 - **Trapdoor.** On a successful DR Hard Perception Check, players detect a trapdoor. If they fail, it drops out beneath them. Any player who makes a success DR Medium Speed roll jumps to the edge before falling. On failure, they fell into a 15' deep pit. Rats attack them after a short while.
 - **Fire-Breathing Trap.** A row of dragon statues line a passageway. A successful DR Hard Perception Check reveals it to be a fire-breathing trap. On failure, the dragons breathe fire as the players walk by.
 - **Spiderwebs.** Several players become trapped in unseen spiderwebs. While trying to free themselves, a giant spider attacks. If they take too long, spider hatchlings emerge from an egg sac and also attack.
 - **Quicksand.** Upon entering a room filled with sand, any player who fails a DR Hard Speed roll becomes stuck in quicksand. Requires a successful DR Medium roll to escape.
 - **Lightning Crystals.** This chamber is natural rock, and filled with crystals in a wide range of colors. They stick out of the floor and walls. In the middle is a gigantic purple crystal. Touching it triggers a 2D6 damage lightning trap that zaps anyone in a 10' range.
+- **Time Portal.** As you step through an entrance, you find yourself in another part of the tunnel (either a place you've already been or somewhere completely new). It's now D6/2 hours in the past or future (heads for future, tails for past).
 - **Roof Collapse.** The roof caves in on either side of the party. You can keep them together or split them up. Requires a successful DR Hard roll to escape.
-- **Stairs Slide.** A set of stairs drops out midway, turning into a slide that carries the party into the depths of the dungeon. On a failed DR Medium Speed roll, players crash at the bottom and injure themselves.
 - **Flood Room.** Gates slam down on either side of the room. Water begins seeping in from the floor. The room will completely flood if it's not opened in the next 5 minutes. There could be a hidden off switch somewhere.
 - **Lava Bridge.** The tunnel abruptly stops, opening up over a river of molten lava. A rickety rope bridge spans across. It will collapse with only half the party across, or if too many people are on it at once.
 - **The Cliff.** The only way forward is up a 15' sheer brick wall. At the top, you can see an opening and torch light. A rope ladder hangs a few inches over the edge, far out of reach.
