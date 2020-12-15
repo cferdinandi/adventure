@@ -31,21 +31,21 @@ A fairy wakes you from your sleep, begging for your help. She explains that ice 
 
 
 
+## Events
+
+- **Rock Slide.** A successful DR Hard Perception Check lets players sense a rock slide before it hits them. On failure, a wall of boulders comes sliding down from the mountains.
+- **Nets & Pits.** A successful DR Hard Perception Check reveals rope nets or pit traps hidden under fallen leaves. On failure, the traps go off, and fairies fly out to greet the captured party.
+- **Bandit Bribe.** A group of bandits confront the party, and offer them money in exchange for pixie dust.
+- **Bandit Ambush.** The same group of bandits ambushes the party. A successful DR Hard Perception Check reveals their approach in advance. If they purchased pixie dust, the steal their money back. If they didn't, they steal the pixie dust.
+
+
+
 ## Monsters
 
 - {{<monster name="Fairy/Pixie">}}
 - {{<monster name="The Elder Fairy">}}
 - {{<monster name="Piranha">}}
 - {{<monster name="Bandit">}}
-
-
-
-## Events
-
-- Caught in a rock slide
-- Captured by traps used by fairies
-- Offered money in exchange for pixie dust by bandits
-- Ambushed by bandits
 
 
 

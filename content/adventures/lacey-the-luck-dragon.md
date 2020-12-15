@@ -22,7 +22,7 @@ Until the babies are returned, she'll be far too distressed to protect the villa
 
 
 
-## Locations, Monsters & Events
+## Locations, Events & Monsters
 
 {{<details summary="The Forest." blurb="Tall trees and tangles of vines provide ample places for baby dragons to get stuck." margin="">}}
 - _Events_

@@ -9,6 +9,7 @@ Once every few years, a tiny island mysteriously rises from the depths of the se
 <div data-toc="In This Adventure"></div>
 
 
+
 ## The Situation
 
 Once every few years, a tiny island mysteriously rises from the depths of the sea for just a few hours. It never appears in the same place twice. Sometimes, it disappears before anyone's even taken notice.
@@ -27,7 +28,7 @@ You row harder towards the island...
 
 
 
-## Locations, Monsters & Events
+## Locations, Events & Monsters
 
 {{<details summary="The Shore." blurb="As you approach the shore, you notice another ship is already moored to a tree. Attached to the mast is a black flag, with a skull-and-crossbones, gently flapping in the breeze." margin="true">}}
 - _Events_

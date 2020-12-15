@@ -9,6 +9,7 @@ Can you stop a powerful sorcerer before he awakens a dormant volcano and destroy
 <div data-toc="In This Adventure"></div>
 
 
+
 ## The Situation
 
 You've just sat down to each lunch in Farfaria Tavern when a man bursts through the door, out-of-breath with wild, frantic eyes.
@@ -31,7 +32,7 @@ He places a small sack of gold on the table.
 
 
 
-## Locations, Monsters & Events
+## Locations, Events & Monsters
 
 {{<details summary="The Journey North" blurb="The Volcano is on the other side of the Northern Mountains, farther than most people in your village have ever traveled.">}}
 

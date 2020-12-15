@@ -8,6 +8,8 @@ An evil sorcerer has kidnapped the mermaid king's daughter, and stolen a powerfu
 
 <div data-toc="In This Adventure"></div>
 
+
+
 ## The Situation
 
 Down at the harbor, a bottle pops up from the depths. There’s note rolled up inside, and a cork firmly pushed into the top. You fish the bottle from the Harbor, open it up, and remove the note.
@@ -22,7 +24,7 @@ It's from Triton, king of the mermaids.
 
 
 
-## Locations, Monsters & Events
+## Locations, Events & Monsters
 
 {{<details summary="The Castle of the North." blurb="The giant Castle of the North towers above you. Thankfully, the drawbridge is down. You cross it, and enter the castle courtyard. Knights and townspeople scurry about, busy with the day’s tasks.">}}
 - _Locations_

@@ -8,6 +8,8 @@ A ship washes ashore and runs aground without a single person onboard. Can you f
 
 <div data-toc="In This Adventure"></div>
 
+
+
 ## The Situation
 
 Shortly after a lunch, a ship drifts into Farfaria harbor. Despite repeated signals from the harbormaster, it doesn't slow down, but heads straight towards the beach next to the docks.
@@ -24,7 +26,7 @@ The harbormaster has called you to the docks and asked you get the bottom of thi
 
 
 
-## Locations, Monsters & Events
+## Locations, Events & Monsters
 
 {{<details summary="The Ship." blurb="An old-school wooden ship. Below deck is a kitchen and crews quarters. Below that is the hold. There’s nothing in it to indicate that this is a transport vessel. However, they do find a map indicating where the crew may have gone." margin="true">}}
 - _Events_

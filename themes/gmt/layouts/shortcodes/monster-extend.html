@@ -1,0 +1,15 @@
+{{- $.Scratch.Set "monster" "" -}}
+{{- $.Scratch.Set "name" (.Get "name") -}}
+{{- range $.Site.Data.monsters -}}
+	{{- if eq .name ($.Scratch.Get "name") -}}
+		{{- $.Scratch.Set "monster" . -}}
+	{{- end -}}
+{{- end -}}
+
+{{- if eq ($.Scratch.Get "monster") "" -}}
+<p class="no-margin-bottom"><strong>{{ .Get "name" }}</strong></p>
+{{- else -}}
+<p class="no-margin-bottom"><strong>{{ if .Get "display" }}{{ .Get "display" }}{{ else }}{{ index ($.Scratch.Get "monster") "name" }}{{ end }}</strong></p>
+<p class="no-margin-bottom">{{ index ($.Scratch.Get "monster") "damage" }} &middot; {{ index ($.Scratch.Get "monster") "hp" }} HP &middot; {{ index ($.Scratch.Get "monster") "dr" }} DR <span class="text-muted text-small">(<em>{{ index ($.Scratch.Get "monster") "drd20" }} for D20 variant</em>)</span></p>
+{{ if ne (index ($.Scratch.Get "monster") "abilities") "" }}<p class="no-margin-bottom"><em>{{ index ($.Scratch.Get "monster") "abilities" }}{{ if .Get "abilities" }} {{ .Get "abilities" }}{{ end }}</em></p>{{ end }}
+{{- end -}}

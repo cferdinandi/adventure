@@ -8,6 +8,8 @@ A mysterious noble offers you a large sum of gold to retrieve a legendary gem fo
 
 <div data-toc="In This Adventure"></div>
 
+
+
 ## The Situation
 
 Lord Bertrand Kraghammer doesn't often leave his regal mansion (or have guests). In fact, no one in town is really sure what he does or what it looks like. So when he sent a messenger to invite you over for tea, you eagerly accepted.
@@ -28,7 +30,7 @@ Reaching into a pocket inside his jacket, Lord Graghammer produces the largest s
 
 
 
-## Locations, Monsters & Events
+## Locations, Events & Monsters
 
 {{<details summary="The Dark Forest" blurb="To the East of the town of Farfaria, the Dark Forest is home to creatures of a more primal nature. Goblins. Lizardfolk. Wolves. Werebears. Unfortunately, it's also where the entrance to the Cavern of Mysteries lies.">}}
 - _Events_

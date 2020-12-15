@@ -37,7 +37,7 @@ As she walks out of the square, she turns back to you and says,
 
 
 
-## Locations
+## Locations, Events & Monsters
 
 {{<details summary="The Path to Balefrost's Lair." blurb="The path through the Eastern Grove is cold, icy, dark, and&nbsp;dangerous.">}}
 - _Events_

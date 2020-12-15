@@ -12,20 +12,20 @@ draft: false
 
 
 
-## Locations
+## Locations, Events & Monsters
 
 {{<details summary="" blurb="">}}
-- _Events_
+- _Locations_
 	+ a
+- _Events_
+	+ b
 - _Monsters_
 	+ {{<monster name="">}}
 {{</details>}}
 
--
 
 
-
-## Creatures
+## Locations
 
 -
 
@@ -34,6 +34,12 @@ draft: false
 ## Events
 
 -
+
+
+
+## Monsters
+
+- {{<monster name="">}}
 
 
 
