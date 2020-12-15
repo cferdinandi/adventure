@@ -30,7 +30,7 @@ As you leave her office, she calls out to you...
 
 > Be careful. No one knows what mysteries the tower holds.
 
-{{<maps href="">}}
+{{<maps href="/downloads/assets_the-tower-of-time.pdf">}}
 
 
 
