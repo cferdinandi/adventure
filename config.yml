@@ -26,7 +26,7 @@ theme: "gmt"
 # See "content-management/permalinks"
 permalinks:
   articles: /:title/
-  adventures: /adventures/:title/
+  adventures: /adventures/:filename/
 
 # Use absolute URLs
 canonifyURLs: true
