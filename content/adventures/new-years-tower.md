@@ -55,6 +55,7 @@ In the middle of the room, a narrow set of stairs leads downward and curves to t
 - **Time Portal.** As you step through an entrance, you find yourself in another part of the tunnel (either a place you've already been or somewhere completely new). It's now D6/2 hours in the past or future (heads for future, tails for past).
 - **Roof Collapse.** The roof caves in on either side of the party. You can keep them together or split them up. Requires a successful DR Hard roll to escape.
 - **Flood Room.** Gates slam down on either side of the room. Water begins seeping in from the floor. The room will completely flood if it's not opened in the next 5 minutes. There could be a hidden off switch somewhere.
+- **Submerged Tunnel.** A section of tunnel is submerged in water. On a successful DR Medium Perception Check, players will notice something slithering under the water. If they enter a third of the way in, a giant snake will attack.
 - **Lava Bridge.** The tunnel abruptly stops, opening up over a river of molten lava. A rickety rope bridge spans across. It will collapse with only half the party across, or if too many people are on it at once.
 - **The Cliff.** The only way forward is up a 15' sheer brick wall. At the top, you can see an opening and torch light. A rope ladder hangs a few inches over the edge, far out of reach.
 - **The Gate.** A metal gate blocks the way, and can't be lifted by hand. A metal chain that can be used to pull it open runs from the ceiling to a peg on the wall about 10' away from the gate. Letting go of the chain causes the gate to slam shut. How can everyone get through?
@@ -70,6 +71,7 @@ In the middle of the room, a narrow set of stairs leads downward and curves to t
 - {{<monster name="Bat">}}
 - {{<monster name="Rat">}}
 - {{<monster name="Centipede (Giant)">}}
+- {{<monster name="Snake (Giant)">}}
 - {{<monster name="Gargoyle">}}
 - {{<monster name="Ogre">}}
 - {{<monster name="Rock Monster">}}
