@@ -17,7 +17,7 @@ Can you rescue them—and make it back out—before midnight, when the tower dis
 
 ## What Do You Need to Play?
 
-I hope you're as excited to go on an epic adventure as I am. The only things you need to play are...
+<p class="margin-bottom-small">I hope you're as excited to go on an epic adventure as I am. The only things you need to play are...</p>
 
 1. A six-sided die
 2. A character idea (more on that below)
