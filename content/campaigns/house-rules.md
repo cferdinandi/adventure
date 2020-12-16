@@ -11,6 +11,36 @@ In my games, no one dies (not even the monsters), there's no blood, and the weap
 
 **If your young hero has any specific phobias or things I should avoid in the game, please let me know.** I want this to be a fun experience for everyone!
 
+
+## How a Virtual Game Works
+
+I'll be running this game over Zoom, and sharing maps and pictures of the places and creatures we encounter on our adventure.
+
+<p class="margin-bottom-small"><strong>Here's how it works:</strong></p>
+
+1. I describe a situation.
+2. The players tell me what they want to do.
+3. I describes what happens.
+
+{{<callout title="Example">}}
+**GM:** "Before you lies a bridge. There are boards missing in places, and the ones that remain appear old and rotted. What do you do?"
+
+**Player:** "I try to walk across, carefully checking for loose boards as I go."
+
+**GM:** "As you're walking across, one of the boards starts to break under your feet. As you scramble across, the entire bridge begins to collapse. What do you do?"
+
+**Player:** "I try to jump to the other side before the whole bridge falls down."
+
+**GM:** "You push off the breaking board with all of your might, catching the ledge with your fingers and hoisting yourself over the edge. The bridge falls into the chasm below you. But as you do, your sword falls out of your hilt and drops onto a ledge about 20 feet down. What do you do?"
+{{</callout>}}
+
+<p class="margin-bottom-small"><strong>Before the game:</strong></p>
+
+- Install Zoom, if it's not already on your computer
+- Grab a six-sided die, a pencil, and a piece of paper
+
+_If you think Zoom will cause issues on your computer or have concerns about it, please let me know and we can explore something else (like Google Meet)._
+
 ## Rules of the Table
 
 To help keep things running smoothly, there are a few rules I'm going to ask the players to follow.
@@ -22,6 +52,7 @@ To help keep things running smoothly, there are a few rules I'm going to ask the
 - Keep it G-rated (no bad language or excessive violence)
 
 I don't like to restrict the players much, but I find having a few boundaries helps make the game more fun for everyone.
+
 
 ## What kinds of challenges and monsters will the heroes face?
 
