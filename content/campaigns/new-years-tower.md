@@ -47,6 +47,6 @@ Do you know magic? Are you brave warrior? A musician who inspires your friends? 
 
 - **Elf Wizard.** You can speak to animals and see in the dark. You can cast the _Magic Missiles_ and _Sleep_ spells.
 - **Fairy Druid.** You can fly and turn into small animals. You can cast the _Heal_ and _Tangle of Vines_ spells.
-- **Bear Barbarian.** You're big and strong, and monsters tend to be scared of you. You carry a big wooden hammer.
+- **Bear Barbarian.** You're big and strong, and monsters tend to be scared of _you_.
 - **Human Knight.** You're a brave, skilled fighter who loves to defend the powerless. Your suit of armor keeps you extra safe.
 - **Octopus Pirate.** You're incredibly lucky and always land on one of your eight feet. You can squeeze into the tiniest of spaces.
