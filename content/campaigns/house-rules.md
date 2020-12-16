@@ -13,7 +13,7 @@ In my games, no one dies (not even the monsters), there's no blood, and the weap
 
 ## Rules of the Table
 
-To help keep things running smoothly, there a few rules I'm going to ask the players to follow.
+To help keep things running smoothly, there are a few rules I'm going to ask the players to follow.
 
 - Take turns doing things
 - Don't interrupt when another player is talking
@@ -32,7 +32,7 @@ It varies from game-to-game, but here's a representative sample of the kinds of 
 - Finding hidden items or solving riddles
 - Figuring out how to cross dangerous terrain without getting hurt (like a wide chasm or a pool of lava)
 
-And here are some of the monsters they may have:
+And here are some of the monsters they may have to face:
 
 - Giant Spiders
 - Goblins
