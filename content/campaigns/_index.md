@@ -7,5 +7,4 @@ noIndex: true
 
 Details for active campaigns.
 
-- [New Year's Bell](/campaigns/new-years-bell/)
-- [New Year's Tower](/campaigns/new-years-tower/)
+- [The Tower of Time](/campaigns/new-years-tower/)

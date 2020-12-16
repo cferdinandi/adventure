@@ -7,9 +7,7 @@ noIndex: true
 
 <div class="fluid-vids"><iframe src="https://player.vimeo.com/video/491351248?color=0088cc&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
 
-You live in the town of Farfaria, a tiny little village nestled between mountains to the North, sweeping forests to the East and West, and a deep and mysterious ocean to the South.
-
-Mysterious and exciting adventures always seem to find their way to your little village, where you and your friends are ready to help.
+You live in the town of Farfaria, a tiny little village nestled between mountains, sweeping forests, and a deep and mysterious ocean. Mysterious and exciting adventures always seem to find their way to your little village, where you and your friends are ready to help.
 
 Every year on New Year’s Eve, a mysterious tower appears, only to disappear four hours later. Last year, three adventurers entered the tower, never to be seen again.
 
