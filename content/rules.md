@@ -37,7 +37,7 @@ The most important phrase in Adventure is, "What do you do?"
 ## What You Need to Play
 
 1. **A set of dice.** Adventure uses six-sided dice (_there's also a D20 variant if you'd prefer_). If you don't have any dice, you can [roll digital dice](/dice/).
-2. **Character sheets.** You can print them out from [the downloads page](/downloads).
+2. **Character sheets.** You can print them out from [the downloads page](/downloads) or just write the details down in a notebook.
 3. **Your imagination.** The most important part!
 
 You might want to keep a pen and notebook handy, but it's not at all required to play.
@@ -372,3 +372,10 @@ For added fun, you can introduce magical items that randomly unleash a surge of 
 You don't need to have random effects occur _every_ time the item is used. In fact, it's probably more fun if it happens occasionally. If you want, you can flip a coin.
 
 **[Here's a list of random effects you can use.](/random-effects/)** Roll some dice to pick one at random.
+
+{{<callout title="Introducing Chaos Magic Items">}}
+Chaos magic items can be items that the players find in their travels, or they could be given to the players by the quest giver before they start their adventure.
+
+> I borrowed some tools and supplies from Piper Skiprock, the wizard inventor, to aid you on your quest. He insisted that they're not finished yet, but they'll have be good enough for now. Time is of the essence...
+
+{{</callout>}}
