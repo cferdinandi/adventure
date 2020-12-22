@@ -6,7 +6,7 @@ params:
   description: "A simplish, imagination-based kitchen table RPG."
   rssURL: ""
   rssLimit: 7
-  minify: false
+  minify: true
 
 # Caches
 caches:
