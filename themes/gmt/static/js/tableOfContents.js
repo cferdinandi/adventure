@@ -10,19 +10,19 @@
 	 * @param  {String} styles           Any classes to add to the list nav
 	 * @param  {String} type             The list type (ul/ol)
 	 */
-	var tableOfContents = function (navSelector, headingsSelector, heading, styles, type) {
+	function tableOfContents (navSelector, headingsSelector, heading, styles, type) {
 
 		// Make sure a selector was provided
 		if (!navSelector || !headingsSelector) return;
 
 		// Get the nav
-		var nav = document.querySelector(navSelector);
+		let nav = document.querySelector(navSelector);
 		if (!nav) return;
 
 		// Variables
-		var headings = document.querySelectorAll(headingsSelector);
+		let headings = document.querySelectorAll(headingsSelector);
 		type = type || 'ul';
-		var navList = Array.from(document.querySelectorAll(headingsSelector)).map(function (heading) {
+		let navList = Array.from(document.querySelectorAll(headingsSelector)).map(function (heading) {
 			if (!heading.id) return '';
 			return `<li><a href="#${heading.id}">${heading.textContent}</a></li>`;
 		}).join('');
@@ -36,7 +36,7 @@
 			${navList}
 		</${type}>`;
 
-	};
+	}
 
 	// Add table of contents
 	var toc = document.querySelector('[data-toc]');
