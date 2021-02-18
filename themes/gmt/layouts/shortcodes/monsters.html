@@ -2,8 +2,8 @@
 {{ range $.Site.Data.monsters }}
 	<li id="{{ .name | anchorize }}">
 		<p class="no-margin-bottom"><strong>{{ .name }}</strong></p>
-		<p{{ if ne .abilities "" }} class="no-margin-bottom"{{ end }}>{{ .damage }} &middot; {{ .hp }} HP &middot; {{ .dr }} DR <span class="text-muted text-small">(<em>{{ .drd20 }} for D20 variant</em>)</span></p>
-		{{ if ne .abilities "" }}<p><em>{{ .abilities }}</em></p>{{ end }}
+		<p{{ if ne .traits "" }} class="no-margin-bottom"{{ end }}>{{ .damage }} AD &middot; {{ .hp }} HP{{ if ne .armor 0 }} &middot; {{ .armor }} AL{{ end }}</p>
+		{{ if ne .traits "" }}<p><em>{{ .traits }}</em></p>{{ end }}
 	</li>
 {{ end }}
 </ul>

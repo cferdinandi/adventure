@@ -1,3 +1,3 @@
 <p class="no-margin-bottom"><strong>{{ .Get "name" }}</strong></p>
-<p class="no-margin-bottom">{{ .Get "damage" }} &middot; {{ .Get "hp" }} HP &middot; {{ .Get "dr" }} DR <span class="text-muted text-small">(<em>{{ .Get "drd20" }} for D20 variant</em>)</span></p>
-{{ if .Get "abilities" }}<p class="no-margin-bottom"><em>{{ .Get "abilities" }}</em></p>{{ end }}
+<p class="no-margin-bottom">{{ .Get "damage" }} AD &middot; {{ .Get "hp" }} HP{{ if .Get "armor" }} &middot; {{ .Get "armor" }} AL{{ end }}</p>
+{{ if .Get "traits" }}<p class="no-margin-bottom"><em>{{ .Get "traits" }}</em></p>{{ end }}

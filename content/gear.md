@@ -10,7 +10,7 @@ A collection of items, spells, and treasure that you can use in your games. Feel
 
 
 
-## Common Items & Spells
+## Common Items
 
 Adventurers can start off an adventure any of these common items and spells.
 
@@ -23,26 +23,18 @@ Adventurers can start off an adventure any of these common items and spells.
 
 ### Weapons, Wands & Armor
 
-<div class="row">
-<div class="grid-half">
-{{%md%}}
-- Sword
-- Dagger
-- Bow & Arrow
-- Spear
-- Axe
-{{%/md%}}
-</div>
-<div class="grid-half">
-{{%md%}}
-- Suit of Armor
-- Shield (counts as armor)
-- Wand
-- Wizard Staff
-- Spell Book
-{{%/md%}}
-</div>
-</div>
+<ul class="list-columns">
+	<li>Sword</li>
+	<li>Dagger</li>
+	<li>Bow & Arrow</li>
+	<li>Spear</li>
+	<li>Axe</li>
+	<li>Suit of Armor</li>
+	<li>Shield (counts as armor)</li>
+	<li>Wand</li>
+	<li>Wizard Staff</li>
+	<li>Spell Book</li>
+</ul>
 
 ### Common Spells
 
@@ -57,7 +49,7 @@ Adventurers can start off an adventure any of these common items and spells.
 
 
 
-## Enhanced Items & Spells
+## Rare Items
 
 Players can find these while exploring, or receive them as rewards from NPCs for completing quests.
 
@@ -67,8 +59,8 @@ _Apply these features to any ordinary weapon to make it a magical one._
 
 - **Unstoppable.** Once per a combat encounter, you can take Best Roll on an attack made with this weapon.
 - **Lucky.** Once per a combat encounter, you can re-roll an attack die roll while using this weapon. You must use whatever the new result is.
-- **Power.** Add an extra D6 to damage rolls when using this weapon.
-- **Inspiration.** Once per a combat encounter, you can take an extra attack while using this weapon.
+- **Power.** Add an +2 to damage rolls when using this weapon.
+- **Inspiration.** Once per a combat encounter, a teammate can double an attack roll when you use this weapon.
 - **Teleport.** Once per a combat encounter, you can teleport to a different location you can see after an attack made with this weapon.
 
 ### Magical Armor & Shields
@@ -76,7 +68,7 @@ _Apply these features to any ordinary weapon to make it a magical one._
 _Apply these features to ordinary armor and shields to make them a magical._
 
 - **Quick Foot.** Player can ignore Worst Roll on speed while wearing this armor/carrying this shield.
-- **Magical Resistance.** Once per an encounter, monster must use Worst Roll on their damage roll.
+- **Magical Resistance.** Once per an encounter, reduce a monster's damage by half.
 - **Lucky.** Once per a combat encounter, you can re-roll a defend die roll while using this armor/shield. You must use whatever the new result is.
 - **Teleport.** Once per a combat encounter, you can teleport to a different location you can see if you're attacked while wearing this armor/carrying this shield.
 
@@ -97,7 +89,7 @@ _Apply these features to any item to make it a magical charm or talisman._
 _These could take the form of scrolls, or secret knowledge that's shared by an NPC._
 
 - **Teleport.** You can teleport to a different location that you can see.
-- **Fireball.** Launch a ball of flames. It does an extra D6 damage.
+- **Fireball.** Launch a ball of flames. Add an extra +3 damage.
 - **Cage.** A monster becomes restrained in a magical cage. Nothing can get in or out. The spells ends if you can no longer see the monster.
 - **Suggestion.** A monster or NPC that can hear you does what you suggest. It cannot harm itself or do anything unreasonable.
 - **Animate Objects.** Up to 8 tiny objects, 4 small objects, 2 medium objects, or 1 large object come to life. You command them for up to a minute.
@@ -108,3 +100,23 @@ _These could take the form of scrolls, or secret knowledge that's shared by an N
 - **Diguise.** You can make yourself look and sound like someone else you've seen and heard before.
 - **Invisible.** You can make yourself and anything you carry invisible for one minute.
 - **Message.** You can send a secret message to someone else with your mind, and they can respond.
+
+
+
+## Creating Magic Items
+
+<p class="margin-bottom-small"><strong>Treasure Ideas</strong></p>
+
+- Magical Weapons/Armor
+- Charms & Talismans
+- Gold, Gems & Artifacts
+- Rare Spells
+- Information/Opportunities
+
+<p class="margin-bottom-small"><strong>Magic items can...</strong></p>
+
+- Grant Best Roll
+- Increase attack damage
+- Reduce/heal damage
+- Change the environment
+- Change the player

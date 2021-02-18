@@ -10,6 +10,6 @@
 <p class="no-margin-bottom"><strong>{{ .Get "name" }}</strong></p>
 {{- else -}}
 <p class="no-margin-bottom"><strong>{{ index ($.Scratch.Get "monster") "name" }}</strong></p>
-<p class="no-margin-bottom">{{ index ($.Scratch.Get "monster") "damage" }} &middot; {{ index ($.Scratch.Get "monster") "hp" }} HP &middot; {{ index ($.Scratch.Get "monster") "dr" }} DR <span class="text-muted text-small">(<em>{{ index ($.Scratch.Get "monster") "drd20" }} for D20 variant</em>)</span></p>
-{{ if ne (index ($.Scratch.Get "monster") "abilities") "" }}<p class="no-margin-bottom"><em>{{ index ($.Scratch.Get "monster") "abilities" }}</em></p>{{ end }}
+<p class="no-margin-bottom">{{ index ($.Scratch.Get "monster") "damage" }} AD &middot; {{ index ($.Scratch.Get "monster") "hp" }} HP{{ if ne (index ($.Scratch.Get "monster") "armor") 0 }} &middot; {{ index ($.Scratch.Get "monster") "armor" }} AL{{ end }}</p>
+{{ if ne (index ($.Scratch.Get "monster") "traits") "" }}<p class="no-margin-bottom"><em>{{ index ($.Scratch.Get "monster") "traits" }}</em></p>{{ end }}
 {{- end -}}
