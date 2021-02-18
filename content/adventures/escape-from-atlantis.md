@@ -53,11 +53,11 @@ The King that the players meet is actually an imposter. He and his guards are a 
 
 If you want to explore complex morality and the gray area of political disagreements, the adventurers can learn through NPCs that the land Atlantis is built on actually belonged to the crustaceans. It was stolen so that Atlantis could mine the Altantium. While they flourished, the crustacean empire has suffered in poverty for millennia.
 
-- {{<monster-custom name="Atlantean Citizen" damage="D6WR" hp="3" dr="3" drd20="10">}}
-- {{<monster-custom name="Atlantean Guards" damage="D6" hp="8" dr="4" drd20="13" abilities="Resistant: Bludgeoning, Slashing. Vulnerable: Fire, Lightning.">}}
-- {{<monster-custom name="Atlantean King" damage="D6WR" hp="8" dr="34" drd20="10" abilities="Good persuasion and deceit.">}}
-- {{<monster-custom name="Crab Guards" damage="2D6" hp="12" dr="5" drd20="15" abilities="Pinching Grasp: 3D6 damage. Resistant: Bludgeoning, Slashing. Vulnerable: Fire, Lightning.">}}
-- {{<monster-custom name="Crab King (Imposter)" damage="2D6WR" hp="10" dr="4" drd20="13" abilities="Shapeshifting. Resistant: Bludgeoning, Slashing. Vulnerable: Fire, Lightning.">}}
+- {{<monster-custom name="Atlantean Citizen" damage="1" hp="3">}}
+- {{<monster-custom name="Atlantean Guards" damage="3" hp="8" armor="2" traits="Vulnerable: Fire, Lightning.">}}
+- {{<monster-custom name="Atlantean King" damage="2" hp="8" armor="1" traits="Good persuasion and deceit.">}}
+- {{<monster-custom name="Crab Guards" damage="7" hp="12" armor="2" traits="Pinching Grasp: +2 damage. Vulnerable: Fire, Lightning.">}}
+- {{<monster-custom name="Crab King (Imposter)" damage="5" hp="10" armor="1" traits="Shapeshifting. Vulnerable: Fire, Lightning.">}}
 
 
 

@@ -50,13 +50,13 @@ He places a small sack of gold on the table.
 
 {{<details summary="Lava Pond" blurb="After following the tunnel a short while, you come to a lake of lava. It's dotted with volcanic rock. Blackened, porous walls ooze magma in places.">}}
 - _Events_
-	+ While trying to cross, lava will periodically bubble and pop, launching into the air. Any adventurer who's hit by it takes D6WR damage.
+	+ While trying to cross, lava will periodically bubble and pop, launching into the air. Any adventurer who's hit by it takes 2 AD (fire) damage.
 	+ Some stones in the lava pond are more stable than others. Smaller ones can tip, or sink completely.
 {{</details>}}
 
 {{<details summary="Supply Alcove" blurb="There are no challenges here, but adventurers may find supplies left by previous explorers or a stock room used by the current inhabitants.">}}
 
-<p class="margin-bottom-small">Ideas for supplies</p>
+<p class="margin-bottom-small"><em>Ideas for supplies:</em></p>
 
 - Rope
 - Healing Potion
@@ -78,7 +78,7 @@ He places a small sack of gold on the table.
 
 {{<details summary="Mushroom Cavern" blurb="The dim cavern is illuminated by large clusters of iridescent mushrooms.">}}
 
-<p class="margin-bottom-small">The mushrooms are magical. Eating one will produce a random effect. Roll a D6: 1-2 produces a detrimental effect, 3-6 produces a helpful one. (<em>Don't eat random mushrooms in real life!</em>)</p>
+<p class="margin-bottom-small">The mushrooms are magical. Eating one will produce a random effect. Roll a die on the <a href="/random-effects/">random effects table</a> (<em>Don't eat random mushrooms in real life!</em>)</p>
 
 - _Events_
 	+ If the party lingers too long, they'll begin to experience hallucinations
@@ -89,21 +89,21 @@ He places a small sack of gold on the table.
 
 {{<details summary="Trap Door" blurb="The floor transitions from rock to wooden beams, then back again.">}}
 - _Events_
-	+ A DR Hard Perception Check will reveal the trap door ahead of time. If the party fails, the wooden floor drops out below them.
-	+ Any player that succeeds on a DR Medium Speed roll jumps to safety. Anyone who fails falls into a 15' deep pit.
+	+ A Wisdom Check will reveal the trap door ahead of time. If the party fails, the wooden floor drops out below them.
+	+ Any player that succeeds on a Dexterity roll jumps to safety. Anyone who fails falls into a 15' deep pit.
 	+ After a minute or two, the pit begins to fill with lava that slowly oozes through cracks in the walls.
 	+ Gnomes attack if you linger too long.
 {{</details>}}
 
 {{<details summary="Dragonhead Hallway" blurb="Players approach a long, straight hallway, adorned with stone dragon head figurines.">}}
 - _Events_
-	+ A successful DR Hard Perception Check will reveal that the dragon heads spit dire _before_ the players attempt to walk down the hallway.
-	+ A successful DR Hard Speed roll will allow the players to run down the hallway avoiding the flames. Players can try other tricks, too.
+	+ A Wisdom Check will reveal that the dragon heads spit dire _before_ the players attempt to walk down the hallway.
+	+ A Dexterity roll will allow the players to run down the hallway avoiding the flames. Players can try other tricks, too.
 {{</details>}}
 
 {{<details summary="Lava Lake" blurb="The hallway opens up into a tall, wide cavern, with a giant lake of lava. In the middle are two islands of volcanic rock. A sturdy wooden bridge connects each end of the cavern to the islands, and the islands to each other.">}}
 - _Events_
-	+ A successful DR Medium Perception Check reveals hidden archers high up in the cavern walls
+	+ A Wisdom Check reveals hidden archers high up in the cavern walls
 	+ Goblin archers begin shooting at the party from hidden balconies in the walls
 - _Monsters_
 	+ {{<monster name="Goblin">}}
@@ -141,7 +141,7 @@ He places a small sack of gold on the table.
 	+ If the party begins to win, he casts a spell that causes the cavern to begin collapsing, and flees. The party must rescue Zephyr and escape before the whole mountain collapses.
 	+ If they befriended the Lone Goblin, he appears at the last second and leads them to a hidden tunnel under the throne that gets them out of the volcano.
 - _Monsters_
-	+ {{<monster name="Sorcerer">}}
+	+ {{<monster-extend name="Sorcerer" display="Lorak the Sorcerer">}}
 {{</details>}}
 
 

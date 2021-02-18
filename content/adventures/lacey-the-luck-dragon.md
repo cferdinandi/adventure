@@ -58,7 +58,7 @@ Until the babies are returned, she'll be far too distressed to protect the villa
 	+ The shopkeep kicks the adventurers out of their store
 	+ Bandits hear the commotion and seize the opportunity
 - _Monsters_
-	+ {{<monster name="Shopkeep">}}
+	+ {{<monster-extend name="Townspeople" display="Shopkeep" traits="Sneaky but not too bright. Desperately wants to keep the dragon for themself." replace="true">}}
 	+ {{<monster name="Bandit">}}
 {{</details>}}
 

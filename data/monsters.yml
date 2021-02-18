@@ -3,357 +3,307 @@
 ##
 
 - name: Alligator
-  damage: 2D6
+  damage: 7
   hp: 10
-  dr: 4
-  drd20: 13
-  abilities: "Swims. If attack hits, succeed on DR Medium Strength roll or grappled. Grappled players cannot move unless they pass a DR Medium Strength check, and suffer D6 slashing damage each turn."
+  armor: 1
+  traits: "Swims. If attack hits, succeed on Strength roll or grappled. Grappled players cannot move unless they pass a Strength check, and suffer 2 AD (slashing) each turn."
 
 - name: Bandit
-  damage: D6
+  damage: 3
   hp: 5
-  dr: 3
-  drd20: 10
-  abilities: "Mostly interested in money. Can be bribed."
+  armor: 0
+  traits: "Mostly interested in money. Can be bribed."
 
 - name: Bat
-  damage: D6WR
+  damage: 2
   hp: 2
-  dr: 3
-  drd20: 10
-  abilities: "Flying. Attacks in swarms."
+  armor: 0
+  traits: "Flying. Attacks in swarms."
 
 - name: Basilisk
-  damage: D6
+  damage: 4
   hp: 8
-  dr: 4
-  drd20: 15
-  abilities: "If player and basilisk can see each other, player must succeed on DR Medium Speed roll or half of body is turned to stone. Will attack its own reflection."
+  armor: 1
+  traits: "If player and basilisk can see each other, player must succeed on Dexterity roll or half of body is turned to stone. Will attack its own reflection."
 
 - name: Bear
-  damage: 2D6
+  damage: 6
   hp: 10
-  dr: 3
-  drd20: 10
-  abilities: "MA2: Bite & Claws"
+  armor: 0
+  traits: "Bite & Claws: on Success attack, add +2 to damage."
 
 - name: Carnivorous Plant
-  damage: D6
+  damage: 2
   hp: 3
-  dr: 3
-  drd20: 10
-  abilities: "Cannot move. Look like normal plants until they attack. Vulnerable: Slashing"
+  armor: 0
+  traits: "Cannot move. Look like normal plants until they attack. Vulnerable: Slashing"
 
 - name: Centaur
-  damage: 2D6
+  damage: 6
   hp: 13
-  dr: 4
-  drd20: 13
-  abilities: "MA2: Ram with Hooves & Use Sword"
+  armor: 1
+  traits: "Ram & Sword: on Success attack, add +2 to damage."
 
 - name: Centipede (Giant)
-  damage: D6
+  damage: 2
   hp: 7
-  dr: 3
-  drd20: 10
-  abilities: "Only attacks if cornered. Can burrow."
+  armor: 0
+  traits: "Only attacks if cornered. Can burrow."
 
 - name: Clockwork Golem
-  damage: D6
+  damage: 2
   hp: 5
-  dr: 3
-  drd20: 10
-  abilities: "Robotic humanoid. Very strong. Follows commands of a creator. Vulnerable: Lightning."
+  armor: 0
+  traits: "Robotic humanoid. Very strong. Follows commands of a creator. Vulnerable: Lightning."
 
 - name: Coconut/Pinecone Monster
-  damage: D6WR
+  damage: 1
   hp: 3
-  dr: 4
-  drd20: 13
-  abilities: "Preferring to attack from afar, they resemble coconuts or pinecones (depending on location) and have a natural armor. Resistant: Slashing. Vulnerable: Fire."
+  armor: 1
+  traits: "Preferring to attack from afar, they resemble coconuts or pinecones (depending on location) and have a natural armor. Vulnerable: Fire."
 
 - name: Cyclops
-  damage: 2D6
-  dr: 4
-  drd20: 12
-  abilities: "Very strong. Throws rocks. Horrible vision up-close."
+  damage: 9
+  hp: 10
+  armor: 0
+  traits: "Very strong. Throws rocks. Horrible vision up-close."
 
 - name: Crab
-  damage: D6
+  damage: 2
   hp: 4
-  dr: 3
-  drd20: 10
-  abilities: ""
+  armor: 1
+  traits: ""
 
 - name: Crab (Giant)
-  damage: 2D6
+  damage: 5
   hp: 12
-  dr: 5
-  drd20: 16
-  abilities: "Crushing Pinch: Does 3D6 damage. Resistant: Bludgeoning, Slashing. Vulnerable: Fire, Lightning."
+  armor: 1
+  traits: "Crushing Pinch: on Success attack, does +2 damage."
 
 - name: Dragon
-  damage: 3D6
+  damage: 12
   hp: 18-20
-  dr: 5
-  drd20: 16
-  abilities: "Flying. Breathes fire. MA2: Fire-Breath & Claws. Resistant: Fire"
+  armor: 2
+  traits: "Flying. Breathes fire. Fire-Breath & Claws: on Success attack, add +4 damage. Immune: Fire"
 
 - name: Eagle (Giant)
-  damage: 2D6
+  damage: 6
   hp: 10
-  dr: 4
-  drd20: 13
-  abilities: "Flying. Swoop attack with talons."
+  armor: 0
+  traits: "Flying. Swoop attack with talons."
 
 - name: Elf
-  damage: D6
+  damage: 3
   hp: 7
-  dr: 4
-  drd20: 13
-  abilities: "Quick and agile. Expert with bows and swords."
+  armor: 0
+  traits: "Quick and agile. Expert with bows and swords."
 
 - name: "Enchanted Objects"
-  damage: D6WR
+  damage: 1
   hp: 3
-  dr: 3
-  drd20: 10
-  abilities: ""
+  armor: 0
+  traits: ""
 
 - name: Fairy/Pixie
-  damage: D6WR
+  damage: 2
   hp: 3
-  dr: 4
-  drd20: 13
-  abilities: "Sneaky. Usually doesn't attack outright but sets traps and uses magic to create problems."
+  armor: 0
+  traits: "Sneaky. Usually doesn't attack outright but sets traps and uses magic to create problems."
 
 - name: Gnome
-  damage: D6WR
+  damage: 2
   hp: 5
-  dr: 3
-  drd20: 10
-  abilities: "Secretive. Master of illusion. Avoid conflict, but will attack in groups if threatened."
+  armor: 0
+  traits: "Secretive. Master of illusion. Avoid conflict, but will attack in groups if threatened."
 
 - name: Gargoyle
-  damage: D6
+  damage: 3
   hp: 8
-  dr: 4
-  drd20: 13
-  abilities: "Flying. Appears to be a statue until attacks. Immune: Fire. Resistant: Lightning, Cold"
+  armor: 1
+  traits: "Flying. Appears to be a statue until attacks. Immune: Fire."
 
 - name: Goblin
-  damage: D6
+  damage: 2
   hp: 5
-  dr: 3
-  drd20: 10
-  abilities: "Attacks in swarms. Does 2D6 when attacking in a group."
+  armor: 0
+  traits: "Attacks in swarms. Does +1 damage when attacking in a group."
 
 - name: Hydra
-  damage: 2D6
+  damage: 8
   hp: 15
-  dr: 4
-  drd20: 13
-  abilities: "MA3-5 (one for each head). Heads randomly grow back. Resistant: Fire."
+  armor: 1
+  traits: "Many heads: on Success attack, add +1 damage for each head. Heads randomly grow back."
 
 - name: Ice Monster
-  damage: 3D6
+  damage: 10
   hp: 15
-  dr: 4
-  drd20: 13
-  abilities: "Throws ice. Can merge into the snow and ice. Immune: Cold. Vulnerable: Bludgeoning, Slashing, Fire."
+  armor: 0
+  traits: "Throws ice. Can merge into the snow and ice. Immune: Cold. Vulnerable: Bludgeoning, Slashing, Fire."
 
 - name: Knight
-  damage: D6
+  damage: 3
   hp: 8
-  dr: 5
-  drd20: 16
-  abilities: "Slow in armor. Resistant: Bludgeoning, Slashing. Vulnerable: Fire, Lightning."
+  armor: 2
+  traits: "Slow in armor. Immune: Bludgeoning, Slashing. Vulnerable: Fire, Lightning."
 
 - name: Kobold
-  damage: D6WR
+  damage: 2
   hp: 3
-  dr: 3
-  drd20: 10
-  abilities: "Can see in the dark. Hates the sunlight."
+  armor: 0
+  traits: "Can see in the dark. Hates the sunlight."
 
 - name: Kraken
-  damage: 3D6
+  damage: 12
   hp: 18
-  dr: 5
-  drd20: 16
-  abilities: "Swims. If attack hits, succeed on DR Medium Strength roll or grappled. Grappled players cannot move unless they pass a DR Medium Strength check, and suffer D6 bludgeoning damage each turn."
+  armor: 0
+  traits: "Swims. If attack hits, succeed on Strength roll or grappled. Grappled players cannot move unless they pass a Strength check, and suffer 2 AD (bludgeoning) each turn."
 
 - name: Lava Monster
-  damage: 3D6
+  damage: 10
   hp: 15
-  dr: 4
-  drd20: 13
-  abilities: "Throws lava balls. Immune: Fire. Vulnerable: Cold."
+  armor: 0
+  traits: "Throws lava balls. Immune: Fire. Vulnerable: Cold."
 
 - name: Lizardfolk
-  damage: D6
+  damage: 3
   hp: 4
-  dr: 4
-  drd20: 13
-  abilities: "MA2: Weapon & Bite"
+  armor: 1
+  traits: "Weapon & Bite: on Success attack, add +2 damage."
 
 - name: Mammoth
-  damage: 2D6
+  damage: 8
   hp: 10
-  dr: 4
-  drd20: 13
-  abilities: "Rams with tusks. If attack hits, succeed on DR Medium Strength roll or get knocked down. Resistant: Cold"
+  armor: 0
+  traits: "Rams with tusks. If attack hits, succeed on Strength roll or get knocked down. Immune: Cold"
 
 - name: Ogre
-  damage: 2D6
+  damage: 7
   hp: 13
-  dr: 3
-  drd20: 10
-  abilities: "Smashes things with club. Easy to confuse."
+  armor: 0
+  traits: "Smashes things with club. Easy to confuse."
 
 - name: Piranha
-  damage: D6WR
+  damage: 2
   hp: 3
-  dr: 3
-  drd20: 10
-  abilities: "Attack in swarms. If player is injured, ignore WR."
+  armor: 0
+  traits: "Attack in swarms. If player is injured, add +2 damage."
 
 - name: Pirate
-  damage: D6
+  damage: 3
   hp: 5
-  dr: 3
-  drd20: 10
-  abilities: "Obssessed with treasure. Unskilled fighter."
+  armor: 0
+  traits: "Obssessed with treasure. Unskilled fighter."
 
 - name: Pirate Captain
-  damage: 2D6
+  damage: 7
   hp: 10
-  dr: 4
-  drd20: 13
-  abilities: "Obssessed with treasure. Cunning and sneaky."
+  armor: 1
+  traits: "Obssessed with treasure. Cunning and sneaky."
 
 - name: Rat
-  damage: D6WR
+  damage: 2
   hp: 2
-  dr: 3
-  drd20: 10
-  abilities: "Attacks in swarms."
+  armor: 0
+  traits: "Attacks in swarms."
 
 - name: Rock Monster
-  damage: 3D6
+  damage: 12
   hp: 15
-  dr: 5
-  drd20: 16
-  abilities: "Throws rocks. Resistant: Bludgeoning, Slashing, Fire."
+  armor: 2
+  traits: "Throws rocks."
 
 - name: Scorpion (Giant)
-  damage: 2D6
+  damage: 6
   hp: 12
-  dr: 4
-  drd20: 13
-  abilities: "Paralyzing tail sting. Resistant: Fire"
+  armor: 2
+  traits: "Paralyzing tail sting."
 
 - name: Shark
-  damage: 2D6
+  damage: 7
   hp: 10
-  dr: 3
-  drd20: 10
-  abilities: "Swims. If attack hits, succeed on DR Medium Strength roll or grappled."
+  armor: 0
+  traits: "Swims. If attack hits, succeed on Strength roll or grappled. Grappled players cannot move unless they pass a Strength check, and suffer 2 AD (slashing) each turn."
 
 - name: Skeleton
-  damage: D6
+  damage: 2
   hp: 5
-  dr: 3
-  drd20: 10
-  abilities: "Move slow. Spring back to life shortly after being knocked out."
+  armor: 0
+  traits: "Move slow. Spring back to life shortly after being knocked out."
 
 - name: Slime/Ooze
-  damage: D6
+  damage: 3
   hp: 13
-  dr: 3
-  drd20: 10
-  abilities: "Acidic residue does D6WR every turn if it gets on a player's skin. Immune: Acid. Resistant: Bludgeoning"
+  armor: 0
+  traits: "Acidic residue does 1 AD (acid) every turn if it gets on a player's skin. Immune: Acid."
 
 - name: Snake (Giant)
-  damage: 2D6
+  damage: 6
   hp: 10
-  dr: 3
-  drd20: 10
-  abilities: "Bites. Constricts. Constricted players cannot move unless they pass a DR Medium Strength check, and suffer D6 bludgeoning damage each turn."
+  armor: 0
+  traits: "Bites. Constricts. Constricted players cannot move unless they pass a Strength check, and suffer 2 AD (bludgeoning) each turn."
 
 - name: Sorcerer
-  damage: 2D6
+  damage: 6-8
   hp: 10-15
-  dr: 4
-  drd20: 13
-  abilities: "Has a wide assortment of powerful spells. Resistant: Magic."
+  armor: 0
+  traits: "Has a wide assortment of powerful spells."
 
 - name: Sorcerer's Apprentice
-  damage: D6
+  damage: 3
   hp: 7
-  dr: 3
-  drd20: 10
-  abilities: "Knows a limited selection of spells."
+  armor: 0
+  traits: "Knows a limited selection of spells."
 
 - name: Spider
-  damage: D6WR
+  damage: 2
   hp: 4
-  dr: 3
-  drd20: 10
-  abilities: "Can climb walls. Can attack with webs. Can see in the dark."
+  armor: 0
+  traits: "Can climb walls. Can attack with webs. Can see in the dark."
 
 - name: Spider (Giant)
-  damage: D6
+  damage: 4
   hp: 8-10
-  dr: 3
-  drd20: 11
-  abilities: "Can climb walls. Can attack with webs. Can see in the dark."
+  armor: 0
+  traits: "Can climb walls. Can attack with webs. Can see in the dark."
 
 - name: Toad (Giant)
-  damage: 2D6
+  damage: 5
   hp: 8
-  dr: 3
-  drd20: 10
-  abilities: "Can grapple players with strong bite."
+  armor: 0
+  traits: "Can grapple players with strong bite."
 
 - name: Townspeople
-  damage: D6WR
+  damage: 1
   hp: 5
-  dr: 3
-  drd20: 10
-  abilities: "Easily frightened. Will flee rather than fight."
+  armor: 0
+  traits: "Easily frightened. Will flee rather than fight."
 
 - name: Troll
-  damage: 2D6
+  damage: 6
   hp: 13
-  dr: 4
-  drd20: 13
-  abilities: "Great sense of smell. Heals quickly."
+  armor: 0
+  traits: "Great sense of smell. Heals quickly."
 
 - name: Treefolk
-  damage: 3D6
+  damage: 10-12
   hp: 15
-  dr: 3
-  drd20: 10
-  abilities: "Move slowly. Vulnerable: Fire, Lightning. Resistant: Bludgeoning."
+  armor: 1
+  traits: "Move slowly. Vulnerable: Fire, Lightning."
 
 - name: Wolf
-  damage: D6
+  damage: 2
   hp: 7
-  dr: 3
-  drd20: 10
-  abilities: "Attack in packs. If attack hits, succeed on DR Medium Strength roll or get knocked down."
+  armor: 0
+  traits: "Attack in packs. If attack hits, succeed on Strength roll or get knocked down."
 
 - name: Yeti
-  damage: 2D6
+  damage: 6
   hp: 13
-  dr: 5
-  drd20: 13
-  abilities: "Good at stealth and camoflauge. Immune: Cold. Vulnerable: Fire."
+  armor: 0
+  traits: "Good at stealth and camoflauge. Immune: Cold. Vulnerable: Fire."
 
 - name: Witch
-  damage: 2D6
+  damage: 6
   hp: 10-15
-  dr: 4
-  drd20: 13
-  abilities: "Has a wide assortment of powerful spells. Can shapeshift. Resistant: Magic."
+  armor: 0
+  traits: "Has a wide assortment of powerful spells. Can shapeshift."

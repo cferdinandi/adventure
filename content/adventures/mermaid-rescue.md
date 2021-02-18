@@ -45,8 +45,7 @@ It's from Triton, king of the mermaids.
 - _Monsters_
 	+ {{<monster name="Knight">}}
 	+ {{<monster name="Townspeople">}}
-	+ {{<monster name="Enchanted Broom (use enchanted objects stats below)">}}
-	+ {{<monster name="Enchanted Objects">}}
+	+ {{<monster-extend name="Enchanted Objects" display="Enchanted Broom">}}
 	+ {{<monster name="Sorcerer">}}
 {{</details>}}
 
