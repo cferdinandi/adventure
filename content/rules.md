@@ -229,7 +229,7 @@ Every character and monster has an _Attack Damage_ (or _AD_) number that specifi
 
 On a successful weapon or spell attack, subtract their AD from the attacked creature's HP. On an unarmed attack (just their hands or feet), subtract half their AD instead.
 
-On a _Partial Success_ roll, the GM can choose to halve the _Attack Damage_ as a cost.
+On a _Partial Success_ roll, the GM can choose to halve the _Attack Damage_ as a cost. The GM may also shift AD up or down a little based on what's happening in the story.
 
 _Players start with an AD of 4._
 
