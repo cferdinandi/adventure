@@ -20,6 +20,20 @@ You’ve discovered the lost city of Atlantis.
 
 
 
+## Questions
+
+- How old is Atlantis?
+- Do the people of the outside world know where it is, or have you just discovered it?
+- What have you heard about Atlantis before now? What do you know about it and the people who live there?
+- What do the people of Atlantis value? What do they fear?
+- [_In Game_] How does Atlantium work? What does it do?
+- [_In Game_] Where did the crab people come from, and where do they live now?
+- [_In Game_] Where did the current Atlanteans come from? Why and how did they take over the city?
+- [_In Game_] Who's the real villain in this story?
+- [_In Game_] Is there a political agreement that can satisfy both parties?
+
+
+
 ## Locations
 
 - **The Big Dome.** The main hub of Atlantis, the Big Dome is divided into three sections.
@@ -65,17 +79,3 @@ If you want to explore complex morality and the gray area of political disagreem
 
 - For a different angle, the players could decide that the crab people are the rightful owners of the land and aid them in their quest to reclaim their homeland.
 - You can also introduce environmental challenges, like a crack in one of the domes, that poses a looming threat if not addressed.
-
-
-
-## Questions
-
-- How old is Atlantis?
-- Do the people of the outside world know where it is, or have you just discovered it?
-- What have you heard about Atlantis before now? What do you know about it and the people who live there?
-- What do the people of Atlantis value? What do they fear?
-- How does Atlantium work? What does it do?
-- Where did the crab people come from, and where do they live now?
-- Where did the current Atlanteans come from? Why and how did they take over the city?
-- Who's the real villain in this story?
-- Is there a political agreement that can satisfy both parties?

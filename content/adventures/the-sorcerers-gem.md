@@ -30,6 +30,18 @@ Reaching into a pocket inside his jacket, Lord Graghammer produces the largest s
 
 
 
+## Questions
+
+- Does the Gem actually exist, or is it just a rumor?
+- What do you know about the Cavern of Mysteries?
+- What does the Gem do?
+- Why are the elves interested in the Gem?
+- Who else might be also be looking for it?
+- Why does Lord Kraghammer want the Gem?
+- [_In Game_] Why are the goblin's capturing lizardfolk?
+
+
+
 ## Locations, Events & Monsters
 
 {{<details summary="The Dark Forest" blurb="To the East of the town of Farfaria, the Dark Forest is home to creatures of a more primal nature. Goblins. Lizardfolk. Wolves. Werebears. Unfortunately, it's also where the entrance to the Cavern of Mysteries lies.">}}
@@ -97,15 +109,3 @@ Reaching into a pocket inside his jacket, Lord Graghammer produces the largest s
 	+ Have the wolves attack again once out, get saved by goblins, who also try to steal the Gem.
 	+ Find and free the lizardfolk, who then turn on the players.
 - This adventure can be quite long. You might want to break it up over several sessions, or cut out the storylines with the goblins and elves
-
-
-
-## Questions
-
-- Does the Gem actually exist, or is it just a rumor?
-- What do you know about the Cavern of Mysteries?
-- What does the Gem do?
-- Why are the elves interested in the Gem?
-- Who else might be also be looking for it?
-- Why does Lord Kraghammer want the Gem?
-- Why are the goblin's capturing lizardfolk?

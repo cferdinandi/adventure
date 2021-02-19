@@ -37,6 +37,15 @@ As she walks out of the square, she turns back to you and says,
 
 
 
+## Questions
+
+- How does the Bell work?
+- Why does Balefrost want it?
+- What do you know about Balefrost's hideout?
+- What happens if you ring the belle _after_ New Year's Eve?
+
+
+
 ## Locations, Events & Monsters
 
 {{<details summary="The Path to Balefrost's Lair." blurb="The path through the Eastern Grove is cold, icy, dark, and&nbsp;dangerous.">}}
@@ -98,12 +107,3 @@ As she walks out of the square, she turns back to you and says,
 
 - Balefrost should be scaled up or down in difficulty and strength as needed based on your party's skill.
 - For added fun, you can add a tunnel creature (perhaps an anthropomorphic mole) NPC that the party meets in their travels. They can aid the party, give them any needed gear, and heal them if necessary.
-
-
-
-## Questions
-
-- How does the Bell work?
-- Why does Balefrost want it?
-- What do you know about Balefrost's hideout?
-- What happens if you ring the belle _after_ New Year's Eve?

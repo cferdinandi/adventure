@@ -22,6 +22,17 @@ Until the babies are returned, she'll be far too distressed to protect the villa
 
 
 
+## Questions
+
+- What do you know about baby dragons?
+- Where are they're likely to have gone to or that could be especially dangerous?
+- What kinds of dangers does Lacey the Luck Dragon protect the village from?
+- Is there anyone else who might be looking for the baby dragons?
+- [_In Game_] Why do the goblins want to take over the village?
+- [_In Game_] What is the shopkeeper planning to do with the dragon?
+
+
+
 ## Locations, Events & Monsters
 
 {{<details summary="The Forest." blurb="Tall trees and tangles of vines provide ample places for baby dragons to get stuck." margin="">}}
@@ -95,15 +106,3 @@ Until the babies are returned, she'll be far too distressed to protect the villa
 
 - If the baby dragons aren’t returned in time, goblins ambush the unprotected village. The players will need to decide how to focus their time at that point: on rescuing the baby dragons, or protecting the village.
 - If you want a longer campaign, have the bandits make off with a dragon. It will create an additional side campaign the players will need to complete.
-
-
-
-## Questions
-
-- What do you know about baby dragons?
-- Are they're likely to have gone to or that could be especially dangerous?
-- What kinds of dangers does Lacey the Luck Dragon protect the village from?
-- Is there anyone else who might be looking for the baby dragons?
-- Where did the dragons go?
-- Why do the goblins want to take over the village?
-- What is the shopkeeper planning to do with the dragon?

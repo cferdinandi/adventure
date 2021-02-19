@@ -17,6 +17,19 @@ Oakenshire is the elves’ treetop home. It contains ancient books and special m
 {{<maps href="/downloads/assets_the-attack-on-oakenshire.pdf">}}
 
 
+
+## Questions
+
+- What have you heard about Oakenshire?
+- Have you been to the city before?
+- The elves are normally very secretive. Why do they trust you to help them?
+- What do you know about giant spiders? Do they have any weaknesses? Special abilities or powers?
+- Why did the spiders attack Oakenshire?
+- How were they able to gain access without being detected?
+- What can the elves do to prevent this from happening again?
+
+
+
 ## Locations & Events
 
 Oakenshire is a small city built into the trees of the forest. It's a collection of treehouses connected to each other by bridges.
@@ -46,15 +59,3 @@ A rope ladder, out-of-reach and accessible only if someone from inside the city 
 - You can make this as battle-heavy or exploratory as you want. Every room can be filled with spiders and centipedes, or you can make most of the rooms interesting places to learn more about elven culture.
 - The _Door to the Throne Room_ provides a chance to weave a puzzle or "out of game" challenge into Adventure. This is totally optional, and can be skipped if you want.
 - You can optionally incorporate an Elf NPC to aid players through this adventure.
-
-
-
-## Questions
-
-- What have you heard about Oakenshire?
-- Have you been to the city before?
-- The elves are normally very secretive. Why do they trust you to help them?
-- What do you know about giant spiders? Do they have any weaknesses? Special abilities or powers?
-- Why did the spiders attack Oakenshire?
-- How were they able to gain access without being detected?
-- What can the elves do to prevent this from happening again?

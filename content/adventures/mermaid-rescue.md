@@ -24,6 +24,19 @@ It's from Triton, king of the mermaids.
 
 
 
+## Questions
+
+- What do you know about the Castle of the North?
+- Where did the sorcerer come from?
+- What do you know about the merpeople?
+- What other magical creatures live in the area?
+- Where was the mermaid taken?
+- Why did the sorcerer take her?
+- How can the sorcerer be defeated?
+- [_In Game_] Why are the sorcerer's apprentices working with him?
+
+
+
 ## Locations, Events & Monsters
 
 {{<details summary="The Castle of the North." blurb="The giant Castle of the North towers above you. Thankfully, the drawbridge is down. You cross it, and enter the castle courtyard. Knights and townspeople scurry about, busy with the day’s tasks.">}}
@@ -88,16 +101,3 @@ It's from Triton, king of the mermaids.
 - To extend this adventure further, the sorcerer can use the shell before the players have a chance to stop him, setting off another series of events.
 - Various NPCs in this adventure can be useful party companions if they're finding it too challenging. Notable options include one of the merfolk, the mermaid herself, a knight or unassuming townsperson, or a reformed sorcerer's apprentice whose committed to stopping the sorcer before it's too late.
 - This adventure can be quite long. You might want to break it up over several sessions, or cut out the storyline about going into the caves.
-
-
-
-## Questions
-
-- What do you know about the Castle of the North?
-- Where did the sorcerer come from?
-- What do you know about the merpeople?
-- What other magical creatures live in the area?
-- Where was the mermaid taken?
-- Why did the sorcerer take her?
-- Why are the sorcerer's apprentices working with him?
-- How can the sorcerer be defeated?

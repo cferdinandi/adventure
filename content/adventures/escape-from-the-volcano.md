@@ -32,6 +32,15 @@ He places a small sack of gold on the table.
 
 
 
+## Questions
+
+- What have they heard about Lorak the Sorcerer?
+- What gift (or curse) does the child possess?
+- How does the sorcerer awaken the volcano?
+- Why does sorcerer want to awaken the volcano?
+
+
+
 ## Locations, Events & Monsters
 
 {{<details summary="The Journey North" blurb="The Volcano is on the other side of the Northern Mountains, farther than most people in your village have ever traveled.">}}
@@ -149,12 +158,3 @@ He places a small sack of gold on the table.
 ## Game Master Tips
 
 - If you want to make the campaign more difficult or longer, you can have Lorak the Sorcerer awaken the volcano before the players have a chance to stop them. This will create an additional side-campaign: stopping the volcano from destroying the village.
-
-
-
-## Questions
-
-- What have they heard about Lorak the Sorcerer?
-- What gift (or curse) does the child possess?
-- How does the sorcerer awaken the volcano?
-- Why does sorcerer want to awaken the volcano?

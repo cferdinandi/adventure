@@ -28,6 +28,17 @@ You row harder towards the island...
 
 
 
+## Questions
+
+- How did you learn that the island had resurfaced?
+- Why are you interested in exploring it and/or retrieving the legendary Conch of Calling?
+- What have you heard the Conch of Calling does? No one has seen it in centuries.
+- What do you know of Artemis Zilch, the sorcerer?
+- What dangers lurk on the island?
+- [_In Game_] Why are there carvings of krakens everywhere?
+
+
+
 ## Locations, Events & Monsters
 
 {{<details summary="The Shore." blurb="As you approach the shore, you notice another ship is already moored to a tree. Attached to the mast is a black flag, with a skull-and-crossbones, gently flapping in the breeze." margin="true">}}
@@ -138,14 +149,3 @@ You row harder towards the island...
 - The island is actually a giant, ancient sea turtle who periodically surfaces to rest and breath before descending back into the depths for several years. Do not reveal this to your players until near the end of the game.
 - Inside the island/turtle lives a monstrous kraken, the guardian of the Conch of Calling. It's job is to protect it from all outsiders. It's aware of the players' presence far before they know it's there. Reveal subtle hints that _something_ may be following them or nearby without revealing too much. It's good if they think it's pirates.
 - Players can choose to form a frenemy relationship with the pirates, relying on each other for help until it's no longer convenient to do so.
-
-
-
-## Questions
-
-- How did you learn that the island had resurfaced?
-- Why are you interested in exploring it and/or retrieving the legendary Conch of Calling?
-- What have you heard the Conch of Calling does? No one has seen it in centuries.
-- What do you know of Artemis Zilch, the sorcerer?
-- What dangers lurk on the island?
-- Why are there carvings of krakens everywhere?

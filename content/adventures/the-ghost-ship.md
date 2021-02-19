@@ -88,16 +88,3 @@ The harbormaster has called you to the docks and asked you get the bottom of thi
 
 - One fun element you can use to add more mystery to this adventure is a recurring symbol that shows up at every new stop. It may show up on the cover of the captain's log on the ship, then again on an item found on Turtle Back Island, then again still on a tent the Lost Isle. Perhaps it's carved into the walls in the tunnels as well.
 - When I run this adventure, I like to have a storm crash the ship onto the Lost Isle, destroying it. In the tunnels, players find an old wooden submarine that they use to escape the island with the sailors (if they find and rescue them).
-
-
-
-## Questions
-
-- What does the map indicate they'll find if they follow it?
-- Did they leave any gear or supplies behind?
-- Does anyone have experience sailing ships, or will you learn as you go?
-- Do you see any special markings or identifiers unique to the ship or crew?
-- What do you hope to find?
-- Where is the crew?
-- How did they get lost?
-- Did they find what they were looking for?

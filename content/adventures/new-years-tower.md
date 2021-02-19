@@ -34,6 +34,15 @@ As you leave her office, she calls out to you...
 
 
 
+## Questions
+
+- Where does the tower come from? Where does it go?
+- Why are the villagers so afraid of it?
+- What rumors have you heard about what's inside?
+- If you're inside when it disappears, what happens to you?
+
+
+
 ## Locations
 
 The entire campaign takes place in the dungeon inside and underneath the tower.
@@ -86,12 +95,3 @@ In the middle of the room, a narrow set of stairs leads downward and curves to t
 - Shadowhorn Kraghammer should be scaled up or down in difficulty and strength as needed based on your party's skill.
 - The Stormcloud Siblings think they've only been gone a few hours, and have no idea they've been missing for a year. Roleplay this as much or as little as desired.
 - For added fun, you can add a tunnel creature (perhaps a friendly but misunderstood cave dwarf or gnome) NPC that the party meets in their travels. They can aid the party, give them any needed gear, and heal them if necessary.
-
-
-
-## Questions
-
-- Where does the tower come from? Where does it go?
-- Why are the villagers so afraid of it?
-- What rumors have you heard about what's inside?
-- If you're inside when it disappears, what happens to you?
