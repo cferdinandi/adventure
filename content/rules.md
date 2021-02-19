@@ -67,8 +67,8 @@ Specialty
 Armor
 : Does your character wear armor? If so, you'll take less damage, but will have a harder time with tasks that require _Dexterity_. Your _Armor Level_ is how skilled you are at using armor to protect yourself. Every player starts with an _Armor Level_ of 1.
 
-Attack Damage
-: When your character uses weapons, magic, or even their hands, they cause damage. _Attach Damage_ represents how powerful they are. Every player starts with an _Attack Damage_ (or _AD_) number of 4.
+Average Damage
+: When your character uses weapons, magic, or even their hands, they cause damage. _Average Damage_ represents how powerful they are. Every player starts with an _Average Damage_ (or _AD_) number of 4.
 
 Features
 : What makes your character unique? Do they have a special skill, like fire breathing or the ability to fly? Are they a really good swimmer? Can they make themselves invisible or fly?
@@ -223,18 +223,20 @@ _Players start with a Max HP of 10. A character’s Current HP can never exceed 
 A player has a Current HP of 7. They fall and take 2 points of damage. Their Current HP is now 5.
 {{</callout>}}
 
-### Attack Damage
+### Average Damage
 
-Every character and monster has an _Attack Damage_ (or _AD_) number that specifies how much damage their successful attacks cause.
+Every character and monster has an _Average Damage_ (or _AD_) number that specifies how much damage their successful attacks cause.
 
 On a successful weapon or spell attack, subtract their AD from the attacked creature's HP. On an unarmed attack (just their hands or feet), subtract half their AD instead.
 
-On a _Partial Success_ roll, the GM can choose to halve the _Attack Damage_ as a cost. The GM may also shift AD up or down a little based on what's happening in the story.
+**_Average Damage_ is a guide for the GM, not a fixed number.**
+
+They might shift it up or down a little based on what's happening in the story. They might cut it in half on a _Partial Success_ roll, or double it if something truly epic is happening. The AD is an average, not a fixed value.
 
 _Players start with an AD of 4._
 
 {{<callout title="Examples">}}
-<p class="margin-bottom-small">For each example, assume an <em>Attack Damage</em> number of 4.</p>
+<p class="margin-bottom-small">For each example, assume an <em>Average Damage</em> number of 4.</p>
 
 - **A knight hits a hydra with her sword.** The hydra loses 4 HP.
 - **A wizard, out of spells, elbows the goblin that's holding him captive.** The goblin loses 2 HP.
@@ -261,14 +263,14 @@ When a player's HP reaches 0, they're knocked out and cannot continue to fight u
 
 <p class="margin-bottom-small">Fortunately, players can heal in a few ways.</p>
 
-- If you _take a rest_, you can recover your Attack Damage number of HP
+- If you _take a rest_, you can recover your Average Damage number of HP
 - Using tools like bandages or healing potion
 
 When you heal, add the amount of HP healed back to your Current HP (up to your Max HP). Your Current HP cannot exceed your Max HP.
 
 {{<callout title="Examples">}}
 Healing with Rest
-: Your Current HP is 3, and your Attack Damage number is 4. After a rest, your new Current HP is 7.
+: Your Current HP is 3, and your Average Damage number is 4. After a rest, your new Current HP is 7.
 
 Healing with Potion
 : Your Current HP is 6, and your Max HP is 10. You drink a Healing Potion, which heals 7 HP of damage. Since your Max HP is 10, your new Current HP is 10. The extra 1 HP of healing is lost.
@@ -308,7 +310,7 @@ As your character goes on adventures, they’ll gain new experiences and pick up
 **When you level up...**
 
 - Increase your _Health Points_ by +5
-- Increase your _Attack Damage_ by +3
+- Increase your _Average Damage_ by +3
 - Increase your _Armor Level_ by +1
 - Pick-up 1 or 2 new skills, spells, weapons, or magic items (at the GM's discretion)
 

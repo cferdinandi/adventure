@@ -51,6 +51,31 @@ As an open-ended role-playing game, the players can take an adventure in a lot o
 
 If you're [using a pre-made adventure](/adventures), it's a good idea to read through it before playing, so you have a better sense for the places players can go, and the types of things they might find there.
 
+<p class="margin-bottom-small"><strong>Here are some things you can do as GM.</strong></p>
+
+- Present a monster or a location challenge
+- Reveal an unwelcome truth
+- Show signs of an approaching threat
+- Deal damage
+- Use up their resources
+- Turn their move back on them
+- Separate them
+- Give an opportunity to shine
+- Show a downside to a class or equipment
+- Offer an opportunity, with or without cost
+- Put someone in a spot
+- Present two choices
+
+<p class="margin-bottom-small"><strong>And here are some things you can do within a location.</strong></p>
+
+- Change the environment
+- Point to a looming threat
+- Introduce a new creature type
+- Use a threat from an existing creature
+- Make them backtrack
+- Present riches… at a price
+- Present a challenge
+
 ### Ask Questions
 
 You can make your life a lot easier as a GM, and get your players far more engaged in the game, by asking them questions about the world.
@@ -144,7 +169,7 @@ You might need to spin up a new monster in the middle of a game. Here's a refere
 
 #### Group Attacks
 
-If multiple monsters deal damage to a player at the same time, take the highest _Attack Damage_ from among them, then add +1 to the damage for each monster that dealt damage beyond the first.
+If multiple monsters deal damage to a player at the same time, take the highest _Average Damage_ from among them, then add +1 to the damage for each monster that dealt damage beyond the first.
 
 For large hordes of creatures, rather than tracking each monsters's HP individually, you can create a pool. Whenever a player damages one or more of the creatures, subtract from the pool.
 
