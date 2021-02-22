@@ -65,7 +65,7 @@ Specialty
 	- _Wisdom._ Perceiving, Knowing, Figuring Things Out
 
 Armor
-: Does your character wear armor? If so, you'll take less damage, but will have a harder time with tasks that require _Dexterity_. Your _Armor Level_ is how skilled you are at using armor to protect yourself. Every player starts with an _Armor Level_ of 1.
+: Does your character wear armor? If so, you'll take less damage, but will have a harder time with tasks that require _Dexterity_.
 
 Average Damage
 : When your character uses weapons, magic, or even their hands, they cause damage. _Average Damage_ represents how powerful they are. Every player starts with an _Average Damage_ (or _AD_) number of 4.
@@ -241,20 +241,22 @@ _Players start with an AD of 4._
 - **A knight hits a hydra with her sword.** The hydra loses 4 HP.
 - **A wizard, out of spells, elbows the goblin that's holding him captive.** The goblin loses 2 HP.
 - **A fighter rolls a _Partial Success_ while trying to hit a troll with his spear.** The spear grazes the troll's shoulder. It loses 2 HP.
+- **A druid sends a wave of water rushing at a lava monster.** Water is particularly dangerous for a creature made of lava, so it loses 6 HP.
+- **A fairy hits a dragon with a fireball.** Dragons are immune to fire, so it loses no HP.
 {{</callout>}}
 
 ### Armor
 
 Armor and shields provide protection against attacks.
 
-When a character or creature receives damage while wearing armor, they subtract their _Armor Level_ from the damage received before subtracting it from their HP.
+When a character or creature receives damage while wearing armor, they subtract 1-3 points from the damage received before reducing their HP. In the beginning, armor may only reduce damage by 1. It becomes more effective as players get more experience.
 
 Protection from armor and shields only applies once. You cannot, for example, wear armor _and_ a shield and double your protection.
 
-_While wearing armor or holding a shield, characters also take Worst Roll on Dexterity rolls. Players start with an Armor Level of 1._
+_While wearing armor or holding a shield, characters also take Worst Roll on Dexterity rolls._
 
 {{<callout title="Example">}}
-A troll hits you with a club, doing 7 points of damage. You're wearing armor and have an Armor Level of 1. You subtract 6 points from your HP.
+A troll hits you with a club, doing 7 points of damage. You're wearing armor, so you subtract 6 points from your HP.
 {{</callout>}}
 
 ### Healing
@@ -276,31 +278,6 @@ Healing with Potion
 : Your Current HP is 6, and your Max HP is 10. You drink a Healing Potion, which heals 7 HP of damage. Since your Max HP is 10, your new Current HP is 10. The extra 1 HP of healing is lost.
 {{</callout>}}
 
-### Immunity & Vulnerability
-
-<p class="margin-bottom-small">There are different types of damage.</p>
-
-- **Bludgeoning.** From falls and blunt force attacks with things like hammers and staffs
-- **Slashing.** From swords, spears, claws, and teeth
-- **Fire.** From fire and lava, natural or magical
-- **Lightning.** From lightning and electricity, natural or magical
-- **Cold.** From ice, snow, and cold temperatures, natural or magical
-- **Acid.** From chemicals and toxic substances
-- **Magic.** From magical forces like energy blasts and radiant light
-
-<p class="margin-bottom-small">Some creatures (and players) have immunity or vulnerability to certain types of damage.</p>
-
-- **Immune.** Take no damage for damage of this type
-- **Vulnerable.** Double damage from damage of this type
-
-{{<callout title="Examples">}}
-
-<p class="margin-bottom-small">The player hits two creatures with a fireball.</p>
-
-- **The Dragon has _Immune: Fire_.**  It takes no damage.
-- **The Ice Monster has _Vulnerable: Fire._** It takes double damage.
-{{</callout>}}
-
 
 
 ## Leveling Up
@@ -311,7 +288,6 @@ As your character goes on adventures, they’ll gain new experiences and pick up
 
 - Increase your _Health Points_ by +5
 - Increase your _Average Damage_ by +3
-- Increase your _Armor Level_ by +1
 - Pick-up 1 or 2 new skills, spells, weapons, or magic items (at the GM's discretion)
 
 If you want, you can use the same character from one adventurer to the next, and bring their skills, gear, and treasure along with them.

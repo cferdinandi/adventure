@@ -9,14 +9,12 @@ Don't have dice? Roll digital ones!
 <div class="callout padding-top-large padding-bottom-large text-center">
 	<div class="margin-bottom-small">
 		<button class="btn" data-roll="d6">D6</button>
-		<button class="btn" data-roll="d6" data-multi="2">2D6</button>
-		<button class="btn" data-roll="d6" data-multi="3">3D6</button>
 		<button class="btn" data-roll="d20">D20</button>
 	</div>
 	<div class="margin-bottom">
 		<label for="best-worst">
 			<input type="checkbox" id="best-worst">
-			Use Best Of/Worst Of
+			Use Best Roll/Worst Roll
 		</label>
 	</div>
 	<div class="text-large"><strong id="result" aria-live="polite"></strong></div>
@@ -38,7 +36,7 @@ Don't have dice? Roll digital ones!
 		};
 
 		// Placeholder for die rolls
-		var rolls, multiRolls;
+		var rolls;
 
 
 		//
@@ -89,14 +87,10 @@ Don't have dice? Roll digital ones!
 		 * @param {Integer} count How many rolls to do
 		 */
 		var roll = function (d, count) {
-			var total = [];
 			for (var i = 0; i < count; i++) {
 				shuffle(dice[d]);
-				total.push(dice[d][0]);
+				rolls.push(dice[d][0]);
 			}
-			rolls.push(total.reduce(function (t, d) {
-				return t + d;
-			}, 0));
 		};
 
 		/**
@@ -107,20 +101,14 @@ Don't have dice? Roll digital ones!
 
 			// Only run on [data-roll] elements
 			var d = event.target.getAttribute('data-roll');
-			var multi = event.target.getAttribute('data-multi');
-			multi = multi ? parseInt(multi, 10) : 1;
+			multi = 1;
 			if (!d) return;
 
 			// Clear the rolls array
 			rolls = [];
 
 			// Roll the dice
-			roll(d, multi);
-
-			// If best of/worst of, roll again
-			if (bestWorst.checked) {
-				roll(d, multi);
-			}
+			roll(d, (bestWorst.checked ? 2 : 1));
 
 			// Render the result in the UI
 			result.textContent = rolls.join(' - ');

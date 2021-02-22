@@ -45,6 +45,30 @@ You're in a boat, rowing towards it, in the hopes of retrieving the magical blac
 Suddenly, in the distance, you catch sight of it: the Tower of the Black Pearl, peaking out from the depths of the sea.
 {{</callout>}}
 
+### Ask Questions
+
+You can make your life a lot easier as a GM, and get your players far more engaged in the game, by asking them questions about the world.
+
+At the start of a game, ask the players why they're there, and what they've heard about the problem or situation. You can work these hooks into the story and use them to fill in missing details.
+
+Later in the game, rather than just telling players about a location, you can ask them what _they_ see.
+
+{{<callout title="Examples">}}
+
+<p class="margin-bottom-small"><strong>At the start of a game:</strong></p>
+
+- Why are you interested in the black pearl?
+- What have you heard about the wizard who used to live here?
+- Do you know of anyone else who might be interested in it?
+- What creatures and traps do you think await within?
+
+<p class="margin-bottom-small"><strong>During a game:</strong></p>
+
+- The tunnel you're in suddenly forks into three small tunnels. Looking around and glancing down each one, what do you see?
+- A pirate appears from a hidden alcove and approaches you. What does he say?
+
+{{</callout>}}
+
 ### Improvising
 
 As an open-ended role-playing game, the players can take an adventure in a lot of directions. As a Game Master, you'll probably have to improvise and make stuff up as you go along.
@@ -76,29 +100,6 @@ If you're [using a pre-made adventure](/adventures), it's a good idea to read th
 - Present riches… at a price
 - Present a challenge
 
-### Ask Questions
-
-You can make your life a lot easier as a GM, and get your players far more engaged in the game, by asking them questions about the world.
-
-At the start of a game, you can ask them why they're there, and what they've heard about the problem or situation. You can work these hooks into the story and use them to fill in missing details.
-
-Later in the game, rather than just telling players about a location, you can ask them what _they_ see.
-
-{{<callout title="Examples">}}
-
-<p class="margin-bottom-small"><strong>At the start of a game:</strong></p>
-
-- Why are you interested in the black pearl?
-- What have you heard about the wizard who used to live here?
-- Do you know of anyone else who might be interested in it?
-- What creatures and traps do you think await within?
-
-<p class="margin-bottom-small"><strong>During a game:</strong></p>
-
-The tunnel you're in suddenly forks into three small tunnels. Looking around and glancing down each one, what do you see?
-
-{{</callout>}}
-
 ### Leave maps incomplete
 
 If you find maps helpful for visualizing spaces and helping players work through an adventure or battle, by all means use them.
@@ -108,7 +109,7 @@ But don’t draw or download complete maps before the adventure starts. Leave bl
 Players will shape the world as they move through it. It’s important to have space to fill in new details.
 
 {{<callout title="How to Create Maps">}}
-If you want to try drawing your own maps, [Esper the Bard’s series on map-making is fantastic](https://www.youtube.com/watch?v=AeEUMCf0sys&list=PL4lwwEJ-yFaLLyVaHpqVeMUWSNe8NcXgG). You can also find tons of inexpensive maps and other printables at [2-Minute Tabletop](https://2minutetabletop.com/).
+If you want to try drawing your own maps, [Esper the Bard’s series on map-making is fantastic](https://www.youtube.com/watch?v=AeEUMCf0sys&list=PL4lwwEJ-yFaLLyVaHpqVeMUWSNe8NcXgG). You can also find tons of free maps at [Dyson Logos](https://dysonlogos.blog/maps/), and inexpensive maps and other printables at [2-Minute Tabletop](https://2minutetabletop.com/).
 
 Depending on the age and interests of your players, it might also be fun and interesting if you added a physical element to the game. You can create maps for locations by building them with blocks, or using toys and figurines for characters, monsters, and NPCS.
 {{</callout>}}
@@ -152,8 +153,8 @@ You might need to spin up a new monster in the middle of a game. Here's a refere
 
 #### Modifiers
 
-- **Armor/Scales:** Armor Level 1
-- **Heavy Armor/Scales:** Armor Level 2
+- **Armor/Scales:** 1 Armor
+- **Heavy Armor/Scales:** 2-3 Armor
 - **Extra Tough/Resilient:** Add +3-5 HP
 - **Incredibly Strong:** +2 AD
 - **Special Abilities/Traits:** Describe them
@@ -162,9 +163,9 @@ You might need to spin up a new monster in the middle of a game. Here's a refere
 | Monster   | Size       | Damage | Health | Armor | Traits                                    |
 |-----------|------------|--------|--------|-------|-------------------------------------------|
 | Rat       | Small      | 2 AD   | 2 HP   |       |                                           |
-| Alligator | Large      | 7 AD   | 10 HP  | AL 1  |                                           |
-| Dragon    | Monsterous | 12 AD  | 20 HP  | AL 2  | _fire-breathing<br>immune to fire damage_ |
-| Hydra     | Monsterous | 12 AD  | 15 HP  | AL 1  | _+1 AD for each head beyond the first_    |
+| Alligator | Large      | 7 AD   | 10 HP  | 1     |                                           |
+| Dragon    | Monsterous | 12 AD  | 20 HP  | 3     | _fire-breathing<br>immune to fire damage_ |
+| Hydra     | Monsterous | 12 AD  | 15 HP  | 1     | _+1 AD for each head beyond the first_    |
 {{</callout>}}
 
 #### Group Attacks
@@ -394,7 +395,7 @@ _In this example, locations, monsters, and events are standalone items that can 
 - Take the main plot from a favorite movie or story and change some of the details.
 - Mash-up stories for a few different books or movies to create something unique.
 - Is there a superpower you wish you had or a mythical place you wish you could visit? What would happen if it were real?
-- Take a look at some of the [maps at 2-Minute Tabletop](https://2minutetabletop.com/). Imagine exploring them. What cool stuff would your adventurers find there?
+- Take a look at some of the maps on [Dyson Logos](https://dysonlogos.blog/maps/) and [2-Minute Tabletop](https://2minutetabletop.com/). Imagine exploring them. What cool stuff would your adventurers find there?
 
 
 
