@@ -66,8 +66,27 @@ Later in the game, rather than just telling players about a location, you can as
 
 - The tunnel you're in suddenly forks into three small tunnels. Looking around and glancing down each one, what do you see?
 - A pirate appears from a hidden alcove and approaches you. What does he say?
-
 {{</callout>}}
+
+### Alternate Start: In Media Res
+
+A fun alternative way to start the game is to throw players directly into the middle of some action, and build the world around it. This approach is called _In Media Res_.
+
+When starting a game _In Media Res_, describe the scene they find themselves in, and then ask questions to fill in the missing details.
+
+{{<callout title="Example: The Tower of the Black Pearl - In Media Res">}}
+You were walking down a spiral staircase when the stairs dropped out from beneath you. Now, you're sliding towards the bottom of the tower.
+
+The pirates that were chasing you aren't far behind, screaming as they too slide down the staircase. Water is starting to burst through cracks in the wall, and sprays you in the face as you slide.
+
+- Do you have the black pearl in your possession, or do the pirates just think you do?
+- What does the black pearl do, and why do the pirates want it?
+- One of you is injured. Who, and how are you hurt?
+- One of you made a secret deal to sell the pearl to someone else. Which one of you, to whom, and in exchange for what?
+- One of you knows one of the pirates from a previous time in your life. Who, and how do you know them?
+{{</callout>}}
+
+
 
 ### Improvising
 
