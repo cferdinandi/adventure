@@ -104,7 +104,7 @@ If you're [using a pre-made adventure](/adventures), it's a good idea to read th
 - Turn their move back on them
 - Separate them
 - Give an opportunity to shine
-- Show a downside to a class or equipment
+- Show a downside to a character choice
 - Offer an opportunity, with or without cost
 - Put someone in a spot
 - Present two choices

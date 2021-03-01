@@ -30,6 +30,22 @@ Oakenshire is the elves’ treetop home. It contains ancient books and special m
 
 
 
+## In Media Res
+
+You're trapped.
+
+In front of you is the door to the next room, sealed over with a thick layer of spider webs several inches thick. Behind you, several giant spiders and a monstrous centipede are blocking the door your just came through.
+
+Their fangs are bared, and they're closing in on you.
+
+- What's on the other side of the door that's sealed with webbing?
+- The elves who own this treetop city told one of you a secret hidden here. What is it?
+- One of you stole something from one of the rooms you passed through on your way here. What was it?
+- Who asked you to rid the city of spiders? How do you know them?
+- One of you is looking for something here that the rest of the group doesn't know about. What is it?
+
+
+
 ## Locations & Events
 
 Oakenshire is a small city built into the trees of the forest. It's a collection of treehouses connected to each other by bridges.

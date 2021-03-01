@@ -33,6 +33,23 @@ Until the babies are returned, she'll be far too distressed to protect the villa
 
 
 
+## In Media Res
+
+You tried to be quiet, but you didn't notice the loose golden chalice on the ground. It made _just_ enough noise when you kicked it to wake up the sleeping ogre.
+
+As he rubs the sleep from his eyes, he notices you and jumps up for the pile of smelly animal pelts he calls a bed. At least twice your height, his smelly, hot breath is overpowering as he yells,
+
+> What are you doing in me cave?
+
+Behind him, locked in a cage, is one of the baby dragons the Luck Dragon asked you to find and return.
+
+- One of you was reaching for a few of the ogre's coins when it woke up. Who?
+- One of you is behind the ogre, and they haven't noticed you yet. Which one of you?
+- Before you left, a rare animals dealer approached one of you and secretly offered you something in exchange for one of the baby dragons? Who, and what did they offer you?
+- The baby dragon is cute, but dangerous. What happens if you try to pick it up without wearing gloves?
+
+
+
 ## Locations, Events & Monsters
 
 {{<details summary="The Forest." blurb="Tall trees and tangles of vines provide ample places for baby dragons to get stuck." margin="">}}

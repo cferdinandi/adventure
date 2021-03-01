@@ -34,6 +34,22 @@ A fairy wakes you from your sleep, begging for your help. She explains that ice 
 
 
 
+## In Media Res
+
+If only one of you had noticed the pit trap. The fairies did an amazing job disguising it, a set of loose branches covered in leaves.
+
+Now, you're in a 20 foot deep pit, the faces of a small group of fairy soldiers staring down at you, arrows at the ready. You tried telling them that the Elder Fairy sent you in search of more pixie dust, but they don't believe you.
+
+Unexpectedly, a rock flies over one of the fairy's heads. You hear swords unsheathe, and the sound of gruff voices ordering the fairies to surrender. Bandits!
+
+- Why did the Elder Fairy send you?
+- What happens if you don't return with more fairy dust?
+- One of you is hurt? Who?
+- Are you with the bandits, or the fairies?
+- One of you knows one of the bandits. What did they offer you if you double cross the Elder fairy?
+
+
+
 ## Locations
 
 - **Elder Fairy Cabin.** A small cabin in the the middle of the woods where _The Elder Fairy_ lives. He's several centuries old, and knows the secret to creating more pixie dust fairy. He may have some supplies to help the adventurers.
