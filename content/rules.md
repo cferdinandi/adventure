@@ -37,67 +37,53 @@ The most important phrase in Adventure is, "What do you do?"
 ## What You Need to Play
 
 1. **Dice.** Adventure uses a single six-sided die (_or a D20 if you'd prefer_). If you don't have any dice, you can [roll digital dice](/dice/).
-2. **Character sheets.** You can print them out from [the downloads page](/downloads) or just write the details down in a notebook.
+2. **Character sheets.** You can print them out from [the downloads page](/downloads), or just write the details down in a notebook.
 3. **Your imagination.** The most important part!
 
-You might want to keep a pen and notebook handy, but it's not at all required to play.
+You might also want to keep a pen and notebook handy, but it's not required to play.
 
 
 
 ## Creating a Character
 
-Every player creates a character to play in the game.
+Each player creates a character to represent them on their adventures (this is what makes Adventure an RPG, or _role-playing game_).
 
 The [downloads section](/downloads) includes printable character sheets to guide you through the process, as well as premade characters. You'll reference them throughout the game.
 
+- **Name & Description.** You can be anyone you want to be in adventure: an elf wizard, a fairy tinkerer, a space cowboy, a dragonfly spy. Be anything you want.
+- **Speciality.** Your character may be good at a few things, but they specialize in one: _Strength_, _Agility_, or _Cunning_. The thing you specialize in will help you complete certain types of tasks.
+	+ _Strength._ Athletics, Intimidation, Feats of Strength
+	+ _Agility._ Acrobatics, Speed, Stealth, Slight of Hand
+	+ _Wisdom._ Perceiving, Knowing, Figuring Things Out
+- **Skills & Features.** What makes your character unique? Do they have a special skill, like fire breathing or the ability to fly? Are they a really good swimmer? Can they make themselves invisible or fly? Do they know any [magic spells](/gear#common-spells)?
+- **Gear & Treasure.** You [start the game with](/gear#starting-gear) a weapon or wand, rope, water, food, a few coins, and one healing potion. Add stuff as you find it in your travels.
+
 _Players may want to use a toy, figurine, or paper cut-out to represent their character while they play._
 
-Name & Description
-: You can be anyone you want to be in adventure: an elf wizard, a fairy tinkerer, a space cowboy, a dragonfly spy. Be anything you want.
-
-Health
-: Every player starts with 10 _Health Points (HP)_. This is your _Max HP_. Throughout the game, your HP will up and down as things happen.
-
-Specialty
-: Your character may be good at a few things, but they specialize in one: _Strength_, _Dexterity_, or _Wisdom_. The thing you specialize in will help you complete certain types of tasks.
-	- _Strength._ Athletics, Intimidation, Feats of Strength
-	- _Dexterity._ Acrobatics, Speed, Stealth, Slight of Hand
-	- _Wisdom._ Perceiving, Knowing, Figuring Things Out
-
-Armor
-: Does your character wear armor? If so, you'll take less damage, but will have a harder time with tasks that require _Dexterity_.
-
-Average Damage
-: When your character uses weapons, magic, or even their hands, they cause damage. _Average Damage_ represents how powerful they are. Every player starts with an _Average Damage_ (or _AD_) number of 4.
-
-Features
-: What makes your character unique? Do they have a special skill, like fire breathing or the ability to fly? Are they a really good swimmer? Can they make themselves invisible or fly?
-
-Gear & Treasure
-: You start the game with a simple weapon, wand, or tool; a travelers pack; and one healing potion. Magical characters should have a few simple spells. In your adventures, you may find, buy, or earn more cool stuff.
 
 
+## Actions & Deciding Outcomes
 
-## Rolling Dice
-
-For most player actions, what happens is decided by rolling dice (either a D6 or D20, your choice).
+Any time you want to add chance to the outcome of a player action, ask them to roll dice (either a D6 or D20, your choice).
 
 | D6  | Outcome                                  | D20   |
 |-----|------------------------------------------|-------|
-| 6   | Success. It worked as planned.           | 18-20 |
-| 3-5 | Partial Success. It worked, with a cost. | 9-17  |
+| 6   | Success. It worked as planned.           | 17-20 |
+| 3-5 | Partial Success. It worked, with a cost. | 9-16  |
 | 2-  | Failure. It didn't work.                 | 8-    |
+
+**The GM can choose _not_ to require a die roll.**
+
+If the thing the player is trying to do is really easy or impossibly difficult, skip the die roll and let it succeed or fail automatically. Reserve die rolls for instances where the outcome is uncertain, or where both failure and success would be interesting to the story.
 
 {{<callout title="Example">}}
 
 <p class="margin-bottom-small"><strong>The player is trying to convince a wealthy noble that they're a distant relative.</strong> The noble isn't very trusting. They roll a D20.</p>
 
 - On 18 or above, the noble believes them, offering them a room in their palace and a feast in their honor.
-- On a 9 to 17, the noble reluctantly believes them, but secretly sends someone to look into their background.
+- On a 9 to 16, the noble reluctantly believes them, but secretly sends someone to look into their background.
 - On an 8 or less, the noble becomes angry, and has them arrested.
 {{</callout>}}
-
-_You can choose not to require a die roll. Ask for a roll any time you want to add chance to an outcome._
 
 ### Best Roll & Worst Roll
 
@@ -110,17 +96,17 @@ Items, special skills, and circumstances may give the player an advantage or dis
 
 If the player has a specialty, feature, or tool that would aid them in their task, they can use Best Roll. If a condition would make it harder for them, they use Worst Roll.
 
-If a player would get both Best Roll _and_ Worst Roll, they cancel each other out.
+A player can't get Best Roll or Worst Roll more than once per roll. If they would get both Best Roll _and_ Worst Roll, they cancel each other out.
 
 {{<callout title="Examples">}}
 Best Roll
-: The player is attempting to sneak up on a camp and surprise them. Their specialty is Dexterity. The Game Master tells them to use Best Roll.
+: The player is attempting to sneak up on a camp and surprise them. Their specialty is Agility. The Game Master tells them to use Best Roll.
 
 Worst Roll
 : An evil wizard uses a spell to shroud the cavern in darkness, and the player cannot see them. They attempt to shoot an arrow at wizard through the darkness. The Game Master tells them to use Worst Roll.
 
 Both
-: The player who's trying to sneak up on the camp is also wearing armor, which gives them Worst Roll on Dexterity tasks. This cancels out the Best Roll from their specialty in Dexterity. They roll one die.
+: The player who's trying to sneak up on the camp is also wearing armor, which gives them Worst Roll on Agility tasks. This cancels out the Best Roll from their specialty in Agility. They roll one die.
 {{</callout>}}
 
 ### Wisdom Checks
@@ -141,7 +127,7 @@ The players find a mysterious, glowing rock deep in a cavern. It pulses green. T
 <p class="margin-bottom-small"><strong>The Game Master asks for a Wisdom Check, and the player rolls a D20.</strong></p>
 
 - On an 8 or lower, they can tell it's magical, but know nothing about it's specific properties or uses.
-- On a 9 to 17, the GM tells them that they've heard rumors of a magical gem that belonged to the sorcerer of the North. It was stolen from him some years ago, and he's been looking for it every since. They don't know what it does, only that it's very valuable.
+- On a 9 to 16, the GM tells them that they've heard rumors of a magical gem that belonged to the sorcerer of the North. It was stolen from him some years ago, and he's been looking for it every since. They don't know what it does, only that it's very valuable.
 - On an 18 or higher, the GM also tells them that it's rumored to be able to bring trees to life, if you know the right magical phrase, and can be used to create a powerful army of treefolk.
 {{</callout>}}
 
@@ -166,20 +152,20 @@ While much of Adventure is focused on exploring and problem solving, you can int
 <p class="margin-bottom-small">If the player has a specialty in...</p>
 
 - _Strength_, take Best Roll on up-close/melee attacks and blocking defense.
-- _Dexterity_, take Best Roll on distanced/ranged attacks and dodging defense.
+- _Agility_, take Best Roll on distanced/ranged attacks and dodging defense.
 - _Wisdom_, take Best Roll on magical attacks and defense.
 
 {{<callout title="Examples">}}
 **The player is trying to hit an ogre with their sword.** This is a feat of strength. They roll a D20.
 
 - On 18 or above, the sword hits, causing the ogre to scream and stumble back a few feet.
-- On a 9 to 17, the sword hits, but the ogre swings at them at the same time slams its fist into their shoulder.
+- On a 9 to 16, the sword hits, but the ogre swings at them at the same time slams its fist into their shoulder.
 - On an 8 or less, the sword misses, slamming into the ground beside the ogre.
 
 **A troll throws a giant boulder at the player, and they attempt to jump out of the way.** This requires dexterity, which the player specializes in. They roll two D20, and take Best Roll.
 
 - On an 18 or above, the jump out of the way, and the boulder bounces off into the distance.
-- On a 9 to 17, they leap out of the way, but the boulder catches their sword and knocks it 20 feet away.
+- On a 9 to 16, they leap out of the way, but the boulder catches their sword and knocks it 20 feet away.
 - On an 8 or less, the boulder slams into them before they can jump out of the way.
 {{</callout>}}
 
@@ -187,7 +173,7 @@ While much of Adventure is focused on exploring and problem solving, you can int
 
 Every now and then, players may find themselves in a battle they just can't win.
 
-Players can choose to flee a battle at any time, including in the middle of one. The Game Master may require a roll to determine what happens.
+Players can choose to flee a battle at any time, including in the middle of one. The Game Master may require a die roll to determine what happens.
 
 ### Teamwork
 
@@ -209,54 +195,26 @@ Adventure is a cooperative, team game. The more you work together, the more like
 
 ## Health & Damage
 
-As an adventurer, you’re going to take damage from time-to-time. Cuts, bruises, and serious injury are a common risk.
+As an adventurer, you’re going to get hurt from time-to-time. Cuts, bruises, and serious injury are a common risk.
 
 ### Health Points
 
-Every character and creature has a pool of _Health Points_ (or _HP_). Health Points represent a creature's overall health.
+Every character and creature has _Health Points_ (or _HP_) which represent overall health.
 
-Whenever a character or creature takes damage, points are subtracted from their Current HP. When their HP reaches 0, they’re knocked out, and remain that way until another party member revives them.
+Whenever a character or creature takes damage, they lose one or more Health Points. When they have no HP left, they’re knocked out.
 
-_Players start with a Max HP of 10. A character’s Current HP can never exceed their Max HP._
+Players have 3 HP (_that number [can increase with experience](#leveling-up)_). Monsters and other characters can have anywhere from 1 to 4 HP, depending on how tough they are.
 
-{{<callout title="Example">}}
-A player has a Current HP of 7. They fall and take 2 points of damage. Their Current HP is now 5.
-{{</callout>}}
+### Damage
 
-### Average Damage
+Any time a character or creature takes damage, subtract 1 HP. A very serious injury or particularly ferocious creature may cause 2 HP of damage instead.
 
-Every character and monster has an _Average Damage_ (or _AD_) number that specifies how much damage their successful attacks cause.
-
-On a successful weapon or spell attack, subtract their AD from the attacked creature's HP. On an unarmed attack (just their hands or feet), subtract half their AD instead.
-
-**_Average Damage_ is a guide for the GM, not a fixed number.**
-
-They might shift it up or down a little based on what's happening in the story. They might cut it in half on a _Partial Success_ roll, or double it if something truly epic is happening. The AD is an average, not a fixed value.
-
-_Players start with an AD of 4._
+When the final HP is removed, the character or creature is knocked out.
 
 {{<callout title="Examples">}}
-<p class="margin-bottom-small">For each example, assume an <em>Average Damage</em> number of 4.</p>
-
-- **A knight hits a hydra with her sword.** The hydra loses 4 HP.
-- **A wizard, out of spells, elbows the goblin that's holding him captive.** The goblin loses 2 HP.
-- **A fighter rolls a _Partial Success_ while trying to hit a troll with his spear.** The spear grazes the troll's shoulder. It loses 2 HP.
-- **A druid sends a wave of water rushing at a lava monster.** Water is particularly dangerous for a creature made of lava, so it loses 6 HP.
-- **A fairy hits a dragon with a fireball.** Dragons are immune to fire, so it loses no HP.
-{{</callout>}}
-
-### Armor
-
-Armor and shields provide protection against attacks.
-
-When a character or creature receives damage while wearing armor, they subtract 1-3 points from the damage received before reducing their HP. In the beginning, armor may only reduce damage by 1. It becomes more effective as players get more experience.
-
-Protection from armor and shields only applies once. You cannot, for example, wear armor _and_ a shield and double your protection.
-
-_While wearing armor or holding a shield, characters also take Worst Roll on Dexterity rolls._
-
-{{<callout title="Example">}}
-A troll hits you with a club, doing 7 points of damage. You're wearing armor, so you subtract 6 points from your HP.
+- **A knight hits a hydra with her sword.** The hydra loses 1 HP.
+- **A wizard slips while scaling a cliff face and falls 20 feet.** The wizard loses 1 HP, their last, and gets knocked out.
+- **A dragon hits the fairy with its fire breath.** The fairy loses 2 HP.
 {{</callout>}}
 
 ### Healing
@@ -265,30 +223,35 @@ When a player's HP reaches 0, they're knocked out and cannot continue to fight u
 
 <p class="margin-bottom-small">Fortunately, players can heal in a few ways.</p>
 
-- If you _take a rest_, you can recover your Average Damage number of HP
-- Using tools like bandages or healing potion
+- **Rest.** Recover 1 HP.
+- **Healing Potion.** Recover 2 HP.
 
-When you heal, add the amount of HP healed back to your Current HP (up to your Max HP). Your Current HP cannot exceed your Max HP.
+After combat, any player that was knocked out automatically wakes up with 1 HP. Players and creatures cannot recover more HP than their total.
 
 {{<callout title="Examples">}}
-Healing with Rest
-: Your Current HP is 3, and your Average Damage number is 4. After a rest, your new Current HP is 7.
-
-Healing with Potion
-: Your Current HP is 6, and your Max HP is 10. You drink a Healing Potion, which heals 7 HP of damage. Since your Max HP is 10, your new Current HP is 10. The extra 1 HP of healing is lost.
+- **Healing with rest.** Your HP is 1. After a rest, your HP is now 2.
+- **Healing with potion.** Your HP is 2. You drink a healing potion, which recovers 2 HP. But since you can't exceed 3 HP, you're now at 3 HP.
+- **Healing after combat.** The knight was knocked out during combat. As quiet fills the air, she wakes up with 1 HP.
 {{</callout>}}
 
 
 
 ## Leveling Up
 
-As your character goes on adventures, they’ll gain new experiences and pick up new skills. Whenever the party does something particularly meaningful or awesome, the GM should level up the party.
+As your character goes on adventures, they’ll gain new experiences and pick up new skills. Whenever the party does something particularly meaningful or awesome, the GM can level up the party.
 
-**When you level up...**
+**When you level up, pick one of the following...**
 
-- Increase your _Health Points_ by +5
-- Increase your _Average Damage_ by +3
-- Pick-up 1 or 2 new skills, spells, weapons, or magic items (at the GM's discretion)
+- _Health Increase._ Gain an extra HP (up to a max of 4).
+- _Advanced Training._ Gain an extra Specialty (up to a max of 2).
+- _Jack of all Trades._ Once per day/adventure, take Best Roll on any die roll.
+- _Accuracy._ Once per battle, do 2 HP damage on a single, successful attack.
+- _Dodge._ Take Best Roll on any defensive roll.
+- _Recovery._ Once per battle, recover 1 HP of health.
+- _Lucky._ Once per day/adventure, re-roll any die roll.
+- _Student of Magic._ Learn two common spells or one rare spell.
+- _Collector._ Acquire one magic item.
+- _Make Your Own._ Work with your GM to create your own new feature.
 
 If you want, you can use the same character from one adventurer to the next, and bring their skills, gear, and treasure along with them.
 

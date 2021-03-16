@@ -3,307 +3,206 @@
 ##
 
 - name: Alligator
-  damage: 7
-  hp: 10
-  armor: 1
-  traits: "Swims. If attack hits, succeed on Strength roll or grappled. Grappled players cannot move unless they pass a Strength check, and suffer 2 AD (slashing) each turn."
+  hp: 3
+  traits: "Swims. Alligator Bite: on successful attack, player is grappled and cannot move."
 
 - name: Bandit
-  damage: 3
-  hp: 5
-  armor: 0
+  hp: 2
   traits: "Mostly interested in money. Can be bribed."
 
 - name: Bat
-  damage: 2
-  hp: 2
-  armor: 0
+  hp: 1
   traits: "Flying. Attacks in swarms."
 
 - name: Basilisk
-  damage: 4
-  hp: 8
-  armor: 1
-  traits: "If player and basilisk can see each other, player must succeed on Dexterity roll or half of body is turned to stone. Will attack its own reflection."
+  hp: 3
+  traits: "If player and basilisk can see each other, player must succeed on Dexterity roll or half of body is turned to stone."
 
 - name: Bear
-  damage: 6
-  hp: 10
-  armor: 0
-  traits: "Bite & Claws: on Success attack, add +2 to damage."
+  hp: 3
+  traits: "Bite & Claws: on successful attack, immediately make a second one before player has a chance to respond."
 
 - name: Carnivorous Plant
-  damage: 2
-  hp: 3
-  armor: 0
-  traits: "Cannot move. Look like normal plants until they attack. Vulnerable: Slashing"
+  hp: 1
+  traits: "Cannot move. Look like normal plants until they attack."
 
 - name: Centaur
-  damage: 6
-  hp: 13
-  armor: 1
-  traits: "Ram & Sword: on Success attack, add +2 to damage."
+  hp: 3
+  traits: "Ram & Sword: on successful attack, immediately make a second one before player has a chance to respond."
 
 - name: Centipede (Giant)
-  damage: 2
-  hp: 7
-  armor: 0
+  hp: 2
   traits: "Only attacks if cornered. Can burrow."
 
 - name: Clockwork Golem
-  damage: 2
-  hp: 5
-  armor: 0
-  traits: "Robotic humanoid. Very strong. Follows commands of a creator. Vulnerable: Lightning."
+  hp: 1
+  traits: "Robotic humanoid. Very strong. Follows commands of a creator."
 
 - name: Coconut/Pinecone Monster
-  damage: 1
-  hp: 3
-  armor: 1
-  traits: "Preferring to attack from afar, they resemble coconuts or pinecones (depending on location) and have a natural armor. Vulnerable: Fire."
+  hp: 1
+  traits: "Preferring to attack from afar, they resemble coconuts or pinecones (depending on location) and have a natural armor."
 
 - name: Cyclops
-  damage: 9
-  hp: 10
-  armor: 0
+  hp: 4
   traits: "Very strong. Throws rocks. Horrible vision up-close."
 
 - name: Crab
-  damage: 2
-  hp: 4
-  armor: 1
-  traits: ""
+  hp: 2
+  traits: "Attack in hordes. Pinch with sharp claws."
 
 - name: Crab (Giant)
-  damage: 5
-  hp: 12
-  armor: 1
-  traits: "Crushing Pinch: on Success attack, does +2 damage."
+  hp: 4
+  traits: "Crushing Pinch: does 2 HP damage on successful attack."
 
 - name: Dragon
-  damage: 12
-  hp: 18-20
-  armor: 2
-  traits: "Flying. Breathes fire. Fire-Breath & Claws: on Success attack, add +4 damage. Immune: Fire"
+  hp: 4
+  traits: "Flying. Fire-Breath: does 2 HP damage on successful attack."
 
 - name: Eagle (Giant)
-  damage: 6
-  hp: 10
-  armor: 0
+  hp: 3
   traits: "Flying. Swoop attack with talons."
 
 - name: Elf
-  damage: 3
-  hp: 7
-  armor: 0
+  hp: 2
   traits: "Quick and agile. Expert with bows and swords."
 
 - name: "Enchanted Objects"
-  damage: 1
-  hp: 3
-  armor: 0
+  hp: 1
   traits: ""
 
 - name: Fairy/Pixie
-  damage: 2
-  hp: 3
-  armor: 0
+  hp: 1
   traits: "Sneaky. Usually doesn't attack outright but sets traps and uses magic to create problems."
 
 - name: Gnome
-  damage: 2
-  hp: 5
-  armor: 0
+  hp: 2
   traits: "Secretive. Master of illusion. Avoid conflict, but will attack in groups if threatened."
 
 - name: Gargoyle
-  damage: 3
-  hp: 8
-  armor: 1
-  traits: "Flying. Appears to be a statue until attacks. Immune: Fire."
+  hp: 3
+  traits: "Flying. Appears to be a statue until attacks."
 
 - name: Goblin
-  damage: 2
-  hp: 5
-  armor: 0
-  traits: "Attacks in swarms. Does +1 damage when attacking in a group."
+  hp: 2
+  traits: "Attacks in swarms."
 
 - name: Hydra
-  damage: 8
-  hp: 15
-  armor: 1
-  traits: "Many heads: on Success attack, add +1 damage for each head. Heads randomly grow back."
+  hp: 4
+  traits: "Many heads: does 2 HP damage on successful attack. Heads randomly grow back."
 
 - name: Ice Monster
-  damage: 10
-  hp: 15
-  armor: 0
-  traits: "Throws ice. Can merge into the snow and ice. Immune: Cold. Vulnerable: Bludgeoning, Slashing, Fire."
+  hp: 3
+  traits: "Throws ice. Can merge into the snow and ice."
 
 - name: Knight
-  damage: 3
-  hp: 8
-  armor: 2
-  traits: "Slow in armor. Immune: Bludgeoning, Slashing. Vulnerable: Fire, Lightning."
+  hp: 3
+  traits: "Slow in armor."
 
 - name: Kobold
-  damage: 2
-  hp: 3
-  armor: 0
+  hp: 2
   traits: "Can see in the dark. Hates the sunlight."
 
 - name: Kraken
-  damage: 12
-  hp: 18
+  hp: 4
   armor: 0
-  traits: "Swims. If attack hits, succeed on Strength roll or grappled. Grappled players cannot move unless they pass a Strength check, and suffer 2 AD (bludgeoning) each turn."
+  traits: "Swims. Tentacle Grasp: On successful attack, player is grappled and cannot move."
 
 - name: Lava Monster
-  damage: 10
-  hp: 15
-  armor: 0
-  traits: "Throws lava balls. Immune: Fire. Vulnerable: Cold."
+  hp: 3
+  traits: "Throws lava balls."
 
 - name: Lizardfolk
-  damage: 3
-  hp: 4
-  armor: 1
-  traits: "Weapon & Bite: on Success attack, add +2 damage."
+  hp: 2
+  traits: "Weapon & Bite: on successful attack, immediately make a second one before player has a chance to respond."
 
 - name: Mammoth
-  damage: 8
-  hp: 10
-  armor: 0
-  traits: "Rams with tusks. If attack hits, succeed on Strength roll or get knocked down. Immune: Cold"
+  hp: 4
+  traits: "Rams with tusks. On successful attack, player is knocked down."
 
 - name: Ogre
-  damage: 7
-  hp: 13
-  armor: 0
+  hp: 3
   traits: "Smashes things with club. Easy to confuse."
 
 - name: Piranha
-  damage: 2
-  hp: 3
-  armor: 0
-  traits: "Attack in swarms. If player is injured, add +2 damage."
+  hp: 1
+  traits: "Attack in swarms. Feeding Frenzy: on successful attack, immediately make a second one before player has a chance to respond."
 
 - name: Pirate
-  damage: 3
-  hp: 5
-  armor: 0
+  hp: 2
   traits: "Obssessed with treasure. Unskilled fighter."
 
 - name: Pirate Captain
-  damage: 7
-  hp: 10
-  armor: 1
+  hp: 3
   traits: "Obssessed with treasure. Cunning and sneaky."
 
 - name: Rat
-  damage: 2
-  hp: 2
-  armor: 0
+  hp: 1
   traits: "Attacks in swarms."
 
 - name: Rock Monster
-  damage: 12
-  hp: 15
-  armor: 2
-  traits: "Throws rocks."
+  hp: 4
+  traits: "Throws rocks. Crusing blow: does 2 HP damage on successful attack."
 
 - name: Scorpion (Giant)
-  damage: 6
-  hp: 12
-  armor: 2
+  hp: 3
   traits: "Paralyzing tail sting."
 
 - name: Shark
-  damage: 7
-  hp: 10
-  armor: 0
-  traits: "Swims. If attack hits, succeed on Strength roll or grappled. Grappled players cannot move unless they pass a Strength check, and suffer 2 AD (slashing) each turn."
+  hp: 2
+  traits: "Swims. Shark Bite: on successful attack, player is grappled and cannot move."
 
 - name: Skeleton
-  damage: 2
-  hp: 5
-  armor: 0
+  hp: 2
   traits: "Move slow. Spring back to life shortly after being knocked out."
 
 - name: Slime/Ooze
-  damage: 3
-  hp: 13
-  armor: 0
-  traits: "Acidic residue does 1 AD (acid) every turn if it gets on a player's skin. Immune: Acid."
+  hp: 3
+  traits: "Acidic Residue: if slime gets on skin, does an extra 1 HP damage."
 
 - name: Snake (Giant)
-  damage: 6
-  hp: 10
-  armor: 0
-  traits: "Bites. Constricts. Constricted players cannot move unless they pass a Strength check, and suffer 2 AD (bludgeoning) each turn."
+  hp: 3
+  traits: "Bites. Constrict: on successful attack, player is grappled and cannot move."
 
 - name: Sorcerer
-  damage: 6-8
-  hp: 10-15
-  armor: 0
+  hp: 3
   traits: "Has a wide assortment of powerful spells."
 
 - name: Sorcerer's Apprentice
-  damage: 3
-  hp: 7
-  armor: 0
+  hp: 1
   traits: "Knows a limited selection of spells."
 
 - name: Spider
-  damage: 2
-  hp: 4
-  armor: 0
+  hp: 1
   traits: "Can climb walls. Can attack with webs. Can see in the dark."
 
 - name: Spider (Giant)
-  damage: 4
-  hp: 8-10
-  armor: 0
+  hp: 3
   traits: "Can climb walls. Can attack with webs. Can see in the dark."
 
 - name: Toad (Giant)
-  damage: 5
-  hp: 8
-  armor: 0
-  traits: "Can grapple players with strong bite."
+  hp: 2
+  traits: "Bite: on successful attack, player is grappled and cannot move."
 
 - name: Townspeople
-  damage: 1
-  hp: 5
-  armor: 0
+  hp: 1
   traits: "Easily frightened. Will flee rather than fight."
 
 - name: Troll
-  damage: 6
-  hp: 13
-  armor: 0
+  hp: 3
   traits: "Great sense of smell. Heals quickly."
 
 - name: Treefolk
-  damage: 10-12
-  hp: 15
-  armor: 1
-  traits: "Move slowly. Vulnerable: Fire, Lightning."
+  hp: 4
+  traits: "Move slowly."
 
 - name: Wolf
-  damage: 2
-  hp: 7
-  armor: 0
-  traits: "Attack in packs. If attack hits, succeed on Strength roll or get knocked down."
+  hp: 2
+  traits: "Attack in packs. Wolf Bite: on successful attack, player is grappled and cannot move."
 
 - name: Yeti
-  damage: 6
-  hp: 13
-  armor: 0
-  traits: "Good at stealth and camoflauge. Immune: Cold. Vulnerable: Fire."
+  hp: 3
+  traits: "Good at stealth and camoflauge."
 
 - name: Witch
-  damage: 6
-  hp: 10-15
-  armor: 0
+  hp: 3
   traits: "Has a wide assortment of powerful spells. Can shapeshift."

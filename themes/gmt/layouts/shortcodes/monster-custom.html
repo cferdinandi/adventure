@@ -1,3 +1,2 @@
-<p class="no-margin-bottom"><strong>{{ .Get "name" }}</strong></p>
-<p class="no-margin-bottom">{{ .Get "damage" }} AD &middot; {{ .Get "hp" }} HP{{ if .Get "armor" }} &middot; {{ .Get "armor" }} Armor{{ end }}</p>
-{{ if .Get "traits" }}<p class="no-margin-bottom"><em>{{ .Get "traits" }}</em></p>{{ end }}
+<strong>{{ .Get "name" }}</strong> &middot; {{ .Get "hp" }} HP
+{{ if .Get "traits" }}<br><em>{{ .Get "traits" }}</em>{{ end }}

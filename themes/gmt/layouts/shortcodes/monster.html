@@ -7,9 +7,7 @@
 {{- end -}}
 
 {{- if eq ($.Scratch.Get "monster") "" -}}
-<p class="no-margin-bottom"><strong>{{ .Get "name" }}</strong></p>
+<strong>{{ .Get "name" }}</strong>
 {{- else -}}
-<p class="no-margin-bottom"><strong>{{ index ($.Scratch.Get "monster") "name" }}</strong></p>
-<p class="no-margin-bottom">{{ index ($.Scratch.Get "monster") "damage" }} AD &middot; {{ index ($.Scratch.Get "monster") "hp" }} HP{{ if ne (index ($.Scratch.Get "monster") "armor") 0 }} &middot; {{ index ($.Scratch.Get "monster") "armor" }} Armor{{ end }}</p>
-{{ if ne (index ($.Scratch.Get "monster") "traits") "" }}<p class="no-margin-bottom"><em>{{ index ($.Scratch.Get "monster") "traits" }}</em></p>{{ end }}
+<strong>{{ index ($.Scratch.Get "monster") "name" }}</strong> &middot; {{ index ($.Scratch.Get "monster") "hp" }} HP{{ if ne (index ($.Scratch.Get "monster") "traits") "" }}<br><em>{{ index ($.Scratch.Get "monster") "traits" }}</em>{{ end }}
 {{- end -}}
