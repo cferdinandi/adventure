@@ -7,9 +7,8 @@
 {{- end -}}
 
 {{- if eq ($.Scratch.Get "monster") "" -}}
-<p class="no-margin-bottom"><strong>{{ .Get "name" }}</strong></p>
+<strong>{{ .Get "name" }}</strong>
 {{- else -}}
-<p class="no-margin-bottom"><strong>{{ if .Get "display" }}{{ .Get "display" }}{{ else }}{{ index ($.Scratch.Get "monster") "name" }}{{ end }}</strong></p>
-<p class="no-margin-bottom">{{ if .Get "damage" }}{{ .Get "damage" }}{{ else }}{{ index ($.Scratch.Get "monster") "damage" }}{{ end }} AD &middot; {{ if .Get "hp" }}{{ .Get "hp" }}{{ else }}{{ index ($.Scratch.Get "monster") "hp" }}{{ end }} HP{{ if or (.Get "armor") (ne (index ($.Scratch.Get "monster") "armor") 0) }} &middot; {{ if .Get "armor" }}{{ .Get "armor" }}{{ else }}{{ index ($.Scratch.Get "monster") "armor" }}{{ end }} Armor{{ end }}</p>
-{{ if or (.Get "traits") (ne (index ($.Scratch.Get "monster") "traits") "") }}<p class="no-margin-bottom"><em>{{ if .Get "replace" }}{{ .Get "traits"}}{{ else }}{{ index ($.Scratch.Get "monster") "traits" }}{{ if .Get "traits" }} {{ .Get "traits" }}{{ end }}{{ end }}</em></p>{{ end }}
+<strong>{{ if .Get "display" }}{{ .Get "display" }}{{ else }}{{ index ($.Scratch.Get "monster") "name" }}{{ end }}</strong> &middot; {{ if .Get "hp" }}{{ .Get "hp" }}{{ else }}{{ index ($.Scratch.Get "monster") "hp" }}{{ end }} HP
+{{ if or (.Get "traits") (ne (index ($.Scratch.Get "monster") "traits") "") }}<br><em>{{ if .Get "replace" }}{{ .Get "traits"}}{{ else }}{{ index ($.Scratch.Get "monster") "traits" }}{{ if .Get "traits" }} {{ .Get "traits" }}{{ end }}{{ end }}</em>{{ end }}
 {{- end -}}

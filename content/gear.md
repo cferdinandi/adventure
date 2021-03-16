@@ -10,86 +10,41 @@ A collection of items, spells, and treasure that you can use in your games. Feel
 
 
 
-## Common Items
+## Starting Gear
 
-Adventurers can start off an adventure any of these common items and spells.
+Adventurers can start a game with any of this gear.
 
-### Adventuring Items
+- **A weapon.** A sword, dagger, bow and arrow, spear, axe, or hammer.
+- **Armor and a shield (_optional_).** Protect yourself and look cool doing it.
+- **A wand or staff (_optional_).** For casting magical stuff.
+- **Rope.** About 50' of it, for climbing, rappelling, and capturing monsters.
+- **Food & Water.** Useful for luring monsters into traps.
+- **Coins.** Buy stuff with it or bribe a guard.
+- **A healing potion.** For healing serious injuries.
 
-- **Adventurer's Pack.** Contains common items an adventurer might need: 50' of rope, a firestarter, a small mirror, a canteen, rations, and so on. _Resupply after 5 uses_
-- **Money.** A small amount of travel money for incidentals, if you want.
-- **Healing Potion.** Heals up to 7 HP. Single use.
-- **Bandages.** Heal up to 3 HP. Single use.
 
-### Weapons, Wands & Armor
 
-<ul class="list-columns">
-	<li>Sword</li>
-	<li>Dagger</li>
-	<li>Bow & Arrow</li>
-	<li>Spear</li>
-	<li>Axe</li>
-	<li>Suit of Armor</li>
-	<li>Shield (counts as armor)</li>
-	<li>Wand</li>
-	<li>Wizard Staff</li>
-	<li>Spell Book</li>
-</ul>
+## Common Spells
 
-### Common Spells
+Adventures can start a game with up to three of these spells. Learn more spells as the game progresses.
 
 - **Magic Missiles.** A blast of magic energy shoots from your hands.
 - **Wave of Thunder.** A wave of sound shoots out from you, pushing everyone near you 15' back and doing damage.
 - **Identify Object.** You can take Best Roll while trying to determine what an object is and what it does.
 - **Sleep.** Make one large monster, two medium ones, or four small ones fall asleep.
 - **Illusion.** You create a small illusory sight or sound that lasts for about a minute.
-- **Heal.** Heal 5 HP on a creature you can touch.
+- **Heal.** Heal 2 HP on a creature you can touch.
 - **Tangle of Vines.** A tangle of vines 15' wide grows and restrains any creatures in the area.
 - **Speak with Nature.** Place your hands on an animal, plant, body of water, stone, or other natural element and learn about recent events from it.
 
 
 
-## Rare Items
+## Rare Spells
 
-Players can find these while exploring, or receive them as rewards from NPCs for completing quests.
-
-### Magical Weapons
-
-_Apply these features to any ordinary weapon to make it a magical one._
-
-- **Unstoppable.** Once per a combat encounter, you can take Best Roll on an attack made with this weapon.
-- **Lucky.** Once per a combat encounter, you can re-roll an attack die roll while using this weapon. You must use whatever the new result is.
-- **Power.** Add an +2 to damage rolls when using this weapon.
-- **Inspiration.** Once per a combat encounter, a teammate can double an attack roll when you use this weapon.
-- **Teleport.** Once per a combat encounter, you can teleport to a different location you can see after an attack made with this weapon.
-
-### Magical Armor & Shields
-
-_Apply these features to ordinary armor and shields to make them a magical._
-
-- **Quick Foot.** Player can ignore Worst Roll on speed while wearing this armor/carrying this shield.
-- **Magical Resistance.** Once per an encounter, reduce a monster's damage by half.
-- **Lucky.** Once per a combat encounter, you can re-roll a defend die roll while using this armor/shield. You must use whatever the new result is.
-- **Teleport.** Once per a combat encounter, you can teleport to a different location you can see if you're attacked while wearing this armor/carrying this shield.
-
-### Charms & Talismans
-
-_Apply these features to any item to make it a magical charm or talisman._
-
-- **Lucky.** Once per non-combat encounter, you can re-roll a die roll while using wearing this item. You must use whatever the new result is.
-- **Teleport.** Once per encounter, you can teleport to a different location you can see while using wearing this item.
-- **Protection From.** Pick a type of damage (fire, ice, piercing, magical, etc.). You take half-damage on all damage from sources of that type while wearing this item.
-- **Time Warp.** Once per day, you can change the result of any die roll while wearing this item.
-- **Healing.** Once per encounter, you can heal any character up to 5 HP while wearing this charm.
-- **Guidance.** Once per day, you can take Best Roll on a non-combat die roll.
-- **Magic Armor.** While wearing this item, you get the same benefits as wearing armor, without needing to take Worst Roll on Speed rolls.
-
-### Rare Spells
-
-_These could take the form of scrolls, or secret knowledge that's shared by an NPC._
+Rare, valuable, and thought to be lost to time, learn these spells as the game progresses. These could take the form of scrolls, or secret knowledge that's shared by an NPC.
 
 - **Teleport.** You can teleport to a different location that you can see.
-- **Fireball.** Launch a ball of flames. Add an extra +3 damage.
+- **Fireball.** Launch a ball of flames. Does 2 HP damage. Can only be used once per battle.
 - **Cage.** A monster becomes restrained in a magical cage. Nothing can get in or out. The spells ends if you can no longer see the monster.
 - **Suggestion.** A monster or NPC that can hear you does what you suggest. It cannot harm itself or do anything unreasonable.
 - **Animate Objects.** Up to 8 tiny objects, 4 small objects, 2 medium objects, or 1 large object come to life. You command them for up to a minute.
@@ -103,20 +58,16 @@ _These could take the form of scrolls, or secret knowledge that's shared by an N
 
 
 
-## Creating Magic Items
+## Magic Items
 
-<p class="margin-bottom-small"><strong>Treasure Ideas</strong></p>
+Apply these features to any ordinary item to make it a magical. The item could be anything: a weapon, shield, armor, charm, necklace, or talisman.
 
-- Magical Weapons/Armor
-- Charms & Talismans
-- Gold, Gems & Artifacts
-- Rare Spells
-- Information/Opportunities
-
-<p class="margin-bottom-small"><strong>Magic items can...</strong></p>
-
-- Grant Best Roll
-- Increase attack damage
-- Reduce/heal damage
-- Change the environment
-- Change the player
+- **Unstoppable.** Once per battle, an attack with/while wearing this item automatically succeeds.
+- **Magical Resistance.** Once per battle, a defense with/while wearing this item automatically succeeds.
+- **Power.** Once per battle, do 2 HP damage on a successful attack made with/while wearing this item.
+- **Quick Foot.** Once per battle, you can hit two creatures on a successful attack roll.
+- **Lucky.** Once per encounter, you can re-roll a die roll while using/wearing this item. You must use whatever the new result is.
+- **Teleport.** Once per encounter, you can teleport to a different location you can see while using/wearing this item.
+- **Time Warp.** Once per day, you can change the result of any die roll while using/wearing this item.
+- **Healing.** Once per encounter, you can heal any character by 2 HP while using/wearing this item.
+- **Guidance.** Once per day, you can take Best Roll on a non-combat die roll.

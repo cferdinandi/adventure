@@ -19,18 +19,6 @@ They introduce situations and narrate outcomes. They throw challenges at the pla
 
 
 
-## Play to find out
-
-The key principle of Adventure comes from the game _Dungeon World_.
-
-> Play to find out what happens.
-
-You don’t know what’s going to happen until you play. Some RPGs have defined endings, a place where you want the players to end up.
-
-In Adventure, you instead create a world _with_ the players. The things they do shape it, and determine where the story goes.
-
-
-
 ## Running the Game
 
 At the start of each game, a problem or situation arises that needs the help of a group of adventurers. The Game Master reads the game introduction to the players.
@@ -68,26 +56,6 @@ Later in the game, rather than just telling players about a location, you can as
 - A pirate appears from a hidden alcove and approaches you. What does he say?
 {{</callout>}}
 
-### Alternate Start: In Media Res
-
-A fun alternative way to start the game is to throw players directly into the middle of some action, and build the world around it. This approach is called _In Media Res_.
-
-When starting a game _In Media Res_, describe the scene they find themselves in, and then ask questions to fill in the missing details.
-
-{{<callout title="Example: The Tower of the Black Pearl - In Media Res">}}
-You were walking down a spiral staircase when the stairs dropped out from beneath you. Now, you're sliding towards the bottom of the tower.
-
-The pirates that were chasing you aren't far behind, screaming as they too slide down the staircase. Water is starting to burst through cracks in the wall, and sprays you in the face as you slide.
-
-- Do you have the black pearl in your possession, or do the pirates just think you do?
-- What does the black pearl do, and why do the pirates want it?
-- One of you is injured. Who, and how are you hurt?
-- One of you made a secret deal to sell the pearl to someone else. Which one of you, to whom, and in exchange for what?
-- One of you knows one of the pirates from a previous time in your life. Who, and how do you know them?
-{{</callout>}}
-
-
-
 ### Improvising
 
 As an open-ended role-playing game, the players can take an adventure in a lot of directions. As a Game Master, you'll probably have to improvise and make stuff up as you go along.
@@ -97,41 +65,21 @@ If you're [using a pre-made adventure](/adventures), it's a good idea to read th
 <p class="margin-bottom-small"><strong>Here are some things you can do as GM.</strong></p>
 
 - Present a monster or a location challenge
-- Reveal an unwelcome truth
-- Show signs of an approaching threat
-- Deal damage
+- Reveal new information or foreshadowing
 - Use up their resources
-- Turn their move back on them
 - Separate them
 - Give an opportunity to shine
-- Show a downside to a character choice
+- Put someone in a tough spot
 - Offer an opportunity, with or without cost
-- Put someone in a spot
 - Present two choices
 
 <p class="margin-bottom-small"><strong>And here are some things you can do within a location.</strong></p>
 
 - Change the environment
-- Point to a looming threat
-- Introduce a new creature type
-- Use a threat from an existing creature
+- Introduce a new creature
 - Make them backtrack
-- Present riches… at a price
-- Present a challenge
-
-### Leave maps incomplete
-
-If you find maps helpful for visualizing spaces and helping players work through an adventure or battle, by all means use them.
-
-But don’t draw or download complete maps before the adventure starts. Leave blank spots and open space to fill in as the game progresses.
-
-Players will shape the world as they move through it. It’s important to have space to fill in new details.
-
-{{<callout title="How to Create Maps">}}
-If you want to try drawing your own maps, [Esper the Bard’s series on map-making is fantastic](https://www.youtube.com/watch?v=AeEUMCf0sys&list=PL4lwwEJ-yFaLLyVaHpqVeMUWSNe8NcXgG). You can also find tons of free maps at [Dyson Logos](https://dysonlogos.blog/maps/), and inexpensive maps and other printables at [2-Minute Tabletop](https://2minutetabletop.com/).
-
-Depending on the age and interests of your players, it might also be fun and interesting if you added a physical element to the game. You can create maps for locations by building them with blocks, or using toys and figurines for characters, monsters, and NPCS.
-{{</callout>}}
+- Present riches... at a price
+- Spring a trap
 
 ### Balancing Campaigns
 
@@ -148,57 +96,24 @@ When you first start GMing games, finding the right balance between "not too tou
 
 If players discover an item and they're not sure what it does, you can roll some dice to create a random effect. [Here's a table you can use.](/random-effects/)
 
-### Improvised Damage
-
-<p class="margin-bottom-small">Sometimes, players get hurt by the environment itself. They fall, get caught in a rock slide, or trigger a trap. Use this guide to calculate how much damage to assign.</p>
-
-- Bruises & Scrapes: 2
-- Cuts: 4
-- Broken Bones: 7
-- Deadly: 12
-
 ### Creating Quick Monsters
 
 You might need to spin up a new monster in the middle of a game. Here's a reference you can use to do that quickly. (*Alternatively, you can [browse the monster list](/monsters).*)
 
-#### Base Stats
+| Difficulty | Health | Damage   |
+|------------|--------|----------|
+| Easy       | 1 HP   | 1 damage |
+| Normal     | 2 HP   | 1 damage |
+| Hard       | 3 HP   | 1 damage |
+| Monstrous  | 4 HP   | 2 damage |
 
-| Size       | Damage   | Health |
-|------------|----------|--------|
-| Small      | 1-2 AD   | 2 HP   |
-| Medium     | 3-4 AD   | 5 HP   |
-| Large      | 7-8 AD   | 10 HP  |
-| Monsterous | 10-12 AD | 15 HP  |
-
-#### Modifiers
-
-- **Armor/Scales:** 1 Armor
-- **Heavy Armor/Scales:** 2-3 Armor
-- **Extra Tough/Resilient:** Add +3-5 HP
-- **Incredibly Strong:** +2 AD
-- **Special Abilities/Traits:** Describe them
+You might give your creatures special abilities or unique features. For creatures that attack in hordes, players can damage multiple monsters with one attack.
 
 {{<callout title="Examples">}}
-| Monster   | Size       | Damage | Health | Armor | Traits                                    |
-|-----------|------------|--------|--------|-------|-------------------------------------------|
-| Rat       | Small      | 2 AD   | 2 HP   |       |                                           |
-| Alligator | Large      | 7 AD   | 10 HP  | 1     |                                           |
-| Dragon    | Monsterous | 12 AD  | 20 HP  | 3     | _fire-breathing<br>immune to fire damage_ |
-| Hydra     | Monsterous | 12 AD  | 15 HP  | 1     | _+1 AD for each head beyond the first_    |
-{{</callout>}}
-
-#### Group Attacks
-
-If multiple monsters deal damage to a player at the same time, take the highest _Average Damage_ from among them, then add +1 to the damage for each monster that dealt damage beyond the first.
-
-For large hordes of creatures, rather than tracking each monsters's HP individually, you can create a pool. Whenever a player damages one or more of the creatures, subtract from the pool.
-
-{{<callout title="Example">}}
-A horde of a dozen rats start biting your legs. They all do 2 AD. The GM takes the 2 AD for the first rat and adds 11, one for each rat beyond the first.
-
-You cast _Wave of Thunder_, pushing the rats off you and doing 7 AD. Three of the rats lay still, knocked unconcious by the blast.
-
-_The GM subtracts 7 from the pool of 24 HP assigned to the rats._
+- **Rat**, 1 HP, attack in hordes
+- **Skeleton**, 2 HP, springs back to life after several rounds
+- **Giant Spider**, 3 HP, can shoot webs
+- **Dragon**, 4 HP, 2 damage, breathes fire
 {{</callout>}}
 
 ### Total Group Knock Out
@@ -228,7 +143,7 @@ To help this all stick, let's look at a sample game. In this game, Mercer is a k
 
 **Ashley:** While he does that, I'm going to attempt to carefully steal a few coins from the ogre's treasure while he sleeps.
 
-**GM:** Ok. Both of you make a Dexterity Rolls. Mercer, you take Worst Roll because you're wearing armor.
+**GM:** Ok. Both of you make a Agility Rolls. Mercer, you take Worst Roll because your metal armor is very creaky and clunky.
 
 **Ashley:** I rolled a 15.
 
@@ -416,6 +331,23 @@ _In this example, locations, monsters, and events are standalone items that can 
 - Is there a superpower you wish you had or a mythical place you wish you could visit? What would happen if it were real?
 - Take a look at some of the maps on [Dyson Logos](https://dysonlogos.blog/maps/) and [2-Minute Tabletop](https://2minutetabletop.com/). Imagine exploring them. What cool stuff would your adventurers find there?
 
+### Using Maps
+
+<p class="margin-bottom-small">A good map can really bring a world to life, and help players get a better sense for where they are, where they can go, and what's possible.</p>
+
+- **Ready-to-go maps** created ahead of time are useful if your game has well-defined locations
+- **Improvised maps** are built in real-time as you play, are great for games that have more improvisation or open-ended exploring.
+
+You might mix-and-match both styles in an adventure. Players may explore well-defined location, and then venture down a hidden path in a direction you didn’t plan for.
+
+You can also choose to use maps for certain areas, and nothing but your imagination and _the theater of the mind_ for others.
+
+{{<callout title="How to Create Maps">}}
+If you want to try drawing your own maps, [Esper the Bard’s series on map-making is fantastic](https://www.youtube.com/watch?v=AeEUMCf0sys&list=PL4lwwEJ-yFaLLyVaHpqVeMUWSNe8NcXgG). You can also find tons of free maps at [Dyson Logos](https://dysonlogos.blog/maps/), and inexpensive maps and other printables at [2-Minute Tabletop](https://2minutetabletop.com/).
+
+Depending on the age and interests of your players, it might also be fun and interesting if you added a physical element to the game. You can create maps for locations by building them with blocks, or using toys and figurines for characters, monsters, and NPCS.
+{{</callout>}}
+
 
 
 ## Building Immersive Worlds
@@ -424,7 +356,7 @@ Adventure is all about immersing players in a new world.
 
 You can create any type of fantasy world you want, but I’ve put together an imaginary land, [Farfaria](/farfaria), that you can use with [my premade adventures](/adventures). An intro is included with each adventure.
 
-[This video on Dungeons & Dragons GM Matt Mercer](https://www.youtube.com/watch?v=NCOHqWttXzs) is chock full of tips on how to be an awesome Game Master (warning, some R-rated language in this video).
+[This video on Dungeons & Dragons GM Matt Mercer](https://www.youtube.com/watch?v=NCOHqWttXzs) is chock full of tips on how to be an awesome Game Master (_warning, some R-rated language in this video_).
 
 <div class="fluid-vids"><iframe width="560" height="315" src="https://www.youtube.com/embed/NCOHqWttXzs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
