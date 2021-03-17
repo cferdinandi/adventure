@@ -96,7 +96,7 @@ When you first start GMing games, finding the right balance between "not too tou
 
 Under the die roll system, any action has the same probability of succeeding or failing.
 
-But some actions are inherently more difficult and harder than others. In addition to the Best Roll and Worst Roll mechanics, you can account for difficulty in complex situations by breaking each step into its own die roll.
+But some actions are inherently more difficult than others. In addition to the Best Roll and Worst Roll mechanics, you can account for difficulty in complex situations by breaking each step into its own die roll.
 
 {{<callout title="Example">}}
 A player is trying to run up to a giant, scale his 20-foot high boot, and hit him with a sword. This would involve three separate die rolls.
