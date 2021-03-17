@@ -62,12 +62,15 @@ Rare, valuable, and thought to be lost to time, learn these spells as the game p
 
 Apply these features to any ordinary item to make it a magical. The item could be anything: a weapon, shield, armor, charm, necklace, or talisman.
 
+You can also apply any spell to a magic item.
+
 - **Unstoppable.** Once per battle, an attack with/while wearing this item automatically succeeds.
 - **Magical Resistance.** Once per battle, a defense with/while wearing this item automatically succeeds.
-- **Power.** Once per battle, do 2 HP damage on a successful attack made with/while wearing this item.
+- **Accuracy.** Once per battle, do 2 HP damage on a successful attack made with/while wearing this item.
+- **Dodge.** Take Best Roll on any defensive roll.
 - **Quick Foot.** Once per battle, you can hit two creatures on a successful attack roll.
 - **Lucky.** Once per encounter, you can re-roll a die roll while using/wearing this item. You must use whatever the new result is.
 - **Teleport.** Once per encounter, you can teleport to a different location you can see while using/wearing this item.
 - **Time Warp.** Once per day, you can change the result of any die roll while using/wearing this item.
-- **Healing.** Once per encounter, you can heal any character by 2 HP while using/wearing this item.
+- **Recovery.** Once per encounter, recover 1 HP of health. while using/wearing this item.
 - **Guidance.** Once per day, you can take Best Roll on a non-combat die roll.

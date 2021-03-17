@@ -245,12 +245,9 @@ As your character goes on adventures, they’ll gain new experiences and pick up
 - _Health Increase._ Gain an extra HP (up to a max of 4).
 - _Advanced Training._ Gain an extra Specialty (up to a max of 2).
 - _Jack of all Trades._ Once per day/adventure, take Best Roll on any die roll.
-- _Accuracy._ Once per battle, do 2 HP damage on a single, successful attack.
-- _Dodge._ Take Best Roll on any defensive roll.
-- _Recovery._ Once per battle, recover 1 HP of health.
-- _Lucky._ Once per day/adventure, re-roll any die roll.
 - _Student of Magic._ Learn two common spells or one rare spell.
 - _Collector._ Acquire one magic item.
+- _Feat._ Take the feature of [a magic item](/gear#magic-items) as a natural ability.
 - _Make Your Own._ Work with your GM to create your own new feature.
 
 If you want, you can use the same character from one adventurer to the next, and bring their skills, gear, and treasure along with them.
