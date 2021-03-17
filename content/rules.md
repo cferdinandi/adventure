@@ -68,7 +68,7 @@ Any time you want to add chance to the outcome of a player action, ask them to r
 
 | D6  | Outcome                                  | D20   |
 |-----|------------------------------------------|-------|
-| 6   | Success. It worked as planned.           | 17-20 |
+| 6   | Success. It worked as planned.           | 17+   |
 | 3-5 | Partial Success. It worked, with a cost. | 9-16  |
 | 2-  | Failure. It didn't work.                 | 8-    |
 
