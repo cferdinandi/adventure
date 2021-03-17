@@ -51,7 +51,7 @@ Each player creates a character to represent them on their adventures (this is w
 The [downloads section](/downloads) includes printable character sheets to guide you through the process, as well as premade characters. You'll reference them throughout the game.
 
 - **Name & Description.** You can be anyone you want to be in adventure: an elf wizard, a fairy tinkerer, a space cowboy, a dragonfly spy. Be anything you want.
-- **Speciality.** Your character may be good at a few things, but they specialize in one: _Strength_, _Agility_, or _Cunning_. The thing you specialize in will help you complete certain types of tasks.
+- **Speciality.** Your character may be good at a few things, but they specialize in one: _Strength_, _Agility_, or _Wisdom_. The thing you specialize in will help you complete certain types of tasks.
 	+ _Strength._ Athletics, Intimidation, Feats of Strength
 	+ _Agility._ Acrobatics, Speed, Stealth, Slight of Hand
 	+ _Wisdom._ Perceiving, Knowing, Figuring Things Out
@@ -78,11 +78,11 @@ If the thing the player is trying to do is really easy or impossibly difficult, 
 
 {{<callout title="Example">}}
 
-<p class="margin-bottom-small"><strong>The player is trying to convince a wealthy noble that they're a distant relative.</strong> The noble isn't very trusting. They roll a D20.</p>
+<p class="margin-bottom-small"><strong>The player is trying to convince a wealthy noble that they're a distant relative.</strong> The noble isn't very trusting. They roll a D6.</p>
 
-- On 18 or above, the noble believes them, offering them a room in their palace and a feast in their honor.
-- On a 9 to 16, the noble reluctantly believes them, but secretly sends someone to look into their background.
-- On an 8 or less, the noble becomes angry, and has them arrested.
+- On 6, the noble believes them, offering them a room in their palace and a feast in their honor.
+- On a 3 to 5, the noble reluctantly believes them, but secretly sends someone to look into their background.
+- On an 2 or less, the noble becomes angry, and has them arrested.
 {{</callout>}}
 
 ### Best Roll & Worst Roll
@@ -106,7 +106,7 @@ Worst Roll
 : An evil wizard uses a spell to shroud the cavern in darkness, and the player cannot see them. They attempt to shoot an arrow at wizard through the darkness. The Game Master tells them to use Worst Roll.
 
 Both
-: The player who's trying to sneak up on the camp is also wearing armor, which gives them Worst Roll on Agility tasks. This cancels out the Best Roll from their specialty in Agility. They roll one die.
+: The player who's trying to sneak up on the camp is doing so in total darkness, which makes it hard for them to see and gives them Worst Roll. This cancels out the Best Roll from their specialty in Agility. They roll one die.
 {{</callout>}}
 
 ### Wisdom Checks
@@ -124,11 +124,11 @@ The players find a mysterious, glowing rock deep in a cavern. It pulses green. T
 
 > "What is this? What does it do?"
 
-<p class="margin-bottom-small"><strong>The Game Master asks for a Wisdom Check, and the player rolls a D20.</strong></p>
+<p class="margin-bottom-small"><strong>The Game Master asks for a Wisdom Check, and the player rolls a D6.</strong></p>
 
-- On an 8 or lower, they can tell it's magical, but know nothing about it's specific properties or uses.
-- On a 9 to 16, the GM tells them that they've heard rumors of a magical gem that belonged to the sorcerer of the North. It was stolen from him some years ago, and he's been looking for it every since. They don't know what it does, only that it's very valuable.
-- On an 18 or higher, the GM also tells them that it's rumored to be able to bring trees to life, if you know the right magical phrase, and can be used to create a powerful army of treefolk.
+- On an 2 or lower, they can tell it's magical, but know nothing about it's specific properties or uses.
+- On a 3 to 5, the GM tells them that they've heard rumors of a magical gem that belonged to the sorcerer of the North. It was stolen from him some years ago, and he's been looking for it every since. They don't know what it does, only that it's very valuable.
+- On a 6, the GM also tells them that it's rumored to be able to bring trees to life, if you know the right magical phrase, and can be used to create a powerful army of treefolk.
 {{</callout>}}
 
 ### Spellcasting
@@ -156,17 +156,17 @@ While much of Adventure is focused on exploring and problem solving, you can int
 - _Wisdom_, take Best Roll on magical attacks and defense.
 
 {{<callout title="Examples">}}
-**The player is trying to hit an ogre with their sword.** This is a feat of strength. They roll a D20.
+**The player is trying to hit an ogre with their sword.** This is a feat of strength. They roll a D6.
 
-- On 18 or above, the sword hits, causing the ogre to scream and stumble back a few feet.
-- On a 9 to 16, the sword hits, but the ogre swings at them at the same time slams its fist into their shoulder.
-- On an 8 or less, the sword misses, slamming into the ground beside the ogre.
+- On 6, the sword hits, causing the ogre to scream and stumble back a few feet.
+- On a 3 to 5, the sword hits, but the ogre swings at them at the same time slams its fist into their shoulder.
+- On an 2 or less, the sword misses, slamming into the ground beside the ogre.
 
-**A troll throws a giant boulder at the player, and they attempt to jump out of the way.** This requires dexterity, which the player specializes in. They roll two D20, and take Best Roll.
+**A troll throws a giant boulder at the player, and they attempt to jump out of the way.** This requires dexterity, which the player specializes in. They roll two D6, and take Best Roll.
 
-- On an 18 or above, the jump out of the way, and the boulder bounces off into the distance.
-- On a 9 to 16, they leap out of the way, but the boulder catches their sword and knocks it 20 feet away.
-- On an 8 or less, the boulder slams into them before they can jump out of the way.
+- On a 6, the jump out of the way, and the boulder bounces off into the distance.
+- On a 3 to 5, they leap out of the way, but the boulder catches their sword and knocks it 20 feet away.
+- On an 2 or less, the boulder slams into them before they can jump out of the way.
 {{</callout>}}
 
 ### Fleeing a Battle

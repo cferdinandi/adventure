@@ -134,7 +134,7 @@ This can add a really fun new aspect to the game, so don’t be afraid to get cr
 
 ## A Sample Game
 
-To help this all stick, let's look at a sample game. In this game, Mercer is a knight, and Ashley is a wizard. They're using D20 dice.
+To help this all stick, let's look at a sample game. In this game, Mercer is a knight, and Ashley is a wizard. They're using D6 dice.
 
 {{<callout>}}
 **GM:** As you enter the cave, you see a sleeping ogre curled up around a massive pile of gold. One arm rests over the pile, while his other hand gently clutches a massive wooden club. In the back of the cave, you see the baby dragon you've been sent to rescue wrapped up in an old blanket. What do you do?
@@ -145,9 +145,9 @@ To help this all stick, let's look at a sample game. In this game, Mercer is a k
 
 **GM:** Ok. Both of you make a Agility Rolls. Mercer, you take Worst Roll because your metal armor is very creaky and clunky.
 
-**Ashley:** I rolled a 15.
+**Ashley:** I rolled a 4.
 
-**Mercer:** I rolled a 12 and a 3.
+**Mercer:** I rolled a 5 and a 2.
 
 (_Ashley partially succeeds, Mercer fails._)
 
@@ -163,7 +163,7 @@ He stands up, towering a good six feet over Ashley's head. What do you do?
 
 **GM:** Ok, make a Wisdom Roll. You take Best Roll on that because you specialize in Wisdom.
 
-**Ashley:** I rolled a 7 and a 2.
+**Ashley:** I rolled a 1 and a 2.
 
 (_That's a failure._)
 
@@ -177,7 +177,7 @@ Then, he lets out a roar and swings the club down towards you. What do you do?
 
 **GM:** Excellent, make a Strength Roll, and take Best Roll because you specialize in Strength.
 
-**Mercer:** I rolled an 8 and a 19.
+**Mercer:** I rolled an 3 and a 6.
 
 (_That's a success._)
 
