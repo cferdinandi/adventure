@@ -92,6 +92,24 @@ When you first start GMing games, finding the right balance between "not too tou
 {{%/md%}}
 </div>
 
+### Accounting for Difficulty
+
+Under the die roll system, any action has the same probability of succeeding or failing.
+
+But some actions are inherently more difficult and harder than others. In addition to the Best Roll and Worst Roll mechanics, you can account for difficulty in complex situations by breaking each step into its own die roll.
+
+{{<callout title="Example">}}
+A player is trying to run up to a giant, scale his 20-foot high boot, and hit him with a sword. This would involve three separate die rolls.
+
+1. An _Agility_ roll to sneak up to the giant undetected (or avoid obstacles thrown at you while approaching).
+2. An _Agility_ roll to scale the boot without falling or getting knocked off.
+3. A _Strength_ roll to see if the hit with the sword does anything.
+
+You might also require a _Wisdom_ roll to identify which part of the boot to climb, or a blind spot where the adventurer can sneak up undetected.
+{{</callout>}}
+
+
+
 ### Random Effects
 
 If players discover an item and they're not sure what it does, you can roll some dice to create a random effect. [Here's a table you can use.](/random-effects/)
