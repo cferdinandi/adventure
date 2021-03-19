@@ -91,7 +91,7 @@ As she walks out of the square, she turns back to you and says,
 	+ {{<monster name="Spider (Giant)">}}
 	+ {{<monster name="Spider">}}
 	+ {{<monster name="Ice Monster">}}
-	+ {{<monster-custom name="Balefrost the Ice Druid" damage="7" hp="15" traits="Shoots ice from his hands. Freezes player in place on successful hit. Can turn himself into a cloud of snow once per combat.">}}
+	+ {{<monster-custom name="Balefrost the Ice Druid" hp="4" traits="Shoots ice from his hands. Freezes player in place on successful hit. Can turn himself into a cloud of snow once per combat.">}}
 {{</details>}}
 
 {{<details summary="The Race Home." blurb="After retrieving the Bell, you glance at your watch and notice you have just 42 minutes to get back to the village.">}}
