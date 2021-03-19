@@ -27,14 +27,13 @@ Here are some ready-to-play adventures, set in [the land of Farfaria](/farfaria/
 
 Want even more adventures? You can use the Adventure rule system with other RPGs. Here are some I recommend.
 
-- [Joe Banner's _Dungeon World_ Starters](https://joebanner.co.uk/category/adventures/)
 - [The Hero Kids Bundle](https://www.drivethrurpg.com/product/115827/Hero-Kids--Complete-Fantasy-PDF-Bundle-BUNDLE)
 - [Adventures in Bayhaven](https://www.drivethrurpg.com/product/165400/Adventures-in-Bayhaven-Ultimate-BUNDLE)
 - [101 Koboldz](https://www.drivethrurpg.com/product/281131/Hero-Kids--Fantasy-Premium-Adventure--101-Koboldz)
 - [In Yuletide: An Univited Guest](https://www.drivethrurpg.com/product/298178/Hero-Kids--Fantasy-Premium-Adventure--Yuletide--An-Uninvited-Guest)
 - [The Big Trouble Bundle](https://www.drivethrurpg.com/product/301410/Big-Trouble-Mammoth-Collection-BUNDLE)
 - [Dyson Logos Free Adventures](https://dysonlogos.blog/maps/adventures/)
-- [Goodman Games (_these are a bit darker/grittier_)](https://goodman-games.com/store/pdf/)
+- [Over 850 One-Page Adventures](https://www.sageadvice.eu/2016/03/22/need-an-adventure-one-page-dungeon/)
 
 
 
