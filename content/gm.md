@@ -361,7 +361,12 @@ You might mix-and-match both styles in an adventure. Players may explore well-de
 You can also choose to use maps for certain areas, and nothing but your imagination and _the theater of the mind_ for others.
 
 {{<callout title="How to Create Maps">}}
-If you want to try drawing your own maps, [Esper the Bard’s series on map-making is fantastic](https://www.youtube.com/watch?v=AeEUMCf0sys&list=PL4lwwEJ-yFaLLyVaHpqVeMUWSNe8NcXgG). You can also find tons of free maps at [Dyson Logos](https://dysonlogos.blog/maps/), and inexpensive maps and other printables at [2-Minute Tabletop](https://2minutetabletop.com/).
+**Want to try drawing your own maps?** Here are some great tutorials!
+
+- [JP Coovert's intro to world maps](https://www.youtube.com/watch?v=d1XEVzX5cxg)
+- [Esper the Bard's fantastic series on map-making](https://www.youtube.com/watch?v=AeEUMCf0sys&list=PL4lwwEJ-yFaLLyVaHpqVeMUWSNe8NcXgG)
+
+You can also find tons of free maps at [Dyson Logos](https://dysonlogos.blog/maps/), and inexpensive maps and other printables at [2-Minute Tabletop](https://2minutetabletop.com/).
 
 Depending on the age and interests of your players, it might also be fun and interesting if you added a physical element to the game. You can create maps for locations by building them with blocks, or using toys and figurines for characters, monsters, and NPCS.
 {{</callout>}}

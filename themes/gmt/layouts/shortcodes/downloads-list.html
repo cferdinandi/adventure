@@ -1,0 +1,7 @@
+<ul>
+{{ range (readDir (.Get "path")) }}
+	{{ if ne .Name ".DS_Store" }}
+	<li><a href='{{ replace ($.Get "path") "./static" "" }}{{ .Name }}'>{{ replace (replace .Name ".pdf" "") "-" " " }}</a></li>
+	{{ end }}
+{{ end }}
+</ul>
