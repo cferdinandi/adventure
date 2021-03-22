@@ -23,24 +23,6 @@ Here are some ready-to-play adventures, set in [the land of Farfaria](/farfaria/
 
 
 
-## One-Page Adventures
-
-In a one-page adventure, everything&mdash;the story hook, events, monsters, and map&mdash;are all on one page. They're really great for running quick adventures without a lot of prep.
-
-[One-Page Dungeon Contest](https://www.dungeoncontest.com/) has [a collection of over 850 one-page adventures](https://www.sageadvice.eu/2016/03/22/need-an-adventure-one-page-dungeon/). I've collected my favorites in the links below (as downloadable PDFs).
-
-{{<details summary="Best Of">}}
-{{<downloads-list path="./static/downloads/one-page-best-of/">}}
-{{</details>}}
-
-{{<details summary="Notable Mentions" margin="true">}}
-{{<downloads-list path="./static/downloads/one-page-notable/">}}
-{{</details>}}
-
-_Want to write your own one-page adventure? [Esper the Bard details how he creates his own in this video.](https://www.youtube.com/watch?v=AeEUMCf0sys)_
-
-
-
 ## Third-Party Adventures
 
 Want even more adventures? You can use the Adventure rule system with other RPGs. Here are some I recommend.
@@ -51,12 +33,15 @@ Want even more adventures? You can use the Adventure rule system with other RPGs
 - [In Yuletide: An Univited Guest](https://www.drivethrurpg.com/product/298178/Hero-Kids--Fantasy-Premium-Adventure--Yuletide--An-Uninvited-Guest)
 - [The Big Trouble Bundle](https://www.drivethrurpg.com/product/301410/Big-Trouble-Mammoth-Collection-BUNDLE)
 - [Dyson Logos Free Adventures](https://dysonlogos.blog/maps/adventures/)
+- [One-Page Dungeon Contest](https://www.dungeoncontest.com/) has [a collection of over 850 one-page adventures](https://www.sageadvice.eu/2016/03/22/need-an-adventure-one-page-dungeon/)
 
 
 
 ## Adventure Ideas
 
 Want to write your own adventure, but aren't sure where to start? Here are some ideas I haven't gotten around to writing adventures for.
+
+_I have a bunch of [tips and tricks for creating your own adventures](/gm/#how-to-create-adventures) on the GM Tips page._
 
 - A powerful sorcerer's hat is stolen, and the group has to recover it
 - The group discovers an abandoned castle, where everyone is turned to stone

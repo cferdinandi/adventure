@@ -371,6 +371,14 @@ You can also find tons of free maps at [Dyson Logos](https://dysonlogos.blog/map
 Depending on the age and interests of your players, it might also be fun and interesting if you added a physical element to the game. You can create maps for locations by building them with blocks, or using toys and figurines for characters, monsters, and NPCS.
 {{</callout>}}
 
+### One-Page Adventures
+
+In a one-page adventure, everything—the story hook, events, monsters, and map—are all on one page. They’re really great for running quick adventures without a lot of prep.
+
+[Esper the Bard details how he creates his own in this video.](https://www.youtube.com/watch?v=AeEUMCf0sys) And [JP Cooper talks about his approach here](https://www.youtube.com/watch?v=WrJL0EzQifc).
+
+You can find a collection of one-page adventures you can use as inspiration from the [One-Page Dungeon Contest](https://www.sageadvice.eu/2016/03/22/need-an-adventure-one-page-dungeon/).
+
 
 
 ## Building Immersive Worlds
