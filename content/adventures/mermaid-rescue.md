@@ -56,10 +56,10 @@ It's from Triton, king of the mermaids.
 		* The only way to unlock it is with a key forged by one of the dwarves in the Mines of the Mountain
 		* Her magical shell was stolen, and with it, the sorcerer can command an army of sea creatures to invade the land
 - _Monsters_
-	+ {{<monster name="Knight">}}
-	+ {{<monster name="Townspeople">}}
-	+ {{<monster-extend name="Enchanted Objects" display="Enchanted Broom">}}
-	+ {{<monster name="Sorcerer">}}
+	+ Knights
+	+ Townspeople
+	+ Enchanted Brooms
+	+ Sorcerer
 {{</details>}}
 
 {{<details summary="The Mines of the Mountain." blurb="Approaching the mountains, you're greeting by a gruff dwarf named Targus Balefrost. Once he learns of your need for a magic key, he informs you that you'll need to retrieve the _Torch of Hallows_ from deep within the Mines for him to complete his task.">}}
@@ -71,9 +71,9 @@ It's from Triton, king of the mermaids.
 	+ **Cavern of the Crab.** You enter another cavernous room. Bioluminescent algae casts a blue/green glow into the space, which reflects off the giant rock in the middle of the room. Towards the back of the cavern are gold coins, jewels, and what appear to be magical artifacts. Suddenly, the giant rock in the middle of the room shakes and rises. It's a giant crab!
 	+ **The Hall of the Torch of Hallows.** You see the glowing flame reflecting off the wall before you even enter the room. As you step into the space, you see it: the Torch of Hallows.
 - _Monsters_
-	+ {{<monster name="Hydra">}}
-	+ {{<monster name="Wolf">}}
-	+ {{<monster name="Crab (Giant)">}}
+	+ Hydra
+	+ Wolf
+	+ Giant Crab
 {{</details>}}
 
 {{<details summary="The Mountain Pass." blurb="A winding path through the mountains. The pass is filled with dangerous terrain, goblins, and cyclops.">}}
@@ -81,8 +81,8 @@ It's from Triton, king of the mermaids.
 	+ Players encounter rough terrain, or a cliff face that needs to be scaled
 	+ Players are ambushed by several monsters
 - _Monsters_
-	+ {{<monster name="Goblin">}}
-	+ {{<monster name="Cyclops">}}
+	+ Goblin
+	+ Cyclops
 {{</details>}}
 
 {{<details summary="The Hideout." blurb="A former mountain outpost where the sorcerer and his minions are now hiding. There's a rotting bridge traversing a rapidly moving stream that leads to the front entrance. The walls are crumbling, and the building is in heavy disrepair." margin="true">}}
@@ -90,8 +90,8 @@ It's from Triton, king of the mermaids.
 	+ A small group of Sorcerer's Apprentices ambush the players when they enter the hideout
 	+ The sorcerer is preparing to use the shell when the players find him
 - _Monsters_
-	+ {{<monster name="Sorcerer's Apprentice">}}
-	+ {{<monster name="Sorcerer">}}
+	+ Sorcerer's Apprentice
+	+ Sorcerer
 {{</details>}}
 
 

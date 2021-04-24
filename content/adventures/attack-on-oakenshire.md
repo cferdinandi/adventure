@@ -48,9 +48,9 @@ A rope ladder, out-of-reach and accessible only if someone from inside the city 
 
 ## Monsters
 
-- {{<monster name="Spider (Giant)">}}
-- {{<monster name="Centipede (Giant)">}}
-- {{<monster name="Elf">}}
+- Giant Spiders
+- Giant Centipedes
+- Elf
 
 
 

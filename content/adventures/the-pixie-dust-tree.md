@@ -54,10 +54,10 @@ A fairy wakes you from your sleep, begging for your help. She explains that ice 
 
 ## Monsters
 
-- {{<monster name="Fairy/Pixie">}}
-- {{<monster-extend name="Fairy/Pixie" display="The Elder Fairy" hp="3">}}
-- {{<monster name="Piranha">}}
-- {{<monster name="Bandit">}}
+- Fairies/Pixies
+- The Elder Fairy
+- Piranha
+- Bandit
 
 
 

@@ -150,3 +150,63 @@ As an adventurer, you’re going to get hurt from time-to-time. Cuts, bruises, a
 As your character goes on adventures, they’ll gain new experiences, pick up new skills, and find cool stuff.
 
 If you want, you can use the same character from one adventurer to the next, and bring their skills, gear, and treasure along with them.
+
+
+
+## A Sample Game
+
+To help this all stick, let's look at a sample game. In this game, Mercer is a knight, and Ashley is a wizard. They're using D6 dice.
+
+{{<callout>}}
+**GM:** As you enter the cave, you see a sleeping ogre curled up around a massive pile of gold. One arm rests over the pile, while his other hand gently clutches a massive wooden club. In the back of the cave, you see the baby dragon you've been sent to rescue wrapped up in an old blanket. What do you do?
+
+**Mercer:** I try to quietly sneak past the ogre.
+
+**Ashley:** While he does that, I'm going to attempt to carefully steal a few coins from the ogre's treasure while he sleeps.
+
+**GM:** Ok. Both of you make a roll. Mercer, you take Worst Roll because your metal armor is very creaky and clunky.
+
+**Ashley:** I rolled a 4.
+
+**Mercer:** I rolled a 5 and a 2.
+
+(_Ashley partially succeeds, Mercer fails._)
+
+**GM:** Great, thanks. Ashley carefully picks up three gold coins and tucks them into her pocket. As she reaches for a fourth, Mercer's elbow accidentally bumps into the cave wall. The metal of his armor "clangs" and reverberates through the cave, growing louder before tapering off.
+
+The ogre's eyes flutter open. He catches sight of Ashley's outstretched arm reaching for his horde. He shouts:
+
+> Just what do you think you're doing!?
+
+He stands up, towering a good six feet over Ashley's head. What do you do?
+
+**Ashley:** Umm... uh... I tell him that the coins looked dirty and I was just going to clean them for him!
+
+**GM:** Ok, make a roll. You take Best Roll on that because your character is very cunning.
+
+**Ashley:** I rolled a 1 and a 2.
+
+(_That's a failure._)
+
+**GM:** The ogre rubs the crust from his eyes, lifts the club over his head, and says:
+
+> Do you think I was born yesterday?
+
+Then, he lets out a roar and swings the club down towards you. What do you do?
+
+**Mercer:** Seeing the ogre about to crush my friend, I unhilt my sword and swing it up to meet the club before it hits her.
+
+**GM:** Excellent, roll a die.
+
+**Mercer:** I rolled a 6.
+
+(_That's a success._)
+
+**GM:** As the club rushes down toward Ashley's head, she closes her eyes and instinctively ducks. Mercer rushes between her and the ogre, unhilting his sword and swinging it up towards the club in one fluid movement.
+
+His sword meets the club inches before it hits Ashley. The ogre, caught off guard, stumbles backwards a few feet. What do you do?
+{{</callout>}}
+
+As you can see, the game is a series of choices, actions, die rolls, consequences, and next steps. Every choice the players make, and every random outcome of the dice, leads to the next logical step in the story.
+
+Adventure is a collaborative story you make up as you go.

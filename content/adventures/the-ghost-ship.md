@@ -34,9 +34,9 @@ The harbormaster has called you to the docks and asked you get the bottom of thi
 	+ A rogue wave flips the ship, trapping the adventurers in the ship upside down
 	+ Sharks, piranha, and/or a kraken attack
 - _Monsters_
-	+ {{<monster name="Shark">}}
-	+ {{<monster name="Piranha">}}
-	+ {{<monster name="Kraken">}}
+	+ Shark
+	+ Piranha
+	+ Kraken
 {{</details>}}
 
 {{<details summary="**Turtle Back Island.**" blurb="An island not marked on the map. If the adventurers decide to stop there, they don’t find any animals on the island, but do find an assortment of trees and other plants. They also see evidence that people have been there before." margin="true">}}
@@ -62,8 +62,8 @@ The harbormaster has called you to the docks and asked you get the bottom of thi
 	+ Gear starts disappearing from their packs
 	+ They keep passing the same landmarks, as if lost and walking in circles
 - _Monsters_
-	+ {{<monster name="Coconut/Pinecone Monster">}}
-	+ {{<monster name="Carnivorous Plant">}}
+	+ Coconut/Pinecone Monster
+	+ Carnivorous Plant
 {{</details>}}
 
 {{<details summary="The Tunnels of the Lost Isles" blurb="These natural tunnels appear to be formed by water erosion or old lava flows." margin="true">}}
@@ -76,10 +76,10 @@ The harbormaster has called you to the docks and asked you get the bottom of thi
 	+ A tunnel troll attacks and tries to eat them or steal their coins
 	+ An obstacle like a steep drop or water-filled section of tunnel
 - _Monsters_
-	+ {{<monster name="Slime/Ooze">}}
-	+ {{<monster name="Troll">}}
-	+ {{<monster name="Spider (Giant)">}}
-	+ {{<monster name="Ship Crew (NPC)">}}
+	+ Slime/Ooze
+	+ Troll
+	+ Giant Spider
+	+ Ship Crew (NPC)
 {{</details>}}
 
 

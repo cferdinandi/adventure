@@ -45,7 +45,7 @@ You row harder towards the island...
 - _Events_
 	+ A Wisdom Check reveals several pirates who are supposed to be keeping watching sleeping against the trees. If awoken, they'll attack. If the party doesn't notice them, they'll wake up.
 - _Monsters_
-	+ {{<monster name="Pirate">}}
+	+ Pirate
 {{</details>}}
 
 {{<details summary="The Monolith." blurb="Standing about 25' tall, the monolith is the most prominent feature on the tiny island." margin="true">}}
@@ -54,7 +54,7 @@ You row harder towards the island...
 	+ If the party gets past the door, they'll find a rope ladder leading into tunnels beneath the island.
 	+ If it takes more than 2-3 tries to open the door, or if they linger too long, and the pirates are still asleep, they'll wake up and attack.
 - _Monsters_
-	+ {{<monster name="Pirate">}}
+	+ Pirate
 {{</details>}}
 
 {{<details summary="The Hall of Illusions." blurb="Descending the rope ladder into the monolith, you find yourself inside a hallway of ornate, carved stone. Lit candles hang from sconces on both sides of the hallway. The walls are adorned with paintings depicting various scenes." margin="true">}}
@@ -69,7 +69,7 @@ You row harder towards the island...
 	+ A swarm of bats attack the players as they begin their descent.
 	+ About halfway down, the stairs drop flat, creating a slide. Players must succeed on a Dexterity roll or take 2 AD (bludgeoning).
 - _Monsters_
-	+ {{<monster name="Bat">}}
+	+ Bat
 {{</details>}}
 
 {{<details summary="Shark Fin Lake." blurb="Stepping through an large archway, you enter a massive underground cavern. Before you is a huge subterranean lake. A small rowboat with no oars is tied off on a rock. Torches affixed to the walls cast a purple light high above you. On the other side of the lake is a small stone ledge and giant iron gate in the shape of a kraken." margin="true">}}
@@ -78,8 +78,8 @@ You row harder towards the island...
 	+ The lake is filled with piranha and sharks. About halfway across, the boat will begin to sink. It fully submerges about a three-quarters of the way to the gate.
 	+ If the sharks and piranha attack, they will suddenly stop halfway through and abruptly flee the area, almost as if there's something in the water that _they're_ afraid of.
 - _Monsters_
-	+ {{<monster name="Piranha">}}
-	+ {{<monster name="Shark">}}
+	+ Piranha
+	+ Shark
 {{</details>}}
 
 {{<details summary="The Tentacle Gate." blurb="The iron gate before you is massive. About 15' up, the top of the gate is decorated with the head of a kraken. One of it's eyes is a purple gem. The other is an empty spot where one used to be. Iron tentacles twist and weave to form the arms of the gate." margin="true">}}
@@ -96,9 +96,9 @@ You row harder towards the island...
 	+ The party sees a pirate disappearing into one of the tunnels above. They're a few steps ahead of you!
 	+ The rope bridge is wobbly. The water below is filled with sharks and piranhas.
 - _Monsters_
-	+ {{<monster name="Piranha">}}
-	+ {{<monster name="Shark">}}
-	+ {{<monster name="Pirate">}}
+	+ Piranha
+	+ Shark
+	+ Pirate
 {{</details>}}
 
 {{<details summary="The Tunnels." blurb="The tunnels are winding and maze-like. Magical candles illuminate the tunnels in a dim green light. Some of the paths are dead-ends. Others bring you back out to the cavern, to one of the high-up rope bridges spanning the lake." margin="true">}}
@@ -107,9 +107,9 @@ You row harder towards the island...
 	+ Stumbling onto a crab nest, a swarm of crabs attacks the party.
 	+ A group of pirates, also lost in the tunnels, hears them coming and sets up an ambush. You can completely surprise the party, or have them succeed a Wisdom Check to detect it.
 - _Monsters_
-	+ {{<monster name="Spider">}}
-	+ {{<monster name="Crab">}}
-	+ {{<monster name="Pirate">}}
+	+ Spider
+	+ Crab
+	+ Pirate
 {{</details>}}
 
 {{<details summary="The Conch of Calling." blurb="Stepping out of yet another tunnel, you see it before you: the Conch of Calling. A rope bridge leads from the platform to another tunnel on the opposite wall. The pulsing eyes of the kraken statue grow brighter as you approach." margin="true">}}
@@ -120,8 +120,8 @@ You row harder towards the island...
 	+ The roof and walls begin caving in more severely. The entire underground complex seems to be caving in on itself.
 	+ If the players rush across the rope bridge, it collapses while they're halfway across (either on its own, or because the pirates cut the rope). On a successful Dexterity roll, they safely make it to the other side anyways. If they fail, the either fall, or hang on to the bridge and need to climb up with a successful Strength roll.
 - _Monsters_
-	+ {{<monster name="Pirate">}}
-	+ {{<monster name="Pirate Captain">}}
+	+ Pirate
+	+ Pirate Captain
 {{</details>}}
 
 {{<details summary="The Escape Tunnel." blurb="Rushing into the tunnel, you see further evidence that the entire complex is failing. Water is pooling and swirling around your feet, and appears to be rising. The soft green glow of the torches on the walls is growing dimmer. Bit of tunnel wall have caved in or sprung leaks. Can you make it out in time?" margin="true">}}
@@ -130,10 +130,10 @@ You row harder towards the island...
 	+ Suddenly, they hear a scream. On a successful Wisdom Check, they'll see the wall of water. On a failed roll, it catches them by surprise. Chest high and moving fast, the torrent slams into them and pins them _and the pirates_ to a wall where the tunnel splits in two directions. A few crabs crawl over them. A piranha clings fast to one of the pirates fingers. If they succeeded on the Wisdom roll, they're still pushed into the wall but take no damage. If they failed, they take 2 AD (bludgeoning).
 	+ On a successful Strength roll, players will be able to push themselves free and get carries with the torrent down the tunnel, which plunges them into darkness as all of the torches snuff out.
 - _Monsters_
-	+ {{<monster name="Pirate">}}
-	+ {{<monster name="Pirate Captain">}}
-	+ {{<monster name="Crab">}}
-	+ {{<monster name="Piranha">}}
+	+ Pirate
+	+ Pirate Captain
+	+ Crab
+	+ Piranha
 {{</details>}}
 
 {{<details summary="The Open Ocean." blurb="You stop spinning and float, weightless. An eerie silence and faint, dancing light surround you. Opening your eyes, you realize you're in open ocean, about 20' below the surface." margin="true">}}

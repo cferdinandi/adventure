@@ -75,18 +75,18 @@ In the middle of the room, a narrow set of stairs leads downward and curves to t
 
 ## Monsters
 
-- {{<monster name="Spider (Giant)">}}
-- {{<monster name="Spider">}}
-- {{<monster name="Bat">}}
-- {{<monster name="Rat">}}
-- {{<monster name="Centipede (Giant)">}}
-- {{<monster name="Snake (Giant)">}}
-- {{<monster name="Gargoyle">}}
-- {{<monster name="Ogre">}}
-- {{<monster name="Rock Monster">}}
-- {{<monster name="Troll">}}
-- {{<monster name="Hydra">}}
-- {{<monster-extend name="Sorcerer" display="Shadowhorn Kraghammer the Sorcerer" traits="Can _undo_ a player action twice per battle. Can slow time and move himself out of the way twice per combat.">}}
+- Giant Spider
+- Spiderlings
+- Bats
+- Rats
+- Giant Centipedes
+- Giant Snake
+- Gargoyle
+- Ogre
+- Rock Monster
+- Troll
+- Hydra
+- Shadowhorn Kraghammer the Sorcerer (can slow and reverse time)
 
 
 

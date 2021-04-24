@@ -20,9 +20,9 @@ Keeping with the tradition of past editions, the rules have been even further si
 
 ## Past Version
 
-- [Version 6](/v6)
-- [Version 5](/v5)
-- [Version 4](/v4)
-- [Version 3](/v3)
-- [Version 2](/v2)
-- [Version 1](/v1)
+- [6th Edition](/v6)
+- [5th Edition](/v5)
+- [4th Edition](/v4)
+- [3rd Edition](/v3)
+- [2nd Edition](/v2)
+- [Original](/v1)

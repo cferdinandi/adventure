@@ -67,11 +67,11 @@ The King that the players meet is actually an imposter. He and his guards are a 
 
 If you want to explore complex morality and the gray area of political disagreements, the adventurers can learn through NPCs that the land Atlantis is built on actually belonged to the crustaceans. It was stolen so that Atlantis could mine the Altantium. While they flourished, the crustacean empire has suffered in poverty for millennia.
 
-- {{<monster-custom name="Atlantean Citizen" hp="1">}}
-- {{<monster-custom name="Atlantean Guards" hp="3">}}
-- {{<monster-custom name="Atlantean King" hp="2" traits="Good persuasion and deceit.">}}
-- {{<monster-custom name="Crab Guards" hp="4" traits="Pinching Grasp: on successful attack, player is grappled and cannot move.">}}
-- {{<monster-custom name="Crab King (Imposter)" hp="3" traits="Shapeshifting.">}}
+- Atlantean Citizen
+- Atlantean Guards
+- Atlantean King
+- Crab Guards
+- Crab King (Imposter)
 
 
 
