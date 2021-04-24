@@ -105,7 +105,7 @@ You might also require a roll to identify which part of the boot to climb, or a 
 
 
 
-## Creating Quick Monsters
+## Creating Monsters
 
 You might need to spin up a new monster in the middle of a game. Here's a reference you can use to do that quickly.
 
@@ -116,12 +116,97 @@ You might need to spin up a new monster in the middle of a game. Here's a refere
 
 You might give your creatures special abilities or unique features. For creatures that attack in hordes, players can damage multiple monsters with one attack.
 
+{{<details summary="Monster Ideas" margin="true">}}
+<div class="list-columns">
+{{%md%}}
+- Rat
+- Bat
+- Spider
+- Scorpion
+- Goblin
+- Ogre
+- Troll
+- Slime/Ooze
+- Skeleton
+- Wolf
+- Bear
+- Treefolk
+- Carnivorous Plant
+- Giant Toad
+- Snake
+- Fairy/Pixie
+- Giant Eagle
+- Clockwork Golem
+- Mammoth
+- Pirate
+- Bandit
+- Kobold
+- Gargoyle
+- Basilisk
+- Centaur
+- Knight
+- Shark
+- Yeti
+- Hydra
+- Dragon
+- Sorcerer
+- Witch
+- Lava Monster
+- Rock Monster
+- Ice Monster
+- Kraken
+{{%/md%}}
+</div>
+{{</details>}}
+
 {{<callout title="Examples">}}
 - **Rat**, 1 HP, attack in hordes
 - **Skeleton**, 2 HP, springs back to life after several rounds
 - **Giant Spider**, 3 HP, can shoot webs
 - **Dragon**, 4 HP, breathes fire
 {{</callout>}}
+
+
+
+## Creating Spells & Magic Items
+
+Magic is everywhere in Adventure. As players explore and complete quests, you might reward them with new spells and magic items.
+
+Common magic can be used at-will. More rare magic should be restricted in some way: maybe it can only be cast once per day, or it requires a special, rare item (like a phoenix feather) to use.
+
+Here are some ideas to help you get started.
+
+{{<details summary="Common Magic">}}
+- **Magic Missiles.** A blast of magic energy shoots from your hands or magic item.
+- **Wave of Thunder.** A wave of sound shoots out from you, pushing everyone near you 15' back and doing damage.
+- **Identify Object.** You can take Best Roll while trying to determine what an object is and what it does.
+- **Sleep.** Make one large monster, two medium ones, or four small ones fall asleep.
+- **Illusion.** You create a small illusory sight or sound that lasts for about a minute.
+- **Heal.** Heal 1 HP on a creature you can touch.
+- **Tangle of Vines.** A tangle of vines 15' wide grows and restrains any creatures in the area.
+- **Speak with Nature.** Place your hands on an animal, plant, body of water, stone, or other natural element and learn about recent events from it.
+{{</details>}}
+
+{{<details summary="Rare Magic" margin="true">}}
+- **Teleport.** You can teleport to a different location that you can see.
+- **Fireball.** Launch a ball of flames. Does 2 HP damage. Can only be used once per battle.
+- **Cage.** A monster becomes restrained in a magical cage. Nothing can get in or out. The spells ends if you can no longer see the monster.
+- **Suggestion.** A monster or NPC that can hear you does what you suggest. It cannot harm itself or do anything unreasonable.
+- **Animate Objects.** Up to 8 tiny objects, 4 small objects, 2 medium objects, or 1 large object come to life. You command them for up to a minute.
+- **Flight.** A creature you can touch (including yourself) gains the ability to fly for two minutes. If it's still flying when the spell ends, it falls.
+- **Shapeshift.** You can transform into an animal. You have all of the physical characteristics of the animal, but your own mind and thoughts. You cannot speak.
+- **Weather Weaver.** Manipulate the weather to your liking. Weather must be area-appropriate. No snowstorm in a desert, for example.
+- **Elemental Storm.** A storm of hail, fire, or lightning rains down from the sky, doing damage.
+- **Diguise.** You can make yourself look and sound like someone else you've seen and heard before.
+- **Invisible.** You can make yourself and anything you carry invisible for one minute.
+- **Message.** You can send a secret message to someone else with your mind, and they can respond.
+{{</details>}}
+
+
+
+## Fleeing a Battle
+
+Every now and then, players may find themselves in a battle they just can't win. Players can choose to flee a battle at any time, including in the middle of one.
 
 
 
@@ -152,7 +237,7 @@ To help this all stick, let's look at a sample game. In this game, Mercer is a k
 
 **Ashley:** While he does that, I'm going to attempt to carefully steal a few coins from the ogre's treasure while he sleeps.
 
-**GM:** Ok. Both of you make a Agility Rolls. Mercer, you take Worst Roll because your metal armor is very creaky and clunky.
+**GM:** Ok. Both of you make a roll. Mercer, you take Worst Roll because your metal armor is very creaky and clunky.
 
 **Ashley:** I rolled a 4.
 
@@ -170,7 +255,7 @@ He stands up, towering a good six feet over Ashley's head. What do you do?
 
 **Ashley:** Umm... uh... I tell him that the coins looked dirty and I was just going to clean them for him!
 
-**GM:** Ok, make a Wisdom Roll. You take Best Roll on that because you specialize in Wisdom.
+**GM:** Ok, make a roll. You take Best Roll on that because your character is very cunning.
 
 **Ashley:** I rolled a 1 and a 2.
 
@@ -184,9 +269,9 @@ Then, he lets out a roar and swings the club down towards you. What do you do?
 
 **Mercer:** Seeing the ogre about to crush my friend, I unhilt my sword and swing it up to meet the club before it hits her.
 
-**GM:** Excellent, make a Strength Roll, and take Best Roll because you specialize in Strength.
+**GM:** Excellent, roll a die.
 
-**Mercer:** I rolled an 3 and a 6.
+**Mercer:** I rolled a 6.
 
 (_That's a success._)
 
@@ -401,3 +486,16 @@ Games of Adventure can take as little as 30 minutes, or can last several hours.
 As the Game Master, you have a lot of control over the length and complexity of each game. You can add more monsters and optional encounters, adjust Difficulty Rating for encounters up or down, and save the day with non-player characters you introduce to the game.
 
 You can also spread an adventure over several sessions, stopping after an encounter, and picking things back up another time.
+
+
+
+## House Rules
+
+House rules are strongly encouraged in Adventure. Here are some ideas you may want to adapt to your game.
+
+<div class="list-spaced">
+{{%md%}}
+- **Pets.** Pets can be small and sensible (a cat, dog, or woodland creature) or large and absurd (a dinosaur, dragon, or elephant). A player’s pet can be used to get them out of a tough situation, as a weapon in battle, or just for added flavor and interest in role playing.
+- **Tinkering.** If you have an adventurer who loves to build things and has a big imagination, tinkering is an awesome special skill. A tinkerer can build small creations from bits of scrap metal and wood. They stop working after a short amount of time.
+{{%/md%}}
+</div>

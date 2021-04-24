@@ -52,8 +52,6 @@ Each player creates a character to represent them on their adventures (this is w
 
 The [downloads section](/downloads) includes premade characters if you need examples or want to start playing immediately.
 
-<!-- @TODO: move to GM page. _Players may want to use a toy, figurine, or paper cut-out to represent their character while they play._ -->
-
 
 
 ## Actions & Deciding Outcomes
@@ -112,14 +110,6 @@ Worst Roll
 : An evil wizard uses a spell to shroud the cavern in darkness, and the player cannot see them. They attempt to shoot an arrow at wizard through the darkness. They're at a disadvantage, and take the worse roll of two dice.
 {{</callout>}}
 
-<!-- @TODO move to GM page
-
-Fleeing a Battle
-
-Every now and then, players may find themselves in a battle they just can't win.
-
-Players can choose to flee a battle at any time, including in the middle of one. The Game Master may require a die roll to determine what happens. -->
-
 ### Teamwork
 
 Adventure is a cooperative, team game. The more you work together, the more likely you are to succeed.
@@ -160,62 +150,3 @@ As an adventurer, you’re going to get hurt from time-to-time. Cuts, bruises, a
 As your character goes on adventures, they’ll gain new experiences, pick up new skills, and find cool stuff.
 
 If you want, you can use the same character from one adventurer to the next, and bring their skills, gear, and treasure along with them.
-
-
-
-
-<!-- @TODO add to GM guide
-
-## House Rules
-
-House rules are strongly encouraged in Adventure. Here are some ideas you may want to adapt to your game.
-
-### Pets
-
-For added fun, characters can have a pet that accompanies them on their adventures and helps them along the way. This can add a fun dimension to the game.
-
-Pets can be small and sensible (a cat, dog, or woodland creature) or large and absurd (a dinosaur, dragon, or elephant). A player’s pet can be used to get them out of a tough situation, as a weapon in battle, or just for added flavor and interest in role playing.
-
-{{<callout title="Example">}}
-Quill didn't expect the rope to snap on the sharp edge of the well, or he never would have come down here by himself.
-
-Fortunately, he brought along Geoffrey, his pet rat. He instructed Geoffrey to scurry up the wall and find help.
-
-_Roll to see what happens._
-{{</callout>}}
-
-
-### Tinkering
-
-If you have an adventurer who loves to build things and has a big imagination, tinkering is an awesome special skill. A tinkerer can build small creations from bits of scrap metal and wood.
-
-**Here’s how it works.**
-
-- Tinkered items can be robotic toys, weapons, tools, and more.
-- Tinkered items are small and fragile, and stop working after a few turns.
-- Only one tinkered item can exist at a time.
-- The parts from a tinkered item can be reclaimed to build another (either after it break, or when the adventurer decides they’d like to build something else).
-
-The Game Master may choose to have the adventurer first acquire a tinker kit: gears, bits of scrap metal, and some small tools from a shopkeeper in the game.
-
-
-### Chaos Magic
-
-For added fun, you can introduce magical items that randomly unleash a surge of chaotic magic and create random effects.
-
-<p class="margin-bottom-small"><strong>Some things that can cause chaos magic:</strong></p>
-
-- Wands, staffs, and magical talismans, when used to cast spells or conjure abilities
-- Weapons and armor, when used in battle
-- Potions and herbs of unknown origin, when consumed
-
-You don't need to have random effects occur _every_ time the item is used. In fact, it's probably more fun if it happens occasionally. If you want, you can flip a coin.
-
-**[Here's a list of random effects you can use.](/random-effects/)** Roll some dice to pick one at random.
-
-{{<callout title="Introducing Chaos Magic Items">}}
-Chaos magic items can be items that the players find in their travels, or they could be given to the players by the quest giver before they start their adventure.
-
-> I borrowed some tools and supplies from Piper Skiprock, the wizard inventor, to aid you on your quest. He insisted that they're not finished yet, but they'll have be good enough for now. Time is of the essence...
-
-{{</callout>}} -->
