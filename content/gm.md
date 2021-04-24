@@ -1,5 +1,5 @@
 ---
-title: "Game Master Tips"
+title: "Game Master Guide"
 date: 2018-01-11T16:03:33-05:00
 draft: false
 ---
@@ -11,19 +11,24 @@ _You can find a [one-page GM cheatsheet on the downloads page](/downloads)._
 <div data-toc="Table of Content"></div>
 
 
+
 ## The Role of the Game Master
 
 The GM runs the game, and is generally _not_ a player themselves (though they can be).
 
 They introduce situations and narrate outcomes. They throw challenges at the players. They narrate the world and the creatures in it. The GM's job to keep the pacing, action, and suspense at the right level for the skills and age-level of your players.
 
+**Adventure is all about creating a shared story for the players.** Give them a chance to do epic things.
 
 
-## Running the Game
+
+## Starting the Game
 
 At the start of each game, a problem or situation arises that needs the help of a group of adventurers. The Game Master reads the game introduction to the players.
 
-Feel free to use toys, props, sketches/drawings, and fun voices to add to the excitement and mystery.
+You can make your life a lot easier as a GM, and get your players far more engaged in the game, by asking them questions about why they're there, and what they've heard about the problem or situation. You can work these hooks into the story and use them to fill in missing details.
+
+_Feel free to use toys, props, sketches/drawings, and fun voices to add to the excitement and mystery._
 
 {{<callout title="Example: The Tower of the Black Pearl">}}
 Once a decade, the tides are low enough that the underwater tower of a late, powerful wizard peaks out from the sea for just eight hours. Tonight, it's spire crested the waves.
@@ -31,32 +36,18 @@ Once a decade, the tides are low enough that the underwater tower of a late, pow
 You're in a boat, rowing towards it, in the hopes of retrieving the magical black pearl rumored to be hidden inside. Many adventurers have tried over the centuries. None have made it out alive.
 
 Suddenly, in the distance, you catch sight of it: the Tower of the Black Pearl, peaking out from the depths of the sea.
-{{</callout>}}
 
-### Ask Questions
-
-You can make your life a lot easier as a GM, and get your players far more engaged in the game, by asking them questions about the world.
-
-At the start of a game, ask the players why they're there, and what they've heard about the problem or situation. You can work these hooks into the story and use them to fill in missing details.
-
-Later in the game, rather than just telling players about a location, you can ask them what _they_ see.
-
-{{<callout title="Examples">}}
-
-<p class="margin-bottom-small"><strong>At the start of a game:</strong></p>
+<p class="margin-bottom-small"><strong>Questions:</strong></p>
 
 - Why are you interested in the black pearl?
 - What have you heard about the wizard who used to live here?
 - Do you know of anyone else who might be interested in it?
 - What creatures and traps do you think await within?
-
-<p class="margin-bottom-small"><strong>During a game:</strong></p>
-
-- The tunnel you're in suddenly forks into three small tunnels. Looking around and glancing down each one, what do you see?
-- A pirate appears from a hidden alcove and approaches you. What does he say?
 {{</callout>}}
 
-### Improvising
+
+
+## Improvising
 
 As an open-ended role-playing game, the players can take an adventure in a lot of directions. As a Game Master, you'll probably have to improvise and make stuff up as you go along.
 
@@ -81,18 +72,9 @@ If you're [using a pre-made adventure](/adventures), it's a good idea to read th
 - Present riches... at a price
 - Spring a trap
 
-### Balancing Campaigns
 
-When you first start GMing games, finding the right balance between "not too tough" and "not too boring" can be hard. There are a few things you can do to help balance games in real-time as you play.
 
-<div class="list-spaced">
-{{%md%}}
-- **Bring in NPCs.** An NPC (or _Non-Player Character_) is a character the GM controls. If players are missing things while exploring, getting stuck on challenges, or struggling in battle, a friendly NPC can help point things out and and give them much needed aid. If they're finding things too easy, a troublesome NPC can slow them down and create more of a challenge.
-- **Hold monsters back.** Rather than sending in _all the monsters_ at once, send in a few and see how the players handle them. If it's too easy, you can send in a second-wave of attackers while they're fighting the first. If it's just right, you can wait until the first wave is done, or skip the second-wave altogether.
-{{%/md%}}
-</div>
-
-### Accounting for Difficulty
+## Accounting for Difficulty
 
 Under the die roll system, any action has the same probability of succeeding or failing.
 
@@ -105,36 +87,40 @@ A player is trying to run up to a giant, scale his 20-foot high boot, and hit hi
 2. An _Agility_ roll to scale the boot without falling or getting knocked off.
 3. A _Strength_ roll to see if the hit with the sword does anything.
 
-You might also require a _Wisdom_ roll to identify which part of the boot to climb, or a blind spot where the adventurer can sneak up undetected.
+You might also require a roll to identify which part of the boot to climb, or a blind spot where the adventurer can sneak up undetected.
 {{</callout>}}
 
 
 
-### Random Effects
+## Make Failure Interesting
 
-If players discover an item and they're not sure what it does, you can roll some dice to create a random effect. [Here's a table you can use.](/random-effects/)
+Statistically, failed die rolls will happen about a third of the time a player rolls. Even when a player fails a roll, something should still _happen_.
 
-### Creating Quick Monsters
-
-You might need to spin up a new monster in the middle of a game. Here's a reference you can use to do that quickly. (*Alternatively, you can [browse the monster list](/monsters).*)
-
-| Difficulty | Health | Damage   |
-|------------|--------|----------|
-| Easy       | 1 HP   | 1 damage |
-| Normal     | 2 HP   | 1 damage |
-| Hard       | 3 HP   | 1 damage |
-| Monstrous  | 4 HP   | 2 damage |
-
-You might give your creatures special abilities or unique features. For creatures that attack in hordes, players can damage multiple monsters with one attack.
+Otherwise, it's boring and disappointing.
 
 {{<callout title="Examples">}}
-- **Rat**, 1 HP, attack in hordes
-- **Skeleton**, 2 HP, springs back to life after several rounds
-- **Giant Spider**, 3 HP, can shoot webs
-- **Dragon**, 4 HP, 2 damage, breathes fire
+- The player fails to pick the lock on the chest. It unleashes a curse, freezing the player in place!
+- The player tries to jump across a cliff and fails the roll. They slam into the cliff wall and fall onto a ledge 20 feet down. They think they've escaped the worst of it... until the ledge starts to shift and crack under their weight.
 {{</callout>}}
 
-### Total Group Knock Out
+
+
+## Balancing Campaigns
+
+When you first start GMing games, finding the right balance between "not too tough" and "not too boring" can be hard. There are a few things you can do to help balance games in real-time as you play.
+
+<div class="list-spaced">
+{{%md%}}
+- **Bring in NPCs.** An NPC (or _Non-Player Character_) is a character the GM controls. If players are missing things while exploring, getting stuck on challenges, or struggling in battle, a friendly NPC can help point things out and and give them much needed aid. If they're finding things too easy, a troublesome NPC can slow them down and create more of a challenge.
+- **Hold monsters back.** Rather than sending in _all the monsters_ at once, send in a few and see how the players handle them. If it's too easy, you can send in a second-wave of attackers while they're fighting the first. If it's just right, you can wait until the first wave is done, or skip the second-wave altogether.
+{{%/md%}}
+</div>
+
+Every now and then, players may find themselves in a battle they just can't win. Players can choose to flee a battle at any time, including in the middle of one.
+
+
+
+## Total Group Knock Out
 
 If every member of a group loses all of their health points, that’s a called a _Total Group Knock Out (or TGKO)_.
 
@@ -142,7 +128,7 @@ A TGKO can happen if the difficulty of a particular challenge isn’t properly b
 
 <p class="margin-bottom-small"><strong>Since a TGKO would otherwise stop the adventure in its tracks, the Game Master can use their creativity to save players from this situation.</strong></p>
 
-- A pet belonging to one of the players (see [House Rules](/rules/#pets)) runs off and returns with healing potion, or a non-player character that can help.
+- A pet belonging to one of the players runs off and returns with healing potion, or a non-player character that can help.
 - Players awaken some unknown time later. The monster is gone, along with what they were looking for and a bunch of their gear and items.
 - Players awaken to find themselves trapped in a locked room, unsure of where they are or how they got there. They must use their skills and items they can find in there surroundings to escape.
 
@@ -150,69 +136,7 @@ This can add a really fun new aspect to the game, so don’t be afraid to get cr
 
 
 
-## A Sample Game
-
-To help this all stick, let's look at a sample game. In this game, Mercer is a knight, and Ashley is a wizard. They're using D6 dice.
-
-{{<callout>}}
-**GM:** As you enter the cave, you see a sleeping ogre curled up around a massive pile of gold. One arm rests over the pile, while his other hand gently clutches a massive wooden club. In the back of the cave, you see the baby dragon you've been sent to rescue wrapped up in an old blanket. What do you do?
-
-**Mercer:** I try to quietly sneak past the ogre.
-
-**Ashley:** While he does that, I'm going to attempt to carefully steal a few coins from the ogre's treasure while he sleeps.
-
-**GM:** Ok. Both of you make a Agility Rolls. Mercer, you take Worst Roll because your metal armor is very creaky and clunky.
-
-**Ashley:** I rolled a 4.
-
-**Mercer:** I rolled a 5 and a 2.
-
-(_Ashley partially succeeds, Mercer fails._)
-
-**GM:** Great, thanks. Ashley carefully picks up three gold coins and tucks them into her pocket. As she reaches for a fourth, Mercer's elbow accidentally bumps into the cave wall. The metal of his armor "clangs" and reverberates through the cave, growing louder before tapering off.
-
-The ogre's eyes flutter open. He catches sight of Ashley's outstretched arm reaching for his horde. He shouts:
-
-> Just what do you think you're doing!?
-
-He stands up, towering a good six feet over Ashley's head. What do you do?
-
-**Ashley:** Umm... uh... I tell him that the coins looked dirty and I was just going to clean them for him!
-
-**GM:** Ok, make a Wisdom Roll. You take Best Roll on that because you specialize in Wisdom.
-
-**Ashley:** I rolled a 1 and a 2.
-
-(_That's a failure._)
-
-**GM:** The ogre rubs the crust from his eyes, lifts the club over his head, and says:
-
-> Do you think I was born yesterday?
-
-Then, he lets out a roar and swings the club down towards you. What do you do?
-
-**Mercer:** Seeing the ogre about to crush my friend, I unhilt my sword and swing it up to meet the club before it hits her.
-
-**GM:** Excellent, make a Strength Roll, and take Best Roll because you specialize in Strength.
-
-**Mercer:** I rolled an 3 and a 6.
-
-(_That's a success._)
-
-**GM:** As the club rushes down toward Ashley's head, she closes her eyes and instinctively ducks. Mercer rushes between her and the ogre, unhilting his sword and swinging it up towards the club in one fluid movement.
-
-His sword meets the club inches before it hits Ashley. The ogre, caught off guard, stumbles backwards a few feet. What do you do?
-{{</callout>}}
-
-As you can see, the game is a series of choices, actions, die rolls, consequences, and next steps. Every choice the players make, and every random outcome of the dice, leads to the next logical step in the story.
-
-Most stories have a natural arch to them, but it's important to not force a specific direction if the players' actions lead it somewhere else.
-
-Adventure is a collaborative story you make up as you go. Lean into it.
-
-
-
-## How to Create Adventures
+## How to Create Your Own Adventures
 
 You can get by for a long time on [pre-made adventures](/adventures). But eventually, you may want to create your own.
 
@@ -245,15 +169,15 @@ You don't need to have _all_ the details figured out, though. A lot of blanks ca
 <p class="margin-bottom-small">Here are the key things you want to work out:</p>
 
 - Some initial locations the players might visit
-- Some monsters they may encounter
+- Some monsters and traps they may encounter
 - Some events that might happen, based on what the players do in the world
 - Some questions you might want to answer about the situation while playing
 
-_Monsters and events can be tied to specific locations, or be standalone challenges you use to help improvise if players go off the beaten path._
+_Monsters, traps, and events can be tied to specific locations, or be standalone challenges you use to help improvise if players go off the beaten path. You can find more details on [creating monsters](#creating-monsters) and [creating traps](#creating-traps) later in this guide._
 
 {{<callout title="Example 1: The Sorcerer's Gem">}}
 
-_In this example, monsters and events are connected to specific locations._
+In this example, monsters and events are connected to specific locations.
 
 {{<details summary="View Details">}}
 
@@ -297,7 +221,7 @@ _In this example, monsters and events are connected to specific locations._
 
 {{<callout title="Example 2: The Tower of the Black Pearl">}}
 
-_In this example, locations, monsters, and events are standalone items that can be mixed-and-matched while you play._
+In this example, locations, monsters, and events are standalone items that can be mixed-and-matched while you play.
 
 {{<details summary="View Details">}}
 
@@ -349,35 +273,237 @@ _In this example, locations, monsters, and events are standalone items that can 
 - Is there a superpower you wish you had or a mythical place you wish you could visit? What would happen if it were real?
 - Take a look at some of the maps on [Dyson Logos](https://dysonlogos.blog/maps/) and [2-Minute Tabletop](https://2minutetabletop.com/). Imagine exploring them. What cool stuff would your adventurers find there?
 
-### Using Maps
 
-<p class="margin-bottom-small">A good map can really bring a world to life, and help players get a better sense for where they are, where they can go, and what's possible.</p>
 
-- **Ready-to-go maps** created ahead of time are useful if your game has well-defined locations
+## Creating Monsters
+
+In Adventure, a _monster_ is any villain (not just humanoid ones). Like player characters, monsters have HP and get knocked out when it reaches zero.
+
+<p class="margin-bottom-small">Assign HP to monsters based on their difficulty.</p>
+
+- **Easy:** 1 HP
+- **Normal:** 2 HP
+- **Hard:** 3 HP
+- **Monstrous:** 4 HP
+
+You might also give your creatures special abilities or unique features. For creatures that attack in hordes, players can damage multiple monsters with one attack.
+
+{{<details summary="Monster Ideas" margin="true">}}
+<div class="row margin-bottom">
+	<div class="grid-third">
+		<ul class="no-margin-bottom">
+			<li>Rat</li>
+			<li>Bat</li>
+			<li>Spider</li>
+			<li>Scorpion</li>
+			<li>Goblin</li>
+			<li>Ogre</li>
+			<li>Troll</li>
+			<li>Slime/Ooze</li>
+			<li>Skeleton</li>
+			<li>Wolf</li>
+			<li>Bear</li>
+			<li>Treefolk</li>
+		</ul>
+	</div>
+	<div class="grid-third">
+		<ul class="no-margin-bottom">
+			<li>Carnivorous Plant</li>
+			<li>Giant Toad</li>
+			<li>Snake</li>
+			<li>Fairy/Pixie</li>
+			<li>Giant Eagle</li>
+			<li>Clockwork Golem</li>
+			<li>Mammoth</li>
+			<li>Pirate</li>
+			<li>Bandit</li>
+			<li>Kobold</li>
+			<li>Gargoyle</li>
+			<li>Basilisk</li>
+		</ul>
+	</div>
+	<div class="grid-third">
+		<ul class="no-margin-bottom">
+			<li>Centaur</li>
+			<li>Knight</li>
+			<li>Shark</li>
+			<li>Yeti</li>
+			<li>Hydra</li>
+			<li>Dragon</li>
+			<li>Sorcerer</li>
+			<li>Witch</li>
+			<li>Lava Monster</li>
+			<li>Rock Monster</li>
+			<li>Ice Monster</li>
+			<li>Kraken</li>
+		</ul>
+	</div>
+</div>
+
+_You can also get random monster ideas from [Kobold Fight Club](https://kobold.club/fight/#/encounter-builder)._
+{{</details>}}
+
+{{<callout title="Examples">}}
+- **Rat**, 1 HP, attack in hordes
+- **Skeleton**, 2 HP, springs back to life after several rounds
+- **Giant Spider**, 3 HP, can shoot webs
+- **Dragon**, 4 HP, breathes fire
+{{</callout>}}
+
+
+
+## Creating Traps
+
+Traps are obstacles that the players must overcome to move forward.
+
+They often catch players off-guard, like a trap door or collapsing bridge. They can also be simple obstacles the players can see, like a locked door or an icy pass.
+
+For surprise traps, you might require a roll from players to see if they notice the trap or are able to avoid being hurt by it. With obstacles, you might add more dangers after a certain amount of time or number of failures.
+
+{{<details summary="Trap Ideas" margin="true">}}
+<div class="row">
+	<div class="grid-third">
+		<ul class="no-margin-bottom">
+			<li>Darts/Arrows</li>
+			<li>Collapsing Bridge</li>
+			<li>Trap Door</li>
+			<li>Crushing Rock</li>
+			<li>Room Floods</li>
+			<li>Quick Sand</li>
+		</ul>
+	</div>
+	<div class="grid-third">
+		<ul class="no-margin-bottom">
+			<li>Lightning Stones</li>
+			<li>Darkness/Fog</li>
+			<li>Ice</li>
+			<li>Lava</li>
+			<li>Fire Statues</li>
+			<li>Illusions</li>
+		</ul>
+	</div>
+	<div class="grid-third">
+		<ul class="no-margin-bottom">
+			<li>Gas</li>
+			<li>Shifting Walls</li>
+			<li>Magic Inhibitor</li>
+			<li>Earth Tremors</li>
+			<li>Animated Objects</li>
+			<li>Ambush</li>
+		</ul>
+	</div>
+</div>
+{{</details>}}
+
+{{<callout title="Examples">}}
+- **As you make your way through the dungeon, a trap door opens up beneath you.** Roll to see if you can jump to the other side instead of falling in.
+- **The door in front of you is locked.** You failed to pick it open twice already. The third time you fail, the door on the opposite end slams shut and the room suddenly starts flooding with water.
+{{</callout>}}
+
+
+
+## Creating Spells & Magic Items
+
+Magic is everywhere in Adventure. As players explore and complete quests, you might reward them with new spells and magic items.
+
+Common magic can be used at-will. More rare magic should be restricted in some way: maybe it can only be cast once per day, or it requires a special, rare item (like a phoenix feather) to use.
+
+Here are some ideas to help you get started.
+
+{{<details summary="Common Magic">}}
+- **Magic Missiles.** A blast of magic energy shoots from your hands or magic item.
+- **Wave of Thunder.** A wave of sound shoots out from you, pushing everyone near you 15' back and doing damage.
+- **Identify Object.** You can take Best Roll while trying to determine what an object is and what it does.
+- **Sleep.** Make one large monster, two medium ones, or four small ones fall asleep.
+- **Illusion.** You create a small illusory sight or sound that lasts for about a minute.
+- **Heal.** Heal 1 HP on a creature you can touch.
+- **Tangle of Vines.** A tangle of vines 15' wide grows and restrains any creatures in the area.
+- **Speak with Nature.** Place your hands on an animal, plant, body of water, stone, or other natural element and learn about recent events from it.
+{{</details>}}
+
+{{<details summary="Rare Magic" margin="true">}}
+- **Teleport.** You can teleport to a different location that you can see.
+- **Fireball.** Launch a ball of flames. Does 2 HP damage. Can only be used once per battle.
+- **Cage.** A monster becomes restrained in a magical cage. Nothing can get in or out. The spells ends if you can no longer see the monster.
+- **Suggestion.** A monster or NPC that can hear you does what you suggest. It cannot harm itself or do anything unreasonable.
+- **Animate Objects.** Up to 8 tiny objects, 4 small objects, 2 medium objects, or 1 large object come to life. You command them for up to a minute.
+- **Flight.** A creature you can touch (including yourself) gains the ability to fly for two minutes. If it's still flying when the spell ends, it falls.
+- **Shapeshift.** You can transform into an animal. You have all of the physical characteristics of the animal, but your own mind and thoughts. You cannot speak.
+- **Weather Weaver.** Manipulate the weather to your liking. Weather must be area-appropriate. No snowstorm in a desert, for example.
+- **Elemental Storm.** A storm of hail, fire, or lightning rains down from the sky, doing damage.
+- **Diguise.** You can make yourself look and sound like someone else you've seen and heard before.
+- **Invisible.** You can make yourself and anything you carry invisible for one minute.
+- **Message.** You can send a secret message to someone else with your mind, and they can respond.
+{{</details>}}
+
+
+
+## Creating Interesting Locations
+
+Adventure is a world filled with fantastic places to explore.
+
+You can make extraordinary locations by adding one or two interesting details to otherwise mundane places. Unique physical features and unusual items can bring a location to life.
+
+{{<details summary="Location Ideas" margin="true">}}
+<div class="row">
+	<div class="grid-third">
+		<ul class="no-margin-bottom">
+			<li>Cave/Tunnels</li>
+			<li>Castle/Mansion</li>
+			<li>Dense Forest</li>
+			<li>Raging River</li>
+		</ul>
+	</div>
+	<div class="grid-third">
+		<ul class="no-margin-bottom">
+			<li>Misty Lake</li>
+			<li>Secluded Cabin</li>
+			<li>Mountain Pass</li>
+			<li>Cliff/Drop
+		</ul>
+	</div>
+	<div class="grid-third">
+		<ul class="no-margin-bottom">
+			<li>Bustling Village</li>
+			<li>Quiet Farm</li>
+			<li>Canyon/Valley</li>
+			<li>Hidden Entry</li>
+		</ul>
+	</div>
+</div>
+{{</details>}}
+
+
+{{<callout title="Examples">}}
+- Crocodile Cliff looked like any other seaside cliff... except for the rocky outcrop shaped just like a crocodile's mouth. A pirate hideout is rumored to be in the hidden in the mouth, _if_ you can figure out how to get to it.
+- The cave is filled with mushrooms glowing in strange neon hues. You've heard legends about this place, and the magical properties the mushrooms possess, but no one is certain just what they are.
+{{</callout>}}
+
+
+
+
+## Creating Maps
+
+A good map can really bring a world to life, and help players get a better sense for where they are, where they can go, and what's possible.
+
+- **Ready-to-go maps** are created ahead of time, and are useful if your game has well-defined locations.
 - **Improvised maps** are built in real-time as you play, are great for games that have more improvisation or open-ended exploring.
 
 You might mix-and-match both styles in an adventure. Players may explore well-defined location, and then venture down a hidden path in a direction you didn’t plan for.
 
 You can also choose to use maps for certain areas, and nothing but your imagination and _the theater of the mind_ for others.
 
+Depending on the age and interests of your players, it might also be fun and interesting if you added a physical element to the game. You can create maps for locations by building them with blocks, or using toys and figurines for characters and monsters.
+
 {{<callout title="How to Create Maps">}}
-**Want to try drawing your own maps?** Here are some great tutorials!
+<p class="margin-bottom-small"><strong>Want to try drawing your own maps?</strong> Here are some great tutorials!</p>
 
 - [JP Coovert's intro to world maps](https://www.youtube.com/watch?v=d1XEVzX5cxg)
 - [Esper the Bard's fantastic series on map-making](https://www.youtube.com/watch?v=AeEUMCf0sys&list=PL4lwwEJ-yFaLLyVaHpqVeMUWSNe8NcXgG)
+- [Using Dungeon Scrawl to build quick maps](https://www.youtube.com/watch?v=xDQt9a2i_yY)
 
 You can also find tons of free maps at [Dyson Logos](https://dysonlogos.blog/maps/), and inexpensive maps and other printables at [2-Minute Tabletop](https://2minutetabletop.com/).
-
-Depending on the age and interests of your players, it might also be fun and interesting if you added a physical element to the game. You can create maps for locations by building them with blocks, or using toys and figurines for characters, monsters, and NPCS.
 {{</callout>}}
-
-### One-Page Adventures
-
-In a one-page adventure, everything—the story hook, events, monsters, and map—are all on one page. They’re really great for running quick adventures without a lot of prep.
-
-[Esper the Bard details how he creates his own in this video.](https://www.youtube.com/watch?v=AeEUMCf0sys) And [JP Cooper talks about his approach here](https://www.youtube.com/watch?v=WrJL0EzQifc).
-
-You can find a collection of one-page adventures you can use as inspiration from the [One-Page Dungeon Contest](https://www.sageadvice.eu/2016/03/22/need-an-adventure-one-page-dungeon/).
 
 
 
@@ -410,3 +536,16 @@ Games of Adventure can take as little as 30 minutes, or can last several hours.
 As the Game Master, you have a lot of control over the length and complexity of each game. You can add more monsters and optional encounters, adjust Difficulty Rating for encounters up or down, and save the day with non-player characters you introduce to the game.
 
 You can also spread an adventure over several sessions, stopping after an encounter, and picking things back up another time.
+
+
+
+## House Rules
+
+House rules are strongly encouraged in Adventure. Here are some ideas you may want to adapt to your game.
+
+<div class="list-spaced">
+{{%md%}}
+- **Pets.** Pets can be small and sensible (a cat, dog, or woodland creature) or large and absurd (a dinosaur, dragon, or elephant). A player’s pet can be used to get them out of a tough situation, as a weapon in battle, or just for added flavor and interest in role playing.
+- **Tinkering.** If you have an adventurer who loves to build things and has a big imagination, tinkering is an awesome special skill. A tinkerer can build small creations from bits of scrap metal and wood. They stop working after a short amount of time.
+{{%/md%}}
+</div>

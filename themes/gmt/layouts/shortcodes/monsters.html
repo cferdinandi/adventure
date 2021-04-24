@@ -1,7 +1,0 @@
-<ul class="list-unstyled">
-{{ range $.Site.Data.monsters }}
-	<li class="margin-bottom" id="{{ .name | anchorize }}">
-		<strong>{{ .name }}</strong> &middot; {{ .hp }} HP {{ if ne .traits "" }}<br><em>{{ .traits }}</em>{{ end }}
-	</li>
-{{ end }}
-</ul>

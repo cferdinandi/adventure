@@ -80,9 +80,9 @@ He places a small sack of gold on the table.
 
 {{<details summary="Cavern of the Rock Monster" blurb="The adventurers enter what appears to be an empty cavern.">}}
 - _Events_
-	+ If the party is not _extermely_ quite, a giant boulder begins to move, revealing a previously sleeping Rock Monster
+	+ If the party is not _extremely_ quite, a giant boulder begins to move, revealing a previously sleeping Rock Monster
 - _Monsters_
-	+ {{<monster name="Rock Monster">}}
+	+ Rock Monster
 {{</details>}}
 
 {{<details summary="Mushroom Cavern" blurb="The dim cavern is illuminated by large clusters of iridescent mushrooms.">}}
@@ -93,7 +93,7 @@ He places a small sack of gold on the table.
 	+ If the party lingers too long, they'll begin to experience hallucinations
 	+ If the party picks a mushroom, cave gnomes will emerge and attack them
 - _Monsters_
-	+ {{<monster name="Gnome">}}
+	+ Gnomes
 {{</details>}}
 
 {{<details summary="Trap Door" blurb="The floor transitions from rock to wooden beams, then back again.">}}
@@ -115,7 +115,7 @@ He places a small sack of gold on the table.
 	+ A Wisdom Check reveals hidden archers high up in the cavern walls
 	+ Goblin archers begin shooting at the party from hidden balconies in the walls
 - _Monsters_
-	+ {{<monster name="Goblin">}}
+	+ Goblin
 {{</details>}}
 
 {{<details summary="The Lone Goblin" blurb="As they round the corner, the party finds an nearly empty cavern... except for a long goblin, crying in the corner.">}}
@@ -139,9 +139,9 @@ He places a small sack of gold on the table.
 	+ On the next tier of the mezzanine, one or two hideous statues move, revealing rock monsters launching a surprise attack
 	+ Just before the bridge and lava river, a lava monster oozes from the walls. On the far side of the bridge, more archers launch attacks.
 - _Monsters_
-	+ {{<monster name="Goblin">}}
-	+ {{<monster name="Lava Monster">}}
-	+ {{<monster name="Rock Monster">}}
+	+ Goblins
+	+ Lava Monster
+	+ Rock Monster
 {{</details>}}
 
 {{<details summary="The Throne" blurb="As the party approaches the throne, the see the Zephyr Skiprock, the child, locked behind a gate built into the wall. A key hangs on the throne behind Lorak the Sorcerer." margin="true">}}
@@ -150,7 +150,7 @@ He places a small sack of gold on the table.
 	+ If the party begins to win, he casts a spell that causes the cavern to begin collapsing, and flees. The party must rescue Zephyr and escape before the whole mountain collapses.
 	+ If they befriended the Lone Goblin, he appears at the last second and leads them to a hidden tunnel under the throne that gets them out of the volcano.
 - _Monsters_
-	+ {{<monster-extend name="Sorcerer" display="Lorak the Sorcerer">}}
+	+ Lorak the Sorcerer
 {{</details>}}
 
 

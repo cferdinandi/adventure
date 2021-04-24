@@ -54,8 +54,8 @@ As she walks out of the square, she turns back to you and says,
 	+ A bridge of ice spans a raging river. It's slippery and weak in certain spots, and will collapse if too much weight is put on it. The water may or may not have piranha's in it.
 	+ As you get closer to the Lair, a pack of wolves attack (one for every two players).
 - _Monsters_
-	+ {{<monster name="Piranha">}}
-	+ {{<monster name="Wolf">}}
+	+ Piranha
+	+ Wolf
 {{</details>}}
 
 {{<details summary="The Entrance to Balefrost's Lair." blurb="Standing before you is an immense oak tree. Icy, snow-covered branches stretch into the sky. This must be Balefrost's Lair.">}}
@@ -64,7 +64,7 @@ As she walks out of the square, she turns back to you and says,
 	+ Once opened, the entrance itself is a narrow tunnel that slows down. Jumping through it will slide them down below the root system of the tree.
 	+ If the players take too long or make too much noise, a pile of snow starts moving, and reveals itself to be a snow-covered, slumbering bear.
 - _Monsters_
-	+ {{<monster name="Bear">}}
+	+ Bear
 {{</details>}}
 
 {{<details summary="Balefrost's Lair." blurb="A twisting maze of dirt tunnels built in the root system of the trees.">}}
@@ -87,18 +87,18 @@ As she walks out of the square, she turns back to you and says,
 	+ **Hide Armor.** Reduce damage from cold by half.
 	+ **Torches.**
 - _Monsters_
-	+ {{<monster name="Wolf">}}
-	+ {{<monster name="Spider (Giant)">}}
-	+ {{<monster name="Spider">}}
-	+ {{<monster name="Ice Monster">}}
-	+ {{<monster-custom name="Balefrost the Ice Druid" hp="4" traits="Shoots ice from his hands. Freezes player in place on successful hit. Can turn himself into a cloud of snow once per combat.">}}
+	+ Wolf
+	+ Giant Spider
+	+ Spider
+	+ Ice Monster
+	+ Balefrost the Ice Druid (shoots ice from his hands and can turn into a cloud of snow)
 {{</details>}}
 
 {{<details summary="The Race Home." blurb="After retrieving the Bell, you glance at your watch and notice you have just 42 minutes to get back to the village.">}}
 - _Events_
 	+ As you race back to the village, a grove of treefolk attack and attempt to stop you (one for every three party members).
 - _Monsters_
-	+ {{<monster name="Treefolk">}}
+	+ Treefolk
 {{</details>}}
 
 

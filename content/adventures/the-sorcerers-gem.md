@@ -52,11 +52,11 @@ Reaching into a pocket inside his jacket, Lord Graghammer produces the largest s
 	+ The elves double cross the players
 	+ Once in possession of the Gem, trees begin to come to life
 - _Monsters_
-	+ {{<monster name="Wolf">}}
-	+ {{<monster name="Bear">}}
-	+ {{<monster name="Treefolk">}}
-	+ {{<monster name="Bandit">}}
-	+ {{<monster name="Elf">}}
+	+ Wolves
+	+ Bears
+	+ Treefolk
+	+ Bandits
+	+ Elves
 {{</details>}}
 
 {{<details summary="The Cavern of Mysteries" blurb="A deep, winding cave system with many entrances. It winds under most of Farfaria. Certain parts are completely sealed off by time or haven't been explored in years. Many an adventurer has entered the caves... and never returned.">}}
@@ -71,18 +71,18 @@ Reaching into a pocket inside his jacket, Lord Graghammer produces the largest s
 	+ The walls of the tunnel appear to shift and move. It feels like they've been walking in circles.
 	+ Once the gem in their possession, the party gets the feeling they're being followed
 - _Monsters_
-	+ {{<monster name="Rat">}}
-	+ {{<monster name="Bat">}}
-	+ {{<monster name="Spider (Giant)">}}
-	+ {{<monster name="Scorpion (Giant)">}}
-	+ {{<monster name="Slime/Ooze">}}
-	+ {{<monster name="Skeleton">}}
-	+ {{<monster name="Toad (Giant)">}}
-	+ {{<monster name="Wolf">}}
-	+ {{<monster name="Pirate">}}
-	+ {{<monster name="Troll">}}
-	+ {{<monster name="Kobold">}}
-	+ {{<monster name="Ice Monster">}}
+	+ Rat
+	+ Bat
+	+ Giant Spider
+	+ Giant Scorpion
+	+ Slime/Ooze
+	+ Skeleton
+	+ Giant Toad
+	+ Wolf
+	+ Pirate
+	+ Troll
+	+ Kobold
+	+ Ice Monster
 {{</details>}}
 
 {{<details summary="The Goblin Village" blurb="Deep in the Dark Forest is a village of goblins. They leave the town of Farfaria alone, but will attack travelers and other woodland creatures." margin="true">}}
@@ -91,9 +91,9 @@ Reaching into a pocket inside his jacket, Lord Graghammer produces the largest s
 	+ At the goblin village, players find lizardfolk being held captive
 	+ Lizardfolk turn on the players and attack them
 - _Monsters_
-	+ {{<monster name="Goblin">}}
-	+ {{<monster name="Lizardfolk">}}
-	+ {{<monster name="Wolf">}}
+	+ Goblin
+	+ Lizardfolk
+	+ Wolf
 {{</details>}}
 
 

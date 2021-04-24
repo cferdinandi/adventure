@@ -41,17 +41,17 @@ Until the babies are returned, she'll be far too distressed to protect the villa
 	+ Ambushed by bandits who attempt to buy (or steal) the dragon
 	+ Surrounded by wolves or a bear after wandering off the beaten path
 - _Monsters_
-	+ {{<monster name="Bandit">}}
-	+ {{<monster name="Wolf">}}
-	+ {{<monster name="Bear">}}
+	+ Bandit
+	+ Wolf
+	+ Bear
 {{</details>}}
 
 {{<details summary="Spider Den." blurb="Among a grove a trees, a giant spider guards a massive web that could easy capture a baby dragon.">}}
 - _Events_
 	+ If they take too long, spider eggs burst open, sending a swarm of baby spiders after the adventurers
 - _Monsters_
-	+ {{<monster name="Spider (Giant)">}}
-	+ {{<monster name="Spider">}}
+	+ Giant Spider
+	+ Spider
 {{</details>}}
 
 
@@ -60,7 +60,7 @@ Until the babies are returned, she'll be far too distressed to protect the villa
 	+ After some time, goblins who live nearby hear the noise and come to check it out
 	+ A rock slide (natural or set by the goblins) crashes down on the explorers
 - _Monsters_
-	+ {{<monster name="Goblin">}}
+	+ Goblin
 {{</details>}}
 
 {{<details summary="The Supply Shop." blurb="A remote supply shop provides food and goods to weary travelers. But you can't help but notice something strange (smells, sounds, or smoke) coming from the the back room.">}}
@@ -69,15 +69,15 @@ Until the babies are returned, she'll be far too distressed to protect the villa
 	+ The shopkeep kicks the adventurers out of their store
 	+ Bandits hear the commotion and seize the opportunity
 - _Monsters_
-	+ {{<monster-extend name="Townspeople" display="Shopkeep" traits="Sneaky but not too bright. Desperately wants to keep the dragon for themself." replace="true">}}
-	+ {{<monster name="Bandit">}}
+	+ Shopkeep
+	+ Bandit
 {{</details>}}
 
 {{<details summary="Cave of the Sleeping Ogre." blurb="A cave system is home to a giant ogre and his cavern home. He happens to be asleep at the moment, but a giant pile of gold (and a baby dragon) lie behind him.">}}
 - _Events_
 	+ The ogre awakes... and he's not happy!
 - _Monsters_
-	+ {{<monster name="Ogre">}}
+	+ Ogre
 {{</details>}}
 
 {{<details summary="The Tunnels." blurb="Beyond the Sleeping Ogre's home is a network of tunnels. Adventurers can escape into them if needed.">}}
@@ -88,16 +88,16 @@ Until the babies are returned, she'll be far too distressed to protect the villa
 	+ A deep pool of water blocks their way. There seems to be an opening at the bottom of it.
 	+ A magical darkness envelops the party
 - _Monsters_
-	+ {{<monster name="Rat">}}
-	+ {{<monster name="Scorpion">}}
-	+ {{<monster name="Slime/Ooze">}}
-	+ {{<monster name="Toad (Giant)">}}
-	+ {{<monster name="Ogre">}}
+	+ Rat
+	+ Scorpion
+	+ Slime/Ooze
+	+ Giant Toad
+	+ Ogre
 {{</details>}}
 
 {{<details summary="The Village." blurb="If the baby dragons aren't returned in time, goblins ambush the unprotected village." margin="true">}}
 - _Monsters_
-	+ {{<monster name="Goblin">}}
+	+ Goblin
 {{</details>}}
 
 
