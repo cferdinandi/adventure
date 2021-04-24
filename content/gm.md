@@ -1,5 +1,5 @@
 ---
-title: "Game Master Tips"
+title: "Game Master Guide"
 date: 2018-01-11T16:03:33-05:00
 draft: false
 ---
@@ -11,19 +11,24 @@ _You can find a [one-page GM cheatsheet on the downloads page](/downloads)._
 <div data-toc="Table of Content"></div>
 
 
+
 ## The Role of the Game Master
 
 The GM runs the game, and is generally _not_ a player themselves (though they can be).
 
 They introduce situations and narrate outcomes. They throw challenges at the players. They narrate the world and the creatures in it. The GM's job to keep the pacing, action, and suspense at the right level for the skills and age-level of your players.
 
+**Adventure is all about creating a shared story for the players.** Give them a chance to do epic things.
 
 
-## Running the Game
+
+## Starting the Game
 
 At the start of each game, a problem or situation arises that needs the help of a group of adventurers. The Game Master reads the game introduction to the players.
 
-Feel free to use toys, props, sketches/drawings, and fun voices to add to the excitement and mystery.
+You can make your life a lot easier as a GM, and get your players far more engaged in the game, by asking them questions about why they're there, and what they've heard about the problem or situation. You can work these hooks into the story and use them to fill in missing details.
+
+_Feel free to use toys, props, sketches/drawings, and fun voices to add to the excitement and mystery._
 
 {{<callout title="Example: The Tower of the Black Pearl">}}
 Once a decade, the tides are low enough that the underwater tower of a late, powerful wizard peaks out from the sea for just eight hours. Tonight, it's spire crested the waves.
@@ -31,32 +36,18 @@ Once a decade, the tides are low enough that the underwater tower of a late, pow
 You're in a boat, rowing towards it, in the hopes of retrieving the magical black pearl rumored to be hidden inside. Many adventurers have tried over the centuries. None have made it out alive.
 
 Suddenly, in the distance, you catch sight of it: the Tower of the Black Pearl, peaking out from the depths of the sea.
-{{</callout>}}
 
-### Ask Questions
-
-You can make your life a lot easier as a GM, and get your players far more engaged in the game, by asking them questions about the world.
-
-At the start of a game, ask the players why they're there, and what they've heard about the problem or situation. You can work these hooks into the story and use them to fill in missing details.
-
-Later in the game, rather than just telling players about a location, you can ask them what _they_ see.
-
-{{<callout title="Examples">}}
-
-<p class="margin-bottom-small"><strong>At the start of a game:</strong></p>
+<p class="margin-bottom-small"><strong>Questions:</strong></p>
 
 - Why are you interested in the black pearl?
 - What have you heard about the wizard who used to live here?
 - Do you know of anyone else who might be interested in it?
 - What creatures and traps do you think await within?
-
-<p class="margin-bottom-small"><strong>During a game:</strong></p>
-
-- The tunnel you're in suddenly forks into three small tunnels. Looking around and glancing down each one, what do you see?
-- A pirate appears from a hidden alcove and approaches you. What does he say?
 {{</callout>}}
 
-### Improvising
+
+
+## Improvising
 
 As an open-ended role-playing game, the players can take an adventure in a lot of directions. As a Game Master, you'll probably have to improvise and make stuff up as you go along.
 
@@ -81,7 +72,9 @@ If you're [using a pre-made adventure](/adventures), it's a good idea to read th
 - Present riches... at a price
 - Spring a trap
 
-### Balancing Campaigns
+
+
+## Balancing Campaigns
 
 When you first start GMing games, finding the right balance between "not too tough" and "not too boring" can be hard. There are a few things you can do to help balance games in real-time as you play.
 
@@ -92,7 +85,9 @@ When you first start GMing games, finding the right balance between "not too tou
 {{%/md%}}
 </div>
 
-### Accounting for Difficulty
+
+
+## Accounting for Difficulty
 
 Under the die roll system, any action has the same probability of succeeding or failing.
 
@@ -105,25 +100,19 @@ A player is trying to run up to a giant, scale his 20-foot high boot, and hit hi
 2. An _Agility_ roll to scale the boot without falling or getting knocked off.
 3. A _Strength_ roll to see if the hit with the sword does anything.
 
-You might also require a _Wisdom_ roll to identify which part of the boot to climb, or a blind spot where the adventurer can sneak up undetected.
+You might also require a roll to identify which part of the boot to climb, or a blind spot where the adventurer can sneak up undetected.
 {{</callout>}}
 
 
 
-### Random Effects
+## Creating Quick Monsters
 
-If players discover an item and they're not sure what it does, you can roll some dice to create a random effect. [Here's a table you can use.](/random-effects/)
+You might need to spin up a new monster in the middle of a game. Here's a reference you can use to do that quickly.
 
-### Creating Quick Monsters
-
-You might need to spin up a new monster in the middle of a game. Here's a reference you can use to do that quickly. (*Alternatively, you can [browse the monster list](/monsters).*)
-
-| Difficulty | Health | Damage   |
-|------------|--------|----------|
-| Easy       | 1 HP   | 1 damage |
-| Normal     | 2 HP   | 1 damage |
-| Hard       | 3 HP   | 1 damage |
-| Monstrous  | 4 HP   | 2 damage |
+- **Easy:** 1 HP
+- **Normal:** 2 HP
+- **Hard:** 3 HP
+- **Monstrous:** 4 HP
 
 You might give your creatures special abilities or unique features. For creatures that attack in hordes, players can damage multiple monsters with one attack.
 
@@ -131,10 +120,12 @@ You might give your creatures special abilities or unique features. For creature
 - **Rat**, 1 HP, attack in hordes
 - **Skeleton**, 2 HP, springs back to life after several rounds
 - **Giant Spider**, 3 HP, can shoot webs
-- **Dragon**, 4 HP, 2 damage, breathes fire
+- **Dragon**, 4 HP, breathes fire
 {{</callout>}}
 
-### Total Group Knock Out
+
+
+## Total Group Knock Out
 
 If every member of a group loses all of their health points, that’s a called a _Total Group Knock Out (or TGKO)_.
 
@@ -142,7 +133,7 @@ A TGKO can happen if the difficulty of a particular challenge isn’t properly b
 
 <p class="margin-bottom-small"><strong>Since a TGKO would otherwise stop the adventure in its tracks, the Game Master can use their creativity to save players from this situation.</strong></p>
 
-- A pet belonging to one of the players (see [House Rules](/rules/#pets)) runs off and returns with healing potion, or a non-player character that can help.
+- A pet belonging to one of the players runs off and returns with healing potion, or a non-player character that can help.
 - Players awaken some unknown time later. The monster is gone, along with what they were looking for and a bunch of their gear and items.
 - Players awaken to find themselves trapped in a locked room, unsure of where they are or how they got there. They must use their skills and items they can find in there surroundings to escape.
 
