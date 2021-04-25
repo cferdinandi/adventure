@@ -543,8 +543,7 @@ You can also spread an adventure over several sessions, stopping after an encoun
 
 House rules are strongly encouraged in Adventure. Here are some ideas you may want to adapt to your game.
 
-{{<details summary="Pets">}}
-For added fun, characters can have a pet that accompanies them on their adventures and helps them along the way. This can add a fun dimension to the game.
+{{<details summary="Pets." blurb="For added fun, characters can have a pet that accompanies them on their adventures and helps them along the way.">}}
 
 Pets can be small and sensible (a cat, dog, or woodland creature) or large and absurd (a dinosaur, dragon, or elephant). A player’s pet can be used to get them out of a tough situation, as a weapon in battle, or just for added flavor and interest in role playing.
 
@@ -557,10 +556,9 @@ _Roll to see what happens._
 {{</callout>}}
 {{</details>}}
 
-{{<details summary="Tinkering">}}
-If you have an adventurer who loves to build things and has a big imagination, tinkering is an awesome special skill. A tinkerer can build small creations from bits of scrap metal and wood.
+{{<details summary="Tinkering." blurb="A tinkerer can build small creations from bits of scrap metal and wood.">}}
 
-<p class="margin-bottom-small"><strong>How tinkering works...</strong></p>
+<p class="margin-bottom-small">Here's how it works...</p>
 
 - Tinkered items can be robotic toys, weapons, tools, and more.
 - Tinkered items are small and fragile, and stop working after a few turns.
@@ -570,10 +568,9 @@ If you have an adventurer who loves to build things and has a big imagination, t
 You may choose to have the adventurer first acquire a tinker kit: gears, bits of scrap metal, and some small tools from a shopkeeper in the game.
 {{</details>}}
 
-{{<details summary="Chaos Magic">}}
-For added fun, you can introduce rare magical items that randomly unleash a surge of chaotic magic and create random effects.
+{{<details summary="Chaos Magic." blurb="For added fun, you can introduce rare magical items that randomly unleash a surge of chaotic magic and create random effects.">}}
 
-<p class="margin-bottom-small"><strong>Some things that can cause chaos magic:</strong></p>
+<p class="margin-bottom-small">Some things that can cause chaos magic...</p>
 
 - Wands, staffs, and magical talismans, when used to cast spells or conjure abilities
 - Weapons and armor, when used in battle
