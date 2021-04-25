@@ -18,13 +18,7 @@ Here are some ready-to-play adventures, set in [the land of Farfaria](/farfaria/
 - [New Year's Bell](/adventures/new-years-bell/)
 - [The Tower of Time](/adventures/new-years-tower/)
 
-
-**Write your own adventure?** I’d love to add it to this site! Send me an email at {{<email>}}.
-
-
-
-## Third-Party Adventures
-
+{{<details summary="Third-Party Adventures">}}
 Want even more adventures? You can use the Adventure rule system with other RPGs. Here are some I recommend.
 
 - [The Hero Kids Bundle](https://www.drivethrurpg.com/product/115827/Hero-Kids--Complete-Fantasy-PDF-Bundle-BUNDLE)
@@ -34,14 +28,12 @@ Want even more adventures? You can use the Adventure rule system with other RPGs
 - [The Big Trouble Bundle](https://www.drivethrurpg.com/product/301410/Big-Trouble-Mammoth-Collection-BUNDLE)
 - [Dyson Logos Free Adventures](https://dysonlogos.blog/maps/adventures/)
 - [One-Page Dungeon Contest](https://www.dungeoncontest.com/) has [a collection of over 850 one-page adventures](https://www.sageadvice.eu/2016/03/22/need-an-adventure-one-page-dungeon/)
+{{</details>}}
 
-
-
-## Adventure Ideas
-
+{{<details summary="Adventure Ideas" margin="true">}}
 Want to write your own adventure, but aren't sure where to start? Here are some ideas I haven't gotten around to writing adventures for.
 
-_I have a bunch of [tips and tricks for creating your own adventures](/gm/#how-to-create-adventures) on the GM Tips page._
+_I have a bunch of [tips and tricks for creating your own adventures](/gm/#how-to-create-your-own-adventures) on the GM Tips page._
 
 - A powerful sorcerer's hat is stolen, and the group has to recover it
 - The group discovers an abandoned castle, where everyone is turned to stone
@@ -56,3 +48,6 @@ _I have a bunch of [tips and tricks for creating your own adventures](/gm/#how-t
 - Your friend is slowly disappearing (fading and turning transparent). Must find the healer/sorcerer before it’s too late.
 - River adventure with rapids and such, trying to capture a river sprite that’s been causing terrible storms and flooding in the village
 - You're at a party, talking to your friends, when suddenly everyone around freezes in places. The hands on the clock stop moving. A wizard appears, and demands that you delve into the old mines to retrieve a magical artifact for him if you want him to unfreeze time.
+{{</details>}}
+
+**Write your own adventure?** I’d love to add it to this site! Send me an email at {{<email>}}.
