@@ -37,7 +37,7 @@ The most important phrase in Adventure is, "What do you do?"
 ## What You Need to Play
 
 1. **Dice.** Adventure uses a single six-sided die (_or a D20 if you'd prefer_). If you don't have any dice, you can [roll digital dice](/dice/).
-2. **A notebook.** A place to write down details about the characters and the story. If you prefer, you can print our character sheets from [the downloads page](/downloads).
+2. **A notebook.** A place to write down details about the characters and the story. If you prefer, you can print out character sheets from [the downloads page](/downloads).
 3. **Your imagination.** The most important part!
 
 
@@ -97,6 +97,8 @@ If the thing the player is trying to do is really easy or impossibly difficult, 
 
 Items, special skills, and circumstances may give the player an advantage or disadvantage in attempting to complete a task.
 
+<p class="margin-bottom-small">To account for that, Adventure uses <em>Best Roll</em> and <em>Worst Roll</em>.</p>
+
 - **Best Roll.** Roll two dice and take the higher number.
 - **Worst Roll.** Roll two dice and take the lower number.
 
@@ -119,7 +121,7 @@ Adventure is a cooperative, team game. The more you work together, the more like
 
 {{<callout title="Example">}}
 
-<p class="margin-bottom-small">A three-person party is trying to sneak into the castle undetected. The Game Master asks for a roll. Because this involves stealth, players who specialize in Speed take Best Roll.</p>
+<p class="margin-bottom-small">A three-person party is trying to sneak into the castle undetected. The Game Master asks for a roll.</p>
 
 - If all three players make their roll, the party succeeds.
 - If one player fails and two succeed, the party still succeeds.
@@ -208,5 +210,3 @@ His sword meets the club inches before it hits Ashley. The ogre, caught off guar
 {{</callout>}}
 
 As you can see, the game is a series of choices, actions, die rolls, consequences, and next steps. Every choice the players make, and every random outcome of the dice, leads to the next logical step in the story.
-
-Adventure is a collaborative story you make up as you go.
