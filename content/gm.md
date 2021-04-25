@@ -543,9 +543,68 @@ You can also spread an adventure over several sessions, stopping after an encoun
 
 House rules are strongly encouraged in Adventure. Here are some ideas you may want to adapt to your game.
 
-<div class="list-spaced">
-{{%md%}}
-- **Pets.** Pets can be small and sensible (a cat, dog, or woodland creature) or large and absurd (a dinosaur, dragon, or elephant). A player’s pet can be used to get them out of a tough situation, as a weapon in battle, or just for added flavor and interest in role playing.
-- **Tinkering.** If you have an adventurer who loves to build things and has a big imagination, tinkering is an awesome special skill. A tinkerer can build small creations from bits of scrap metal and wood. They stop working after a short amount of time.
-{{%/md%}}
-</div>
+{{<details summary="Pets">}}
+For added fun, characters can have a pet that accompanies them on their adventures and helps them along the way. This can add a fun dimension to the game.
+
+Pets can be small and sensible (a cat, dog, or woodland creature) or large and absurd (a dinosaur, dragon, or elephant). A player’s pet can be used to get them out of a tough situation, as a weapon in battle, or just for added flavor and interest in role playing.
+
+{{<callout title="Example">}}
+Quill didn't expect the rope to snap on the sharp edge of the well, or he never would have come down here by himself.
+
+Fortunately, he brought along Geoffrey, his pet rat. He instructed Geoffrey to scurry up the wall and find help.
+
+_Roll to see what happens._
+{{</callout>}}
+{{</details>}}
+
+{{<details summary="Tinkering">}}
+If you have an adventurer who loves to build things and has a big imagination, tinkering is an awesome special skill. A tinkerer can build small creations from bits of scrap metal and wood.
+
+<p class="margin-bottom-small"><strong>How tinkering works...</strong></p>
+
+- Tinkered items can be robotic toys, weapons, tools, and more.
+- Tinkered items are small and fragile, and stop working after a few turns.
+- Only one tinkered item can exist at a time.
+- The parts from a tinkered item can be reclaimed to build another (either after it break, or when the adventurer decides they’d like to build something else).
+
+You may choose to have the adventurer first acquire a tinker kit: gears, bits of scrap metal, and some small tools from a shopkeeper in the game.
+{{</details>}}
+
+{{<details summary="Chaos Magic">}}
+For added fun, you can introduce rare magical items that randomly unleash a surge of chaotic magic and create random effects.
+
+<p class="margin-bottom-small"><strong>Some things that can cause chaos magic:</strong></p>
+
+- Wands, staffs, and magical talismans, when used to cast spells or conjure abilities
+- Weapons and armor, when used in battle
+- Potions and herbs of unknown origin, when consumed
+
+You don't need to have random effects occur _every_ time the item is used. In fact, it's probably more fun if it happens occasionally. If you want, you can flip a coin.
+
+{{<callout title="Chaos Magic Effects Table">}}
+Roll three D6 dice and them together, or roll one D20. Then find the matching number on the table. All effects end after a few rounds of combat, or a few minutes of exploration.
+
+| Roll | Effect |
+|------|--------|
+| 1    | You can only speak by shouting |
+| 2    | A 10' round cloud of bubbles appears |
+| 3    | A flock of chickens appears and runs around |
+| 4    | Anything you touch catches fire |
+| 5    | Your hair turns into flowers |
+| 6    | Lightning strikes up to 3 targets of your choice (1 HP damage each) |
+| 7    | You glow a color of your choice |
+| 8    | You grow to twice your current size |
+| 9    | You shrink to half your current size |
+| 10   | Teleport to any spot you can see |
+| 11   | Turn into a bunny, chicken, bear, or bird (GM choice) |
+| 12   | A wall of ice, vines, stone, or water appears in a spot of your choice |
+| 13   | A burst of sounds erupts from you, doing 1 HP damage to nearby creatures |
+| 14   | Everyone within 20' of you falls down |
+| 15   | Heal every ally by 1 HP |
+| 16   | You can climb walls like a spider |
+| 17   | You can speak with animals |
+| 18   | You're invisible, and no one can see or hear you |
+| 19   | An inanimate object comes to life |
+| 20   | You float and drift in the air, unable to control where you fly | 17-H |
+{{</callout>}}
+{{</details>}}
