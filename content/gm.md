@@ -338,7 +338,7 @@ _You can also get random monster ideas from [Kobold Fight Club](https://kobold.c
 - **Rat**, 1 HP, attack in hordes
 - **Skeleton**, 2 HP, springs back to life after several rounds
 - **Giant Spider**, 3 HP, can shoot webs
-- **Dragon**, 4 HP, breathes fire
+- **Dragon**, 5 HP, breathes fire
 {{</callout>}}
 
 
