@@ -274,8 +274,8 @@ In Adventure, a _monster_ is any villain (not just humanoid ones). Like player c
 
 - **Easy:** 1 HP
 - **Normal:** 2 HP
-- **Hard:** 3 HP
-- **Monstrous:** 4+ HP
+- **Hard:** 3-4 HP
+- **Monstrous:** 5+ HP
 
 You might also give your creatures special abilities or unique features. For creatures that attack in hordes, players can damage multiple monsters with one attack.
 

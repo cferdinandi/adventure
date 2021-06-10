@@ -134,7 +134,7 @@ Adventure is a cooperative, team game. The more you work together, the more like
 
 As an adventurer, you’re going to get hurt from time-to-time. Cuts, bruises, and serious injury are a common risk.
 
-- **Health Points** (or _HP_) represent a character's overall health. Each player starts the game with 3 HP, and cannot ever have more than that.
+- **Health Points** (or _HP_) represent a character's overall health. Each player starts the game with 4 HP, and cannot ever have more than that.
 - **Damage.** Any time a character is hit by a monster or seriously injured (from a fall, for example), subtract 1 HP from their total.
 - **Knocked Out.** When a player's HP reaches 0, they're knocked out and cannot do anything until they have at least 1 HP.
 - **Healing.** Players can recover 1 HP after a short rest, first aid, or healing spell. They can regain 3 HP with a healing potion.
