@@ -28,6 +28,8 @@ At the start of each game, a problem or situation arises that needs the help of 
 
 You can make your life a lot easier as a GM, and get your players far more engaged in the game, by asking them questions about why they're there, and what they've heard about the problem or situation. You can work these hooks into the story and use them to fill in missing details.
 
+You can also make the game a lot more exciting by starting players off right in the middle of the action, _after_ a quest has already been accepted.
+
 _Feel free to use toys, props, sketches/drawings, and fun voices to add to the excitement and mystery._
 
 {{<callout title="Example: The Tower of the Black Pearl">}}
@@ -55,22 +57,11 @@ If you're [using a pre-made adventure](/adventures), it's a good idea to read th
 
 <p class="margin-bottom-small"><strong>Here are some things you can do as GM.</strong></p>
 
-- Present a monster or a location challenge
-- Reveal new information or foreshadowing
-- Use up their resources
-- Separate them
-- Give an opportunity to shine
+- Introduce a new location
+- Spring a trap or attack
+- Reveal a secret about the world
 - Put someone in a tough spot
-- Offer an opportunity, with or without cost
-- Present two choices
-
-<p class="margin-bottom-small"><strong>And here are some things you can do within a location.</strong></p>
-
-- Change the environment
-- Introduce a new creature
-- Make them backtrack
-- Present riches... at a price
-- Spring a trap
+- Offer a choice... with a cost
 
 
 
@@ -370,21 +361,24 @@ For surprise traps, you might require a roll from players to see if they notice 
 			<li>Crushing Rock</li>
 			<li>Room Floods</li>
 			<li>Quick Sand</li>
+			<li>Entangling Vines</li>
 		</ul>
 	</div>
 	<div class="grid-third">
 		<ul class="no-margin-bottom">
 			<li>Lightning Stones</li>
 			<li>Darkness/Fog</li>
-			<li>Ice</li>
-			<li>Lava</li>
+			<li>Ice/Slime</li>
+			<li>Lava/Acid</li>
 			<li>Fire Statues</li>
+			<li>Exploding Ruins</li>
 			<li>Illusions</li>
 		</ul>
 	</div>
 	<div class="grid-third">
 		<ul class="no-margin-bottom">
 			<li>Gas</li>
+			<li>Insect Infestation</li>
 			<li>Shifting Walls</li>
 			<li>Magic Inhibitor</li>
 			<li>Earth Tremors</li>
@@ -438,11 +432,47 @@ Here are some ideas to help you get started.
 
 
 
+## Creating Treasure
+
+As players explore and complete quests, you might reward them with treasure.
+
+These can be items that have real monetary value, like gold or gems. They could also be useful items like weapons or armor. Or, they can just be cool or interesting, like jewelry, a figurine, or a fancy hat. Some might also contain magical properties.
+
+{{<details summary="Treasure Ideas" margin="true">}}
+<div class="row">
+	<div class="grid-third">
+		<ul class="no-margin-bottom">
+			<li>Gold</li>
+			<li>Gems</li>
+			<li>Jewelry</li>
+		</ul>
+	</div>
+	<div class="grid-third">
+		<ul class="no-margin-bottom">
+			<li>A map</li>
+			<li>A book</li>
+			<li>Art</li>
+		</ul>
+	</div>
+	<div class="grid-third">
+		<ul class="no-margin-bottom">
+			<li>A figurine</li>
+			<li>Weapons/armor</li>
+			<li>Clothes</li>
+		</ul>
+	</div>
+</div>
+{{</details>}}
+
+
+
 ## Creating Interesting Locations
 
 Adventure is a world filled with fantastic places to explore.
 
 You can make extraordinary locations by adding one or two interesting details to otherwise mundane places. Unique physical features and unusual items can bring a location to life.
+
+One easy way to do that is to make something really big or really old.
 
 {{<details summary="Location Ideas" margin="true">}}
 <div class="row">
@@ -475,8 +505,10 @@ You can make extraordinary locations by adding one or two interesting details to
 
 
 {{<callout title="Examples">}}
-- Crocodile Cliff looked like any other seaside cliff... except for the rocky outcrop shaped just like a crocodile's mouth. A pirate hideout is rumored to be in the hidden in the mouth, _if_ you can figure out how to get to it.
-- The cave is filled with mushrooms glowing in strange neon hues. You've heard legends about this place, and the magical properties the mushrooms possess, but no one is certain just what they are.
+<ul class="list-spaced">
+	<li>Crocodile Cliff looked like any other seaside cliff... except for the rocky outcrop shaped just like a crocodile's mouth. A pirate hideout is rumored to be in the hidden in the mouth, <em>if</em> you can figure out how to get to it.</li>
+	<li>The cave is filled with a forest of giant mushrooms, each one the size of a small house, glowing in strange neon hues. You've heard legends about this place, and the magical properties the mushrooms possess, but no one is certain just what they are.</li>
+</ul>
 {{</callout>}}
 
 
@@ -502,7 +534,9 @@ Depending on the age and interests of your players, it might also be fun and int
 - [Esper the Bard's fantastic series on map-making](https://www.youtube.com/watch?v=AeEUMCf0sys&list=PL4lwwEJ-yFaLLyVaHpqVeMUWSNe8NcXgG)
 - [Using Dungeon Scrawl to build quick maps](https://www.youtube.com/watch?v=xDQt9a2i_yY)
 
-You can also find tons of free maps at [Dyson Logos](https://dysonlogos.blog/maps/), and inexpensive maps and other printables at [2-Minute Tabletop](https://2minutetabletop.com/).
+You can also find tons of free maps at [Dyson Logos](https://dysonlogos.blog/maps/), and inexpensive maps and other printables at [2-Minute Tabletop](https://2minutetabletop.com/). It may also be helpful to pick up [an erasable gaming mat](https://www.amazon.com/stores/page/236ED059-EDAE-410D-A7AF-94E558210418).
+
+If you want minis and figurines for your games, Paizo's [Beastiary Box](https://paizo.com/products/btq0206t?Pathfinder-Bestiary-Pawn-Box) and [Player Character Pawns](https://paizo.com/products/btq026jg?Pathfinder-Player-Character-Pawn-Collection) are good options.
 {{</callout>}}
 
 
@@ -536,6 +570,12 @@ Games of Adventure can take as little as 30 minutes, or can last several hours.
 As the Game Master, you have a lot of control over the length and complexity of each game. You can add more monsters and optional encounters, adjust Difficulty Rating for encounters up or down, and save the day with non-player characters you introduce to the game.
 
 You can also spread an adventure over several sessions, stopping after an encounter, and picking things back up another time.
+
+### Becoming a better GM
+
+One of my favorite resources for improving your skills as a Game Master is [Return of the Lazy Dungeon Master](https://slyflourish.com/returnofthelazydm/) by Sly Flourish.
+
+This book is packed with tips on how to build fantastical worlds and create a more fun and memorable experience for your players with less work. I highly recommend it!
 
 
 
