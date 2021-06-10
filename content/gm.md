@@ -307,7 +307,7 @@ You might also give your creatures special abilities or unique features. For cre
 			<li>Clockwork Golem</li>
 			<li>Mammoth</li>
 			<li>Pirate</li>
-			<li>Bandit</li>
+			<li>Thieves</li>
 			<li>Kobold</li>
 			<li>Gargoyle</li>
 			<li>Basilisk</li>
