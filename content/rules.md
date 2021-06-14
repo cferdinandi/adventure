@@ -56,21 +56,23 @@ The [downloads section](/downloads) includes premade characters if you need exam
 
 ## Actions & Deciding Outcomes
 
-Any time you want to add chance to the outcome of a player action, the GM should ask them to roll a die (either a D6 or D20, your choice).
+Any time you want to add chance to the outcome of a player action, the GM should ask them to roll two six-sided dice (2D6) and add the resulting numbers together.
 
-| D6  | Outcome                                  | D20   |
-|-----|------------------------------------------|-------|
-| 6   | Success. It worked as planned.           | 17+   |
-| 3-5 | Partial Success. It worked, with a cost. | 9-16  |
-| 2-  | Failure. It didn't work.                 | 8-    |
+_Players have about a 28% of success or failure, and a 44% chance of partial success._
+
+| Roll | Outcome                                  |
+|------|------------------------------------------|
+| 9+   | Success. It worked as planned.           |
+| 6-8  | Partial Success. It worked, with a cost. |
+| 5-   | Failure. It didn't work.                 |
 
 {{<callout title="Example">}}
 
-<p class="margin-bottom-small"><strong>The player is trying to convince a wealthy noble that they're a distant relative.</strong> The noble isn't very trusting. They roll a D6.</p>
+<p class="margin-bottom-small"><strong>The player is trying to convince a wealthy noble that they're a distant relative.</strong> The noble isn't very trusting. They roll 2D6.</p>
 
-- On 6, the noble believes them, offering them a room in their palace and a feast in their honor.
-- On a 3 to 5, the noble reluctantly believes them, but secretly sends someone to look into their background.
-- On an 2 or less, the noble becomes angry, and has them arrested.
+- On 9 or higher, the noble believes them, offering them a room in their palace and a feast in their honor.
+- On a 6 to 8, the noble reluctantly believes them, but secretly sends someone to look into their background.
+- On an 5 or less, the noble becomes angry, and has them arrested.
 {{</callout>}}
 
 ### Rolls are optional
@@ -99,17 +101,17 @@ Items, special skills, and circumstances may give the player an advantage or dis
 
 <p class="margin-bottom-small">To account for that, Adventure uses <em>Best Roll</em> and <em>Worst Roll</em>.</p>
 
-- **Best Roll.** Roll two dice and take the higher number.
-- **Worst Roll.** Roll two dice and take the lower number.
+- **Best Roll.** Roll three six-sided dice (3D6) and take the best two dice.
+- **Worst Roll.** Roll three six-sided dice (3D6) and take the worst two dice.
 
 Players use _Best Roll_ when they have an advantage, and _Worst Roll_ when they have a disadvantage.
 
 {{<callout title="Examples">}}
 Best Roll
-: The player is attempting to sneak up on a camp and surprise them. It's nighttime, and their character is stealthy. They have an advantage, and take the best roll of two dice.
+: The player is attempting to sneak up on a camp and surprise them. It's nighttime, and their character is stealthy. They have an advantage, and roll 3D6 and take the best two dice.
 
 Worst Roll
-: An evil wizard uses a spell to shroud the cavern in darkness, and the player cannot see them. They attempt to shoot an arrow at wizard through the darkness. They're at a disadvantage, and take the worse roll of two dice.
+: An evil wizard uses a spell to shroud the cavern in darkness, and the player cannot see them. They attempt to shoot an arrow at wizard through the darkness. They're at a disadvantage, and roll 3D6 and take the worst two dice
 {{</callout>}}
 
 ### Teamwork
@@ -157,7 +159,7 @@ If you want, you can use the same character from one adventurer to the next, and
 
 ## A Sample Game
 
-To help this all stick, let's look at a sample game. In this game, Mercer is a knight, and Ashley is a wizard. They're using D6 dice.
+To help this all stick, let's look at a sample game. In this game, Mercer is a knight, and Ashley is a wizard.
 
 {{<callout>}}
 **GM:** As you enter the cave, you see a sleeping ogre curled up around a massive pile of gold. One arm rests over the pile, while his other hand gently clutches a massive wooden club. In the back of the cave, you see the baby dragon you've been sent to rescue wrapped up in an old blanket. What do you do?
@@ -168,9 +170,9 @@ To help this all stick, let's look at a sample game. In this game, Mercer is a k
 
 **GM:** Ok. Both of you make a roll. Mercer, you take Worst Roll because your metal armor is very creaky and clunky.
 
-**Ashley:** I rolled a 4.
+**Ashley:** I rolled a 1 and a 2... 3 total.
 
-**Mercer:** I rolled a 5 and a 2.
+**Mercer:** I rolled a 4, 3, and 1, so... 7 with best roll.
 
 (_Ashley partially succeeds, Mercer fails._)
 
@@ -186,7 +188,7 @@ He stands up, towering a good six feet over Ashley's head. What do you do?
 
 **GM:** Ok, make a roll. You take Best Roll on that because your character is very cunning.
 
-**Ashley:** I rolled a 1 and a 2.
+**Ashley:** I rolled a total of 4.
 
 (_That's a failure._)
 
@@ -198,9 +200,9 @@ Then, he lets out a roar and swings the club down towards you. What do you do?
 
 **Mercer:** Seeing the ogre about to crush my friend, I unhilt my sword and swing it up to meet the club before it hits her.
 
-**GM:** Excellent, roll a die.
+**GM:** Excellent, roll 2D6.
 
-**Mercer:** I rolled a 6.
+**Mercer:** I got a 10.
 
 (_That's a success._)
 

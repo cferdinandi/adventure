@@ -5,9 +5,9 @@ baseURL: "https://kitchentableadventure.com"
 params:
   description: "A simplish, imagination-based kitchen table RPG."
   rssURL: ""
-  rssLimit: 7
+  rssLimit: 8
   minify: true
-  version: 7th
+  version: 8th
 
 # Caches
 caches:

@@ -10,16 +10,13 @@ draft: false
 
 ## What's new in {{<edition>}} edition?
 
-Keeping with the tradition of past editions, the rules have been even further simplified to focus on storytelling and fun over game mechanics.
-
-- Specialties have been removed. All rolls now use one die unless the situation itself provides a specific advantage of disadvantage.
-- _How to Play_ has been streamlined to make getting started faster.
-- The _GM Guide_ has been expanded with additional advice to help GMs run the game more easily.
+This edition uses two six-sided dice, which produces more _Partial Success_ rolls.
 
 
 
 ## Past Version
 
+- [7th Edition](/v7)
 - [6th Edition](/v6)
 - [5th Edition](/v5)
 - [4th Edition](/v4)

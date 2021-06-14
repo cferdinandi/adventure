@@ -85,7 +85,7 @@ You might also require a roll to identify which part of the boot to climb, or a 
 
 ## Make Failure Interesting
 
-Statistically, failed die rolls will happen about a third of the time a player rolls. Even when a player fails a roll, something should still _happen_.
+Statistically, failed die rolls will happen about a quarter of the time a player rolls. Even when a player fails a roll, something should still _happen_.
 
 Otherwise, it's boring and disappointing.
 
