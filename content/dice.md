@@ -8,16 +8,12 @@ Don't have dice? Roll digital ones!
 
 <div class="callout padding-top-large padding-bottom-large text-center">
 	<div class="margin-bottom-small">
-		<button class="btn" data-roll="d6">D6</button>
-		<button class="btn" data-roll="d20">D20</button>
-	</div>
-	<div class="margin-bottom">
-		<label for="best-worst">
-			<input type="checkbox" id="best-worst">
-			Use Best Roll/Worst Roll
-		</label>
+		<button class="btn" data-roll="2d6">Roll 2D6</button>
+		<button class="btn btn-secondary" data-roll="br">Best Roll</button>
+		<button class="btn btn-tertiary" data-roll="wr">Worst Roll</button>
 	</div>
 	<div class="text-large"><strong id="result" aria-live="polite"></strong></div>
+	<div id="breakdown"></div>
 </div>
 
 <script>
@@ -26,17 +22,12 @@ Don't have dice? Roll digital ones!
 		//
 
 		// Elements in the UI
-		var result = document.querySelector('#result');
-		var bestWorst = document.querySelector('#best-worst');
-
-		// Dice arrays
-		var dice = {
-			d6: [1, 2, 3, 4, 5, 6],
-			d20: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
-		};
+		let result = document.querySelector('#result');
+		let id = document.querySelector('#breakdown');
+		let d6 = [1, 2, 3, 4, 5, 6];
 
 		// Placeholder for die rolls
-		var rolls;
+		let rolls;
 
 
 		//
@@ -49,10 +40,10 @@ Don't have dice? Roll digital ones!
 		 * @param  {Array} array The array to shuffle
 		 * @return {String}      The first item in the shuffled array
 		 */
-		var shuffle = function (array) {
+		function shuffle (array) {
 
-			var currentIndex = array.length;
-			var temporaryValue, randomIndex;
+			let currentIndex = array.length;
+			let temporaryValue, randomIndex;
 
 			// While there remain elements to shuffle...
 			while (0 !== currentIndex) {
@@ -68,52 +59,55 @@ Don't have dice? Roll digital ones!
 
 			return array;
 
-		};
+		}
 
 		/**
-		 * Shuffle the dice on page load
+		 * Add the dice together
+		 * @param {String} type The roll type
 		 */
-		var startingShuffle = function () {
-			for (var key in dice) {
-				if (dice.hasOwnProperty(key)) {
-					shuffle(dice[key]);
-				}
-			}
-		};
+		function add (type) {
+			rolls.sort();
+			if (type === 'br') { rolls.shift(); }
+			if (type === 'wr') { rolls.pop(); }
+			let total = rolls[0] + rolls[1];
+			let result = 'Partial Success';
+			if (total < 6) { result = 'Failure'; }
+			if (total > 8) { result = 'Success'; }
+			return `${total} - ${result}`;
+		}
 
 		/**
 		 * Roll the dice
-		 * @param {String}  d     The die size to use
 		 * @param {Integer} count How many rolls to do
 		 */
-		var roll = function (d, count) {
-			for (var i = 0; i < count; i++) {
-				shuffle(dice[d]);
-				rolls.push(dice[d][0]);
+		function roll (count) {
+			for (let i = 0; i < count; i++) {
+				shuffle(d6);
+				rolls.push(d6[0]);
 			}
-		};
+		}
 
 		/**
 		 * Handle click events
 		 * @param  {Event} event The event object
 		 */
-		var clickHandler = function (event) {
+		function clickHandler (event) {
 
 			// Only run on [data-roll] elements
-			var d = event.target.getAttribute('data-roll');
-			multi = 1;
+			let d = event.target.getAttribute('data-roll');
 			if (!d) return;
 
 			// Clear the rolls array
 			rolls = [];
 
 			// Roll the dice
-			roll(d, (bestWorst.checked ? 2 : 1));
+			roll(d === '2d6' ? 2 : 3);
 
 			// Render the result in the UI
-			result.textContent = rolls.join(' - ');
+			breakdown.textContent = `[${rolls.join(', ')}]`;
+			result.textContent = add(d);
 
-		};
+		}
 
 
 		//
@@ -121,7 +115,7 @@ Don't have dice? Roll digital ones!
 		//
 
 		// Shuffle the dice numbers on load
-		startingShuffle();
+		shuffle(d6);
 
 		// Listen for clicks in the DOM
 		document.addEventListener('click', clickHandler);
