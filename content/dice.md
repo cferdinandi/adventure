@@ -12,8 +12,8 @@ Don't have dice? Roll digital ones!
 		<button class="btn btn-secondary" data-roll="br">Best Roll</button>
 		<button class="btn btn-tertiary" data-roll="wr">Worst Roll</button>
 	</div>
-	<div class="text-large"><strong id="result" aria-live="polite"></strong></div>
-	<div id="breakdown"></div>
+	<div class="text-large"><strong id="result" aria-live="polite">&nbsp;</strong></div>
+	<div id="breakdown">&nbsp;</div>
 </div>
 
 <script>
