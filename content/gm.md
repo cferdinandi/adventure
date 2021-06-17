@@ -133,7 +133,7 @@ You can get by for a long time on [pre-made adventures](/adventures). But eventu
 
 ### 1. Start with a Hook
 
-There are two types of hooks you can use for your adventure: a quest or a fantastic location.
+There are two types of hooks you can use for your adventure: a quest or a location.
 
 #### Option 1: A Quest
 
@@ -168,7 +168,7 @@ An easy way to make locations extraordinary is to make something really big or r
 	<li>In the depths of the forest, you happen upon the skeleton of a massive, long dead monster. The rib cage is as large as a fortress. The skull features two dagger-like teeth as tall as trees. You spot fresh footprints and a recently extinguished fire nearby.</li>
 </ul>
 
-_Thanks to [Sly Flourish](https://slyflourish.com/nine_fantastic_encounter_locations.html) for the inspiration on these._
+<p><em>Thanks to <a href="https://slyflourish.com/nine_fantastic_encounter_locations.html">Sly Flourish</a> for the inspiration on these.</em></p>
 {{</callout>}}
 
 ### 2. Fill in the Details
