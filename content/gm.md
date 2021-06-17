@@ -469,6 +469,8 @@ Here are some ideas to help you get started.
 - **Message.** You can send a secret message to someone else with your mind, and they can respond.
 {{</details>}}
 
+_Bob World Builder_ has a fantastic video on [how to make your magic items unique](https://www.youtube.com/watch?v=nUrgq0tcXow) through the use of stories, history, and minor magical side-effects.
+
 
 
 ## Creating Treasure
