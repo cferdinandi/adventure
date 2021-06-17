@@ -131,7 +131,11 @@ This can add a really fun new aspect to the game, so don’t be afraid to get cr
 
 You can get by for a long time on [pre-made adventures](/adventures). But eventually, you may want to create your own.
 
-### Start with a Hook
+### 1. Start with a Hook
+
+There are two types of hooks you can use for your adventure: a quest or a fantastic location.
+
+#### Option 1: A Quest
 
 What are the players supposed to do, and who has asked them to do it?
 
@@ -151,13 +155,29 @@ The players could have been specifically asked to complete a quest by someone di
 - A man arrives at the village looking like he hasn't slept in days. As you approach and ask him if he's ok, he tells you that he fled his town on the other side of the mountains after ice giants attacked and enshrined everyone and everything in a deep, magical freeze.
 {{</callout>}}
 
-### Fill in the Details
+#### Option 2: A Fantastic Location
 
-Once you have an adventure hook, you can fill in some details.
+Alternatively, you can throw your adventurers into a fantastic location filled with interesting places to explore and secrets to uncover.
+
+An easy way to make locations extraordinary is to make something really big or really old. See [Creating Interesting Locations](#creating-interesting-locations) for more.
+
+{{<callout title="Examples">}}
+<ul class="list-spaced">
+	<li>The island off the port side of your boat shouldn't be there. Not only is it not on any nautical maps, but you were just here a week ago and this area was open sea. A granite monolith, a small tower with a carving of a kraken at the top, protrudes from the trees in the center of the island. What is this place, and where did it come from?</li>
+	<li>A giant chain, each link the size of an elephant, spans a moat filled with lava. Each link is decorated with dwarven writing. Every few minutes, the glyphs pulse in a strange purple light for just a moment before fading.</li>
+	<li>In the depths of the forest, you happen upon the skeleton of a massive, long dead monster. The rib cage is as large as a fortress. The skull features two dagger-like teeth as tall as trees. You spot fresh footprints and a recently extinguished fire nearby.</li>
+</ul>
+
+_Thanks to [Sly Flourish](https://slyflourish.com/nine_fantastic_encounter_locations.html) for the inspiration on these._
+{{</callout>}}
+
+### 2. Fill in the Details
+
+Once you have a quest or location (or both), you can fill in some details.
 
 You don't need to have _all_ the details figured out, though. A lot of blanks can be filled in by asking the players questions and through playing the game itself.
 
-<p class="margin-bottom-small">Here are the key things you want to work out:</p>
+<p class="margin-bottom-small"><strong>Here are a few things you may want to think about:</strong></p>
 
 - Some initial locations the players might visit
 - Some monsters and traps they may encounter
@@ -253,6 +273,25 @@ In this example, locations, monsters, and events are standalone items that can b
 
 {{</details>}}
 
+{{</callout>}}
+
+### 3. Ask the Players Questions
+
+You don't have to fill in all of the details ahead of time. Depending on your preferred GM style, you can fill in some or even most of the details by asking the players questions.
+
+This approach is really helpful for getting players invested in the world they're about to go explore. It also makes your job as a GM easier.
+
+You can even use it build an impromptu adventure on-the-spot.
+
+{{<callout title="Sample Questions">}}
+- What have you been sent to [retrieve/deliver/fix/figure out]? _(pick one)_
+- Who sent you, and why are they interested in this quest?
+- Are you being paid or rewarded to complete this quest? What is the reward?
+- What rumors have you heard about [the object or person you're searching for/the location you're exploring]?
+- Someone is [chasing you/also on this quest]. Who are they, and why?
+- Dangerous monsters are believed to be in this area. What are they?
+- What could happen if you fail your quest?
+- What's one strange or unique feature you notice about this location?
 {{</callout>}}
 
 ### Inspiration for Adventures
