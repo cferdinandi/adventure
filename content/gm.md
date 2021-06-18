@@ -469,7 +469,7 @@ Here are some ideas to help you get started.
 - **Message.** You can send a secret message to someone else with your mind, and they can respond.
 {{</details>}}
 
-_Bob World Builder_ has a fantastic video on [how to make your magic items unique](https://www.youtube.com/watch?v=nUrgq0tcXow) through the use of stories, history, and minor magical side-effects.
+_Bob World Builder_ has a fantastic video on [how to make your magic items unique](https://www.youtube.com/watch?v=nUrgq0tcXow) through the use of stories, history, and minor magical side-effects. You can download a fantastic table of [minor magical abilities on GM Binder](https://www.gmbinder.com/share/-MMz32Kxwu31dLnB5KXr).
 
 
 
