@@ -182,9 +182,9 @@ You don't need to have _all_ the details figured out, though. A lot of blanks ca
 - Some initial locations the players might visit
 - Some monsters and traps they may encounter
 - Some events that might happen, based on what the players do in the world
-- Some questions you might want to answer about the situation while playing
+- Some secrets the players might uncover while exploring
 
-_Monsters, traps, and events can be tied to specific locations, or be standalone challenges you use to help improvise if players go off the beaten path. You can find more details on [creating monsters](#creating-monsters) and [creating traps](#creating-traps) later in this guide._
+_Monsters, traps, events, and secrets can be tied to specific locations, or be standalone challenges you use to help improvise if players go off the beaten path. You can find more details on [creating monsters](#creating-monsters) and [creating traps](#creating-traps) later in this guide._
 
 {{<callout title="Example 1: The Sorcerer's Gem">}}
 
