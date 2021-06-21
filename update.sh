@@ -1,0 +1,1 @@
+git add . && git commit -a -m "Updated content" && git push origin master
