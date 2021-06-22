@@ -33,8 +33,6 @@ As she walks out of the square, she turns back to you and says,
 
 > Be careful. Balefrost is very powerful, and very dangerous. We're counting on you.
 
-{{<maps href="">}}
-
 
 
 ## Questions
