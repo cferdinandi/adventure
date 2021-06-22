@@ -65,6 +65,16 @@ If you're [using a pre-made adventure](/adventures), it's a good idea to read th
 
 
 
+## Play to Find Out What Happens
+
+You'll often start a game with some locations the players can explore, some traps or monsters they'll encounter, and some things that might happen.
+
+But the things your players do in the game influence the world.
+
+Rather than try to plan out exactly how a game will end, play to find out what happens. Create situations, let the players decide how they want to respond, and roll some dice to see how it goes.
+
+
+
 ## Accounting for Difficulty
 
 Under the die roll system, any action has the same probability of succeeding or failing.

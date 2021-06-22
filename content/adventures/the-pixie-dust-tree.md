@@ -12,13 +12,11 @@ A group of fairies needs your help after their pixie dust tree is destroyed by i
 
 ## The Situation
 
-A fairy wakes you from your sleep, begging for your help. She explains that ice from the north froze and killed their pixie dust tree. Without, she and the rest of her village will never fly again.
+You've been traveling through the forest for several days now, every since the fairy woke you from your sleep, begging for your help.
 
-> The Elder Fairy lives deep in the woods. He was around generations before any of us were born. If anyone will no one what to do, he will.
->
-> But be warned: he's very reclusive. He doesn't take kindly to visitors, so tread lightly.
+The Elder Fairy should be close, and hopefully, he'll know how to replace the dead pixie dust tree. If not, the fairies will never fly again.
 
-{{<maps href="/downloads/map.pdf">}}
+You were warned he doesn't take kindly to visitors. As you ponder just how you'll convince him to help you, an arrow whizzes by your head and slams into the tree behind you...
 
 
 
@@ -26,38 +24,36 @@ A fairy wakes you from your sleep, begging for your help. She explains that ice 
 
 - What do you know about the fairies?
 - How is pixie dust made?
-- Can you create a new pixie dust tree? How?
-- Are these the only fairies? If not, do the other groups know about each other?
+- What happened to the pixie dust tree?
 - Are there other trees in existence?
-- Why is the Elder Fairy alone in the woods?
-- [_In Game_] What do the thieves want with the pixie dust?
+- Who is the Elder Fairy, and why does he live alone in the woods?
+- Who is attacking you, and why?
 
 
 
 ## Locations
 
-- **Elder Fairy Cabin.** A small cabin in the the middle of the woods where _The Elder Fairy_ lives. He's several centuries old, and knows the secret to creating more pixie dust fairy. He may have some supplies to help the adventurers.
+- **Elder Fairy Cabin.** A small cabin in the the middle of the woods where _The Elder Fairy_ lives. At first glance it looks like it's built into the trees, but it's actually floating 100' above the ground. The Elder Fairy is several centuries old, and knows the secret to creating more pixie dust fairy. He may have some supplies to help the adventurers.
 - **The Northern Cliffs.** The path you're traveling on ends at a steep wall of rock. There's evidence that others have scaled it before, but it looks daunting from down on the ground.
 - **The Eastern Grove.** The mysterious forests of the east are home to another group of fairies that, unlike the ones who approached you, avoid contact with the outside world. They are in possession of a working pixie dust tree.
 - **The Sacred Stream.** A fast moving river, the waters of the sacred stream having magical properties and can be used for many things. They're also home to piranha and other dangerous creatures.
 
 
 
-## Events
+## Secrets
 
-- **Rock Slide.** A successful Wisdom Check lets players sense a rock slide before it hits them. On failure, a wall of boulders comes sliding down from the mountains.
-- **Nets & Pits.** A successful Wisdom Check reveals rope nets or pit traps hidden under fallen leaves. On failure, the traps go off, and fairies fly out to greet the captured party.
+- An old wizard collects magical animals, and destroyed the tree in hopes that their fairies, who protect the creatures of the woods, wouldn't be able to fly again.
+- Thieves have been offered a very hefty sum of money to locate and destroy any remaining trees.
+
+
+
+## Monsters & Traps
+
+- **Rock Slide.** A wall of boulders comes sliding down from the mountains.
+- **Nets & Pits.** Rope nets and pit traps hidden under fallen leaves abound in the fairy-filled sections of the forest. If the traps go off, fairies fly out to greet the captured party. They ferociously guard the forest, and don't trust strangers.
 - **Bandit Bribe.** A group of bandits confront the party, and offer them money in exchange for pixie dust.
 - **Bandit Ambush.** The same group of bandits ambushes the party. A successful Wisdom Check reveals their approach in advance. If they purchased pixie dust, the steal their money back. If they didn't, they steal the pixie dust.
-
-
-
-## Monsters
-
-- Fairies/Pixies
-- The Elder Fairy
-- Piranha
-- Bandit
+- **Piranha.** The sacred stream is full of them.
 
 
 

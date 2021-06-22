@@ -12,20 +12,37 @@ draft: false
 
 
 
-## Locations, Events & Monsters
 
-{{<details summary="" blurb="">}}
-- _Locations_
-	+ a
-- _Events_
-	+ b
-- _Monsters_
-	+ {{<monster name="">}}
-{{</details>}}
+## Questions
+
+-
 
 
 
 ## Locations
+
+{{<details summary="" blurb="">}}
+- _Locations_
+	+ a
+- _Secrets_
+	+ b
+- _Monsters & Traps_
+	+ c
+- _Events_
+	+ d
+{{</details>}}
+
+-
+
+
+
+## Secrets
+
+-
+
+
+
+## Monsters & Traps
 
 -
 
@@ -37,18 +54,6 @@ draft: false
 
 
 
-## Monsters
-
-- {{<monster name="">}}
-
-
-
 ## Game Master Tips
-
--
-
-
-
-## Questions
 
 -
