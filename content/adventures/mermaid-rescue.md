@@ -12,32 +12,29 @@ An evil sorcerer has kidnapped the mermaid king's daughter, and stolen a powerfu
 
 ## The Situation
 
-Down at the harbor, a bottle pops up from the depths. There’s note rolled up inside, and a cork firmly pushed into the top. You fish the bottle from the Harbor, open it up, and remove the note.
+As you're enjoying a nice breakfast down by the harbor, a massive geyser of water erupts a hundred feet into the air.
 
-It's from Triton, king of the mermaids.
+A powerful sorcerer surrounded by an arcane bubble rises to the surface, holding a mermaid captive. Her necklace, the legendary _Conch of Calling_, glitters as it catches the sun. With a wave of the sorcerer's hand, a swirly portal of bluish-purple light opens up near the shore. As the pair zip through it, it snaps closed behind them with a loud boom.
 
-> “My daughter has been kidnapped by an evil sorcerer. If she’s not rescued, your entire world is in grave danger.”
+A moment later, Triton, the king of the mermaids, rises to the surface. He locks eyes with you and shouts:
 
-“What’s the danger,” you wonder, “and where did the sorcerer take her?” It’s up to you to rescue her.
+> “My daughter has been kidnapped. If she’s not rescued, your entire world is in grave danger.”
 
-{{<maps href="/downloads/assets_mermaid-rescue.pdf">}}
+Then he disappears beneath the waves without another word. It’s up to you to rescue her... before it's too late.
 
 
 
 ## Questions
 
-- What do you know about the Castle of the North?
-- Where did the sorcerer come from?
+- What legends have you heard about _Conch of Calling_? What does it allegedly do?
+- Who is the sorcerer, and where did he come from?
+- You've heard rumors that a powerful group of wizards has been gathering. Where are they rumored to meetup?
 - What do you know about the merpeople?
 - What other magical creatures live in the area?
-- Where was the mermaid taken?
-- Why did the sorcerer take her?
-- How can the sorcerer be defeated?
-- [_In Game_] Why are the sorcerer's apprentices working with him?
 
 
 
-## Locations, Events & Monsters
+## Locations
 
 {{<details summary="The Castle of the North." blurb="The giant Castle of the North towers above you. Thankfully, the drawbridge is down. You cross it, and enter the castle courtyard. Knights and townspeople scurry about, busy with the day’s tasks.">}}
 - _Locations_
@@ -48,18 +45,13 @@ It's from Triton, king of the mermaids.
 	+ **The Vault.** As soon as the door opens, you hear the clinking of coins. Against he back wall is a table. Seated at it is a tiny goblin, with tall pointed ears and a hunch in his back, counting a massive pile of gold coins and noting them in a small journal. On either side are tall shelves stacked high with coins, jewels, and other objects of value.
 	+ **The Tower.** The moment you enter the tower, you sense that something is amiss. A dark, magical aura fills the first floor. The tower is filled with traps, monsters, and, on the top floor, either the wizard himself or evidence that he was here.
 	+ **The Dungeon.** You open the door and peer into it. A narrow winding staircase leads down. You feel a damp, cold breeze blowing. The yelling gets louder. “Help! Help!” In the dungeon, you'll find the mermaid locked in a cell.
-- _Events_
-	+ Everyone in the Castle courtyard seems dazed or "off"
-	+ Enchanted brooms attack
-	+ The players encounter and have an initial battle with the sorcerer. He takes off before the battle is over.
-	+ The mermaid's cell is magically locked. She informs the players that...
-		* The only way to unlock it is with a key forged by one of the dwarves in the Mines of the Mountain
-		* Her magical shell was stolen, and with it, the sorcerer can command an army of sea creatures to invade the land
-- _Monsters_
-	+ Knights
-	+ Townspeople
-	+ Enchanted Brooms
-	+ Sorcerer
+- _Secrets_
+	+ The sorcerer has been using the castle as a second hideout. There's clear evidence he's been here. People know of him but are afraid to say much more.
+	+ The mermaid is being held captive in the dungeon.
+- _Monsters & Traps_
+	+ **Enchanted Brooms & Mops.** Normal looking brooms or mops spring to life to attack and provide simple defenses to areas people don't want explored.
+	+ **Magical Lock.** The mermaid's cell can only be unlocked with a special key forged by dwarves in the Mines of the Mountain.
+	+ **The Sorcerer.** If he's still in the castle, he will fight the players, but flee before winning or being defeated.
 {{</details>}}
 
 {{<details summary="The Mines of the Mountain." blurb="Approaching the mountains, you're greeting by a gruff dwarf named Targus Balefrost. Once he learns of your need for a magic key, he informs you that you'll need to retrieve the _Torch of Hallows_ from deep within the Mines for him to complete his task.">}}
@@ -70,28 +62,23 @@ It's from Triton, king of the mermaids.
 	+ **Underwater Tunnel.** You come to a murky pool of water. It looks to be about 15 feet deep. Directly ahead of you is a solid wall of rock. Staring into the gloom, you notice what appears to be a small opening at the bottom of the pool, along the far wall. You don’t know what’s on the other side.
 	+ **Cavern of the Crab.** You enter another cavernous room. Bioluminescent algae casts a blue/green glow into the space, which reflects off the giant rock in the middle of the room. Towards the back of the cavern are gold coins, jewels, and what appear to be magical artifacts. Suddenly, the giant rock in the middle of the room shakes and rises. It's a giant crab!
 	+ **The Hall of the Torch of Hallows.** You see the glowing flame reflecting off the wall before you even enter the room. As you step into the space, you see it: the Torch of Hallows.
-- _Monsters_
-	+ Hydra
-	+ Wolf
-	+ Giant Crab
+- _Monsters & Traps_
+	+ **Hydra.** Has multiple heads that grow back after several turns. Spits acid.
+	+ **Wolves.** A pack of wolves runs wild in the caverns. They're led by a werewolf, cursed years ago by the same sorcerer who kidnapped the mermaid.
+	+ **Giant Crab.** The size of a car, he looks like a boulder when at rest. His powerful claws can crush pretty much anything.
 {{</details>}}
 
 {{<details summary="The Mountain Pass." blurb="A winding path through the mountains. The pass is filled with dangerous terrain, goblins, and cyclops.">}}
-- _Events_
-	+ Players encounter rough terrain, or a cliff face that needs to be scaled
-	+ Players are ambushed by several monsters
-- _Monsters_
-	+ Goblin
-	+ Cyclops
+- _Monsters & Traps_
+	+ **Goblins.** A horde of goblins patrol the pass and shakedown travelers for gold and jewels.
+	+ **Cyclops.** Angry and territorial, they'll strike first even if left alone.
+	+ **Rock Slide.** The mountain pass is treacherous, and rock slides are a common occurrence. They goblins have nothing to do with it. They promise!
 {{</details>}}
 
 {{<details summary="The Hideout." blurb="A former mountain outpost where the sorcerer and his minions are now hiding. There's a rotting bridge traversing a rapidly moving stream that leads to the front entrance. The walls are crumbling, and the building is in heavy disrepair." margin="true">}}
-- _Events_
-	+ A small group of Sorcerer's Apprentices ambush the players when they enter the hideout
-	+ The sorcerer is preparing to use the shell when the players find him
-- _Monsters_
-	+ Sorcerer's Apprentice
-	+ Sorcerer
+- _Monsters & Traps_
+	+ **Sorcerer's Apprentices.** They'll ambush the players as soon as they enter the hideout.
+	+ **The Sorcerer.** This is his lair, and he'll defend it until the bitter end.
 {{</details>}}
 
 

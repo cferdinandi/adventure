@@ -10,7 +10,6 @@ Here are some ready-to-play adventures, set in [the land of Farfaria](/farfaria/
 - [The Pixie Dust Tree](/adventures/the-pixie-dust-tree/)
 - [Lacey the Luck Dragon](/adventures/lacey-the-luck-dragon/)
 - [The Ghost Ship](/adventures/the-ghost-ship/)
-- [Escape from Atlantis](/adventures/escape-from-atlantis/)
 - [Mermaid Rescue](/adventures/mermaid-rescue/)
 - [Escape from the Volcano](/adventures/escape-from-the-volcano/)
 - [The Sorcerer's Gem](/adventures/the-sorcerers-gem/)

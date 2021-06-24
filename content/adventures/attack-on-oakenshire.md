@@ -10,52 +10,58 @@ Giant spiders overrun the ancient elven treetop city of Oakenshire. Can you driv
 
 ## The Situation
 
-You’re enjoying lunch in the tavern with your friends when an elf bursts through the doors, out of breath with flush red cheeks. “There’s been an attack on Oakenshire,” he exclaims, “we’ve been completely overrun with spiders, and they’ve taken Lord Faelyn hostage!”
+The trees in this part of the forest are as wide as a house and several hundred feet tall.
 
-Oakenshire is the elves’ treetop home. It contains ancient books and special magic found nowhere else in Farfaria. Its safety is vital to Farfaria. The elves has always had a warm relationship with the people of Farfaria, and they need your help.
+Glancing up, you can make out the wooden bridges and vines that let the elves who live in the city of Oakenshire walk from one treetop home or shop to the next.
 
-{{<maps href="/downloads/assets_the-attack-on-oakenshire.pdf">}}
+An elf bursts out of the shrugs to your left, out of breath with flush red cheeks. “There’s been an attack on Oakenshire,” he exclaims, “we’ve been completely overrun with spiders, and they’ve taken Lord Faelyn hostage!”
+
+Before he can say another word, a thick strand of web wraps around the elf and rips him back up to the village with a scream.
 
 
 
 ## Questions
 
 - What have you heard about Oakenshire?
-- Have you been to the city before?
-- The elves are normally very secretive. Why do they trust you to help them?
+- An ancient artifact is rumored to be housed here. What is it, and who might be interested in it?
 - What do you know about giant spiders? Do they have any weaknesses? Special abilities or powers?
-- Why did the spiders attack Oakenshire?
-- How were they able to gain access without being detected?
-- What can the elves do to prevent this from happening again?
+- Are the spiders acting on their own, or are they controlled by someone else?
+- One of you has been to Oakenshire before. When, and why?
+- The treetop city is intentionally hard to access. How do you reach it from the ground?
 
 
 
-## Locations & Events
+## Locations
 
-Oakenshire is a small city built into the trees of the forest. It's a collection of treehouses connected to each other by bridges.
-
-A rope ladder, out-of-reach and accessible only if someone from inside the city lowers it, provides access to the city. There's a second hidden entrance built into the roots of one of the trees that provides an emergency entrance and exit.
-
-- **The Kitchen.** This room has a raised loft in the back with a small kitchen. You see a sink and wood stove against the back wall, a table and some chairs to the right. To your left are a set of stairs leading up to it.
-- **The Bridge.** The bridge connects the kitchen to the library. It has been weakened, and collapses as the adventurers cross it.
-- **The Library.** As soon as you walk into a room, the smell of old books hits your nostrils. Lining each wall are long, tall bookcases filled floor to ceiling with books. In the middle of the room is a simple room-length wooden table, with a long benches on each side. You’ve entered the elven library. These tomes contains ancient wisdom about the forests, passed down from one generation to next over the millennia. The knowledge contained here is irreplaceable.
-- **The Lab.** Against the back wall is a standing-height table covered in books, beakers, and magical artifacts. This room is the elven lab, where they experiment with potions and unlock the mysteries of the universe.
-- **Sleeping Quarters.** Rows of bunk beds line the walls, and create rows in the middle of the room. At the foot of each bed is an ornate chest that hold each elf’s clothes and other belongings. Magical candles glow in sconces mounted to the walls.
-	- One of the chests is trapped, and will attack if opened
-- **The Door to the Throne Room.** The door to the throne room is enchanted and locked, and can only be opened by solving a puzzle or completing a feat.
-- **The Throne Room.** To the right is a sturdy desk, covered in crystals, potions, and a hardcover book. To the left is another tall bookcase filled with sacred texts. At your feed is an ornate purple and green carpet that leads to a large wooden throne at the back of the room. Animals and legendary elven figures are carved into the wood.
+- **Main Street.** A collection of small shops selling everything from clothes to magical items to jewelry. The doors and windows are covered in webs, and some of the shops have cocoons of webbing hanging from the ceiling.
+- **The Library.** Oakenshire is an ancient city. The library is a gigantic space carved directly into a massive tree. The ceiling is a glass dome that let's natural light from the sky above stream down. Some of the texts found here are thousands of years old, and contain magical secrets thought lost to time.
+- **The Lab.** A small space containing with beakers filled with colorful liquids floating over magical flames. Notes are scribbled in elven on the blackboard walls. Everything is labeled, but not in a language you understand.
+- **Apartments.** A collection of small studio living spaces, each with a modest kitchen, beds, and a collection of books. Many of the rooms are trashed or have broken windows. Several have cocoons of webbing in them.
+- **Barracks.** A large open space with a dozen bunk beds, this is where Oakenshire's military lives. At the foot of each four-bed high bunk is a chest, locked, with an oak leaf carved into the front of it.
+- **Armory.** Off of the barracks is Oakenshire's armory, where an assortment of spears, bow-and-arrows, and weapons of a magical nature can be found. The room is trashed, and many of the items are missing.
+- **Throne Room.** Behind a large, locked golden door is the throne room, where Lord Faelyn was last seen. The room features a hidden door that leads to the treasure room.
+- **The Treasure Room.** The treasure room houses Oakenshire's most valuable possessions. Some are worth unfathomable amounts of money, while others possess immense power.
 
 
-## Monsters
 
-- Giant Spiders
-- Giant Centipedes
-- Elf
+## Secrets
+
+- The cocoons contain captured elves. If approached, they'll wiggle. The elves inside can be cut free and flee. One or two may be convinced to share critical information or become a helpful NPC ally.
+- The spiders are actually controlled by a massive, ancient spider named Grox. She's after something in the treasure room, but haven't figured out where it is, and Lord Faelyn refuses to tell her.
+
+
+
+## Monsters & Traps
+
+- **Giant Spiders.** Can shoot webs, climb on walls and ceilings, and have a poisonous bite.
+- **Spiderlings.** Small creatures that attack in swarms. They can bite and create web web traps, but aren't very strong.
+- **Grox.** A massive, ancient spider with the power to communicate telepathically. Grox has thousands of spiderlings hiding on her that she can unleash as a last-ditch effort to escape.
+- **Collapsed Bridge.** One of the main bridge roads has been collapsed. Players need to find away across a 30' gap, or take a lengthy detour.
+- **Spiderweb Trapdoor.** Part of the floor has been rigged to fall out when stepped on, dropping whatever player triggers it 20' into a thick, sticky web net. If they don't escape quickly, hungry spiderlings descend upon them.
 
 
 
 ## Game Master Tips
 
-- You can make this as battle-heavy or exploratory as you want. Every room can be filled with spiders and centipedes, or you can make most of the rooms interesting places to learn more about elven culture.
-- The _Door to the Throne Room_ provides a chance to weave a puzzle or "out of game" challenge into Adventure. This is totally optional, and can be skipped if you want.
+- You can make this as battle-heavy or exploratory as you want. Every room can be filled with spiders and traps, or you can make most of the rooms interesting places to learn more about elven culture.
 - You can optionally incorporate an Elf NPC to aid players through this adventure.
