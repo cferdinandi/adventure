@@ -36,7 +36,7 @@ The most important phrase in Adventure is, "What do you do?"
 
 ## What You Need to Play
 
-1. **Dice.** Adventure uses a single six-sided die (_or a D20 if you'd prefer_). If you don't have any dice, you can [roll digital dice](/dice/).
+1. **Dice.** Adventure uses two six-sided dice (_2D6_). If you don't have any dice, you can [roll digital dice](/dice/).
 2. **A notebook.** A place to write down details about the characters and the story. If you prefer, you can print out character sheets from [the downloads page](/downloads).
 3. **Your imagination.** The most important part!
 
