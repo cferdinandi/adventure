@@ -9,8 +9,8 @@ Don't have dice? Roll digital ones!
 <div class="callout padding-top-large padding-bottom-large text-center">
 	<div class="margin-bottom-small">
 		<button class="btn" data-roll="2d6">Roll 2D6</button>
-		<button class="btn btn-secondary" data-roll="br">Best Roll</button>
-		<button class="btn btn-tertiary" data-roll="wr">Worst Roll</button>
+		<button class="btn btn-secondary" data-roll="advantage">Roll with Advantage</button>
+		<button class="btn btn-tertiary" data-roll="disadvantage">Roll with Disadvantage</button>
 	</div>
 	<div class="text-large"><strong id="result" aria-live="polite">&nbsp;</strong></div>
 	<div id="breakdown">&nbsp;</div>
@@ -67,12 +67,12 @@ Don't have dice? Roll digital ones!
 		 */
 		function add (type) {
 			rolls.sort();
-			if (type === 'br') { rolls.shift(); }
-			if (type === 'wr') { rolls.pop(); }
+			if (type === 'advantage') { rolls.shift(); }
+			if (type === 'disadvantage') { rolls.pop(); }
 			let total = rolls[0] + rolls[1];
 			let result = 'Partial Success';
-			if (total < 6) { result = 'Failure'; }
-			if (total > 8) { result = 'Success'; }
+			if (total < 7) { result = 'Failure'; }
+			if (total > 9) { result = 'Success'; }
 			return `${total} - ${result}`;
 		}
 
