@@ -12,50 +12,81 @@ _You can find a [one-page GM cheatsheet on the downloads page](/downloads)._
 
 
 
-## The Role of the Game Master
+## The Three Principles
 
-The GM runs the game, and is generally _not_ a player themselves (though they can be).
+Adventure is all about creating a shared story with your players. The GM describes everything in the world, and narrates what happens in response to the players' actions.
 
-They introduce situations and narrate outcomes. They throw challenges at the players. They narrate the world and the creatures in it. The GM's job to keep the pacing, action, and suspense at the right level for the skills and age-level of your players.
+<p class="margin-bottom-small"><strong>The three principles that guide the GM are...</strong></p>
 
-**Adventure is all about creating a shared story for the players.** Give them a chance to do epic things.
+1. Portray a fantastic world.
+2. Fill the characters' lives with adventure.
+3. Play to find out what happens.
 
 
 
 ## Starting the Game
 
-At the start of each game, a problem or situation arises that needs the help of a group of adventurers. The Game Master reads the game introduction to the players.
+Start a game of Adventure by describing the fantastic location or tense situation the players find themselves in. Throw them right into the action.
 
-You can make your life a lot easier as a GM, and get your players far more engaged in the game, by asking them questions about why they're there, and what they've heard about the problem or situation. You can work these hooks into the story and use them to fill in missing details.
+Then, ask them questions about why they’re there, what they know, and how they know it. Use their answers to drive the game forward.
 
-You can also make the game a lot more exciting by starting players off right in the middle of the action, _after_ a quest has already been accepted.
+Finally, end with a call-to-action: “what do you do?”
 
-_Feel free to use toys, props, sketches/drawings, and fun voices to add to the excitement and mystery._
+{{<callout title="Example: The Isle of the Kraken">}}
 
-{{<callout title="Example: The Tower of the Black Pearl">}}
-Once a decade, the tides are low enough that the underwater tower of a late, powerful wizard peaks out from the sea for just eight hours. Tonight, it's spire crested the waves.
+<p class="margin-bottom-small"><strong>A Fantastic Location</strong></p>
 
-You're in a boat, rowing towards it, in the hopes of retrieving the magical black pearl rumored to be hidden inside. Many adventurers have tried over the centuries. None have made it out alive.
+Once every few years, a tiny island mysteriously rises from the depths of the sea for just a few hours. It never appears in the same place twice. Sometimes, it disappears before anyone’s even taken notice.
 
-Suddenly, in the distance, you catch sight of it: the Tower of the Black Pearl, peaking out from the depths of the sea.
+In the center of the island is a stone monolith, a small tower with a carving of a kraken at the top. It’s rumored that a powerful wizard who lived three thousand years ago hid a legendary artifact known as the Conch of Calling somewhere on the island.
 
-<p class="margin-bottom-small"><strong>Questions:</strong></p>
+Many an explorer has ventured to the island searching for it. None have returned. Tonight, the island has surfaced again. You’re in a rowboat, headed in the direction it was allegedly seen. Water laps at the low sides of the boat. Suddenly, you catch sight of it.
 
-- Why are you interested in the black pearl?
-- What have you heard about the wizard who used to live here?
-- Do you know of anyone else who might be interested in it?
-- What creatures and traps do you think await within?
+In the distance, you see the monolith, the carving of the kraken lit brightly by the full moon above. How long has the island been at the surface? How much longer until it disappears again?
+
+You row harder...
+
+<p class="margin-bottom-small"><strong>Questions</strong></p>
+
+- How did you learn that the island had resurfaced?
+- Why are you interested in exploring it and/or retrieving the legendary Conch of Calling?
+- What have you heard the Conch of Calling does? No one has seen it in centuries.
+- What do you know of the wizard who hid the Conch here?
+- Who else might be interested in the Conch?
+
+<p class="margin-bottom-small"><strong>Call-to-Action</strong></p>
+As you approach the shore, you see a ship moored to a tree, a black flag with two crossed tridents flapping in the gentle breeze. You notice two pirates, asleep next to the tree. Foot prints lead into the forest towards the monolith.
+
+What do you do?
 {{</callout>}}
 
 
 
-## Improvising
+## Play to Find Out What Happens
 
-As an open-ended role-playing game, the players can take an adventure in a lot of directions. As a Game Master, you'll probably have to improvise and make stuff up as you go along.
+The stories you tell in Adventure don't have a specific path the players have to follow or predefined endings. The things your players do will determine what happens.
 
-If you're [using a pre-made adventure](/adventures), it's a good idea to read through it before playing, so you have a better sense for the places players can go, and the types of things they might find there.
+The [pre-made adventures](/adventures/) are structured with this in mind.
 
-<p class="margin-bottom-small"><strong>Here are some things you can do as GM.</strong></p>
+- **Introduction.** A brief summary of the situation and location the players find themselves in.
+- **Questions.** A list of questions that you can ask the players to help build out the world and fill in some blanks for the story you're about to tell.
+- **Fantastic Locations.** Amazing places that the players can explorer, with a few details and unique features.
+- **Monsters & Traps.** Create fun and exciting challenges by introducing monsters, traps, and unexpected situations.
+- **Secrets.** As players explore the world, they'll uncover secrets and hidden mysteries.
+- **Magic Items & Treasure.** Discover magic items and hidden treasure. These often reveal secrets about the world and give the players new powers and abilities.
+- **Fronts.** The big players and forces in a campaign, these are things that will affect the world and drive the story forward unless the players intervene.
+
+Each of these pieces is modular, and designed be dropped into the story whenever appropriate.
+
+Just like at the start of a game, you can ask the players questions to fill in the blanks as you play. Ask them to describe things they see in new locations and unique physical features of monsters.
+
+
+
+## Improvising Outcomes
+
+As an open-ended role-playing game, the players can take an adventure in a lot of directions. As a Game Master, you'll need to improvise and make stuff up as you go along.
+
+<p class="margin-bottom-small"><strong>Some things you can do as GM.</strong></p>
 
 - Introduce a new location
 - Spring a trap or attack
@@ -63,23 +94,66 @@ If you're [using a pre-made adventure](/adventures), it's a good idea to read th
 - Put someone in a tough spot
 - Offer a choice... with a cost
 
+### Outcomes for Common Types of Die Rolls
 
+There are a handful of types of die rolls that happen frequently in adventure. Here are some ideas for improvising outcomes to them.
 
-## Play to Find Out What Happens
+Cast Spells
+: When you try to cast a spell, make a Wisdom roll.
+	- **10+** The spell works
+	- **7-9** The spell works, but you draw unwelcome attention or lose control of it
 
-You'll often start a game with some locations the players can explore, some traps or monsters they'll encounter, and some things that might happen.
+Combat
+: Strength Roll for close-up combat, or Agility for ranged.
+	- **10+** Deal your damage (_optional: do 1 more HP of damage but the enemy hits you_)
+	- **7-9** Deal your damage, and enemy hits you or you get put in a tough spot
 
-But the things your players do in the game influence the world.
+Defy Danger
+: Any time you try to avoid danger or getting hurt, roll with the appropriate stat.
+	- **10+** You succeed
+	- **7-9**  You stumble, and choose from a worse outcome or tough choice
 
-Rather than try to plan out exactly how a game will end, play to find out what happens. Create situations, let the players decide how they want to respond, and roll some dice to see how it goes.
+Defend
+: When you try to defend yourself of a teammate from an attack, make a Strength roll.
+	- **10+** Block the attack
+	- **7-9** Cut the damage in half (_if protecting someone else, take the hit yourself_)
 
+Understand the World
+: Whenever you try to study the world around you, a person, or a situation, make a Wisdom roll. On a 10+, ask three questions. On a 7-9, ask one.
+	- What happened here recently?
+	- What is about to happen?
+	- What should I be on the lookout for?
+	- What here is useful or valuable to me?
+	- Who’s really in control here?
+	- What here is not what it appears to be?
+
+Recall Knowledge
+: Whenever your character tries to recall something that they would know in the story, make a Wisdom roll.
+	- **10+** The GM will tell you something interesting and useful
+	- **7-9** The GM will tell you something interesting only
+
+Influence
+: When you try to persuade or intimidate someone, roll with Charisma or Strength.
+	- **10+** They do what you want
+	- **7-9** They do what you want, but require something from you first
+
+### Make Failure Interesting
+
+Statistically, failed die rolls will happen about a quarter of the time a player rolls. Even when a player fails a roll, something should still _happen_.
+
+Otherwise, it's boring and disappointing.
+
+{{<callout title="Examples">}}
+- The player fails to pick the lock on the chest. It unleashes a curse, freezing the player in place!
+- The player tries to jump across a cliff and fails the roll. They slam into the cliff wall and fall onto a ledge 20 feet down. They think they've escaped the worst of it... until the ledge starts to shift and crack under their weight.
+{{</callout>}}
 
 
 ## Accounting for Difficulty
 
-Under the die roll system, any action has the same probability of succeeding or failing.
+Under the die roll system, every action has the same probability of succeeding (or not).
 
-But some actions are inherently more difficult than others. In addition to the Best Roll and Worst Roll mechanics, you can account for difficulty in complex situations by breaking each step into its own die roll.
+But some actions are inherently more difficult than others. In addition to advantage and disadvantage mechanics, you can account for difficulty in complex situations by breaking each step into its own die roll.
 
 {{<callout title="Example">}}
 A player is trying to run up to a giant, scale his 20-foot high boot, and hit him with a sword. This would involve three separate die rolls.
@@ -91,18 +165,6 @@ A player is trying to run up to a giant, scale his 20-foot high boot, and hit hi
 You might also require a roll to identify which part of the boot to climb, or a blind spot where the adventurer can sneak up undetected.
 {{</callout>}}
 
-
-
-## Make Failure Interesting
-
-Statistically, failed die rolls will happen about a quarter of the time a player rolls. Even when a player fails a roll, something should still _happen_.
-
-Otherwise, it's boring and disappointing.
-
-{{<callout title="Examples">}}
-- The player fails to pick the lock on the chest. It unleashes a curse, freezing the player in place!
-- The player tries to jump across a cliff and fails the roll. They slam into the cliff wall and fall onto a ledge 20 feet down. They think they've escaped the worst of it... until the ledge starts to shift and crack under their weight.
-{{</callout>}}
 
 
 
@@ -119,9 +181,7 @@ When you first start GMing games, finding the right balance between "not too tou
 
 Every now and then, players may find themselves in a battle they just can't win. Players can choose to flee a battle at any time, including in the middle of one.
 
-
-
-## Total Group Knock Out
+### Total Group Knock Out
 
 If every member of a group loses all of their health points, that’s a called a _Total Group Knock Out (or TGKO)_.
 
@@ -134,6 +194,10 @@ A TGKO can happen if the difficulty of a particular challenge isn’t properly b
 - Players awaken to find themselves trapped in a locked room, unsure of where they are or how they got there. They must use their skills and items they can find in there surroundings to escape.
 
 This can add a really fun new aspect to the game, so don’t be afraid to get creative!
+
+
+
+## Creating Your Own Adventures
 
 
 
