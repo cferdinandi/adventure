@@ -74,7 +74,7 @@ The [pre-made adventures](/adventures/) are structured with this in mind.
 - **Monsters & Traps.** Create fun and exciting challenges by introducing monsters, traps, and unexpected situations.
 - **Secrets.** As players explore the world, they'll uncover secrets and hidden mysteries.
 - **Magic Items & Treasure.** Discover magic items and hidden treasure. These often reveal secrets about the world and give the players new powers and abilities.
-- **Fronts.** The big players and forces in a campaign, these are things that will affect the world and drive the story forward unless the players intervene.
+- **Fronts.** The big players and forces in a campaign, these are things that will affect the world and unfold in sequence unless the players intervene.
 
 Each of these pieces is modular, and designed be dropped into the story whenever appropriate.
 
@@ -136,6 +136,43 @@ Influence
 : When you try to persuade or intimidate someone, roll with Charisma or Strength.
 	- **10+** They do what you want
 	- **7-9** They do what you want, but require something from you first
+
+Last Breath
+: When a character is dying, make a plain 2D6 roll without modifiers.
+	- **10+** Death allows them to return to the living
+	- **7-9** Death requires something in return
+
+### Improvising Monsters
+
+In Adventure, a _monster_ is any villain (not just humanoid ones). Like player characters, monsters have HP and get knocked out or die when it reaches zero.
+
+<p class="margin-bottom-small">Assign HP and damage to monsters based on their difficulty.</p>
+
+- **Easy:** 1 HP, 1 Damage
+- **Medium:** 3 HP, 1 Damage
+- **Hard:** 6 HP, 2 Damage
+- **Very Hard:** 9 HP, 3 Damage
+- **Monsterous.** 15 HP, 5 Damage
+
+These are just guidelines. Feel free to adjust the HP and damage to make the monsters more or less challenging as desired.
+
+You might also give your creatures special abilities or unique features. For creatures that attack in hordes, players can damage multiple monsters with one attack.
+
+{{<callout title="Examples">}}
+- **Rat.** 1 HP, 1 Damage. _Attack in hordes._
+- **Skeleton.** 3 HP, 1 Damage. _Springs back to life after several rounds._
+- **Giant Spider.** 5 HP, 2 Damage. _Can shoot webs._
+- **Hill Giant.** 8 HP, 3 Damage. _Smashes things. Bad eye sight._
+- **Dragon**, 12 HP, 5 Damage. _Breathes fire._
+{{</callout>}}
+
+### Improvising Damage
+
+Adventuring is dangerous, and sometimes traps and the environment cause injuries.
+
+- **Cuts & Scrapes:** 1 Damage
+- **Broken Bones:** 3 Damage
+- **Lethal:** 6 Damage
 
 ### Make Failure Interesting
 
@@ -199,21 +236,111 @@ This can add a really fun new aspect to the game, so don’t be afraid to get cr
 
 ## Creating Your Own Adventures
 
-
-
-## How to Create Your Own Adventures
-
 You can get by for a long time on [pre-made adventures](/adventures). But eventually, you may want to create your own.
 
-### 1. Start with a Hook
+1. **Start with a fantastic location.** Adventure is about exploring amazing places. Imagine a place that's really big, really old, or really weird.
+2. **Identify a situation.** Why are the characters there? Are they searching for something? Delivering something? Lost?
+3. **Add details.** What kind of monsters live there? What are some other locations in the area? What kinds of treasure and magic items might they find? What secrets might they uncover?
+4. **Write down some questions.** What can you ask the players to fill in the blanks in the story and get things started?
+5. **Create fronts.** These breathe life into the world. One to three are good for a short campaign, but you can have five or more for a bigger one.
 
-There are two types of hooks you can use for your adventure: a quest or a location.
+{{<callout title="Example: Isle of the Kraken" nomd="true">}}
+{{<details summary="Locations">}}
+- **A mysterious island that emerges from the sea every few years.** A ship moored to a tree, with a black flag featuring two crossed tridents. A tall monolith protruding from the trees. Sleeping pirates and empty rum.
+- **Jellyfish Lake.** A massive cavern with huge subterranean lake. Jellyfish fill the water, glowing blue/purple. A rowboat with no oars waits on the shore.
+- **Tentacle Gate.** Big iron gate, slats woven tentacles. Kraken head at the top, with a gem in one eye, missing in the other. A pile of rocks nearby.
+{{</details>}}
 
-#### Option 1: A Quest
+{{<details summary="Situation">}}
+The island has just emerged from the sea for the first time in a few years. There's rumored to be a powerful and ancient artifact hidden there. You've just caught sight of it... along with another ship moored to a tree.<br><br>
+{{</details>}}
 
-What are the players supposed to do, and who has asked them to do it?
+{{<details summary="Monsters">}}
+- **Crabs.** 1 HP, 1 Damage. _Attack in swarms._
+- **Giant Crabs.** 3-6 HP, 2-5 Damage. _Look like rocks when hidden._
+- **Pirates.** 3 HP, 1 Damage. _Searching for treasure. Fight dirty._
+- **Pirate Captain.** 6 HP, 2-3 Damage. _Triton/Merfolk. Teeth filed like shark teeth. Can teleport and create tidal waves._
+- **Magic Manta.** 10 HP, 2 Damage. _Emits anti-magic field. Can charm creatures and make psychic attacks._
+- **Lightning Eels.** 3 HP, 1 Damage. _Can zap things._
+- **Glow Jelly.** 1 HP, 1 Damage. _Painful sting. Emit a purple light._
+- **Kraken.** 15 HP, 5 Damage. _Guardian of the island. Tentacles can paralyze, electrocute, ink, and be shed into smaller attackers. Can teleport short distances._
+{{</details>}}
 
-<p class="margin-bottom-small"><strong>Most adventures fall into one of a handful of archetypes:</strong></p>
+{{<details summary="Magic Items">}}
+- **Seaweed of Speed.** When consumed, the person who eats this seaweed is able to run twice as fast as they normally could.
+- **Armor of the Leatherback Turtle.** Automatically heals 1 damage at the end of any combat encounter.
+- **Whale Ward.** A wooden necklace carved into the shape of a whale, it reduces all damage by 1 HP.
+- **Staff of the Merfolk Shaman.** A staff of firey red coral, grants its possessor advantage to spell rolls, and access to the following spells: 
+	+ _Shell Skin._ Reduce damage by 1 HP for 10 minutes.
+	+ _Wall of Waves._ Does 2 damage to all creatures in a 30’ area .
+	+ _Coral Growth._ Fire coral sprouts, does 3 damage when traversed.
+{{</details>}}
+
+{{<details summary="Secrets">}}
+- A kraken guards the treasure, and hunts intruders
+- A group of fishfolk cultists worship the Kraken and live there
+- One of the pirates is not there of his own will
+- The Pirate Captain wants to use the artifact to destroy one of the characters' home town
+- The artifact belonged to Pirate Captain’s family (or so he was told)
+- The Island is actually a giant, ancient turtle!
+{{</details>}}
+
+{{<details summary="Questions">}}
+- How did you learn that the island had resurfaced?
+- Why are you interested in exploring it and/or retrieving the legendary artifact? What will you do with it?
+- What have you heard about the artifact and what it does?
+- Who else might be interested in the artifact? Why?
+{{</details>}}
+
+{{<details summary="Fronts">}}
+- **Fishfolk Cultists.** Want to harness the powers of the island and expand beyond the fringes.
+	1. Collect and steal magic items, gold, and prisoners
+	2. Reproduce old wizard’s experiments
+	3. Gain control of the kraken and/or island
+- **Pirates.** Reclaim the artifact for their people and exact revenge.
+	1. Locate the artifact
+	2. Figure out how to unlock its power
+	3. Attack the mainland
+- **Turtle Island.** Return to the depths after getting some air.
+	1. Deep bellowing, rushing air, gurgling
+	2. Several rumbles or tremors
+	3. Total collapse, massive earthquake
+{{</details>}}
+{{</callout>}}
+
+### Common Locations, Monsters, Traps, and More
+
+<p class="margin-bottom-small"><strong>Locations</strong></p>
+
+<div class="row margin-bottom">
+	<div class="grid-third">
+		<ul class="no-margin-bottom">
+			<li>Cave/Tunnels</li>
+			<li>Castle/Mansion</li>
+			<li>Dense Forest</li>
+			<li>Raging River</li>
+		</ul>
+	</div>
+	<div class="grid-third">
+		<ul class="no-margin-bottom">
+			<li>Misty Lake</li>
+			<li>Secluded Cabin</li>
+			<li>Mountain Pass</li>
+			<li>Cliff/Drop
+		</ul>
+	</div>
+	<div class="grid-third">
+		<ul class="no-margin-bottom">
+			<li>Bustling Village</li>
+			<li>Quiet Farm</li>
+			<li>Canyon/Valley</li>
+			<li>Hidden Entry</li>
+		</ul>
+	</div>
+</div>
+
+
+<p class="margin-bottom-small"><strong>Situations</strong></p>
 
 - Retrieve/rescue an item or person from somewhere
 - Deliver an item or person to somewhere
@@ -222,177 +349,10 @@ What are the players supposed to do, and who has asked them to do it?
 
 The players could have been specifically asked to complete a quest by someone directly, or may have heard a rumor or overheard a conversation that drew their interest.
 
-{{<callout title="Examples">}}
-- Lord Grasshopper has asked you to retrieve a magical gem rumored to be hidden deep within the Cavern of Mysteries.
-- You've heard rumors that the Black Pearl is in the basement of the tower, and grants immense power to whoever possesses it.
-- You overheard a party of dwarven miners talking about a hidden cache of gold deep within the mountain, guarded by a sleeping dragon.
-- A man arrives at the village looking like he hasn't slept in days. As you approach and ask him if he's ok, he tells you that he fled his town on the other side of the mountains after ice giants attacked and enshrined everyone and everything in a deep, magical freeze.
-{{</callout>}}
-
-#### Option 2: A Fantastic Location
-
-Alternatively, you can throw your adventurers into a fantastic location filled with interesting places to explore and secrets to uncover.
-
-An easy way to make locations extraordinary is to make something really big or really old. See [Creating Interesting Locations](#creating-interesting-locations) for more.
-
-{{<callout title="Examples">}}
-<ul class="list-spaced">
-	<li>The island off the port side of your boat shouldn't be there. Not only is it not on any nautical maps, but you were just here a week ago and this area was open sea. A granite monolith, a small tower with a carving of a kraken at the top, protrudes from the trees in the center of the island. What is this place, and where did it come from?</li>
-	<li>A giant chain, each link the size of an elephant, spans a moat filled with lava. Each link is decorated with dwarven writing. Every few minutes, the glyphs pulse in a strange purple light for just a moment before fading.</li>
-	<li>In the depths of the forest, you happen upon the skeleton of a massive, long dead monster. The rib cage is as large as a fortress. The skull features two dagger-like teeth as tall as trees. You spot fresh footprints and a recently extinguished fire nearby.</li>
-</ul>
-
-<p><em>Thanks to <a href="https://slyflourish.com/nine_fantastic_encounter_locations.html">Sly Flourish</a> for the inspiration on these.</em></p>
-{{</callout>}}
-
-### 2. Fill in the Details
-
-Once you have a quest or location (or both), you can fill in some details.
-
-You don't need to have _all_ the details figured out, though. A lot of blanks can be filled in by asking the players questions and through playing the game itself.
-
-<p class="margin-bottom-small"><strong>Here are a few things you may want to think about:</strong></p>
-
-- Some initial locations the players might visit
-- Some monsters and traps they may encounter
-- Some events that might happen, based on what the players do in the world
-- Some secrets the players might uncover while exploring
-
-_Monsters, traps, events, and secrets can be tied to specific locations, or be standalone challenges you use to help improvise if players go off the beaten path. You can find more details on [creating monsters](#creating-monsters) and [creating traps](#creating-traps) later in this guide._
-
-{{<callout title="Example 1: The Sorcerer's Gem">}}
-
-In this example, monsters and events are connected to specific locations.
-
-{{<details summary="View Details">}}
-
-**The Situation:** The players have been hired by Lord Grasshopper to find the mysterious "Sorcerer's Gem." It was lost some years ago, and is rumored to be hidden deep within the Cave of Mysteries. No one is quite sure exactly what it does, but many powerful people want to get their hands on it.
-
-- **The Cavern of Mysteries**
-	+ _Monsters_
-		* Giant Spider
-		* Rats
-		* Troll
-	+ _Events_
-		* A trap door gives way to another level of tunnels
-		* Lava floods a chamber
-		* A troll accuses the players of trying to steal his gold
-- **The Goblin Village**
-	+ _Monsters_
-		* Goblins
-		* Lizardfolk
-	+ _Events_
-		* Goblins begin attacking neighboring town and stealing livestock
-		* Players find lizardfolk being held captive
-		* Lizardfolk turn on the players and attack them
-- **The Dark Forest**
-	+ _Monsters_
-		* Wolves
-		* Elves
-	+ _Events_
-		* The elves are also searching for the Sorcerer's Gem, and want create an alliance
-		* The elves double cross the players
-		* The wolves are controlled by the sorcerer, and track the players wherever they go
-
-<p class="margin-bottom-small"><strong>Questions</strong></p>
-
-- What does the Sorcerer's Gem actually do?
-- Why does the Sorcerer want it back?
-- What do you know about the elves? Why are they interested in the gem?
-
-{{</details>}}
-
-{{</callout>}}
-
-{{<callout title="Example 2: The Tower of the Black Pearl">}}
-
-In this example, locations, monsters, and events are standalone items that can be mixed-and-matched while you play.
-
-{{<details summary="View Details">}}
-
-<p class="margin-bottom-small"><strong>Locations</strong></p>
-
-- The locked entrance
-- The hallway to nowhere
-- The trap stairway
-- The river of the dead
-- The lava passage
-- The room of the black pearl
+A great starting question for the players is to ask them how they heard about the quest or who sent them.
 
 <p class="margin-bottom-small"><strong>Monsters</strong></p>
 
-- Water snakes
-- Giant crabs
-- Sea rats
-- Undead merfolk
-- The boatsmen
-- Pirate thieves
-- The kraken
-
-<p class="margin-bottom-small"><strong>Events</strong></p>
-
-- A room seals the players in, and begins to flood
-- Pirates also in search of the pearl encounter the adventurers
-- Stairs drop-out from under the players, becoming a slide
-- A maze of tunnels sends players in circles
-- The tide begins to rise, swallowing the tower into the sea
-- The enchantment keeping sea water out of the tower fails
-- The kraken that guards the pearl awakens
-
-<p class="margin-bottom-small"><strong>Questions</strong></p>
-
-- Does the black pearl even exist?
-- What happened to the adventurers who tried to find it before?
-- Why is the tower underwater?
-
-{{</details>}}
-
-{{</callout>}}
-
-### 3. Ask the Players Questions
-
-You don't have to fill in all of the details ahead of time. Depending on your preferred GM style, you can fill in some or even most of the details by asking the players questions.
-
-This approach is really helpful for getting players invested in the world they're about to go explore. It also makes your job as a GM easier.
-
-You can even use it build an impromptu adventure on-the-spot.
-
-{{<callout title="Sample Questions">}}
-- What have you been sent to [retrieve/deliver/fix/figure out]? _(pick one)_
-- Who sent you, and why are they interested in this quest?
-- Are you being paid or rewarded to complete this quest? What is the reward?
-- What rumors have you heard about [the object or person you're searching for/the location you're exploring]?
-- Someone is [chasing you/also on this quest]. Who are they, and why?
-- Dangerous monsters are believed to be in this area. What are they?
-- What could happen if you fail your quest?
-- What's one strange or unique feature you notice about this location?
-{{</callout>}}
-
-### Inspiration for Adventures
-
-<p class="margin-bottom-small">Here are a few ways to come up with fun ideas for adventures.</p>
-
-- Take the main plot from a favorite movie or story and change some of the details.
-- Mash-up stories for a few different books or movies to create something unique.
-- Is there a superpower you wish you had or a mythical place you wish you could visit? What would happen if it were real?
-- Take a look at some of the maps on [Dyson Logos](https://dysonlogos.blog/maps/) and [2-Minute Tabletop](https://2minutetabletop.com/). Imagine exploring them. What cool stuff would your adventurers find there?
-
-
-
-## Creating Monsters
-
-In Adventure, a _monster_ is any villain (not just humanoid ones). Like player characters, monsters have HP and get knocked out when it reaches zero.
-
-<p class="margin-bottom-small">Assign HP to monsters based on their difficulty.</p>
-
-- **Easy:** 1 HP
-- **Normal:** 2 HP
-- **Hard:** 3-4 HP
-- **Monstrous:** 5+ HP
-
-You might also give your creatures special abilities or unique features. For creatures that attack in hordes, players can damage multiple monsters with one attack.
-
-{{<details summary="Monster Ideas" margin="true">}}
 <div class="row margin-bottom">
 	<div class="grid-third">
 		<ul class="no-margin-bottom">
@@ -444,28 +404,9 @@ You might also give your creatures special abilities or unique features. For cre
 	</div>
 </div>
 
-_You can also get random monster ideas from [Kobold Fight Club](https://kobold.club/fight/#/encounter-builder)._
-{{</details>}}
+<p class="margin-bottom-small"><strong>Traps</strong></p>
 
-{{<callout title="Examples">}}
-- **Rat**, 1 HP, attack in hordes
-- **Skeleton**, 2 HP, springs back to life after several rounds
-- **Giant Spider**, 3 HP, can shoot webs
-- **Dragon**, 5 HP, breathes fire
-{{</callout>}}
-
-
-
-## Creating Traps
-
-Traps are obstacles that the players must overcome to move forward.
-
-They often catch players off-guard, like a trap door or collapsing bridge. They can also be simple obstacles the players can see, like a locked door or an icy pass.
-
-For surprise traps, you might require a roll from players to see if they notice the trap or are able to avoid being hurt by it. With obstacles, you might add more dangers after a certain amount of time or number of failures.
-
-{{<details summary="Trap Ideas" margin="true">}}
-<div class="row">
+<div class="row margin-bottom">
 	<div class="grid-third">
 		<ul class="no-margin-bottom">
 			<li>Darts/Arrows</li>
@@ -500,61 +441,10 @@ For surprise traps, you might require a roll from players to see if they notice 
 		</ul>
 	</div>
 </div>
-{{</details>}}
 
-{{<callout title="Examples">}}
-- **As you make your way through the dungeon, a trap door opens up beneath you.** Roll to see if you can jump to the other side instead of falling in.
-- **The door in front of you is locked.** You failed to pick it open twice already. The third time you fail, the door on the opposite end slams shut and the room suddenly starts flooding with water.
-{{</callout>}}
+<p class="margin-bottom-small"><strong>Treasure</strong></p>
 
-
-
-## Creating Spells & Magic Items
-
-Magic is everywhere in Adventure. As players explore and complete quests, you might reward them with new spells and magic items.
-
-Common magic can be used at-will. More rare magic should be restricted in some way: maybe it can only be cast once per day, or it requires a special, rare item (like a phoenix feather) to use.
-
-Here are some ideas to help you get started.
-
-{{<details summary="Common Magic">}}
-- **Magic Missiles.** A blast of magic energy shoots from your hands or magic item.
-- **Wave of Thunder.** A wave of sound shoots out from you, pushing everyone near you 15' back and doing damage.
-- **Identify Object.** You can take Best Roll while trying to determine what an object is and what it does.
-- **Sleep.** Make one large monster, two medium ones, or four small ones fall asleep.
-- **Illusion.** You create a small illusory sight or sound that lasts for about a minute.
-- **Heal.** Heal 1 HP on a creature you can touch.
-- **Tangle of Vines.** A tangle of vines 15' wide grows and restrains any creatures in the area.
-- **Speak with Nature.** Place your hands on an animal, plant, body of water, stone, or other natural element and learn about recent events from it.
-{{</details>}}
-
-{{<details summary="Rare Magic" margin="true">}}
-- **Teleport.** You can teleport to a different location that you can see.
-- **Fireball.** Launch a ball of flames. Does 2 HP damage. Can only be used once per battle.
-- **Cage.** A monster becomes restrained in a magical cage. Nothing can get in or out. The spells ends if you can no longer see the monster.
-- **Suggestion.** A monster or NPC that can hear you does what you suggest. It cannot harm itself or do anything unreasonable.
-- **Animate Objects.** Up to 8 tiny objects, 4 small objects, 2 medium objects, or 1 large object come to life. You command them for up to a minute.
-- **Flight.** A creature you can touch (including yourself) gains the ability to fly for two minutes. If it's still flying when the spell ends, it falls.
-- **Shapeshift.** You can transform into an animal. You have all of the physical characteristics of the animal, but your own mind and thoughts. You cannot speak.
-- **Weather Weaver.** Manipulate the weather to your liking. Weather must be area-appropriate. No snowstorm in a desert, for example.
-- **Elemental Storm.** A storm of hail, fire, or lightning rains down from the sky, doing damage.
-- **Diguise.** You can make yourself look and sound like someone else you've seen and heard before.
-- **Invisible.** You can make yourself and anything you carry invisible for one minute.
-- **Message.** You can send a secret message to someone else with your mind, and they can respond.
-{{</details>}}
-
-_Bob World Builder_ has a fantastic video on [how to make your magic items unique](https://www.youtube.com/watch?v=nUrgq0tcXow) through the use of stories, history, and minor magical side-effects. You can download a fantastic table of [minor magical abilities on GM Binder](https://www.gmbinder.com/share/-MMz32Kxwu31dLnB5KXr).
-
-
-
-## Creating Treasure
-
-As players explore and complete quests, you might reward them with treasure.
-
-These can be items that have real monetary value, like gold or gems. They could also be useful items like weapons or armor. Or, they can just be cool or interesting, like jewelry, a figurine, or a fancy hat. Some might also contain magical properties.
-
-{{<details summary="Treasure Ideas" margin="true">}}
-<div class="row">
+<div class="row margin-bottom">
 	<div class="grid-third">
 		<ul class="no-margin-bottom">
 			<li>Gold</li>
@@ -577,59 +467,30 @@ These can be items that have real monetary value, like gold or gems. They could 
 		</ul>
 	</div>
 </div>
-{{</details>}}
 
+<p class="margin-bottom-small"><strong>Magic Items</strong></p>
 
+_Bob World Builder_ has a fantastic video on [how to make your magic items unique](https://www.youtube.com/watch?v=nUrgq0tcXow) through the use of stories, history, and minor magical side-effects.
 
-## Creating Interesting Locations
+You can also download a fantastic table of [minor magical abilities on GM Binder](https://www.gmbinder.com/share/-MMz32Kxwu31dLnB5KXr).
 
-Adventure is a world filled with fantastic places to explore.
+<p class="margin-bottom-small"><strong>Questions for Players</strong></p>
 
-You can make extraordinary locations by adding one or two interesting details to otherwise mundane places. Unique physical features and unusual items can bring a location to life.
+- What have you been sent to [retrieve/deliver/fix/figure out]? _(pick one)_
+- Who sent you, and why are they interested in this quest?
+- Are you being paid or rewarded to complete this quest? What is the reward?
+- What rumors have you heard about [the object or person you're searching for/the location you're exploring]?
+- Someone is [chasing you/also on this quest]. Who are they, and why?
+- Dangerous monsters are believed to be in this area. What are they?
+- What could happen if you fail your quest?
+- What's one strange or unique feature you notice about this location?
 
-One easy way to do that is to make something really big or really old.
-
-{{<details summary="Location Ideas" margin="true">}}
-<div class="row">
-	<div class="grid-third">
-		<ul class="no-margin-bottom">
-			<li>Cave/Tunnels</li>
-			<li>Castle/Mansion</li>
-			<li>Dense Forest</li>
-			<li>Raging River</li>
-		</ul>
-	</div>
-	<div class="grid-third">
-		<ul class="no-margin-bottom">
-			<li>Misty Lake</li>
-			<li>Secluded Cabin</li>
-			<li>Mountain Pass</li>
-			<li>Cliff/Drop
-		</ul>
-	</div>
-	<div class="grid-third">
-		<ul class="no-margin-bottom">
-			<li>Bustling Village</li>
-			<li>Quiet Farm</li>
-			<li>Canyon/Valley</li>
-			<li>Hidden Entry</li>
-		</ul>
-	</div>
-</div>
-{{</details>}}
-
-
-{{<callout title="Examples">}}
-<ul class="list-spaced">
-	<li>Crocodile Cliff looked like any other seaside cliff... except for the rocky outcrop shaped just like a crocodile's mouth. A pirate hideout is rumored to be in the hidden in the mouth, <em>if</em> you can figure out how to get to it.</li>
-	<li>The cave is filled with a forest of giant mushrooms, each one the size of a small house, glowing in strange neon hues. You've heard legends about this place, and the magical properties the mushrooms possess, but no one is certain just what they are.</li>
-</ul>
-{{</callout>}}
+You can even use these to improvise a campaign on-the-spot if you want.
 
 
 
 
-## Creating Maps
+<!-- ## Creating Maps
 
 A good map can really bring a world to life, and help players get a better sense for where they are, where they can go, and what's possible.
 
@@ -652,7 +513,7 @@ Depending on the age and interests of your players, it might also be fun and int
 You can also find tons of free maps at [Dyson Logos](https://dysonlogos.blog/maps/), and inexpensive maps and other printables at [2-Minute Tabletop](https://2minutetabletop.com/). It may also be helpful to pick up [an erasable gaming mat](https://www.amazon.com/stores/page/236ED059-EDAE-410D-A7AF-94E558210418).
 
 If you want minis and figurines for your games, Paizo's [Beastiary Box](https://paizo.com/products/btq0206t?Pathfinder-Bestiary-Pawn-Box) and [Player Character Pawns](https://paizo.com/products/btq026jg?Pathfinder-Player-Character-Pawn-Collection) are good options.
-{{</callout>}}
+{{</callout>}} -->
 
 
 
@@ -685,52 +546,3 @@ Games of Adventure can take as little as 30 minutes, or can last several hours.
 As the Game Master, you have a lot of control over the length and complexity of each game. You can add more monsters and optional encounters, adjust Difficulty Rating for encounters up or down, and save the day with non-player characters you introduce to the game.
 
 You can also spread an adventure over several sessions, stopping after an encounter, and picking things back up another time.
-
-### Becoming a better GM
-
-One of my favorite resources for improving your skills as a Game Master is [Return of the Lazy Dungeon Master](https://slyflourish.com/returnofthelazydm/) by Sly Flourish.
-
-This book is packed with tips on how to build fantastical worlds and create a more fun and memorable experience for your players with less work. I highly recommend it!
-
-
-
-## House Rules
-
-House rules are strongly encouraged in Adventure. Here are some ideas you may want to adapt to your game.
-
-{{<details summary="Pets." blurb="For added fun, characters can have a pet that accompanies them on their adventures and helps them along the way.">}}
-
-Pets can be small and sensible (a cat, dog, or woodland creature) or large and absurd (a dinosaur, dragon, or elephant). A player’s pet can be used to get them out of a tough situation, as a weapon in battle, or just for added flavor and interest in role playing.
-
-{{<callout title="Example">}}
-Quill didn't expect the rope to snap on the sharp edge of the well, or he never would have come down here by himself.
-
-Fortunately, he brought along Geoffrey, his pet rat. He instructed Geoffrey to scurry up the wall and find help.
-
-_Roll to see what happens._
-{{</callout>}}
-{{</details>}}
-
-{{<details summary="Tinkering." blurb="A tinkerer can build small creations from bits of scrap metal and wood.">}}
-
-<p class="margin-bottom-small">Here's how it works...</p>
-
-- Tinkered items can be robotic toys, weapons, tools, and more.
-- Tinkered items are small and fragile, and stop working after a few turns.
-- Only one tinkered item can exist at a time.
-- The parts from a tinkered item can be reclaimed to build another (either after it break, or when the adventurer decides they’d like to build something else).
-
-You may choose to have the adventurer first acquire a tinker kit: gears, bits of scrap metal, and some small tools from a shopkeeper in the game.
-{{</details>}}
-
-{{<details summary="Chaos Magic." blurb="For added fun, you can introduce rare magical items that randomly unleash a surge of chaotic magic and create random effects.">}}
-
-<p class="margin-bottom-small">Some things that can cause chaos magic...</p>
-
-- Wands, staffs, and magical talismans, when used to cast spells or conjure abilities
-- Weapons and armor, when used in battle
-- Potions and herbs of unknown origin, when consumed
-
-You don't need to have random effects occur _every_ time the item is used. In fact, it's probably more fun if it happens occasionally. If you want, you can flip a coin.
-
-[Here's a table of random effects.](/random-effects/)

@@ -200,6 +200,8 @@ As an adventurer, you’re going to get hurt from time-to-time. Cuts, bruises, a
 - **Damage.** Any time a character is hit by a monster or seriously injured (from a fall, for example), subtract 1 HP (or more) from their total. Bigger monsters and threats may cause more damage.
 - **Healing.** Players can recover 2 HP after a short rest, first aid, or healing spell. They can regain 4 HP with a healing potion.
 
+The [GM Guide](/gm/) has more information on how to improvise [monsters](/gm/#) and [damage](/gm/#).
+
 {{<callout title="Examples">}}
 - **A knight hits a hydra with her sword.** The hydra loses 1 HP.
 - **A wizard slips while scaling a cliff face and falls 20 feet.** The wizard loses 1 HP.
