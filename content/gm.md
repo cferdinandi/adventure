@@ -166,14 +166,6 @@ You might also give your creatures special abilities or unique features. For cre
 - **Dragon**, 12 HP, 5 Damage. _Breathes fire._
 {{</callout>}}
 
-### Improvising Damage
-
-Adventuring is dangerous, and sometimes traps and the environment cause injuries.
-
-- **Cuts & Scrapes:** 1 Damage
-- **Broken Bones:** 3 Damage
-- **Lethal:** 6 Damage
-
 ### Make Failure Interesting
 
 Statistically, failed die rolls will happen about a quarter of the time a player rolls. Even when a player fails a roll, something should still _happen_.

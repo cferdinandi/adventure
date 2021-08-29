@@ -192,22 +192,36 @@ Staff of the Woodlands
 
 
 
-## Health, Damage & Healing
+## Health & Healing
 
 As an adventurer, you’re going to get hurt from time-to-time. Cuts, bruises, and serious injury are a common risk.
 
 - **Health Points** (_HP_) represent a character's overall health. Each player starts the game with 6 HP, and cannot ever have more than that.
 - **Damage.** Any time a character is hit by a monster or seriously injured (from a fall, for example), subtract 1 HP (or more) from their total. Bigger monsters and threats may cause more damage.
-- **Healing.** Players can recover 2 HP after a short rest, first aid, or healing spell. They can regain 4 HP with a healing potion.
-
-The [GM Guide](/gm/) has more information on how to improvise [monsters](/gm/#) and [damage](/gm/#).
 
 {{<callout title="Examples">}}
 - **A knight hits a hydra with her sword.** The hydra loses 1 HP.
-- **A wizard slips while scaling a cliff face and falls 20 feet.** The wizard loses 1 HP.
-- **A druid casts a healing spell on their teammate.** The teammate gains 2 HP.
+- **A wizard slips while scaling a cliff face and falls 20 feet.** They loses 1 HP.
 - **A dragon breathes fire on the barbarian.** The barbarian loses 3 HP.
 {{</callout>}}
+
+### Environmental Damage
+
+Adventuring is dangerous, and sometimes traps and the environment cause injuries.
+
+- **Cuts & Scrapes:** 1 Damage
+- **Broken Bones:** 3 Damage
+- **Lethal:** 6 Damage
+
+### Healing
+
+Players can recover lost Health Points in a variety of ways.
+
+- **Short Rest:** 1 HP
+- **Long Rest:** 3 HP
+- **First Aid:** 2 HP
+- **Healing Spell:** 2 HP
+- **Healing Potion:** 4 HP
 
 ### Knocked Out & Last Breath
 
