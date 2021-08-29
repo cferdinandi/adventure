@@ -1,4 +1,4 @@
 <div class="callout">
 {{- if .Get "title" -}}<p><strong class="text-uppercase">{{ .Get "title" }}</strong></p>{{- end -}}
-{{ .Inner | markdownify }}
+{{ if .Get "nomd" }}{{ .Inner }}{{ else }}{{ .Inner | markdownify }}{{ end }}
 </div>

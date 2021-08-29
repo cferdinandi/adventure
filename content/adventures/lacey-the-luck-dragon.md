@@ -10,7 +10,7 @@ The dragon who protects your village has lost her babies. She needs your help to
 
 
 
-## The Situation
+## Introduction
 
 Lacey the Luck Dragon protects the forest and village from invaders. While out looking for food, her five baby dragons wandered off, and she can’t find them. The babies just learned to fly, and aren’t very good at it. She’s worried sick.
 

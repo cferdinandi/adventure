@@ -4,13 +4,13 @@ date: 2020-10-07T16:02:16-04:00
 draft: false
 ---
 
-A group of fairies needs your help after their pixie dust tree is destroyed by ice.
+A group of fairies need your help after their pixie dust tree is destroyed by ice.
 
 <div data-toc="In This Adventure"></div>
 
 
 
-## The Situation
+## Introduction
 
 You've been traveling through the forest for several days now, every since the fairy woke you from your sleep, begging for your help.
 
@@ -40,13 +40,6 @@ You were warned he doesn't take kindly to visitors. As you ponder just how you'l
 
 
 
-## Secrets
-
-- An old wizard collects magical animals, and destroyed the tree in hopes that their fairies, who protect the creatures of the woods, wouldn't be able to fly again.
-- Thieves have been offered a very hefty sum of money to locate and destroy any remaining trees.
-
-
-
 ## Monsters & Traps
 
 - **Rock Slide.** A wall of boulders comes sliding down from the mountains.
@@ -57,7 +50,7 @@ You were warned he doesn't take kindly to visitors. As you ponder just how you'l
 
 
 
-## Game Master Tips
+## Secrets
 
-- If you're unsure where to take this adventure, I like to have the Elder Fairy give players instructions on making a new tree: three grains of blue pixie dust with water from the Sacred Stream. Heat it over a fire for 15 minutes, then dig a hole and pour it into it. A new pixie dust tree will sprout. This sends them to two of the other locations on the map.
-- I like to make the Fairies of the Eastern Grove hesitant to trust or work with the players. They must earn their trust somehow.
+- An old wizard collects magical animals, and destroyed the tree in hopes that their fairies, who protect the creatures of the woods, wouldn't be able to fly again.
+- Thieves have been offered a very hefty sum of money to locate and destroy any remaining trees.

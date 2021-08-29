@@ -4,17 +4,19 @@ date: 2020-10-07T13:17:38-04:00
 draft: false
 ---
 
-Giant spiders overrun the ancient elven treetop city of Oakenshire. Can you drive them out before centuries of invaluable knowledge are lost forever?
+Giant spiders have overrun the ancient elven treetop city of Oakenshire. Can you drive them out before centuries of invaluable knowledge are lost forever?
 
 <div data-toc="In This Adventure"></div>
 
-## The Situation
+
+
+## Introduction
 
 The trees in this part of the forest are as wide as a house and several hundred feet tall.
 
 Glancing up, you can make out the wooden bridges and vines that let the elves who live in the city of Oakenshire walk from one treetop home or shop to the next.
 
-An elf bursts out of the shrugs to your left, out of breath with flush red cheeks. “There’s been an attack on Oakenshire,” he exclaims, “we’ve been completely overrun with spiders, and they’ve taken Lord Faelyn hostage!”
+An elf bursts out of the shrubs to your left, out of breath with flush red cheeks. “There’s been an attack on Oakenshire,” he exclaims, “we’ve been completely overrun with spiders, and they’ve taken Lord Faelyn hostage!”
 
 Before he can say another word, a thick strand of web wraps around the elf and rips him back up to the village with a scream.
 
@@ -44,13 +46,6 @@ Before he can say another word, a thick strand of web wraps around the elf and r
 
 
 
-## Secrets
-
-- The cocoons contain captured elves. If approached, they'll wiggle. The elves inside can be cut free and flee. One or two may be convinced to share critical information or become a helpful NPC ally.
-- The spiders are actually controlled by a massive, ancient spider named Grox. She's after something in the treasure room, but haven't figured out where it is, and Lord Faelyn refuses to tell her.
-
-
-
 ## Monsters & Traps
 
 - **Giant Spiders.** Can shoot webs, climb on walls and ceilings, and have a poisonous bite.
@@ -61,7 +56,7 @@ Before he can say another word, a thick strand of web wraps around the elf and r
 
 
 
-## Game Master Tips
+## Secrets
 
-- You can make this as battle-heavy or exploratory as you want. Every room can be filled with spiders and traps, or you can make most of the rooms interesting places to learn more about elven culture.
-- You can optionally incorporate an Elf NPC to aid players through this adventure.
+- The cocoons contain captured elves. If approached, they'll wiggle. The elves inside can be cut free and flee. One or two may be convinced to share critical information or become a helpful NPC ally.
+- The spiders are actually controlled by a massive, ancient spider named Grox. She's after something in the treasure room, but haven't figured out where it is, and Lord Faelyn refuses to tell her.

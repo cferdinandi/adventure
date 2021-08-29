@@ -10,12 +10,17 @@ draft: false
 
 ## What's new in {{<edition>}} edition?
 
-This edition uses two six-sided dice, which produces more _Partial Success_ rolls.
+This edition focuses on building more nuanced characters while still keeping the gameplay streamlined.
+
+- Characters now have a few stats to give them some depth. They'll be better at certain tasks, and worse at others.
+- There's new GM guidance on world building, running games, and building meaningful character abilities.
+- There's an official level up process to help characters progress and grow.
 
 
 
 ## Past Version
 
+- [8th Edition](/v8)
 - [7th Edition](/v7)
 - [6th Edition](/v6)
 - [5th Edition](/v5)
