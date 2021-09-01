@@ -94,32 +94,32 @@ As an open-ended role-playing game, the players can take an adventure in a lot o
 - Put someone in a tough spot
 - Offer a choice... with a cost
 
-### Outcomes for Common Types of Die Rolls
+### Outcomes for Common Actions
 
 There are a handful of types of die rolls that happen frequently in adventure. Here are some ideas for improvising outcomes to them.
 
 Cast Spells
-: When you try to cast a spell, make a Wisdom roll.
-	- **10+** The spell works
-	- **7-9** The spell works, but you draw unwelcome attention or lose control of it
+: When casting a difficult or powerful spell...
+	- **9+** The spell works
+	- **6-8** The spell works, but you draw unwelcome attention or lose control of it
 
 Combat
-: Strength Roll for close-up combat, or Agility for ranged.
-	- **10+** Deal your damage (_optional: do 1 more HP of damage but the enemy hits you_)
-	- **7-9** Deal your damage, and enemy hits you or you get put in a tough spot
+: When fighting close-up or from afar with ranged weapons...
+	- **9+** Deal your damage (_optional: do 1 more HP of damage but the enemy hits you_)
+	- **6-8** Deal your damage, and enemy hits you or you get put in a tough spot
 
 Defy Danger
-: Any time you try to avoid danger or getting hurt, roll with the appropriate stat.
-	- **10+** You succeed
-	- **7-9**  You stumble, and choose from a worse outcome or tough choice
+: Any time you try to avoid danger or getting hurt...
+	- **9+** You succeed
+	- **6-8**  You stumble, and choose from a worse outcome or tough choice
 
 Defend
-: When you try to defend yourself of a teammate from an attack, make a Strength roll.
-	- **10+** Block the attack
-	- **7-9** Cut the damage in half (_if protecting someone else, take the hit yourself_)
+: When you try to defend yourself of a teammate from an attack...
+	- **9+** Block the attack
+	- **6-8** Cut the damage in half, or block all of it but damage your armor or weapon
 
 Understand the World
-: Whenever you try to study the world around you, a person, or a situation, make a Wisdom roll. On a 10+, ask three questions. On a 7-9, ask one.
+: Whenever you try to study the world around you, a person, or a situation... On a 9+, ask three questions. On a 6-8, ask one.
 	- What happened here recently?
 	- What is about to happen?
 	- What should I be on the lookout for?
@@ -128,19 +128,19 @@ Understand the World
 	- What here is not what it appears to be?
 
 Recall Knowledge
-: Whenever your character tries to recall something that they would know in the story, make a Wisdom roll.
-	- **10+** The GM will tell you something interesting and useful
-	- **7-9** The GM will tell you something interesting only
+: Whenever your character tries to recall something that they would know in the story...
+	- **9+** The GM will tell you something interesting and useful
+	- **6-8** The GM will tell you something interesting only
 
 Influence
-: When you try to persuade or intimidate someone, roll with Charisma or Strength.
-	- **10+** They do what you want
-	- **7-9** They do what you want, but require something from you first
+: When you try to persuade or intimidate someone...
+	- **9+** They do what you want
+	- **6-8** They do what you want, but require something from you first
 
 Last Breath
-: When a character is dying, make a plain 2D6 roll without modifiers.
-	- **10+** Death allows them to return to the living
-	- **7-9** Death requires something in return
+: When a character is dying...
+	- **9+** Death allows them to return to the living
+	- **6-8** Death requires something in return
 
 ### Improvising Monsters
 

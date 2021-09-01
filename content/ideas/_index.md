@@ -9,9 +9,10 @@ Need inspiration for your character or game?
 This section is full of character concepts, abilities, fantastic locations, monsters, traps, and magic items. Use them as-is, or customize them and make them your own.
 
 - [Character Concepts](/ideas/characters)
-- [Abilities](/ideas/abilities)
+- [Skills & Abilities](/ideas/abilities)
 - [Fantastic Locations](/ideas/locations)
 - [Monsters](/ideas/monsters)
 - [Traps](/ideas/traps)
 - [Magic Items](/ideas/magic-items)
 - [Quests](/ideas/quests)
+- [Questions](/ideas/questions)

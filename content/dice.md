@@ -71,8 +71,8 @@ Don't have dice? Roll digital ones!
 			if (type === 'disadvantage') { rolls.pop(); }
 			let total = rolls[0] + rolls[1];
 			let result = 'Partial Success';
-			if (total < 7) { result = 'Failure'; }
-			if (total > 9) { result = 'Success'; }
+			if (total < 6) { result = 'Failure'; }
+			if (total > 8) { result = 'Success'; }
 			return `${total} - ${result}`;
 		}
 

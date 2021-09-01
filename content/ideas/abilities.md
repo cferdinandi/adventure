@@ -1,12 +1,10 @@
 ---
-title: "Abilities"
+title: "Skills & Abilities"
 date: 2020-10-07T13:17:38-04:00
 draft: false
 ---
 
-A collection of abilities for your character. Many include recommendations on how they can be enhanced as players progress and gain XP.
-
-[Learn how to create your own.](/rules/#creating-abilities-from-your-skills)
+A collection of skill and abilities for your character.
 
 <div data-toc="Ability Categories"></div>
 
