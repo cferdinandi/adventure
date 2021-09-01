@@ -43,7 +43,9 @@ Nature Talker
 ## Healing & Protection Magic
 
 Healing
-: Heal yourself or a teammate 2 HP.
+: You can heal yourself or another creature 2 HP. Make a Wisdom roll.
+	- _10+:_ Heal two people 2 HP, or one person 3 HP.
+	- _7-9:_ Heal one person 2 HP.
 	- _Progression:_
 		+ _50 XP:_ Increase healing to 3 HP
 		+ _100 XP:_ Increase healing to 4 HP
@@ -60,9 +62,9 @@ Magic Shield
 	- _10+:_ Prevent 2 damage.
 	- _7-9:_ Prevent 1 damage.
 	- _Progression:_
-		+ _50 XP:_ You can use this spell to protect 1 nearby ally
-		+ _100 XP:_ You can use this spell to protect 2 nearby allies
-		+ _150 XP:_ You can use this spell to protect 3 nearby allies
+		+ _50 XP:_ You can use this spell to protect yourself and/or 1 nearby ally
+		+ _100 XP:_ You can use this spell to protect yourself and/or 2 nearby allies
+		+ _150 XP:_ You can use this spell to protect yourself and/or 3 nearby allies
 
 Devote Healer
 : When you heal someone else, you also heal yourself that amount.
@@ -73,7 +75,9 @@ Speak with the Dead
 	- _7-9:_ It will answer 1 question
 
 Animate Dead
-: You invoke a hungry spirit to possess a recently-dead body and serve you. This creates a zombie that follows your orders to the best of its limited abilities. It has a +1 modifier for all stats and 1 HP. After a day, it's destroyed and cannot be reanimated.  Only one zombie can exist at a time.
+: You invoke a hungry spirit to possess a recently-dead body and serve you. This creates a zombie that follows your orders to the best of its limited abilities. It has a +1 modifier for all stats and 1 HP. After a day, it's destroyed and cannot be reanimated.  Only one zombie can exist at a time. Make a Wisdom roll.
+	- _10+:_ The zombie looks like a natural, living creature.
+	- _7-9:_ The zombie looks like a zombie.
 	- _Progression:_
 		+ _50 XP:_ You can give your zombie +2 on one stat, or 3 HP
 		+ _100 XP:_ You can animate up to 2 zombie at once
@@ -99,14 +103,24 @@ Thunderwave
 		+ _100 XP:_ Increase damage to 2 on a 10+
 		+ _150 XP:_ Increase damage to 3 on a 10+, and 2 on a 7-9
 
-Magic Missles
-: You can launch a blast of energy from your hands.
+Magic Missiles
+: You can launch a blast of energy from your hands. Make a Wisdom roll.
+	- _10+:_ You do 1 damage per blast to up to 2 targets.
+	- _7-9:_ You do 1 damage to a single target of your choice. The GM chooses what happens to the second blast.
+	- _Progression:_
+		+ _50 XP:_ You can launch 3 missiles. On a 7-9, the GM choose what happens to 1 of them.
+		+ _100 XP:_ You can launch 4 missiles. On a 7-9, the GM choose what happens to 2 of them.
+		+ _150 XP:_ You can launch 5 missiles. On a 7-9, the GM choose what happens to 2 of them.
 
 Hold Person
-: Choose a person you can see. Until you cast a spell or leave their presence they cannot act except to speak. This effect ends immediately if the target takes damage from any source. Roll all future spells with disadvantage while this spell is in effect.
+: Choose a person you can see. Until you cast a spell or leave their presence they cannot act except to speak. Roll all future spells with disadvantage while this spell is in effect. Make a Wisdom roll.
+	- _10+:_ This effect ends when you release it, or if the target takes damage from any source.
+	- _7-9:_ This effect also ends automatically after 15 minutes.
 
 Contagion
-: Choose a creature you can see. Until you end this spell, the target suffers from a disease of your choice. All teammates roll with advantage for a single stat of your choice against the target. Roll all future spells with disadvantage while this spell is in effect.
+: Choose a creature you can see. Until you end this spell, the target suffers from a disease of your choice. All teammates roll with advantage for a single stat of your choice against the target. Roll all future spells with disadvantage while this spell is in effect. Make a Wisdom roll.
+	- _10+:_ The effect works as expected.
+	- _7-9:_ It also affects an ally of your choice, who rolls with disadvantage while the spell is in effect.
 
 
 
@@ -116,29 +130,40 @@ Doppleganger
 : You are able to study the essence of specific individuals to take their exact form, including men, elves, or the like. Roll with disadvantage while in doppleganger form.
 
 Illusion
-: You create a small illusory sight or sound that lasts for about a minute.
+: You can create a small illusory sight or sound that lasts for about a minute. Only one illusion may be in effect at a time. Make a Wisdom roll.
+	- _10+:_ It's very convincing.
+	- _7-9:_ There's something a bit "off" about it.
 
 
 
 ## Utility Magic
 
 Light
-: An item you touch glows with divine light, about as bright as a torch. It gives off no heat or sound and requires no fuel, but it is otherwise like a mundane torch. You have complete control of the color of the flame. The spell lasts as long as it is in your presence.
+: An item you touch glows with divine light, about as bright as a torch. It gives off no heat or sound and requires no fuel, but it is otherwise like a mundane torch. You have complete control of the color of the flame. The spell lasts as long as it is in your presence. This is a simple spell, no roll needed.
 
 Darkness
-: A 20' area around is consumed by magical darkness. Roll all future spells with disadvantage while this spell is in effect.
+: An area of your choosing is consumed by magical darkness. Roll all future spells with disadvantage while this spell is in effect. Make a Wisdom roll.
+	- _10+:_ A 30' area is affected
+	- _7-9:_ A 20' area is affected.
 
 Purify Food & Water
-: Food or water you hold in your hands while you cast this spell is purified of any mundane spoilage and toxins.
+: Food or water you hold in your hands while you cast this spell is purified of any mundane spoilage and toxins. This is a simple spell, no roll needed.
 
 True Seeing
-: Your vision is opened to the true nature of everything you lay your eyes on. You pierce illusions and see things that have been hidden. The GM will describe the area before you ignoring any illusions and falsehoods, magical or otherwise. Roll all future spells with disadvantage while this spell is in effect.
+: Your vision is opened to the true nature of everything you lay your eyes on. You pierce illusions and see things that have been hidden. The GM will describe the area before you ignoring any illusions and falsehoods, magical or otherwise. Roll all future spells with disadvantage while this spell is in effect. Make a Wisdom roll:
+	- _10+:_ The spell works as expected.
+	- _7-9:_ There are blind spots in your "true seeing."
 
 Repair
-: Touch a small rip, tear, or other minor damage on an object. It's magically repaired.
+: Touch a small rip, tear, or other minor damage on an object. It's magically repaired. Make a Wisdom roll.
+	- _10+:_ The item looks good as new.
+	- _7-9:_ There's a visible mark where the damage was.
 
 Sleep
-: You can make one large monster, two medium ones, or four small ones fall asleep.
+: You can make creatures fall asleep. Make a Wisdom roll.
+	- _10+:_ Up to 1 large creature, 2 medium ones, or 4 small ones fall asleep.
+	- _7-9:_ Up to 1 medium creature or 2 small ones fall asleep.
+
 
 Lucky
 : Once a day, reroll a failed roll. You do _not_ get XP for the roll.
