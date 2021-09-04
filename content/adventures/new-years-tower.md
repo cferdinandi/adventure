@@ -42,7 +42,7 @@ As you take a few steps, the stairs drop out from beneath you, turning into a sl
 
 
 
-## Monsters & Traps
+## Creatures & Traps
 
 - **Trapdoor.** A 15' deep pit. Rats attack after a short while.
 - **Fire-Breathing Trap.** A row of dragon statues line a passageway.The dragons breathe fire as the players walk by.
@@ -58,7 +58,7 @@ As you take a few steps, the stairs drop out from beneath you, turning into a sl
 - **The Gate.** A metal gate blocks the way, and can't be lifted by hand. A metal chain that can be used to pull it open runs from the ceiling to a peg on the wall about 10' away from the gate. Letting go of the chain causes the gate to slam shut. How can everyone get through?
 - **The Stormcloud Siblings.** Deep within the tower is a dungeon. The players find the Stormcloud siblings held in a cell. The key can either be on a wall in the room, or in another part of the dungeon the players already past (you can mention the key in passing while describing the room). Looking at your watch, you realize you have just 42 minutes until the clock strikes midnight.
 - **Attack of the Sorcerer.** As soon as the siblings are freed, Sorcerer Kraghammer emerges from the shadows and attacks. Thought long dead, he reveals himself to be a "time sorcerer" who can bend and suspend time. He's only 72 years old, despite having lived centuries ago.
-- **Tunnel Monsters.** Bats, rats, centipedes, ogres, trolls, and so on.
+- **Tunnel Creatures.** Bats, rats, centipedes, ogres, trolls, and so on.
 
 
 

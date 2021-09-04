@@ -48,7 +48,7 @@ Then he disappears beneath the waves without another word. It’s up to you to r
 - _Secrets_
 	+ The sorcerer has been using the castle as a second hideout. There's clear evidence he's been here. People know of him but are afraid to say much more.
 	+ The mermaid is being held captive in the dungeon.
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Enchanted Brooms & Mops.** Normal looking brooms or mops spring to life to attack and provide simple defenses to areas people don't want explored.
 	+ **Magical Lock.** The mermaid's cell can only be unlocked with a special key forged by dwarves in the Mines of the Mountain.
 	+ **The Sorcerer.** If he's still in the castle, he will fight the players, but flee before winning or being defeated.
@@ -62,21 +62,21 @@ Then he disappears beneath the waves without another word. It’s up to you to r
 	+ **Underwater Tunnel.** You come to a murky pool of water. It looks to be about 15 feet deep. Directly ahead of you is a solid wall of rock. Staring into the gloom, you notice what appears to be a small opening at the bottom of the pool, along the far wall. You don’t know what’s on the other side.
 	+ **Cavern of the Crab.** You enter another cavernous room. Bioluminescent algae casts a blue/green glow into the space, which reflects off the giant rock in the middle of the room. Towards the back of the cavern are gold coins, jewels, and what appear to be magical artifacts. Suddenly, the giant rock in the middle of the room shakes and rises. It's a giant crab!
 	+ **The Hall of the Torch of Hallows.** You see the glowing flame reflecting off the wall before you even enter the room. As you step into the space, you see it: the Torch of Hallows.
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Hydra.** Has multiple heads that grow back after several turns. Spits acid.
 	+ **Wolves.** A pack of wolves runs wild in the caverns. They're led by a werewolf, cursed years ago by the same sorcerer who kidnapped the mermaid.
 	+ **Giant Crab.** The size of a car, he looks like a boulder when at rest. His powerful claws can crush pretty much anything.
 {{</details>}}
 
 {{<details summary="The Mountain Pass." blurb="A winding path through the mountains. The pass is filled with dangerous terrain, goblins, and cyclops.">}}
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Goblins.** A horde of goblins patrol the pass and shakedown travelers for gold and jewels.
 	+ **Cyclops.** Angry and territorial, they'll strike first even if left alone.
 	+ **Rock Slide.** The mountain pass is treacherous, and rock slides are a common occurrence. They goblins have nothing to do with it. They promise!
 {{</details>}}
 
 {{<details summary="The Hideout." blurb="A former mountain outpost where the sorcerer and his minions are now hiding. There's a rotting bridge traversing a rapidly moving stream that leads to the front entrance. The walls are crumbling, and the building is in heavy disrepair." margin="true">}}
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Sorcerer's Apprentices.** They'll ambush the players as soon as they enter the hideout.
 	+ **The Sorcerer.** This is his lair, and he'll defend it until the bitter end.
 {{</details>}}

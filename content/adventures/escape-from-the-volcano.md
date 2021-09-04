@@ -40,19 +40,19 @@ As you approach, a deep rumble comes from within the volcano, then settles. You 
 ## Locations
 
 {{<details summary="Lava Pond" blurb="After following the tunnel a short while, you come to a lake of lava. It's dotted with volcanic rock. Blackened, porous walls ooze magma in places.">}}
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ While trying to cross, lava will periodically bubble and pop, launching into the air.
 	+ Some stones in the lava pond are more stable than others. Smaller ones can tip, or sink completely.
 {{</details>}}
 
 {{<details summary="Lava River" blurb="A bit further down the path, the adventurers come to a rope bridge, spanning the gap across a roaring river of lava. The bridge swings and sways 20 feet above the liquid rock. It looks quite old.">}}
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Fall Trap.** Several boards fall into the river below as the adventurers attempt to cross it. With too much weight, the bridge collapses completely.
 	+ **Lava Sprites.** Tiny little lava creatures with a burning touch and a firey temper.
 {{</details>}}
 
 {{<details summary="Cavern of the Rock Monster" blurb="The adventurers enter what appears to be an empty cavern.">}}
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Rock Monster.** If the party is not _extremely_ quite, a giant boulder begins to move, revealing a previously sleeping Rock Monster.
 {{</details>}}
 
@@ -60,13 +60,13 @@ As you approach, a deep rumble comes from within the volcano, then settles. You 
 
 <p class="margin-bottom-small">The mushrooms are magical. Eating one will produce a random effect. Roll a die on the <a href="/gm/#house-rules">chaos magic table</a> (<em>Don't eat random mushrooms in real life!</em>)</p>
 
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Toxic Spores.** If the party lingers too long, they'll begin to experience hallucinations and take disadvantage of future rolls for several minutes.
 	+ **Cave Gnomes.** If the party picks a mushroom, cave gnomes will emerge and attack them.
 {{</details>}}
 
 {{<details summary="Trap Door" blurb="The floor transitions from rock to wooden beams, then back again.">}}
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Trap Door.** Stepping directly on the wooden planks causes the player(s) in the area to fall 30' into a pit.
 - _Events_
 	+ After a minute or two, the pit begins to fill with lava that slowly oozes through cracks in the walls.
@@ -74,13 +74,13 @@ As you approach, a deep rumble comes from within the volcano, then settles. You 
 {{</details>}}
 
 {{<details summary="Dragonhead Hallway" blurb="Players approach a long, straight hallway, adorned with stone dragon head figurines.">}}
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Fire Trap.** The dragon heads spit fire at random intervals.
 	+ **Melting Shoes.** Radiant heat from the volcano causes the players' shoes to melt and stick to the floor, slowing them down as they attemp to run through the hallway.
 {{</details>}}
 
 {{<details summary="Lava Lake" blurb="The hallway opens up into a tall, wide cavern, with a giant lake of lava. In the middle are two islands of volcanic rock. A sturdy wooden bridge connects each end of the cavern to the islands. To get from one island to the next, players have to swing across a rope.">}}
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Goblin Archers.** Goblin archers begin shooting at the party from hidden balconies in the walls.
 	+ **Mini Eruption.** The second island features a lava trap. The goblin archers can remotely trigger a mini eruption when the players step onto it.
 	+ **Rope Swing.** Getting from one island to the next requires swinging on a rope over the lava lake.
@@ -100,14 +100,14 @@ As you approach, a deep rumble comes from within the volcano, then settles. You 
 {{<details summary="The Palace" blurb="At the end of the short hallway, players come to the entrance to the Volcano Palace. The room is massive. Way off in the distance, beyond a stone bridge spanning a wide river of lava, they spot Lorak the Sorcerer sitting on a throne of lava and bones.">}}
 
 <p class="margin-bottom-small">The rock and lava monsters can be absolutely devastating for smaller parties. In those situations, you may want to lower their stats.</p>
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Goblins.** A small band of goblin soldiers attacks the party with a mix of ranged and up-close attacks.
 	+ **Statue Golems.** One or two hideous statues that come to life and attack.
-	+ **Lava Monsters.** A lava monster oozes from the walls. On the far side of the bridge, more archers launch attacks.
+	+ **Lava Creatures.** A lava monster oozes from the walls. On the far side of the bridge, more archers launch attacks.
 {{</details>}}
 
 {{<details summary="The Throne" blurb="As the party approaches the throne, the see the Zephyr Skiprock, the child, locked behind a gate built into the wall. A key hangs on the throne behind Lorak the Sorcerer." margin="true">}}
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Lorak the Sorcerer.** He's powerful, but also over-confident.
 - _Events_
 	+ If the party begins to win, Lorak casts a spell that causes the cavern to begin collapsing, and flees. The party must rescue Zephyr and escape before the whole mountain collapses.

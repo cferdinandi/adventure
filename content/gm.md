@@ -71,14 +71,14 @@ The [pre-made adventures](/adventures/) are structured with this in mind.
 - **Introduction.** A brief summary of the situation and location the players find themselves in.
 - **Questions.** A list of questions that you can ask the players to help build out the world and fill in some blanks for the story you're about to tell.
 - **Fantastic Locations.** Amazing places that the players can explorer, with a few details and unique features.
-- **Monsters & Traps.** Create fun and exciting challenges by introducing monsters, traps, and unexpected situations.
+- **Creatures & Traps.** Create fun and exciting challenges by introducing creatures, traps, and unexpected situations.
 - **Secrets.** As players explore the world, they'll uncover secrets and hidden mysteries.
 - **Magic Items & Treasure.** Discover magic items and hidden treasure. These often reveal secrets about the world and give the players new powers and abilities.
 - **Fronts.** The big players and forces in a campaign, these are things that will affect the world and unfold in sequence unless the players intervene.
 
 Each of these pieces is modular, and designed be dropped into the story whenever appropriate.
 
-Just like at the start of a game, you can ask the players questions to fill in the blanks as you play. Ask them to describe things they see in new locations and unique physical features of monsters.
+Just like at the start of a game, you can ask the players questions to fill in the blanks as you play. Ask them to describe things they see in new locations and unique physical features of creatures.
 
 
 
@@ -142,21 +142,21 @@ Last Breath
 	- **9+** Death allows them to return to the living
 	- **6-8** Death requires something in return
 
-### Improvising Monsters
+### Improvising Creatures
 
-In Adventure, a _monster_ is any villain (not just humanoid ones). Like player characters, monsters have HP and get knocked out or die when it reaches zero.
+In Adventure, a _creature_ is any non-character being. They can be friendly allies, villains, or something in-between. Like player characters, creatures have HP and get knocked out or die when it reaches zero.
 
-<p class="margin-bottom-small">Assign HP and damage to monsters based on their difficulty.</p>
+<p class="margin-bottom-small">Assign HP and damage to creatures based on their size and toughness.</p>
 
-- **Easy:** 1 HP, 1 Damage
+- **Small:** 1 HP, 1 Damage
 - **Medium:** 3 HP, 1 Damage
-- **Hard:** 6 HP, 2 Damage
-- **Very Hard:** 9 HP, 3 Damage
-- **Monsterous.** 15 HP, 5 Damage
+- **Large:** 6 HP, 2 Damage
+- **Very Large:** 9 HP, 3 Damage
+- **Ginormous.** 15 HP, 5 Damage
 
-These are just guidelines. Feel free to adjust the HP and damage to make the monsters more or less challenging as desired.
+These are just guidelines. Feel free to adjust the HP and damage to make the creatures more or less challenging as desired.
 
-You might also give your creatures special abilities or unique features. For creatures that attack in hordes, players can damage multiple monsters with one attack.
+You might also give your creatures special abilities or unique features. For creatures that attack in hordes, players can damage multiple creatures with one attack.
 
 {{<callout title="Examples">}}
 - **Rat.** 1 HP, 1 Damage. _Attack in hordes._
@@ -178,24 +178,6 @@ Otherwise, it's boring and disappointing.
 {{</callout>}}
 
 
-## Accounting for Difficulty
-
-Under the die roll system, every action has the same probability of succeeding (or not).
-
-But some actions are inherently more difficult than others. In addition to advantage and disadvantage mechanics, you can account for difficulty in complex situations by breaking each step into its own die roll.
-
-{{<callout title="Example">}}
-A player is trying to run up to a giant, scale his 20-foot high boot, and hit him with a sword. This would involve three separate die rolls.
-
-1. An _Agility_ roll to sneak up to the giant undetected (or avoid obstacles thrown at you while approaching).
-2. An _Agility_ roll to scale the boot without falling or getting knocked off.
-3. A _Strength_ roll to see if the hit with the sword does anything.
-
-You might also require a roll to identify which part of the boot to climb, or a blind spot where the adventurer can sneak up undetected.
-{{</callout>}}
-
-
-
 
 ## Balancing Campaigns
 
@@ -204,11 +186,27 @@ When you first start GMing games, finding the right balance between "not too tou
 <div class="list-spaced">
 {{%md%}}
 - **Bring in NPCs.** An NPC (or _Non-Player Character_) is a character the GM controls. If players are missing things while exploring, getting stuck on challenges, or struggling in battle, a friendly NPC can help point things out and and give them much needed aid. If they're finding things too easy, a troublesome NPC can slow them down and create more of a challenge.
-- **Hold monsters back.** Rather than sending in _all the monsters_ at once, send in a few and see how the players handle them. If it's too easy, you can send in a second-wave of attackers while they're fighting the first. If it's just right, you can wait until the first wave is done, or skip the second-wave altogether.
+- **Hold creatures back.** Rather than sending in _all the creatures_ at once, send in a few and see how the players handle them. If it's too easy, you can send in a second-wave of attackers while they're fighting the first. If it's just right, you can wait until the first wave is done, or skip the second-wave altogether.
 {{%/md%}}
 </div>
 
 Every now and then, players may find themselves in a battle they just can't win. Players can choose to flee a battle at any time, including in the middle of one.
+
+### Accounting for Difficulty
+
+Under the die roll system, every action has the same probability of succeeding (or not).
+
+But some actions are inherently more difficult than others. In addition to advantage and disadvantage mechanics, you can account for difficulty in complex situations by breaking each step into its own die roll.
+
+{{<callout title="Example">}}
+A player is trying to run up to a giant, scale his 20-foot high boot, and hit him with a sword. This would involve three separate die rolls.
+
+1. A roll to sneak up to the giant undetected (or avoid obstacles thrown at you while approaching).
+2. Another roll to scale the boot without falling or getting knocked off.
+3. A third roll to see if the hit with the sword does anything.
+
+You might also require a roll to identify which part of the boot to climb, or a blind spot where the adventurer can sneak up undetected.
+{{</callout>}}
 
 ### Total Group Knock Out
 
@@ -219,7 +217,7 @@ A TGKO can happen if the difficulty of a particular challenge isn’t properly b
 <p class="margin-bottom-small"><strong>Since a TGKO would otherwise stop the adventure in its tracks, the Game Master can use their creativity to save players from this situation.</strong></p>
 
 - A pet belonging to one of the players runs off and returns with healing potion, or a non-player character that can help.
-- Players awaken some unknown time later. The monster is gone, along with what they were looking for and a bunch of their gear and items.
+- Players awaken some unknown time later. The creature is gone, along with what they were looking for and a bunch of their gear and items.
 - Players awaken to find themselves trapped in a locked room, unsure of where they are or how they got there. They must use their skills and items they can find in there surroundings to escape.
 
 This can add a really fun new aspect to the game, so don’t be afraid to get creative!
@@ -232,22 +230,24 @@ You can get by for a long time on [pre-made adventures](/adventures). But eventu
 
 1. **Start with a fantastic location.** Adventure is about exploring amazing places. Imagine a place that's really big, really old, or really weird.
 2. **Identify a situation.** Why are the characters there? Are they searching for something? Delivering something? Lost?
-3. **Add details.** What kind of monsters live there? What are some other locations in the area? What kinds of treasure and magic items might they find? What secrets might they uncover?
+3. **Add details.** What kind of creatures live there? What are some other locations in the area? What kinds of treasure and magic items might they find? What secrets might they uncover?
 4. **Write down some questions.** What can you ask the players to fill in the blanks in the story and get things started?
 5. **Create fronts.** These breathe life into the world. One to three are good for a short campaign, but you can have five or more for a bigger one.
 
-{{<callout title="Example: Isle of the Kraken" nomd="true">}}
-{{<details summary="Locations">}}
+{{<callout title="Example: Isle of the Kraken">}}
+
+<p class="margin-bottom-small"><strong>Locations</strong></p>
+
 - **A mysterious island that emerges from the sea every few years.** A ship moored to a tree, with a black flag featuring two crossed tridents. A tall monolith protruding from the trees. Sleeping pirates and empty rum.
 - **Jellyfish Lake.** A massive cavern with huge subterranean lake. Jellyfish fill the water, glowing blue/purple. A rowboat with no oars waits on the shore.
 - **Tentacle Gate.** Big iron gate, slats woven tentacles. Kraken head at the top, with a gem in one eye, missing in the other. A pile of rocks nearby.
-{{</details>}}
 
-{{<details summary="Situation">}}
-The island has just emerged from the sea for the first time in a few years. There's rumored to be a powerful and ancient artifact hidden there. You've just caught sight of it... along with another ship moored to a tree.<br><br>
-{{</details>}}
+<p class="margin-bottom-small"><strong>Situation</strong></p>
 
-{{<details summary="Monsters">}}
+The island has just emerged from the sea for the first time in a few years. There's rumored to be a powerful and ancient artifact hidden there. You've just caught sight of it... along with another ship moored to a tree.
+
+<p class="margin-bottom-small"><strong>Creatures</strong></p>
+
 - **Crabs.** 1 HP, 1 Damage. _Attack in swarms._
 - **Giant Crabs.** 3-6 HP, 2-5 Damage. _Look like rocks when hidden._
 - **Pirates.** 3 HP, 1 Damage. _Searching for treasure. Fight dirty._
@@ -256,9 +256,9 @@ The island has just emerged from the sea for the first time in a few years. Ther
 - **Lightning Eels.** 3 HP, 1 Damage. _Can zap things._
 - **Glow Jelly.** 1 HP, 1 Damage. _Painful sting. Emit a purple light._
 - **Kraken.** 15 HP, 5 Damage. _Guardian of the island. Tentacles can paralyze, electrocute, ink, and be shed into smaller attackers. Can teleport short distances._
-{{</details>}}
 
-{{<details summary="Magic Items">}}
+<p class="margin-bottom-small"><strong>Magic Items</strong></p>
+
 - **Seaweed of Speed.** When consumed, the person who eats this seaweed is able to run twice as fast as they normally could.
 - **Armor of the Leatherback Turtle.** Automatically heals 1 damage at the end of any combat encounter.
 - **Whale Ward.** A wooden necklace carved into the shape of a whale, it reduces all damage by 1 HP.
@@ -266,25 +266,25 @@ The island has just emerged from the sea for the first time in a few years. Ther
 	+ _Shell Skin._ Reduce damage by 1 HP for 10 minutes.
 	+ _Wall of Waves._ Does 2 damage to all creatures in a 30’ area .
 	+ _Coral Growth._ Fire coral sprouts, does 3 damage when traversed.
-{{</details>}}
 
-{{<details summary="Secrets">}}
+<p class="margin-bottom-small"><strong>Secrets</strong></p>
+
 - A kraken guards the treasure, and hunts intruders
 - A group of fishfolk cultists worship the Kraken and live there
 - One of the pirates is not there of his own will
 - The Pirate Captain wants to use the artifact to destroy one of the characters' home town
 - The artifact belonged to Pirate Captain’s family (or so he was told)
 - The Island is actually a giant, ancient turtle!
-{{</details>}}
 
-{{<details summary="Questions">}}
+<p class="margin-bottom-small"><strong>Questions</strong></p>
+
 - How did you learn that the island had resurfaced?
 - Why are you interested in exploring it and/or retrieving the legendary artifact? What will you do with it?
 - What have you heard about the artifact and what it does?
 - Who else might be interested in the artifact? Why?
-{{</details>}}
 
-{{<details summary="Fronts">}}
+<p class="margin-bottom-small"><strong>Fronts</strong></p>
+
 - **Fishfolk Cultists.** Want to harness the powers of the island and expand beyond the fringes.
 	1. Collect and steal magic items, gold, and prisoners
 	2. Reproduce old wizard’s experiments
@@ -297,190 +297,93 @@ The island has just emerged from the sea for the first time in a few years. Ther
 	1. Deep bellowing, rushing air, gurgling
 	2. Several rumbles or tremors
 	3. Total collapse, massive earthquake
-{{</details>}}
 {{</callout>}}
 
-### Common Locations, Monsters, Traps, and More
-
-<p class="margin-bottom-small"><strong>Locations</strong></p>
-
-<div class="row margin-bottom">
-	<div class="grid-third">
-		<ul class="no-margin-bottom">
-			<li>Cave/Tunnels</li>
-			<li>Castle/Mansion</li>
-			<li>Dense Forest</li>
-			<li>Raging River</li>
-		</ul>
-	</div>
-	<div class="grid-third">
-		<ul class="no-margin-bottom">
-			<li>Misty Lake</li>
-			<li>Secluded Cabin</li>
-			<li>Mountain Pass</li>
-			<li>Cliff/Drop
-		</ul>
-	</div>
-	<div class="grid-third">
-		<ul class="no-margin-bottom">
-			<li>Bustling Village</li>
-			<li>Quiet Farm</li>
-			<li>Canyon/Valley</li>
-			<li>Hidden Entry</li>
-		</ul>
-	</div>
-</div>
 
 
-<p class="margin-bottom-small"><strong>Situations</strong></p>
+## Building Immersive Worlds
 
-- Retrieve/rescue an item or person from somewhere
-- Deliver an item or person to somewhere
-- Escape from somewhere/something
-- Something in the village is different/no longer working
+Adventure is all about immersing players in a new world.
 
-The players could have been specifically asked to complete a quest by someone directly, or may have heard a rumor or overheard a conversation that drew their interest.
+You can create any type of fantasy world you want, but I’ve put together an imaginary land, [Farfaria](/farfaria), that you can use with [my premade adventures](/adventures). An intro is included with each adventure.
 
-A great starting question for the players is to ask them how they heard about the quest or who sent them.
+### A Living World
 
-<p class="margin-bottom-small"><strong>Monsters</strong></p>
+Immersive worlds are full of details, movement, and life.
 
-<div class="row margin-bottom">
-	<div class="grid-third">
-		<ul class="no-margin-bottom">
-			<li>Rat</li>
-			<li>Bat</li>
-			<li>Spider</li>
-			<li>Scorpion</li>
-			<li>Goblin</li>
-			<li>Ogre</li>
-			<li>Troll</li>
-			<li>Slime/Ooze</li>
-			<li>Skeleton</li>
-			<li>Wolf</li>
-			<li>Bear</li>
-			<li>Treefolk</li>
-		</ul>
-	</div>
-	<div class="grid-third">
-		<ul class="no-margin-bottom">
-			<li>Carnivorous Plant</li>
-			<li>Giant Toad</li>
-			<li>Snake</li>
-			<li>Fairy/Pixie</li>
-			<li>Giant Eagle</li>
-			<li>Clockwork Golem</li>
-			<li>Mammoth</li>
-			<li>Pirate</li>
-			<li>Thieves</li>
-			<li>Kobold</li>
-			<li>Gargoyle</li>
-			<li>Basilisk</li>
-		</ul>
-	</div>
-	<div class="grid-third">
-		<ul class="no-margin-bottom">
-			<li>Centaur</li>
-			<li>Knight</li>
-			<li>Shark</li>
-			<li>Yeti</li>
-			<li>Hydra</li>
-			<li>Dragon</li>
-			<li>Sorcerer</li>
-			<li>Witch</li>
-			<li>Lava Monster</li>
-			<li>Rock Monster</li>
-			<li>Ice Monster</li>
-			<li>Kraken</li>
-		</ul>
-	</div>
-</div>
+One easy way to add richness and texture to your world is by asking your players a bunch of questions at the start of your game. You can even use these to improvise a campaign on-the-spot if you want.
 
-<p class="margin-bottom-small"><strong>Traps</strong></p>
-
-<div class="row margin-bottom">
-	<div class="grid-third">
-		<ul class="no-margin-bottom">
-			<li>Darts/Arrows</li>
-			<li>Collapsing Bridge</li>
-			<li>Trap Door</li>
-			<li>Crushing Rock</li>
-			<li>Room Floods</li>
-			<li>Quick Sand</li>
-			<li>Entangling Vines</li>
-		</ul>
-	</div>
-	<div class="grid-third">
-		<ul class="no-margin-bottom">
-			<li>Lightning Stones</li>
-			<li>Darkness/Fog</li>
-			<li>Ice/Slime</li>
-			<li>Lava/Acid</li>
-			<li>Fire Statues</li>
-			<li>Exploding Ruins</li>
-			<li>Illusions</li>
-		</ul>
-	</div>
-	<div class="grid-third">
-		<ul class="no-margin-bottom">
-			<li>Gas</li>
-			<li>Insect Infestation</li>
-			<li>Shifting Walls</li>
-			<li>Magic Inhibitor</li>
-			<li>Earth Tremors</li>
-			<li>Animated Objects</li>
-			<li>Ambush</li>
-		</ul>
-	</div>
-</div>
-
-<p class="margin-bottom-small"><strong>Treasure</strong></p>
-
-<div class="row margin-bottom">
-	<div class="grid-third">
-		<ul class="no-margin-bottom">
-			<li>Gold</li>
-			<li>Gems</li>
-			<li>Jewelry</li>
-		</ul>
-	</div>
-	<div class="grid-third">
-		<ul class="no-margin-bottom">
-			<li>A map</li>
-			<li>A book</li>
-			<li>Art</li>
-		</ul>
-	</div>
-	<div class="grid-third">
-		<ul class="no-margin-bottom">
-			<li>A figurine</li>
-			<li>Weapons/armor</li>
-			<li>Clothes</li>
-		</ul>
-	</div>
-</div>
-
-<p class="margin-bottom-small"><strong>Magic Items</strong></p>
-
-_Bob World Builder_ has a fantastic video on [how to make your magic items unique](https://www.youtube.com/watch?v=nUrgq0tcXow) through the use of stories, history, and minor magical side-effects.
-
-You can also download a fantastic table of [minor magical abilities on GM Binder](https://www.gmbinder.com/share/-MMz32Kxwu31dLnB5KXr).
-
-<p class="margin-bottom-small"><strong>Questions for Players</strong></p>
-
-- What have you been sent to [retrieve/deliver/fix/figure out]? _(pick one)_
+- What have you been sent to [retrieve/deliver/fix/figure out]? Why are you here?
 - Who sent you, and why are they interested in this quest?
 - Are you being paid or rewarded to complete this quest? What is the reward?
 - What rumors have you heard about [the object or person you're searching for/the location you're exploring]?
 - Someone is [chasing you/also on this quest]. Who are they, and why?
-- Dangerous monsters are believed to be in this area. What are they?
+- Dangerous creatures are believed to be in this area. What are they?
 - What could happen if you fail your quest?
 - What's one strange or unique feature you notice about this location?
 
-You can even use these to improvise a campaign on-the-spot if you want.
+### Translating Skills into Mechanics
 
+You can make the skills your characters have feel more rich and meaningful by adding mechanics like advantage and disadvantage around them.
 
+- When a character does something related to [skill], roll with advantage.
+- A character has the ability to [power they can actively choose to use]. Roll to see what happens.
+- A character has [special power with a constant effect].
+- A character has [object]. When applicable, roll with advantage.
 
+Giving them benefits and costs based on their choices makes their characters and the world feel more real.
+
+{{<callout title="Examples">}}
+Fin is an elf who specializes in nature magic and can talk to animals.
+
+Shapeshifter
+: You can turn into animals. You may take on the physical form of any species who you have studied. Roll with advantage when doing things that animal would be good at, and disadvantage on things they would struggle with.
+
+Elemental Magic
+: You can control the elements of earth, wind, fire, and water. Roll to see what happens. On a 9+, the desired effect comes to pass. On a 6-8, you also lose control of the effect.
+
+Night Vision
+: As an elf, you’re physically adapted to the darkness of twilight and can see in the dark as if it was dim light. When other players would roll with disadvantage in darkness, you do not.
+
+Animal Friendship
+: You’re a friend to all creatures. Whenever you do something related to interacting with animals, roll with advantage.
+
+Staff of the Woodlands
+: You possess a staff made from an enchanted birch tree. Whenever you cast nature spells, roll with advantage.
+{{</callout>}}
+
+### Meaningful Magic Items
+
+One of the most exciting parts of exploring fantastic locations is finding magical items.
+
+The most meaningful items are tied to the locations where they're found, and provide some kind of minor benefit or magical effect. What's the story behind them? How do they thematically tie into your world?
+
+If you need inspiration, you can download a long list of [minor magical abilities on GM Binder](https://www.gmbinder.com/share/-MMz32Kxwu31dLnB5KXr). Modify them as needed.
+
+{{<callout title="Examples">}}
+The Isle of the Kraken was home to merfolk wizard who spent his days experimenting on sea creatures and crafting items from their magical properties.
+
+Armor of the Leatherback Turtle
+: Provides advantage on defense rolls and heals 1 HP at the end of any combat encounter.
+
+Seaweed of Speed
+: When consumed, the person who eats this seaweed is able to run twice as fast as they normally could.
+
+Ring of Aquatic Beasts
+: A ring made of abalone. The wearer rubs ring and names an aquatic animal. On a 9+, you gain two traits of named animal for 1 hour. On a 6-8, the GM chooses one of those two traits.
+{{</callout>}}
+
+### Non-Player Characters
+
+Depending on the skills of the players and the difficulty of the challenges they’re facing, it can be interesting to add _Non-Player Characters (NPCs)_ into the game.
+
+These are characters that the Game Master creates and controls. They can be friends, foes, or somewhere in-between.
+
+NPCs can provide critical information that players aren’t picking up on, give them misinformation to send them on a bonus encounter, jump in to provide extra fire power for an epic battle, or thwart their efforts if they’re finding an adventure too easy.
+
+They could be shopkeepers who can sell useful items to the players in exchange for favors or gold. Or they might be inn keepers who provide a place to rest before a big campaign.
+
+Use NPCs as much or as little as needed to keep the game fun and interesting.
 
 <!-- ## Creating Maps
 
@@ -493,7 +396,7 @@ You might mix-and-match both styles in an adventure. Players may explore well-de
 
 You can also choose to use maps for certain areas, and nothing but your imagination and _the theater of the mind_ for others.
 
-Depending on the age and interests of your players, it might also be fun and interesting if you added a physical element to the game. You can create maps for locations by building them with blocks, or using toys and figurines for characters and monsters.
+Depending on the age and interests of your players, it might also be fun and interesting if you added a physical element to the game. You can create maps for locations by building them with blocks, or using toys and figurines for characters and creatures.
 
 {{<callout title="How to Create Maps">}}
 <p class="margin-bottom-small"><strong>Want to try drawing your own maps?</strong> Here are some great tutorials!</p>
@@ -509,32 +412,11 @@ If you want minis and figurines for your games, Paizo's [Beastiary Box](https://
 
 
 
-## Building Immersive Worlds
 
-Adventure is all about immersing players in a new world.
-
-You can create any type of fantasy world you want, but I’ve put together an imaginary land, [Farfaria](/farfaria), that you can use with [my premade adventures](/adventures). An intro is included with each adventure.
-
-[This video on Dungeons & Dragons GM Matt Mercer](https://www.youtube.com/watch?v=NCOHqWttXzs) is chock full of tips on how to be an awesome Game Master (_warning, some R-rated language in this video_).
-
-<div class="fluid-vids"><iframe width="560" height="315" src="https://www.youtube.com/embed/NCOHqWttXzs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-### Non-Player Characters
-
-Depending on the skills of the players and the difficulty of the challenges they’re facing, it can be interesting to add _Non-Player Characters (NPCs)_ into the game.
-
-These are characters that the Game Master creates and controls. They can be friends, foes, or somewhere in-between.
-
-NPCs can provide critical information that players aren’t picking up on, give them misinformation to send them on a bonus encounter, jump in to provide extra fire power for an epic battle, or thwart their efforts if they’re finding an adventure too easy.
-
-They could be shopkeepers who can sell useful items to the players in exchange for favors or gold. Or they might be inn keepers who provide a place to rest before a big campaign.
-
-Use NPCs as much or as little as needed to keep the game fun and interesting.
-
-### Duration and Complexity
+## Duration and Complexity
 
 Games of Adventure can take as little as 30 minutes, or can last several hours.
 
-As the Game Master, you have a lot of control over the length and complexity of each game. You can add more monsters and optional encounters, adjust Difficulty Rating for encounters up or down, and save the day with non-player characters you introduce to the game.
+As the Game Master, you have a lot of control over the length and complexity of each game. You can add more creatures and optional encounters, adjust Difficulty Rating for encounters up or down, and save the day with non-player characters you introduce to the game.
 
 You can also spread an adventure over several sessions, stopping after an encounter, and picking things back up another time.

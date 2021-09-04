@@ -37,7 +37,7 @@ Look! Listen! Smoke and the cries of a baby dragon in the distance!
 {{<details summary="The Forest." blurb="Tall trees and tangles of vines provide ample places for baby dragons to get stuck." margin="">}}
 - _Secrets_
 	+ A baby dragon has gotten himself tangled in some vines high-up in a tree.
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Thieves or Cultists.** They want a baby dragon for themselves. They'll initially try to bribe the party. If unsuccessful, they'll secretly follow them and ambush them later.
 	+ **Treefolk & Living Vines.** Protectors of the forest, they don't take kindly to intruders. Can be persuaded to aid the party if handled right.
 	+ **Bears or Wolves.** The party might stumble into a bear cave, a lost cub, or a pack of hungry wolves.
@@ -50,7 +50,7 @@ Look! Listen! Smoke and the cries of a baby dragon in the distance!
 - _Secrets_
 	+ A baby dragon is caught in the giant spider's web.
 	+ One of the cocoons in the den is actually a sack of spiderling eggs.
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Giant Spider.** Can climb walls, shoot webs, and has a poisonous bite.
 	+ **Spiderlings.** Attack in swarms. Can make web netting but aren't very strong.
 	+ **Web Traps.** Web traps can fall from the ceiling, cover dark openings, or be hidden under false floors. Very hard to get out of without help.
@@ -63,7 +63,7 @@ Look! Listen! Smoke and the cries of a baby dragon in the distance!
 - _Secrets_
 	+ A baby dragon finds itself stuck high-up on a cliff's edge.
 	+ Goblins live near the cliffs, and will come to investigate if the party is noisy or takes too long.
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Rock slide.** Could be natural, or set off by goblins.
 	+ **Goblins.** They could be hostile or friendly. Quick on their feet, adept at climbing, and skilled at fighting from a distance. Up-close they attack in swarms.
 - _Events_
@@ -74,7 +74,7 @@ Look! Listen! Smoke and the cries of a baby dragon in the distance!
 - _Secrets_
 	+ A baby dragon is being held captive in the supply room in the back.
 	+ The shop keep is desperate for money and wants a sizable sum of money that's been offered for a baby dragon.
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Shopkeeper.** Not aggressive, but will try to keep the party from entering the supply room.
 	+ **Thieves or Cultists.** They're also after a baby dragon, and will attempt to steal it from the party (or before they can get to it). Alternatively, they may try to make a deal with the shopkeeper.
 - _Events_
@@ -86,14 +86,14 @@ Look! Listen! Smoke and the cries of a baby dragon in the distance!
 {{<details summary="Cave of the Sleeping Ogre." blurb="A cave system is home to a giant ogre and his cavern home. He happens to be asleep at the moment, but a giant pile of gold (and a baby dragon) lie behind him." margin="true">}}
 - _Secrets_
 	+ Baby dragons are captivated by gold.
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Ogre.** If woken up, he'll immediately think the party is trying to steal his gold. He's not very smart, and defaults to smashing things with his club.
 	+ **Noisy Clutter.** The cave is littered with animal bones and treasure... all things that can make a lot of noise (and wake the ogre) if the party is not careful.
 {{</details>}}
 
 
 
-## Monsters & Traps
+## Creatures & Traps
 
 - **Thieves or Cultists.** They want a baby dragon for themselves. They'll initially try to bribe the party. If unsuccessful, they'll secretly follow them and ambush them later.
 - **Goblins.** A group of goblins located in the mountains overlooking the village are held at bay by Lacey the Luck Dragon's protection. While she's distracted by her missing babies, they'll seize the opportunity and attack the village.

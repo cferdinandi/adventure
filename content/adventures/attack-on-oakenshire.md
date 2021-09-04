@@ -46,7 +46,7 @@ Before he can say another word, a thick strand of web wraps around the elf and r
 
 
 
-## Monsters & Traps
+## Creatures & Traps
 
 - **Giant Spiders.** Can shoot webs, climb on walls and ceilings, and have a poisonous bite.
 - **Spiderlings.** Small creatures that attack in swarms. They can bite and create web web traps, but aren't very strong.

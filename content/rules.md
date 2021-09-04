@@ -48,8 +48,10 @@ Each player creates a character to represent them on their adventures (this is w
 
 <div class="list-spaced-small">
 {{%md%}}
-- **Name & Description.** You can be anyone you want to be in adventure: an elf wizard, a fairy tinkerer, a robot knight, a dragonfly spy. Be anything you want.
-- **Skills.** What makes your character unique? Do they have a special skill, like fire breathing or the ability to fly? Are they experts at elemental magic or illusions? Do they strive to vanquish evil or become friends with animals? Pick a few.
+- **Name & Appearance.** You can be anyone you want to be in adventure: an elf with flowers for hair, a fairy pirate, a robot knight, a dragonfly in a straw hat.
+- **Gift or Talent.** What makes your character unique? Can they breath fire or fly? Are they experts at elemental magic or illusions? Are they a skilled archer?
+- **Goal or Passion.** What does your character want most in life? Do they strive to vanquish evil? Open an animal sanctuary? Explore a distant land?
+- **Item with a Story.** What's your character's most prized possession, and why? How long have they had it? Where did they get it? What's the story behind it?
 - **Stuff.** Each character starts the game with a weapon or wand, rope, water, food, a few coins, and one healing potion. You'll find more in your travels.
 {{%/md%}}
 </div>
@@ -58,14 +60,35 @@ The [downloads section](/downloads) includes premade characters if you need exam
 
 {{<callout title="Examples">}}
 Fin
-: An elf who specializes in nature magic and can talk to animals. His staff is made from an magic birch tree. He wants to open an animal sanctuary.
+: An elf with skin made of bark, he wears a thick green rope, and has long hair pulled back into a bun.
+	- **Gift or Talent:** Nature Magic
+	- **Goal or Passion:** Start an animal sanctuary
+	- **Item with a Story:** A staff is made from an magic birch tree, it was a birthday gift from his grandfather
 
 Flower
-: A fairy knight who can fly and wields an battleaxe made from an enchanted sunflower. She protects her village from the forces of evil.
+: A fairy with rainbow colored hair and a full suit of armor.
+	- **Gift or Talent:** Flying
+	- **Goal or Passion:** Protect village from evil lurking in the dark forest
+	- **Item with a Story:** A battleaxe made from an enchanted sunflower, it can only be harvested under the light of the moon once every 13 years
 
 Spark
-: A dragon chemist who creates potions that give magical properties to whoever drinks them. Their tea set has fireflies painted onto it that blink when filled with tea. They want to open a bakery.
+: A dragon in a leather chemist apron, with tiny glasses on the tip of their nose.
+	- **Gift or Talent:** Crafting potions that give magical properties to whoever drinks them
+	- **Goal or Passion:** To open a bakery and tea shop
+	- **Item with a Story:** A tea set with fireflies painted onto it that blink when filled with tea, purchased last year from a traveling vendor in exchange for a secret tea recipe
 {{</callout>}}
+
+### Bonds & Connections
+
+If you're going on an adventure with others, what's your connection with them? Ask the player to your left and right one question each.
+
+- Why do you trust me?
+- What secret of yours do I know?
+- Who do I remind you of?
+- How did I help you in a time of need?
+
+Write down their answers, and use them to guide your interactions during the game.
+
 
 
 ## Actions & Deciding Outcomes
@@ -202,7 +225,7 @@ When a player's HP reaches 0, you have two options, depending on how dark and gr
 
 
 
-## Character Progression
+## Character Progression @todo replace with Tokens
 
 As a character goes on adventures, they’ll gain new experiences, pick up new skills, and find cool stuff.
 

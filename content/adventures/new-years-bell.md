@@ -41,7 +41,7 @@ But you can't shake the feeling that someone&mdash;or something&mdash;is followi
 - _Secrets_
 	+ Someone is following the party. Maybe they hear crunching branches, or smell something, or just get the sense of being watched.
 	+ The entrance to Balefrost's Lair is hidden at the base of a very large tree. His lair is in the root system underneath it.
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Ice Bridge.** A bridge of ice spans a raging river. It's slippery and weak in certain spots, and will collapse if too much weight is put on it. The water may or may not have piranha's in it.
 	+ **Wolves.** They'll try to surround the party, pounce, and bite. They're controlled by Balefrost and used to keep away intruders, so they're presence means the party is close.
 	+ **Bear.** If the party is noisy, a mound of snow will begin to shake, revealing a sleeping bear, now awake.
@@ -50,7 +50,7 @@ But you can't shake the feeling that someone&mdash;or something&mdash;is followi
 {{<details summary="Balefrost's Lair." blurb="A twisting maze of dirt tunnels built in the root system of the trees.">}}
 - _Secrets_
 	+
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Freeze Trap.** The room begins to freeze, from the outer walls in. If touched by, players become frozen to the ground. The frozen ground is slippery, and can cause players to slip and get hurt.
 	+ **Arrow Trap.** Observant players might notice a row of holes bored into some tangled roots along the wall. Closer, careful inspection reveals them to be an arrow trap. If the players don't notice them, one arrow per player is launched at the players as they walk by.
 	+ **Cliff Face.** As the tunnel slowly lowers deeper underground, players come to a 15-20' tall cliff in front them. It's face is comprised of rocks, dirt, and loose roots.
@@ -69,7 +69,7 @@ But you can't shake the feeling that someone&mdash;or something&mdash;is followi
 {{</details>}}
 
 {{<details summary="The Race Home." blurb="After retrieving the Bell, you glance at your watch and notice you have just 42 minutes to get back to the village.">}}
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Treefolks.** As you race back to the village, a grove of treefolk attack and attempt to stop you (one for every three party members).
 {{</details>}}
 
