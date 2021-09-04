@@ -415,8 +415,8 @@ If you want minis and figurines for your games, Paizo's [Beastiary Box](https://
 
 ## Duration and Complexity
 
-Games of Adventure can take as little as 30 minutes, or can last several hours.
+Games of Adventure can take as little as 30 minutes or last several hours.
 
-As the Game Master, you have a lot of control over the length and complexity of each game. You can add more creatures and optional encounters, adjust Difficulty Rating for encounters up or down, and save the day with non-player characters you introduce to the game.
+As the Game Master, you have a lot of control over the length and complexity of each game. You can add or remove creatures, reveal or discard secrets, adjust the HP of creatures, and save the day with NPCs.
 
 You can also spread an adventure over several sessions, stopping after an encounter, and picking things back up another time.

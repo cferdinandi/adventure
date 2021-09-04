@@ -224,18 +224,25 @@ When a player's HP reaches 0, you have two options, depending on how dark and gr
 
 
 
+## Adventure Tokens
 
-## Character Progression @todo replace with Tokens
+Tokens are a way to provide character growth and progression over time.
 
-As a character goes on adventures, they’ll gain new experiences, pick up new skills, and find cool stuff.
+- **Players earn a token** whenever they take specific actions in the game.
+- **Players can spend a token** to roll with advantage. If they spend 10 tokens, they can gain a new _Gift or Talent_.
 
-<p class="margin-bottom-small">At the end of a session, if they battled a cool monster, found cool loot, or explored a new location, the GM can reward them with...</p>
+There are four different _adventure modes_ you can use for rewarding tokens, depending on the type of game you're hoping for and the types of actions you want to reward.
 
-- A new skill
-- An enhancement to an exist ability
-- A magic item
+<div class="list-spaced-small">
+{{%md%}}
+- **Kindness.** Earn a token whenever you sacrifice something (_like time, an object, personal safety_) to help someone else. In this mode, you also have to spend a token to resolve an issue with combat or deceit, or roll with disadvantage. Sometimes conflict is necessary, but it always comes at a cost.
+- **Roleplay.** Earn a token whenever you act in pursuit of your _goal or passion_, tie the _story of your item_ into the narrative, or roleplay your _bond_ with another player.
+- **Exploration.** Earn a token whenever you take a moment to describe a fantastic detail or small moment of beauty in the world you're exploring.
+- **Experience Points (XP).** Earn a token whenever you roll a 5 or less, overcome a notable challenge, or discover memorable treasure.
+{{%/md%}}
+</div>
 
-If you want, you can use the same character from one adventurer to the next, and bring their skills, gear, and treasure along with them.
+You can choose as many or as few modes as you want, and even create your own.
 
 
 
