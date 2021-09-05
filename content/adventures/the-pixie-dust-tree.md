@@ -40,7 +40,7 @@ You were warned he doesn't take kindly to visitors. As you ponder just how you'l
 
 
 
-## Monsters & Traps
+## Creatures & Traps
 
 - **Rock Slide.** A wall of boulders comes sliding down from the mountains.
 - **Nets & Pits.** Rope nets and pit traps hidden under fallen leaves abound in the fairy-filled sections of the forest. If the traps go off, fairies fly out to greet the captured party. They ferociously guard the forest, and don't trust strangers.

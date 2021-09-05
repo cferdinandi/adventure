@@ -31,7 +31,7 @@ Surrounded by a pack of hungry wolves, deep in the Dark Forest, you're starting 
 ## Locations
 
 {{<details summary="The Dark Forest" blurb="To the East of the town of Farfaria, the Dark Forest is home to creatures of a more primal nature. Goblins. Lizardfolk. Wolves. Werebears. Unfortunately, it's also where the entrance to the Cavern of Mysteries lies.">}}
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Thieves.** They attempt to rob the adventurers of their gold, or the Gem if they're in possession of it.
 	+ **Elves.** They're also searching for the Sorcerer's Gem, and want create an alliance.
 	+ **Wolves.** They attack in packs, move fast, and have sharp teeth.
@@ -39,7 +39,7 @@ Surrounded by a pack of hungry wolves, deep in the Dark Forest, you're starting 
 {{</details>}}
 
 {{<details summary="The Cavern of Mysteries" blurb="A deep, winding cave system with many entrances. It winds under most of Farfaria. Certain parts are completely sealed off by time or haven't been explored in years. Many an adventurer has entered the caves... and never returned.">}}
-- _Monsters & Traps_
+- _Creatures & Traps_
 	+ **Trap Door.** When activated, players fall to a lower level of tunnels.
 	+ **Water Trap.** A chamber seals off and floods with water.
 	+ **Troll.** He accuses the players of trying to steal his gold.

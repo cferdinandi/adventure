@@ -10,16 +10,17 @@ draft: false
 
 ## What's new in {{<edition>}} edition?
 
-This edition focuses on building more nuanced characters while still keeping the gameplay streamlined.
+This edition focuses on further streamlining gameplay while maintaining character depth.
 
-- Characters now have a few stats to give them some depth. They'll be better at certain tasks, and worse at others.
-- There's new GM guidance on world building, running games, and building meaningful character abilities.
-- There's an official level up process to help characters progress and grow.
+- Character stats were removed in favor a simple _advantage_/_disadvantage_ system as the character and circumstances call for.
+- The GM guide and ideas section provide more guidance on building immersive worlds and meaningful characters.
+- The level-up process has been relaxed for more flexibility.
 
 
 
 ## Past Version
 
+- [9th Edition](/v9)
 - [8th Edition](/v8)
 - [7th Edition](/v7)
 - [6th Edition](/v6)

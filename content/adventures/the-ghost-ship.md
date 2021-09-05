@@ -56,7 +56,7 @@ The Lost Isle could be a tropical island (with palm trees) or a more temperate o
 
 
 
-## Monsters & Traps
+## Creatures & Traps
 
 - **Awoken Plants.** Carnivorous plants, treefolk, vine snakes, and coconut or pinecone monsters are among the various sentient plants that guard the island and will attack intruders who get too close to the center of the island.
 - **Giant Crab.** The size of a house, the giant crab looks like a big rock while at rest. It's very aggressive towards everyone but the druid.
