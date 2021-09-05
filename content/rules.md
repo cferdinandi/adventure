@@ -63,7 +63,7 @@ Fin
 : An elf with skin made of bark, he wears a thick green rope, and has long hair pulled back into a bun.
 	- **Gift or Talent:** Nature Magic
 	- **Goal or Passion:** Start an animal sanctuary
-	- **Item with a Story:** A staff is made from an magic birch tree, it was a birthday gift from his grandfather
+	- **Item with a Story:** A staff is made from a magic birch tree, it was a birthday gift from his grandfather
 
 Flower
 : A fairy with rainbow colored hair and a full suit of armor.
@@ -211,7 +211,7 @@ Players can recover lost Health Points in a variety of ways.
 
 - **Short Rest:** 1 HP
 - **Long Rest:** 3 HP
-- **First Aid:** 1 HP
+- **First Aid:** 2 HP
 - **Healing Spell:** 2 HP
 - **Healing Potion:** 4 HP
 
@@ -235,7 +235,7 @@ There are four different _adventure modes_ you can use for rewarding tokens, dep
 
 <div class="list-spaced-small">
 {{%md%}}
-- **Kindness.** Earn a token whenever you sacrifice something (_like time, an object, personal safety_) to help someone else. In this mode, you also have to spend a token to resolve an issue with combat or deceit, or roll with disadvantage. Sometimes conflict is necessary, but it always comes at a cost.
+- **Kindness.** Earn a token whenever you sacrifice something of value (_like time, an item, or your personal safety_) to help someone else. In this mode, you also have to spend a token to resolve an issue with non-defensive combat, or roll with disadvantage. Sometimes conflict is necessary, but it always comes at a cost.
 - **Roleplay.** Earn a token whenever you act in pursuit of your _goal or passion_, tie the _story of your item_ into the narrative, or roleplay your _bond_ with another player.
 - **Exploration.** Earn a token whenever you take a moment to describe a fantastic detail or small moment of beauty in the world you're exploring.
 - **Experience Points (XP).** Earn a token whenever you roll a 5 or less, overcome a notable challenge, or discover memorable treasure.
@@ -248,7 +248,7 @@ You can choose as many or as few modes as you want, and even create your own.
 
 ## A Sample Game
 
-To help this all stick, let's look at a sample game with two characters: a knight and a wizard.
+To help this all stick, let's look at a sample game with two characters: a knight and a wizard. They're playing in _XP Adventure Moder_.
 
 {{<callout>}}
 **GM:** As you enter the cave, you see a sleeping ogre curled up around a massive pile of gold. One arm rests over the pile, while his other hand gently clutches a massive wooden club. In the back of the cave, you see the baby dragon you've been sent to rescue wrapped up in an old blanket. What do you do?
@@ -263,7 +263,7 @@ To help this all stick, let's look at a sample game with two characters: a knigh
 
 **Knight:** I rolled a 4, 3, and 1, so... 4 with disadvantage.
 
-(_The Wizard partially succeeds. The Knight fails._)
+(_The Wizard partially succeeds. The Knight fails and takes a token._)
 
 **GM:** Great, thanks. The Wizard carefully picks up three gold coins and tucks them into her pocket. As she reaches for a fourth, the Knight's elbow accidentally bumps into the cave wall. The metal of his armor "clangs" and reverberates through the cave, growing louder before tapering off.
 
@@ -291,7 +291,7 @@ Then, he lets out a roar and swings the club down towards you. What do you do?
 
 **GM:** Excellent, make a roll.
 
-**Knight:** I rolled 10.
+**Knight:** I'll spend a token to roll with advantage... I rolled 10.
 
 (_That's a success._)
 

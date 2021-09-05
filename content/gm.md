@@ -326,27 +326,24 @@ One easy way to add richness and texture to your world is by asking your players
 
 You can make the skills your characters have feel more rich and meaningful by adding mechanics like advantage and disadvantage around them.
 
-- When a character does something related to [skill], roll with advantage.
+- When a character does something related to [gift or talent], roll with advantage.
 - A character has the ability to [power they can actively choose to use]. Roll to see what happens.
 - A character has [special power with a constant effect].
-- A character has [object]. When applicable, roll with advantage.
+- A character has [item]. When applicable, roll with advantage.
 
 Giving them benefits and costs based on their choices makes their characters and the world feel more real.
 
 {{<callout title="Examples">}}
-Fin is an elf who specializes in nature magic and can talk to animals.
+Fin is an elf with skin made of bark. He has a talent for nature magic and a staff made from a magic birch tree.
 
-Shapeshifter
-: You can turn into animals. You may take on the physical form of any species who you have studied. Roll with advantage when doing things that animal would be good at, and disadvantage on things they would struggle with.
+Bark Skin
+: Your skin is tough like bark. Roll with advantage on defense rolls.
 
 Elemental Magic
 : You can control the elements of earth, wind, fire, and water. Roll to see what happens. On a 9+, the desired effect comes to pass. On a 6-8, you also lose control of the effect.
 
-Night Vision
-: As an elf, you’re physically adapted to the darkness of twilight and can see in the dark as if it was dim light. When other players would roll with disadvantage in darkness, you do not.
-
 Animal Friendship
-: You’re a friend to all creatures. Whenever you do something related to interacting with animals, roll with advantage.
+: After spending years in the forest, you've learned to communicate with animals.
 
 Staff of the Woodlands
 : You possess a staff made from an enchanted birch tree. Whenever you cast nature spells, roll with advantage.
