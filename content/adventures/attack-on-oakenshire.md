@@ -60,3 +60,13 @@ Before he can say another word, a thick strand of web wraps around the elf and r
 
 - The cocoons contain captured elves. If approached, they'll wiggle. The elves inside can be cut free and flee. One or two may be convinced to share critical information or become a helpful NPC ally.
 - The spiders are actually controlled by a massive, ancient spider named Grox. She's after something in the treasure room, but haven't figured out where it is, and Lord Faelyn refuses to tell her.
+
+
+
+## Fronts
+
+Grox the Spider
+: Wants to use the artifact in the treasure room to transform the region into a giant nest.
+	1. Locate the treasure room and secure the artifact.
+	2. Leave with the artifact, and abandon the city of Oakenshire.
+	3. Launch a raid on the largest city in the region.

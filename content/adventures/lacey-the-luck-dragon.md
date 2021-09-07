@@ -34,69 +34,36 @@ Look! Listen! Smoke and the cries of a baby dragon in the distance!
 
 ## Locations
 
-{{<details summary="The Forest." blurb="Tall trees and tangles of vines provide ample places for baby dragons to get stuck." margin="">}}
-- _Secrets_
-	+ A baby dragon has gotten himself tangled in some vines high-up in a tree.
-- _Creatures & Traps_
-	+ **Thieves or Cultists.** They want a baby dragon for themselves. They'll initially try to bribe the party. If unsuccessful, they'll secretly follow them and ambush them later.
-	+ **Treefolk & Living Vines.** Protectors of the forest, they don't take kindly to intruders. Can be persuaded to aid the party if handled right.
-	+ **Bears or Wolves.** The party might stumble into a bear cave, a lost cub, or a pack of hungry wolves.
-	+ **Fairies or Sprites.** They protect mythical creatures like dragons. They can aid the party, or attack them if they fear their intentions.
-- _Events_
-	+ The baby dragon starts to fall from vines and is unable to fly.
-{{</details>}}
-
-{{<details summary="Spider Den." blurb="Among a grove a trees, a giant spider guards a massive web that could easy capture a baby dragon.">}}
-- _Secrets_
-	+ A baby dragon is caught in the giant spider's web.
-	+ One of the cocoons in the den is actually a sack of spiderling eggs.
-- _Creatures & Traps_
-	+ **Giant Spider.** Can climb walls, shoot webs, and has a poisonous bite.
-	+ **Spiderlings.** Attack in swarms. Can make web netting but aren't very strong.
-	+ **Web Traps.** Web traps can fall from the ceiling, cover dark openings, or be hidden under false floors. Very hard to get out of without help.
-- _Events_
-	+ If the party takes too long, spider eggs burst open, sending a swarm of baby spiders after the adventurers
-{{</details>}}
-
-
-{{<details summary="Mountain Cliffs." blurb="High up on the edge of the cliffs, a dragon just learning to fly could easily find themselves unable to get down.">}}
-- _Secrets_
-	+ A baby dragon finds itself stuck high-up on a cliff's edge.
-	+ Goblins live near the cliffs, and will come to investigate if the party is noisy or takes too long.
-- _Creatures & Traps_
-	+ **Rock slide.** Could be natural, or set off by goblins.
-	+ **Goblins.** They could be hostile or friendly. Quick on their feet, adept at climbing, and skilled at fighting from a distance. Up-close they attack in swarms.
-- _Events_
-	+ If the dragon panics, it might fall off the edge of the cliff.
-{{</details>}}
-
-{{<details summary="The Supply Shop." blurb="A remote supply shop provides food and goods to weary travelers. But you can't help but notice something strange about the place.">}}
-- _Secrets_
-	+ A baby dragon is being held captive in the supply room in the back.
-	+ The shop keep is desperate for money and wants a sizable sum of money that's been offered for a baby dragon.
-- _Creatures & Traps_
-	+ **Shopkeeper.** Not aggressive, but will try to keep the party from entering the supply room.
-	+ **Thieves or Cultists.** They're also after a baby dragon, and will attempt to steal it from the party (or before they can get to it). Alternatively, they may try to make a deal with the shopkeeper.
-- _Events_
-	+ After some time, strange noises or smoke come from behind a door into the supply room.
-	+ The shopkeeper kicks the adventurers out of their store
-	+ Bandits hear the commotion and seize the opportunity
-{{</details>}}
-
-{{<details summary="Cave of the Sleeping Ogre." blurb="A cave system is home to a giant ogre and his cavern home. He happens to be asleep at the moment, but a giant pile of gold (and a baby dragon) lie behind him." margin="true">}}
-- _Secrets_
-	+ Baby dragons are captivated by gold.
-- _Creatures & Traps_
-	+ **Ogre.** If woken up, he'll immediately think the party is trying to steal his gold. He's not very smart, and defaults to smashing things with his club.
-	+ **Noisy Clutter.** The cave is littered with animal bones and treasure... all things that can make a lot of noise (and wake the ogre) if the party is not careful.
-{{</details>}}
+- **The Great Wood Forest.** Tall, ancient trees, tangled with vines. Magical, sentient fungi the size of a full grown person. Treefolk, leery of any outsiders wandering in the forest.
+- **The Spider Den.** Hidden among the foliage is a massive trapdoor spider den. A giant spider the size of a rhino or elephant, with thick, hairy legs. Several cocoons near the back of the nest, at least one of them wiggling.
+- **The Dropoff.** A bottomless gorge, about 35' wide, that separates two sections of mountain pass. There's a few small ledges about 20' down on either side, and endless darkness. On the far side of the gorge is a raised bridge, used the cross from the other side.
+- **The Outpost.** Nestled deep in the woods is a small outpost and supply shop. The wares are coated in dust, and the building is in disrepair. An old shopkeep tends to store, but it doesn't look like it sees enough traffic to stay in business. Something feels... off.
+- **Cave of the Sleeping Ogre.** A cave system is home to a giant ogre and his cavern home. He happens to be asleep at the moment, but a giant pile of gold lies behind him. Large stalagmites rise from the ground. You hear the dripping of water off in the darkness beyond.
 
 
 
 ## Creatures & Traps
 
 - **Thieves or Cultists.** They want a baby dragon for themselves. They'll initially try to bribe the party. If unsuccessful, they'll secretly follow them and ambush them later.
+- **Treefolk & Living Vines.** Protectors of the forest, they don't take kindly to intruders. Can be persuaded to aid the party if handled right.
+- **Bears or Wolves.** The party might stumble into a bear cave, a lost cub, or a pack of hungry wolves.
+- **Fairies or Sprites.** They protect mythical creatures like dragons. They can aid the party, or attack them if they fear their intentions.
+- **Giant Spider.** Can climb walls, shoot webs, and has a poisonous bite.
+- **Spiderlings.** Attack in swarms. Can make web netting but aren't very strong.
+- **Ogre.** If woken up, he'll immediately think the party is trying to steal his gold. He's not very smart, and defaults to smashing things with his club.
 - **Goblins.** A group of goblins located in the mountains overlooking the village are held at bay by Lacey the Luck Dragon's protection. While she's distracted by her missing babies, they'll seize the opportunity and attack the village.
+- **Web Traps.** Web traps can fall from the ceiling, cover dark openings, or be hidden under false floors. Very hard to get out of without help.
+- **Rock slide.** Could be natural, or set off by goblins.
+
+
+
+## Secrets
+
+- One of the cocoons in the den is actually a sack of spiderling eggs.
+- Goblins live near the cliffs, and will come to investigate if the party is noisy or takes too long.
+- The shop keep is desperate for money and wants a sizable sum of money that's been offered for a baby dragon.
+- Baby dragons are captivated by gold.
+- The dangers Lacey protects the village from are planning an attack.
 
 
 
@@ -104,3 +71,25 @@ Look! Listen! Smoke and the cries of a baby dragon in the distance!
 
 - If the baby dragons aren’t returned in time, goblins ambush the unprotected village. The players will need to decide how to focus their time at that point: on rescuing the baby dragons, or protecting the village.
 - If you want a longer campaign, have the bandits make off with a dragon. It will create an additional side campaign the players will need to complete.
+
+
+
+## Fronts
+
+Thieves
+: They want a baby dragon for themselves.
+	1. Purchase or steal a baby dragon.
+	2. Invoke an ancient spell that revives the spirit of an ancient, evil dragon.
+	3. Use the dragon as a weapon to gain control of the village.
+
+Goblins
+: Generally leave the village alone, but don't like outsiders, who often hunt on their land. Want a dragon for protection.
+	1. Purchase or steal a baby dragon.
+	2. Put dragon under mind-control spell.
+	3. Use the dragon as a weapon to enforce control over their area of the land.
+
+Outside Threat
+: Want to attack and control the village.
+	1. Livestock and villagers start going missing.
+	2. Explosions and attacks happen in the village (perhaps under the cover of night).
+	3. An army of outsiders descends on the village.

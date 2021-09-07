@@ -47,15 +47,6 @@ The Lost Isle could be a tropical island (with palm trees) or a more temperate o
 
 
 
-## Secrets
-
-- The island is home to a reclusive druid who cares for the creatures of the island.
-- A giant crab, the size of a house, protects the island from intruders. While resting, he looks like a giant boulder. He's friends with the druid.
-- The druid has created a small army of sentient plants at various places along the island. They provide an early warning system against intruders.
-- Because of how often ships wreck on the island, the druid has amassed a horde of gold, jewels, and rare artifacts. He has no interest or use in material wealth, and often uses gold coins as skipping stones. A massive collection of them can be found at the bottom of the Big Lake.
-
-
-
 ## Creatures & Traps
 
 - **Awoken Plants.** Carnivorous plants, treefolk, vine snakes, and coconut or pinecone monsters are among the various sentient plants that guard the island and will attack intruders who get too close to the center of the island.
@@ -66,19 +57,35 @@ The Lost Isle could be a tropical island (with palm trees) or a more temperate o
 - **Trolls.** At least one troll lives in the Tunnels, hoarding treasure discarded by the Druid.
 - **Cave-Ins & Hidden Drops.** The Tunnels are a wildly dangerous place, with frequent cave-ins, and hidden drops that lead deeper into the tunnel system.
 - **Lava Pools.** Mount Wanahakaloogi is actually a semi-dormant volcano, with many active lava pools within.
+- **Hurricane.** An unexpected hurricane lashes the island.
 
 
 
-## Events
+## Secrets
 
-- Gear starts disappearing from people's packs.
-- An eerie quiet comes over the island.
-- A hurricane lashes the island.
-- If the party spends too long in the Tunnels, Mount Wanahakaloogi may become active and start to erupt... especially if they snoop around in the wrong places.
+- The island is home to a reclusive druid who cares for the creatures of the island.
+- A giant crab, the size of a house, protects the island from intruders. While resting, he looks like a giant boulder. He's friends with the druid.
+- The druid has created a small army of sentient plants at various places along the island. They provide an early warning system against intruders.
+- Because of how often ships wreck on the island, the druid has amassed a horde of gold, jewels, and rare artifacts. He has no interest or use in material wealth, and often uses gold coins as skipping stones. A massive collection of them can be found at the bottom of the Big Lake.
 
 
 
-## Game Master Tips
+## Fronts
 
-- One fun element you can use to add more mystery to this adventure is a recurring symbol that shows up at every new stop. It may show up on the cover of the captain's log on the ship, then again on a tent at the camp grounds, then carved into the walls of the caves.
-- When I run this adventure, I like to have the storm crash the ship onto the Lost Isle, destroying it. In the tunnels, players find an old wooden submarine that they use to escape the island with the sailors (if they find and rescue them).
+The Druid
+: Wants to protect the island from outsiders.
+	1. Items start disappearing from people's packs.
+	2. Awakened plants attack.
+	3. The druid confronts the party directly... with his giant crab for backup.
+
+Mount Wanahakaloogi
+: A dormant volcano, now becoming active.
+	1. Minor tremors shake the island.
+	2. Smoke starts rising from the top of the mountain.
+	3. The volcano erupts!
+
+Hurricane
+: A powerful storm batters the island.
+	1. An eerie quiet comes over the island.
+	2. Animals can be spotted chittering off into burrows and off-island as storm clouds build.
+	3. A big storm hits.

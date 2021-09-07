@@ -52,5 +52,21 @@ You were warned he doesn't take kindly to visitors. As you ponder just how you'l
 
 ## Secrets
 
-- An old wizard collects magical animals, and destroyed the tree in hopes that their fairies, who protect the creatures of the woods, wouldn't be able to fly again.
+- An old wizard collects magical animals, and destroyed the tree in hopes that the fairies, who protect the creatures of the woods, wouldn't be able to fly again.
 - Thieves have been offered a very hefty sum of money to locate and destroy any remaining trees.
+
+
+
+## Fronts
+
+The Old Wizard
+: Wants to collect specimens of all the magical creatures in the forest.
+	1. Magical creatures start disappearing from the area of the forest where the Pixie Dust Tree was destroyed.
+	2. There's an attack on another group of faeries, and their tree is destroyed or badly damaged.
+	3. Magical creatures become endangered as they're hunted in numbers.
+
+The Thieves
+: Want to destroy any remaining trees and secure any remaining pixie dust, which they will also sell for a fee.
+	1. The adventurers are attacked.
+	2. Any remaining pixie dust is stolen.
+	3. The last Pixie Dust tree is destroyed.
