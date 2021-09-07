@@ -326,18 +326,18 @@ One easy way to add richness and texture to your world is by asking your players
 
 You can make the skills your characters have feel more rich and meaningful by adding mechanics like advantage and disadvantage around them.
 
-- When a character does something related to [gift or talent], roll with advantage.
+- When a character does something related to [skill or ability], roll with advantage.
 - A character has the ability to [power they can actively choose to use]. Roll to see what happens.
 - A character has [special power with a constant effect].
-- A character has [item]. When applicable, roll with advantage.
+- A character has [object]. When applicable, roll with advantage.
 
 Giving them benefits and costs based on their choices makes their characters and the world feel more real.
 
 {{<callout title="Examples">}}
-Fin is an elf with skin made of bark. He has a talent for nature magic and a staff made from a magic birch tree.
+Fin is an elf with the ability to speak to animals, a talent for nature magic, and a staff made from a magic birch tree.
 
-Bark Skin
-: Your skin is tough like bark. Roll with advantage on defense rolls.
+Elven Agility
+: At home in the trees, you're quick and agile. Roll with advantage when doing something that requires agility.
 
 Elemental Magic
 : You can control the elements of earth, wind, fire, and water. Roll to see what happens. On a 9+, the desired effect comes to pass. On a 6-8, you also lose control of the effect.

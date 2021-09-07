@@ -48,11 +48,9 @@ Each player creates a character to represent them on their adventures (this is w
 
 <div class="list-spaced-small">
 {{%md%}}
-- **Name & Appearance.** You can be anyone you want to be in adventure: an elf with flowers for hair, a fairy pirate, a robot knight, a dragonfly in a straw hat.
-- **Gift or Talent.** What makes your character unique? Can they breath fire or fly? Are they experts at elemental magic or illusions? Are they a skilled archer?
-- **Goal or Passion.** What does your character want most in life? Do they strive to vanquish evil? Open an animal sanctuary? Explore a distant land?
-- **Item with a Story.** What's your character's most prized possession, and why? How long have they had it? Where did they get it? What's the story behind it?
-- **Stuff.** Each character starts the game with a weapon or wand, rope, water, food, a few coins, and one healing potion. You'll find more in your travels.
+- **Name & Description.** You can be anyone you want to be in adventure: an elf wizard, a fairy tinkerer, a space cowboy, a dragonfly spy. Be anything you want.
+- **Skills & Abilities.** What makes your character unique? Can they breath fire or fly? Are they experts at elemental magic or illusions? Are they a skilled archer?
+- **Stuff.** Each character starts the game with rope, water, food, a few coins, one healing potion, and a personal item with a story behind it. You'll find more in your travels.
 {{%/md%}}
 </div>
 
@@ -60,34 +58,14 @@ The [downloads section](/downloads) includes premade characters if you need exam
 
 {{<callout title="Examples">}}
 Fin
-: An elf with skin made of bark, he wears a thick green rope, and has long hair pulled back into a bun.
-	- **Gift or Talent:** Nature Magic
-	- **Goal or Passion:** Start an animal sanctuary
-	- **Item with a Story:** A staff is made from a magic birch tree, it was a birthday gift from his grandfather
+: An elf who specializes in nature magic and can talk to animals. He has a staff made from a magic birch tree, and wants to open an animal sanctuary.
 
 Flower
-: A fairy with rainbow colored hair and a full suit of armor.
-	- **Gift or Talent:** Flying
-	- **Goal or Passion:** Protect village from evil lurking in the dark forest
-	- **Item with a Story:** A battleaxe made from an enchanted sunflower, it can only be harvested under the light of the moon once every 13 years
+: A fairy knight who can fly and wields an battleaxe made from an enchanted sunflower. She protects her village from the forces of evil.
 
 Spark
-: A dragon in a leather chemist apron, with tiny glasses on the tip of their nose.
-	- **Gift or Talent:** Crafting potions that give magical properties to whoever drinks them
-	- **Goal or Passion:** To open a bakery and tea shop
-	- **Item with a Story:** A tea set with fireflies painted onto it that blink when filled with tea, purchased last year from a traveling vendor in exchange for a secret tea recipe
+: A dragon chemist, Spark creates potions that give magical properties to whoever drinks them. They want to open a bakery.
 {{</callout>}}
-
-### Bonds & Connections
-
-If you're going on an adventure with others, what's your connection with them? Ask the player to your left and right one question each.
-
-- Why do you trust me?
-- What secret of yours do I know?
-- Who do I remind you of?
-- How did I help you in a time of need?
-
-Write down their answers, and use them to guide your interactions during the game.
 
 
 
@@ -188,7 +166,7 @@ If the player would be able to attack without any chance of being blocked (for e
 
 As an adventurer, you’re going to get hurt from time-to-time. Cuts, bruises, and serious injury are a common risk.
 
-- **Health Points** (_HP_) represent a character's overall health. Each player starts the game with 6 HP, and cannot ever have more than that.
+- **Health Points** (_HP_) represent a character's overall health. Each player starts the game with 8 maximum HP. Your total HP can't ever exceed your max.
 - **Damage.** Any time a character is hit by a monster or seriously injured (from a fall, for example), subtract 1 HP (or more) from their total. Bigger monsters and threats may cause more damage.
 
 {{<callout title="Examples">}}
@@ -224,31 +202,23 @@ When a player's HP reaches 0, you have two options, depending on how dark and gr
 
 
 
-## Adventure Tokens
+## Character Progression
 
-Tokens are a way to provide character growth and progression over time.
+As your character goes on adventures, they’ll gain new experiences and find cool stuff. Whenever it feels appropriate for the story, the GM can "level up" the characters.
 
-- **Players earn a token** whenever they take specific actions in the game.
-- **Players can spend a token** to roll with advantage. If they spend 10 tokens, they can gain a new _Gift or Talent_.
+<p class="margin-bottom-small"><strong>When you level up, pick one:</strong></p>
 
-There are four different _adventure modes_ you can use for rewarding tokens, depending on the type of game you're hoping for and the types of actions you want to reward.
+- Learn a new skill or ability (_up to a maximum of 7 learned skills_).
+- Replace an existing skill or ability with a new one.
+- Increase your max HP by 1 (_up to a total of 12_).
 
-<div class="list-spaced-small">
-{{%md%}}
-- **Kindness.** Earn a token whenever you sacrifice something of value (_like time, an item, or your personal safety_) to help someone else. In this mode, you also have to spend a token to resolve an issue with non-defensive combat, or roll with disadvantage. Sometimes conflict is necessary, but it always comes at a cost.
-- **Roleplay.** Earn a token whenever you act in pursuit of your _goal or passion_, tie the _story of your item_ into the narrative, or roleplay your _bond_ with another player.
-- **Exploration.** Earn a token whenever you take a moment to describe a fantastic detail or small moment of beauty in the world you're exploring.
-- **Experience Points (XP).** Earn a token whenever you roll a 5 or less, overcome a notable challenge, or discover memorable treasure.
-{{%/md%}}
-</div>
-
-You can choose as many or as few modes as you want, and even create your own.
+You can use the same character from one adventurer to the next, and bring their skills, gear, and treasure along with them.
 
 
 
 ## A Sample Game
 
-To help this all stick, let's look at a sample game with two characters: a knight and a wizard. They're playing in _XP Adventure Moder_.
+To help this all stick, let's look at a sample game with  knight and a wizard.
 
 {{<callout>}}
 **GM:** As you enter the cave, you see a sleeping ogre curled up around a massive pile of gold. One arm rests over the pile, while his other hand gently clutches a massive wooden club. In the back of the cave, you see the baby dragon you've been sent to rescue wrapped up in an old blanket. What do you do?
@@ -263,7 +233,7 @@ To help this all stick, let's look at a sample game with two characters: a knigh
 
 **Knight:** I rolled a 4, 3, and 1, so... 4 with disadvantage.
 
-(_The Wizard partially succeeds. The Knight fails and takes a token._)
+(_The Wizard partially succeeds. The Knight fails._)
 
 **GM:** Great, thanks. The Wizard carefully picks up three gold coins and tucks them into her pocket. As she reaches for a fourth, the Knight's elbow accidentally bumps into the cave wall. The metal of his armor "clangs" and reverberates through the cave, growing louder before tapering off.
 
@@ -291,7 +261,7 @@ Then, he lets out a roar and swings the club down towards you. What do you do?
 
 **GM:** Excellent, make a roll.
 
-**Knight:** I'll spend a token to roll with advantage... I rolled 10.
+**Knight:** I rolled 10.
 
 (_That's a success._)
 
