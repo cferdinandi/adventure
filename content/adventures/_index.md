@@ -32,7 +32,7 @@ Want even more adventures? You can use the Adventure rule system with other RPGs
 {{<details summary="Adventure Ideas" margin="true">}}
 Want to write your own adventure, but aren't sure where to start? Here are some ideas I haven't gotten around to writing adventures for.
 
-_I have a bunch of [tips and tricks for creating your own adventures](/gm/#how-to-create-your-own-adventures) on the GM Tips page._
+_I have a bunch of [tips and tricks for creating your own adventures](/gm/#creating-your-own-adventures) on the GM Tips page._
 
 - A powerful sorcerer's hat is stolen, and the group has to recover it
 - The group discovers an abandoned castle, where everyone is turned to stone
