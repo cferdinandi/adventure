@@ -210,6 +210,7 @@ As your character goes on adventures, they’ll gain new experiences and find co
 
 - Learn a new skill or ability (_up to a maximum of 7 learned skills_).
 - Replace an existing skill or ability with a new one.
+- Increase the power of a skill or ability (_every few levels, up to twice per skill or ability_).
 - Increase your max HP by 1 (_up to a total of 12_).
 
 You can use the same character from one adventurer to the next, and bring their skills, gear, and treasure along with them.

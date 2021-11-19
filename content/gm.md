@@ -22,6 +22,10 @@ Adventure is all about creating a shared story with your players. The GM describ
 2. Fill the characters' lives with adventure.
 3. Play to find out what happens.
 
+{{<callout>}}
+**Focus on the story.** Whenever you're unsure what should happen, ask yourself what makes sense in the context of the story you're telling. If the rules get in the way of the narrative or don't quite fit, ignore them.
+{{</callout>}}
+
 
 
 ## Starting the Game
