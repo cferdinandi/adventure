@@ -24,6 +24,7 @@ This is a short-term campaign with a fixed end. If the players are having fun, I
 - Sundays at 9:30pm US Eastern, every two weeks
 - 2.5 hour long sessions (game runs to midnight each session)
 - 3-5 sessions total
+- 4 players maximum
 - Fully remote/online
 - We'll be using [Owlbear Rodeo](https://www.youtube.com/watch?v=Scp-bFy4AqE) for maps, and Zoom or Discord for audio/video
 
