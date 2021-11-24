@@ -10,6 +10,13 @@ _You can find a [one-page GM cheatsheet on the downloads page](/downloads)._
 
 <div data-toc="Table of Content"></div>
 
+## TODO
+
+- Morale system
+- Update the balance section to account for action vs. rest
+- Move "Immersive Worlds" higher up on the page
+- Add magical mishaps table
+
 
 
 ## The Three Principles
@@ -75,7 +82,7 @@ The [pre-made adventures](/adventures/) are structured with this in mind.
 - **Introduction.** A brief summary of the situation and location the players find themselves in.
 - **Questions.** A list of questions that you can ask the players to help build out the world and fill in some blanks for the story you're about to tell.
 - **Fantastic Locations.** Amazing places that the players can explorer, with a few details and unique features.
-- **Creatures & Traps.** Create fun and exciting challenges by introducing creatures, traps, and unexpected situations.
+- **Dangers.** Create fun and exciting challenges by introducing creatures, traps, and unexpected situations.
 - **Secrets.** As players explore the world, they'll uncover secrets and hidden mysteries.
 - **Magic Items & Treasure.** Discover magic items and hidden treasure. These often reveal secrets about the world and give the players new powers and abilities.
 - **Fronts.** The big players and forces in a campaign, these are things that will affect the world and unfold in sequence unless the players intervene.
@@ -92,11 +99,10 @@ As an open-ended role-playing game, the players can take an adventure in a lot o
 
 <p class="margin-bottom-small"><strong>Some things you can do as GM.</strong></p>
 
-- Introduce a new location
-- Spring a trap or attack
-- Reveal a secret about the world
-- Put someone in a tough spot
-- Offer a choice... with a cost
+- Show a new location (_a hidden doorway, a secret tunnel, a long-lost temple_)
+- Introduce a danger (_a creature, a trap, an obstacle, a situation_)
+- Reveal a secret about the world (_hidden treasure, a new plot hook, an important detail_)
+- Offer a choice (_The fast and dangerous path or the slow and safe one? Save yourself or your friend?_)
 
 ### Outcomes for Common Actions
 
@@ -109,7 +115,7 @@ Cast Spells
 
 Combat
 : When fighting close-up or from afar with ranged weapons...
-	- **9+** Deal your damage (_optional: do 1 more HP of damage but the enemy hits you_)
+	- **9+** Deal your damage
 	- **6-8** Deal your damage, and enemy hits you or you get put in a tough spot
 
 Defy Danger
@@ -120,7 +126,7 @@ Defy Danger
 Defend
 : When you try to defend yourself of a teammate from an attack...
 	- **9+** Block the attack
-	- **6-8** Cut the damage in half, or block all of it but damage your armor or weapon
+	- **6-8** Reduce the damage, or block all of it but damage or lose something
 
 Understand the World
 : Whenever you try to study the world around you, a person, or a situation... On a 9+, ask three questions. On a 6-8, ask one.
@@ -146,30 +152,6 @@ Last Breath
 	- **9+** Death allows them to return to the living
 	- **6-8** Death requires something in return
 
-### Improvising Creatures
-
-In Adventure, a _creature_ is any non-character being. They can be friendly allies, villains, or something in-between. Like player characters, creatures have HP and get knocked out or die when it reaches zero.
-
-<p class="margin-bottom-small">Assign HP and damage to creatures based on their size and toughness.</p>
-
-- **Small:** 1 HP, 1 Damage
-- **Medium:** 3 HP, 1 Damage
-- **Large:** 6 HP, 2 Damage
-- **Very Large:** 9 HP, 3 Damage
-- **Ginormous.** 15 HP, 5 Damage
-
-These are just guidelines. Feel free to adjust the HP and damage to make the creatures more or less challenging as desired.
-
-You might also give your creatures special abilities or unique features. For creatures that attack in hordes, players can damage multiple creatures with one attack.
-
-{{<callout title="Examples">}}
-- **Rat.** 1 HP, 1 Damage. _Attack in hordes._
-- **Skeleton.** 3 HP, 1 Damage. _Springs back to life after several rounds._
-- **Giant Spider.** 5 HP, 2 Damage. _Can shoot webs._
-- **Hill Giant.** 8 HP, 3 Damage. _Smashes things. Bad eye sight._
-- **Dragon**, 12 HP, 5 Damage. _Breathes fire._
-{{</callout>}}
-
 ### Make Failure Interesting
 
 Statistically, failed die rolls will happen about a quarter of the time a player rolls. Even when a player fails a roll, something should still _happen_.
@@ -177,8 +159,8 @@ Statistically, failed die rolls will happen about a quarter of the time a player
 Otherwise, it's boring and disappointing.
 
 {{<callout title="Examples">}}
-- The player fails to pick the lock on the chest. It unleashes a curse, freezing the player in place!
-- The player tries to jump across a cliff and fails the roll. They slam into the cliff wall and fall onto a ledge 20 feet down. They think they've escaped the worst of it... until the ledge starts to shift and crack under their weight.
+- **The player fails to pick the lock on the chest.** It springs a trap, causing the room to lock and start filling with water!
+- **The player tries to jump across a cliff and fails the roll.** They slam into the cliff wall and fall onto a ledge 20 feet down. They think they've escaped the worst of it... until the ledge starts to shift and crack under their weight.
 {{</callout>}}
 
 
@@ -214,9 +196,9 @@ You might also require a roll to identify which part of the boot to climb, or a 
 
 ### Total Group Knock Out
 
-If every member of a group loses all of their health points, that’s a called a _Total Group Knock Out (or TGKO)_.
+If every member of a group takes their last breath, that’s a called a _Total Group Knock Out (or TGKO)_.
 
-A TGKO can happen if the difficulty of a particular challenge isn’t properly balanced for the skills of your group. It can also happen if luck just doesn’t work in the players’ favor (a series of low die rolls, for example).
+A TGKO can happen if the group misjudges how dangerous a situation is. It can also happen if luck just doesn’t work in the players’ favor (like a series of low dice rolls).
 
 <p class="margin-bottom-small"><strong>Since a TGKO would otherwise stop the adventure in its tracks, the Game Master can use their creativity to save players from this situation.</strong></p>
 

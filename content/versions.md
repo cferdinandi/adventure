@@ -10,16 +10,18 @@ draft: false
 
 ## What's new in {{<edition>}} edition?
 
-This edition focuses on further streamlining gameplay while maintaining character depth.
+This edition focuses on storytelling and immersion over mechanics.
 
-- Character stats were removed in favor a simple _advantage_/_disadvantage_ system as the character and circumstances call for.
-- The GM guide and ideas section provide more guidance on building immersive worlds and meaningful characters.
-- The level-up process has been relaxed for more flexibility.
+- Health points were removed in favor of conditions and effects.
+- Added more details on spellcasting and crafting.
+- Replaced progression mechanics with in-game rewards.
+- Added more GM tools to help run the game.
 
 
 
 ## Past Version
 
+- [10th Edition](/v10)
 - [9th Edition](/v9)
 - [8th Edition](/v8)
 - [7th Edition](/v7)
