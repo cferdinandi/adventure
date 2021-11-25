@@ -16,6 +16,57 @@ _You can find a [one-page GM cheatsheet on the downloads page](/downloads)._
 - Update the balance section to account for action vs. rest
 - Move "Immersive Worlds" higher up on the page
 - Add magical mishaps table
+  
+## TODO 2
+
+- 3 Principles: Focus on the story. Whenever you’re unsure what should happen, ask yourself what makes sense in the context of the world you're exploring. If the rules get in the way or don’t quite fit, ignore them.
+- Starting the Game
+- Creating a Living World
+	+ Fantastic Locations
+	+ Dangers
+	+ Secrets
+	+ Treasure & Magic Items
+	+ Fronts
+- Translating story into mechanics (or... Story & Mechanics)
+	+ Existing content
+	+ Morale system
+	+ Action vs. Rest
+	+ Magical Mishaps
+	+ Crating, Tinkering, & Repairs
+  
+<!-- ### Magic & Spellcasting
+
+Simple spells can be cast at will. Complex and powerful spells require a roll of the dice, and may have unintended side-effects or draw unwanted attention if they fail.
+
+The spells you cast should work thematically with the character. Describe what you want to to do, and the GM will tell if you if its possible and how it might work. 
+
+You'll acquire new spells, abilities, weapons, and magic items on your travels.
+
+{{<callout title="Examples">}}
+Fin specializes in nature magic.
+
+- **He wants to light a small fire by snapping his fingers.** This is a simple spell that can be cast at will and always works.
+- **He wants to make vines grow out of the earth and tangle an enemy.** This is a complex spell. He rolls 2D6.
+	+ **9+:** It works as expected.
+	+ **6-8:** It works, but also tangles one of the other players.
+	+ **5-:** Fin's connection to the earth breaks, and the spell fails.
+- **He tries to teleport.** This isn't nature magic, so nothing happens.
+- **He acquires a ring of teleportation, and wants to use it.** He rolls 2D6 to see what happens.
+{{</callout>}}
+
+### Crafting, Tinkering & Repairs
+
+In Adventure, you can attempt to craft items, build mechanical inventions, and repair damaged equipment.
+
+Simple items may only need a bit of time and a safe place to work. More complex items may require you to find ingredients or materials, and might also require a dice roll to see if it works or not.
+
+{{<callout title="Examples">}}
+Spark the dragon crafts magical potions brewed into tea.
+
+- **They want to craft a simple healing potion.** This is their signature tea, and works as long as Spark can find an hour of time to combine the ingredients and brew the tea.
+- **They've been in a cave system for a few days, and want to brew a healing potion.** Spark is low on the required ingredients, and will need to acquire some first. They roll 2D6 to see if they can scavenge some of the required mushrooms for a nearby tunnel.
+- **They're trying to craft a new potion that lets the drinker breath underwater.** Spark rolls 2D6 to scavenge the required ingredients, and another 2D6 to see if their potion works as expected.
+{{</callout>}} -->
 
 
 

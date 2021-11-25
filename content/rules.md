@@ -48,9 +48,9 @@ Each player creates a character to represent them on their adventures (this is w
 
 <div class="list-spaced-small">
 {{%md%}}
-- **Name & Description.** You can be anyone you want to be in adventure: an elf wizard, a fairy alchemist, a birdfolk spy. Be anything you want.
+- **Name & Description.** You can be anyone you want to be in adventure: an elf wizard, a fairy alchemist, a birdfolk knight. Be anything you want.
 - **Skills & Abilities.** What makes your character unique? Can they breath fire or fly? Are they experts at elemental magic or illusions? Are they a skilled archer?
-- **Stuff.** Each character starts the game with rope, water, food, ten coins, one healing potion, and a personal item with a story behind it. You'll find more in your travels.
+- **Stuff.** Each character starts the game with rope, water, food, ten coins, one healing potion, and a personal item with a story behind it. You'll find more on your travels.
 {{%/md%}}
 </div>
 
@@ -71,9 +71,9 @@ Spark
 
 ## Actions & Outcomes
 
-Actions and outcomes should follow the logic and fiction of the story you're telling.
+Actions and outcomes should follow the logic of the fictional world you're exploring.
 
-Any time you want to add chance to the outcome of a player action, the GM can ask them to roll two six-sided dice (2D6) and add the resulting numbers together.
+Any time you want to add chance to the outcome of a player action, the GM can ask the player to roll two six-sided dice (2D6) and add the resulting numbers together.
 
 | Roll | Outcome                                  |
 |------|------------------------------------------|
@@ -92,7 +92,7 @@ Any time you want to add chance to the outcome of a player action, the GM can as
 
 ### Advantage & Disadvantage
 
-Items, special skills, and circumstances may give the player an _advantage_ or _disadvantage_ in attempting to complete a task.
+Items, skills, and special circumstances may give the player an _advantage_ or _disadvantage_ in attempting to complete a task.
 
 - **Advantage.** Roll three six-sided dice (3D6) and take the best two dice.
 - **Disadvantage.** Roll three six-sided dice (3D6) and take the worst two dice.
@@ -104,23 +104,7 @@ Advantage
 : The player is attempting to sneak up on a camp and surprise them. It's nighttime, making them harder to see. They roll 3D6 and take the best two dice.
 
 Disadvantage
-: An evil wizard uses a spell to shroud the cavern in darkness, and the player cannot see them. They attempt to shoot an arrow at wizard through the darkness at a target they can't see. They roll roll 3D6 and take the worst two dice.
-{{</callout>}}
-
-### Teamwork
-
-Adventure is a cooperative, team game. The more you work together, the more likely you are to succeed.
-
-- **For group tasks**, like trying to cross a river or sneak into a castle, if at least half of the party succeeds, everyone does.
-- **For individual tasks**, if a player can reasonably assist a teammate, the teammate _rolls with advantage_.
-
-{{<callout title="Example">}}
-
-<p class="margin-bottom-small">A three-person party is trying to sneak into the castle undetected. The Game Master asks for a roll.</p>
-
-- If all three players make their roll, the party succeeds.
-- If one player fails and two succeed, the party still succeeds.
-- If two players fail, but one succeeds, they all fail.
+: An evil wizard uses a spell to shroud the cavern in darkness, and the player cannot see them. The player attempts to shoot an arrow at wizard through the darkness at a target they can't see. They roll roll 3D6 and take the worst two dice.
 {{</callout>}}
 
 ### Rolls are optional
@@ -147,7 +131,9 @@ If the thing the player is trying to do is really easy or impossibly difficult, 
 
 Combat works the same as any other action in Adventure.
 
-If the player would be able to attack without any chance of being blocked (for example, when they have the element of surprise), the hit lands automatically. Otherwise, roll to see what happens.
+If the player would be able to attack without any chance of being blocked (for example, when they have the element of surprise), the hit lands automatically. 
+
+<p class="margin-bottom-small">Otherwise, roll to see what happens.</p>
 
 - **9+:** The hit lands
 - **6-8:** The hit lands, but the player gets hit too or put in a tough spot
@@ -160,41 +146,6 @@ If the player would be able to attack without any chance of being blocked (for e
 - **9+.** The ogre tries to duck, but isn't fast enough. The hit lands.
 - **6-8.** The hit lands, but the sword gets stuck in the ogre's tough hide and is ripped out of the knight's hands.
 {{</callout>}}
-
-### Magic & Spellcasting
-
-Simple spells can be cast at will. Complex and powerful spells require a roll of the dice, and may have unintended side-effects or draw unwanted attention if they fail.
-
-The spells you cast should work thematically with the character. Describe what you want to to do, and the GM will tell if you if its possible and how it might work. 
-
-You can acquire additional spells and abilities through training. You'll also find spell books, scrolls, and magic items on your travels.
-
-{{<callout title="Examples">}}
-Fin specializes in nature magic.
-
-- **He wants to light a small fire by snapping his fingers.** This is a simple spell that can be cast at will and always works.
-- **He wants to make vines grow out of the earth and tangle an enemy.** This is a complex spell. He rolls 2D6.
-	+ **9+:** It works as expected.
-	+ **6-8:** It works, but also tangles one of the other players.
-	+ **5-:** Fin's connection to the earth breaks, and the spell fails.
-- **He tries to teleport.** This isn't nature magic, so nothing happens.
-- **He acquires a ring of teleportation, and wants to use it.** He rolls 2D6 to see what happens.
-{{</callout>}}
-
-### Crafting, Tinkering & Repairs
-
-In Adventure, you can attempt to craft items, build mechanical inventions, and repair damaged equipment.
-
-Simple items may only need a bit of time and a safe place to work. More complex items may require you to find ingredients or materials, and might also require a dice roll to see if it works or not.
-
-{{<callout title="Examples">}}
-Spark the dragon crafts magical potions brewed into tea.
-
-- **They want to craft a simple healing potion.** This is their signature tea, and works as long as Spark can find an hour of time to combine the ingredients and brew the tea.
-- **They've been in a dungeon for a few days, and want to brew a healing potion.** Spark is low on the required ingredients, and will need to acquire some first. They roll 2D6 to see if they can scavenge some of the required mushrooms for a nearby tunnel.
-- **They're trying to craft a new potion that lets the drink breath underwater.** Spark rolls 2D6 to scavenge the required ingredients, and another 2D6 to see if their potion works as expected.
-{{</callout>}}
-
 
 
 
@@ -233,9 +184,9 @@ Players can recover from injuries in a few of ways.
 How much they heal is dependent on the severity of the injury, the method used, and the abilities of the person doing the healing. Conditions caused by the injury may remain even after it's healed.
 
 {{<callout title="Examples">}}
-- **Fin has an arrow lodged in his right leg.** He rips it out and chugs a healing potion. The puncture heals over, and he no longer has disadvantage on rolls for actions using his leg.
-- **Flower is stunned from being hit in the head with a warhammer.** She visits a healer who gives her a healing elixir. After a days rest, she's able to think clearly again.
-- **Spark has a deep gash on their arm.** Out of healing potions, they bandage it up with some herbs. After three days, the wound heals, and disadvantage no longer applies.
+- **Fin has an arrow lodged in his right leg.** He rips it out and chugs a healing potion. The puncture heals over, and he regains full use of his leg.
+- **Flower is stunned after being hit in the head with a warhammer.** She visits an healer who gives her a magical elixir. After a days rest, she's able to think clearly again.
+- **Spark has a deep gash on their arm.** Out of healing potions, they bandage it up with some herbs. After three days, the wound heals, and they can use their arm without issue.
 {{</callout>}}
 
 ### Last Breath
