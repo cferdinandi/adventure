@@ -4,7 +4,7 @@ date: 2018-01-16T10:05:20-05:00
 draft: false
 ---
 
-Here are some ready-to-play adventures, set in [the land of Farfaria](/farfaria/).
+Here are adventure starters, set in [the land of Farfaria](/farfaria/).
 
 - [The Attack on Oakenshire](/adventures/attack-on-oakenshire/)
 - [The Pixie Dust Tree](/adventures/the-pixie-dust-tree/)

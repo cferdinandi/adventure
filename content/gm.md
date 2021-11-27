@@ -10,25 +10,6 @@ _You can find a [one-page GM cheatsheet on the downloads page](/downloads)._
 
 <div data-toc="Table of Content"></div>
 
- 
-## TODO 2
-
-- ~~3 Principles: Focus on the story. Whenever you’re unsure what should happen, ask yourself what makes sense in the context of the world you're exploring. If the rules get in the way or don’t quite fit, ignore them.~~
-- ~~Starting the Game~~
-- Adventures don't have a predetermined endings, or a specific path the players have to follow. You play to find out what happens.  
-- ~~Creating a Living World~~
-	+ Fantastic Locations
-	+ Dangers
-	+ Secrets
-	+ Treasure & Magic Items
-	+ Fronts
-- Translating story into mechanics (or... Story & Mechanics)
-	+ ~~Existing content~~
-	+ Morale system
-	+ ~~Magical Mishaps~~
-	+ ~~Crating, Tinkering, & Repairs~~
-	+ How to create monsters (can take more or less damage, special abilities, potentially invincible)
-
 
 
 ## The Three Principles
@@ -167,7 +148,7 @@ If you need inspiration, you can download a long list of [minor magical abilitie
 The Isle of the Kraken was home to merfolk wizard who spent his days experimenting on sea creatures and crafting items from their magical properties.
 
 Armor of the Leatherback Turtle
-: Provides advantage on defense rolls and heals 1 HP at the end of any combat encounter.
+: Provides advantage on defense rolls and heals one moderate injury at the end of any combat encounter.
 
 Seaweed of Speed
 : When consumed, the person who eats this seaweed is able to run twice as fast as they normally could.
@@ -341,6 +322,22 @@ Spark the dragon crafts magical potions brewed into tea.
 - **They've been in a cave system for a few days, and want to brew a healing potion.** Spark is low on the required ingredients, and will need to acquire some first. They roll 2D6 to see if they can scavenge some of the required mushrooms for a nearby tunnel.
 - **They're trying to craft a new potion that lets the drinker breath underwater.** Spark rolls 2D6 to scavenge the required ingredients, and another 2D6 to see if their potion works as expected.
 {{</callout>}}
+
+### Creature Mechanics
+
+Creatures in your world are likely to be quite varied.
+
+Small creatures like rats and goblins might take their final breath after a single moderate injury. A group of them may go down in a single attack. Large creatures like dragons, with tough scales and fire breath, may be virtually invincible.
+
+They may attack in hordes or avoid conflict entirely. They might be friendly or aloof or aggressive. They have special abilities, or nothing but claws and fangs. Be as weird and creative as you want.
+
+### Fight or Flee
+
+It's very unlikely that a creature will fight to the death. 
+
+Most are likely to avoid conflict unless confident they can win, and flee when things look dire. Account for this in your combat.
+
+If the players turn the tide of battle or take out the group's leader, you can choose to have the enemies surrender or flee instead of continuing to fight. If you're unsure, you can always roll to find out what happens.
 
 ### Total Group Knock Out
 
