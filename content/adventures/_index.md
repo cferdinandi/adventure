@@ -4,7 +4,7 @@ date: 2018-01-16T10:05:20-05:00
 draft: false
 ---
 
-Here are adventure starters, set in [the land of Farfaria](/farfaria/).
+A collection of adventure starters, set in [the land of Farfaria](/farfaria/).
 
 - [The Attack on Oakenshire](/adventures/attack-on-oakenshire/)
 - [The Pixie Dust Tree](/adventures/the-pixie-dust-tree/)
@@ -16,7 +16,7 @@ Here are adventure starters, set in [the land of Farfaria](/farfaria/).
 - [New Year's Bell](/adventures/new-years-bell/)
 - [The Tower of Time](/adventures/new-years-tower/)
 
-Want to write your own adventure? There are also some [tips and tricks for creating your own adventures](/gm/#creating-your-own-adventures) on the GM Tips page.
+Want to write your own adventure? There are also some [tips and tricks for creating a living world](/gm/#creating-a-living-world) on the GM Tips page.
 
 ## Third-Party Adventures
 
