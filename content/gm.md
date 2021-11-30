@@ -12,13 +12,13 @@ _You can find a [one-page GM cheatsheet on the downloads page](/downloads)._
 
 
 
-## The Guiding Principle
+## The Guiding Principles
 
-**The narrative is more important than rules and mechanics.**
+There are three core principles to running a game of Adventure.
 
-Stay immersed in the world, and do whatever makes the most sense in the story you're telling together. If the rules get in the way or don't quite fit, ignore them.
-
-You're actively encouraged to modify the rules to fit the game you're trying to play.
+1. **Rulings, not rules.** The narrative is more important than rules and mechanics. If the rules get in the way or don't quite fit, ignore them.
+2. **Portray a fantastic world.** The worlds you explore should be full of awe, wonder, mystery, danger, and humanity.
+3. **Play to find out what happens.** Your stories don't have predetermined endings. Give players meaningful choices that drive the narrative.
 
 
 
@@ -150,11 +150,11 @@ A player is trying to run up to a giant, scale his 20-foot high boot, and hit hi
 3. A third roll to see if the hit with the sword does anything.
 {{</callout>}}
 
-### Make Failure Interesting
+### Fail Forward
 
 Statistically, failed die rolls will happen about a quarter of the time a player rolls. 
 
-Failure should still drive the narrative forward. It's far more interesting that simply saying, "No, that didn't work."
+Failure should still drive the narrative forward. It's far more interesting than simply saying, "No, that didn't work."
 
 {{<callout title="Examples">}}
 - **The player fails to pick the lock on the chest.** It springs a trap, causing the room to lock and start filling with water!
@@ -272,3 +272,12 @@ Games of Adventure can take as little as 30 minutes or last several hours.
 As the Game Master, you have a lot of control over the length and complexity of each game. You can add or remove creatures, reveal or discard secrets, adjust the HP of creatures, and save the day with NPCs.
 
 You can also spread an adventure over several sessions, stopping after an encounter, and picking things back up another time.
+
+
+
+## Additional Resources
+
+- [The Return of the Lazy Dungeon Master](https://slyflourish.com/returnofthelazydm/)
+- [The Lazy DM's Companion](https://slyflourish.com/lazydmscompanion/)
+- [How to Grow as a DM](https://www.youtube.com/watch?v=2DaOJGBMCZc)
+- [Building Living Dungeons](https://www.youtube.com/watch?v=rhZ3q2cSb2U)

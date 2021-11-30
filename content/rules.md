@@ -127,58 +127,35 @@ If the thing the player is trying to do is really easy or impossibly difficult, 
 - **The player punches a thick stone wall, attempting to break it down.** They automatically fail.
 {{</callout>}}
 
-### Combat
+### Rulings, Not Rules
 
-Combat works the same as any other action in Adventure.
+Combat, magic, crafting and tinkering, and pretty much anything else you want to do in Adventure all follow the same core mechanic.
 
-If the player would be able to attack without any chance of being blocked (for example, when they have the element of surprise), the hit lands automatically. 
+- If it's easy, it automatically works.
+- It it's impossibly difficult, it automatically fails.
+- Otherwise, roll to find out what happens.
 
-<p class="margin-bottom-small">Otherwise, roll to see what happens.</p>
+The rules are deliberately minimal. The GM makes rulings based on what makes the most logical sense in the world you've created together.
 
-- **9+:** The hit lands
-- **6-8:** The hit lands, but the player gets hit too or put in a tough spot
+{{<callout title="Examples">}}
 
-{{<callout title="Example">}}
-
-<p class="margin-bottom-small">The knight swings his sword at an ogre...</p>
+<p class="margin-bottom-small"><em>The knight swings his sword at an ogre.</em></p>
 
 - **He snuck up behind the ogre.** The ogre didn't see it coming, and the hit automatically lands.
 - **9+.** The ogre tries to duck, but isn't fast enough. The hit lands.
 - **6-8.** The hit lands, but the sword gets stuck in the ogre's tough hide and is ripped out of the knight's hands.
-{{</callout>}}
 
-### Magic
+<p class="margin-bottom-small"><em>Fin specializes in nature magic.</em></p>
 
-The magic characters can wield should align with their skills, circumstances, and items they have acquired.
-
-Magic is wild and unpredictable. Simple spells can always be cast, but more complex spells require a roll of the dice.
-
-- **9+:** The spell works
-- **6-8:** It also but the draws unwelcome attention or goes out-of-control
-
-{{<callout title="Examples">}}
-<p class="margin-bottom-small">Fin specializes in nature magic.</p>
-
-- **He wants to start a small fire.** This is simple nature magic, and always works.
+- **He tries to start a small fire by snapping his fingers.** This is simple nature magic, and always works.
 - **He tries to tangle an enemy with vines.** He rolls to see what happens.
-- **He tries to conjure a storm.** This is very difficult magic. It requires an hour of time, and he rolls with disadvantage to see if it works.
 - **He tries to teleport.** This isn't nature magic, so it fails automatically.
-- **He acquires a ring of teleportation.** He can use it to teleport, and rolls to see what happens when it uses it.
-{{</callout>}}
 
-### Crafting & Tinkering
-
-Characters may want to craft items, repair damaged equipment, and so on.
-
-If the character could easily do so given their skills and items, they automatically succeed. If skills or circumstances make it difficult or uncertain, roll the dice to find out what happens.
-
-{{<callout title="Examples">}}
-<p class="margin-bottom-small">Spark specializes in brewing magical teas.</p>
+<p class="margin-bottom-small"><em>Spark specializes in brewing magical teas.</em></p>
 
 - **They want to brew a healing potion.** This is their signature tea, and they can easily do so.
 - **They've been exploring a cave for several days.** While they can easily brew a healing potion, they're low on ingredients and need to forage more. Roll to see if they can find them.
 - **They want to create a tea that lets whoever drinks it breath underwater.** This is an experimental tea of their own design. Roll with disadvantage.
-- **They find a recipe for water breathing potion on their travels.** They have all of the required ingredients. Roll to see if it works.
 {{</callout>}}
 
 
