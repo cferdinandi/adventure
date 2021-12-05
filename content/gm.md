@@ -227,6 +227,22 @@ Creatures in your world are likely to be quite varied.
 - **The pirate captain drops unconscious after being hit with a warhammer.** Sensing the shift in the battle, three of his crew take off running down the tunnel. The remaining pirates lay down their swords in surrender.
 {{</callout>}}
 
+### Creature Reactions
+
+Not every creature is going to be immediately hostile (or friendly) to the players. 
+
+You can decide how they'll react based on the context of the world and story, or roll 2D6 and use the reaction table below.
+
+| Roll | Reaction                  |
+|------|---------------------------|
+| 2    | Hostile, attacks          |
+| 3-5  | Unfriendly, may attack    |
+| 6-8  | Neutral, uncertain        |
+| 9-11 | Indifferent, uninterested |
+| 12   | Friendly, helpful         |
+
+_The creature reaction table was inspired by [Old-School Essentials](https://necroticgnome.com/)._
+
 
 
 ## Treasure & Magic Items
