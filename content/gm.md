@@ -16,9 +16,9 @@ _You can find a [one-page GM cheatsheet on the downloads page](/downloads)._
 
 There are three core principles to running a game of Adventure.
 
-1. **Rulings, not rules.** The narrative is more important than rules and mechanics. If the rules get in the way or don't quite fit, ignore them.
-2. **Portray a fantastic world.** The worlds you explore should be full of awe, wonder, mystery, danger, and humanity.
-3. **Play to find out what happens.** Your stories don't have predetermined endings. Give players meaningful choices that drive the narrative.
+1. **Follow the fiction.** The story is more important than the rules and mechanics. Let the fictional world guide what happens when players do things.
+2. **Portray a fantastic world.** Fill the worlds you explore with awe, wonder, mystery, danger, and humanity.
+3. **Play to find out what happens.** Don't give your stories predetermined endings. Give players meaningful choices that drive the narrative.
 
 
 
@@ -26,36 +26,20 @@ There are three core principles to running a game of Adventure.
 
 Start a game of Adventure by describing the fantastic location or tense situation the players find themselves in. Throw them right into the action.
 
-Then, ask them questions about why they’re there, what they know, and how they know it. Use their answers to give the world depth and drive the game forward.
-
-Finally, end with a call-to-action: “What do you do?”
+Then ask, “What do you do?”
 
 {{<callout title="Example: The Isle of the Kraken">}}
-
-<p class="margin-bottom-small"><strong>A Fantastic Location</strong></p>
-
 Once every few years, a tiny island mysteriously rises from the depths of the sea for just a few hours. It never appears in the same place twice. Sometimes, it disappears before anyone’s even taken notice.
 
-In the center of the island is a stone monolith, a small tower with a carving of a kraken at the top. It’s rumored that a powerful wizard who lived there thousands of years ago hid a legendary artifact somewhere on the island.
+In the center of the island is a stone monolith, a small tower with a carving of a kraken at the top. It’s rumored that a powerful wizard who lived there thousands of years ago hid a magical conch shell somewhere on the island.
 
-Many an explorer has ventured to the island searching for it. None have returned. Tonight, the island has surfaced again. You’re in a rowboat, headed in the direction it was allegedly seen. Water laps at the low sides of the boat. Suddenly, you catch sight of it.
+Many an explorer has ventured to the island searching for it. None have returned. Tonight, the island has surfaced again. You’re in a rowboat, headed in the direction it was allegedly seen. Water laps at the low sides of the boat. 
 
-In the distance, you see the monolith, the carving of the kraken lit brightly by the full moon above. How long has the island been at the surface? How much longer until it disappears again?
+Suddenly, you catch sight of it. In the distance, you see the monolith, the carving of the kraken lit brightly by the full moon above.
 
-You row harder...
-
-<p class="margin-bottom-small"><strong>Questions</strong></p>
-
-- How did you learn that the island had resurfaced?
-- What artifact is hidden there? What is it rumored to do?
-- Why are you interested in exploring the island or retrieving the artifact?
-- What do you know of the wizard who used to live there?
-- Who else might be interested in the island or artifact?
-
-<p class="margin-bottom-small"><strong>Call-to-Action</strong></p>
 As you approach the shore, you see a ship moored to a tree, a black flag with two crossed tridents flapping in the gentle breeze. You notice two pirates asleep next to the tree. Foot prints lead into the forest towards the monolith.
 
-What do you do?
+**What do you do?**
 {{</callout>}}
 
 
@@ -69,10 +53,10 @@ Identifying a few aspects of your world ahead of time can make it a lot easier t
 <div class="list-spaced">
 {{%md%}}
 - **Fantastic Locations.** Amazing places that the players can explorer, with a few details and unique features. Imagine a place that's really big, really old, or really weird.
-- **Dangers.** What kind of creatures live there? What sort of natural obstacles might they encounter? What traps might have been set to keep trespassers away?
-- **Secrets.** As players explore the world, they'll uncover secrets and hidden mysteries. Identify a few that you can reveal when it makes sense in the story.
-- **Treasure & Magic Items.** Treasure and magic items can reveal secrets about the world, drive a quest, or give the players new powers and abilities.
-- **Fronts.** The big players and forces in a campaign, these are things that will affect the world and unfold in sequence unless the players intervene. One to three are good for a short campaign, but you can have five or more for a bigger one.
+- **Creatures.** What kind of creatures live there? Do they have any features that are unique to their environment?
+- **Non-Player Characters (NPCs).** Identify a few groups of people who might occupy a location. Are they long-term residents, or just passing through? Do the different groups get along?
+- **Dangers.** What natural obstacles might players might encounter? Are there any traps that were set to keep trespassers away?
+- **Loot.** Treasure, magic items, and mundane objects can reveal secrets about the world, drive a quest, or give the players new powers and abilities.
 {{%/md%}}
 </div>
 
@@ -83,51 +67,35 @@ These are modular, and designed be dropped into the story whenever appropriate.
 <p class="margin-bottom-small"><strong>Locations</strong></p>
 
 - **A mysterious island that emerges from the sea every few years.** A ship moored to a tree, with a black flag featuring two crossed tridents. A tall monolith protruding from the trees. Sleeping pirates and empty rum.
-- **Jellyfish Lake.** A massive cavern with huge subterranean lake. Jellyfish fill the water, glowing blue/purple. A rowboat with no oars waits on the shore.
-- **Tentacle Gate.** Big iron gate, slats woven tentacles. Kraken head at the top, with a gem in one eye, missing in the other. A pile of rocks nearby.
+- **Jellyfish Lake.** A massive cavern with huge subterranean lake. Jellyfish fill the water, glowing blue/purple. A small island with an obelisk in the middle.
+- **Kelp Forest.** Narrow paths carved through tall fronds of kelp. A wet floor with scurrying crabs. A clearing featuring a giant clam a large pearl in its mouth.
 
 <p class="margin-bottom-small"><strong>Creatures</strong></p>
 
-- Crabs
-- Giant Crabs
-- Pirates
-- Pirate captain
-- Lightning Eels
-- Magic Manta Ray
-- Glow Jellyfish
-- Kraken
+- **Jellyfish.** Glow-in-the-dark, long tentacles.
+- **Piranha.** Range in size from small as a goldfish to as large as a shark.
+- **Turtles.** Many species. Some have runes carved into their shells.
+- **Giant Seahorse.** Domesticated. Can be ridden.
+- **Kraken.** Roams the caverns protecting its secrets. Has magical abilities.
 
-<p class="margin-bottom-small"><strong>Treasure & Magic Items</strong></p>
+<p class="margin-bottom-small"><strong>NPCs</strong></p>
+
+- **Pirates.** Seeking the conch. Just visiting. 
+- **Crab Tribe.** Large sentient crabs. Horde treasure, rob from visitors, and fear the kraken (who eats them).
+- **Gnome Cultists.** Worship the turtles, ride seahorses, hate the crabs.
+
+<p class="margin-bottom-small"><strong>Dangers</strong></p>
+
+- **Flood Room.** The floor of the kelp forest is wet, with the occasional fish flopping around. Removing the pearl causes the room to seal and flood.
+- **Acid Bubbles.** Bubbles float up from a pool of water and pop on the ceiling. Where they pop shows signs of corrosion.
+- **Animated Statue.** A statue of a mermaid with opal eyes. A sign that reads, "Do NOT touch." Touching the statues causes it to animate and attack.
+
+<p class="margin-bottom-small"><strong>Loot</strong></p>
 
 - **Seaweed of Speed.** When consumed, the person who eats this seaweed is able to run twice as fast as they normally could.
 - **Armor of the Leatherback Turtle.** Automatically heals one moderate injury at the end of any combat encounter.
-- **Whale Ward.** A wooden necklace carved into the shape of a whale, prevents one fatal injury. Loses all magical properties after being used.
-- **Staff of the Merfolk Shaman.** A staff of fiery red coral, grants its possessor advantage to spell rolls, and access to the following spells: Shell Skin, Wall of Waves, and Coral Growth.
 - **Merrow Trident.** Seems to magically find its mark. User gets advantage on all attack rolls.
-
-<p class="margin-bottom-small"><strong>Secrets</strong></p>
-
-- A kraken guards the islands treasures, and hunts intruders
-- A group of fishfolk cultists worship the kraken and live there
-- One of the pirates is not there of his own will
-- The Pirate Captain wants to use the artifact to destroy one of the characters' home town
-- The artifact was stolen from Pirate Captain’s family (or so he was told)
-- The Island is actually a giant, ancient turtle
-
-<p class="margin-bottom-small"><strong>Fronts</strong></p>
-
-- **Fishfolk Cultists.** Want to harness the powers of the island and expand beyond the fringes.
-	1. Collect and steal magic items, gold, and prisoners
-	2. Reproduce old wizard’s experiments
-	3. Gain control of the kraken and/or island
-- **Pirates.** Reclaim the artifact for their people and exact revenge.
-	1. Locate the artifact
-	2. Figure out how to unlock its power
-	3. Attack the mainland
-- **Turtle Island.** Return to the depths after getting some air.
-	1. Deep bellowing, rushing air, gurgling
-	2. Several rumbles or tremors
-	3. Total collapse, massive earthquake
+- **Random Trinkets.** A leather bag filled with smooth pebbles. A jar of black sand. A buoy with a bite taken out of it.
 {{</callout>}}
 
 
@@ -233,15 +201,57 @@ Not every creature is going to be immediately hostile (or friendly) to the playe
 
 You can decide how they'll react based on the context of the world and story, or roll 2D6 and use the reaction table below.
 
-| Roll | Reaction                  |
-|------|---------------------------|
-| 2    | Hostile, attacks          |
-| 3-5  | Unfriendly, may attack    |
-| 6-8  | Neutral, uncertain        |
-| 9-11 | Indifferent, uninterested |
-| 12   | Friendly, helpful         |
+| 2D6  | Reaction               |
+|------|------------------------|
+| 2-5  | Unfriendly, may attack |
+| 6-11 | Neutral, indifferent   |
+| 12   | Friendly, helpful      |
 
 _The creature reaction table was inspired by [Old-School Essentials](https://necroticgnome.com/)._
+
+
+
+## Creating NPCs
+
+The world players explore probably already has people living in it.
+
+Do these groups of people get along with each other, or are they in conflict? Are they permanent residents, or just passing through? What's their most prized resource?
+
+### NPC Roll Tables
+
+Not every NPC within a group of people is exactly alike. 
+
+You can use the following tables to quickly build-out NPCs: how they react to the players, their personality, and their role in their society.
+
+#### NPC Reactions
+
+| 1D6  | Reaction |
+|------|----------|
+| 1-2  | Negative |
+| 3-4  | Neutral  |
+| 5-6  | Positive |
+
+#### NPC Personality
+
+| 1D6  | Negative | Neutral       | Positive  |
+|------|----------|---------------|-----------|
+| 1    | Sneaky   | Confused      | Ambitious |
+| 2    | Rude     | Suspicious    | Naive     |
+| 3    | Greedy   | Disinterested | Brave     |
+| 4    | Afraid   | Alert         | Regal     |
+| 5    | Angry    | Shy           | Charming  |
+| 6    | Unstable | Distracted    | Outgoing  |
+
+#### NPC Jobs
+
+| 1D6 | Job                 |
+|-----|---------------------|
+| 1   | Farmer or Hunter    |
+| 2   | Warrior             |
+| 3   | Merchant or Artisan |
+| 3   | Entertainer         |
+| 3   | Mage                |
+| 3   | Noble               |
 
 
 
@@ -268,14 +278,23 @@ Ring of Aquatic Beasts
 
 ## Traps & Obstacles
 
-Signal serious dangers to players. Don't surprise them with danger they can't avoid. Put traps in plain sight. 
+Signal serious dangers to players. Don't surprise them with danger they can't avoid. Put traps in plain sight.
 
-**The more dangerous it is, the more obvious it should be.**
+**The more dangerous it is, the more obvious it should be.** Give players opportunities to solve problems and interact with the world. Reward creativity and problem-solving. 
 
-Give players opportunities to solve problems and interact with the world. Reward creativity and problem-solving.
+[This video from Ben Milton is a great primer.](https://www.youtube.com/watch?v=RY_IRqx5dtI)
 
-{{<callout title="How to Build Traps">}}
-<div class="fluid-vids"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RY_IRqx5dtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RY_IRqx5dtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{<callout title="Examples: Isle of the Kraken">}}
+Flood Room
+: The floor of the kelp forest is wet, with the occasional fish flopping around. Heavy gates are visible along all entrances. There are visible holes along the walls or floor. Removing the pearl causes the room to seal and flood. A waterlogged explorer is discovered next to the pearl.
+
+Acid Bubbles
+: Bubbles float up from a pool of water and pop on the ceiling. Where they pop shows signs of corrosion. When they pop, a foul smell is emitted. Getting to the next room requires players to walk across a narrow bridge over the pool.
+
+Animated Statue
+: A statue of a mermaid with opal eyes and a trident. The body of an explorer, with three puncture wounds, found a few feet away. A sign that reads, "Do NOT touch." Touching the statues causes it to animate and attack.
 {{</callout>}}
 
 
