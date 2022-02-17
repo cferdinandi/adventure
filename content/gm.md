@@ -57,6 +57,7 @@ Identifying a few aspects of your world ahead of time can make it a lot easier t
 - **Non-Player Characters (NPCs).** Identify a few groups of people who might occupy a location. Are they long-term residents, or just passing through? Do the different groups get along?
 - **Dangers.** What natural obstacles might players might encounter? Are there any traps that were set to keep trespassers away?
 - **Loot.** Treasure, magic items, and mundane objects can reveal secrets about the world, drive a quest, or give the players new powers and abilities.
+- **Area Effects (_optional_).** Random happenings that might occur in a location. These can bring a sense of whimsy, danger, and life to a fictional world.
 {{%/md%}}
 </div>
 
@@ -96,6 +97,13 @@ These are modular, and designed be dropped into the story whenever appropriate.
 - **Armor of the Leatherback Turtle.** Automatically heals one moderate injury at the end of any combat encounter.
 - **Merrow Trident.** Seems to magically find its mark. User gets advantage on all attack rolls.
 - **Random Trinkets.** A leather bag filled with smooth pebbles. A jar of black sand. A buoy with a bite taken out of it.
+  
+<p class="margin-bottom-small"><strong>Area Effects</strong></p>
+
+- The smell of rotting fish wafts into the room, and lasts for one minute.
+- A nearby body of water bubbles as if boiling, then stops.
+- A group of shellfish begin singing in unison.
+- Two toads hop around the corner, engaged in a ritual battle.
 {{</callout>}}
 
 
@@ -179,7 +187,56 @@ Last Breath
 
 
 
-## Creating Creatures
+## Using Maps
+
+You can play Adventure entirely in your imagination, but a map can also help make the world feel more real for some players.
+
+Dyson Logos is a fantasy cartographer who has released [over a thousand free maps for commercial use](http://www.dysonlogos.com/) on his website. 
+
+**I often pick 1-3 maps from Dyson Logos' site, and write down 1-3 unique features of each room or place on the map.** 
+
+Sometimes I show players a blank version of the map. Other times, I'll sketch the map live on a [Paizo Flip Mat](https://www.amazon.com/Flip-Mat-Basic-Revised-Edition-SW/dp/B07VNHJWM4/). And sometimes, I skip the map altogether and we just use our imagination.
+
+Maps (and your descriptions of each room) don't need to be really detailed. In fact, it often takes away from the game if they're too detailed or realistic. They're a tool to spark your imagination while playing. 
+
+
+
+## Random Tables
+
+One of the most important tools I use in my games is random tables.
+
+The fantastic worlds you create are living, breathing places. Creatures wander around. Items are found, hidden, and lost. Strange and magical things happen.
+
+Random tables can help you generate ideas and surprises as you play.
+
+### Encounter Table
+
+The single most important random table I use is the _Encounter Table_. I roll 2D6 any time players enter a new area to determine what will happen.
+
+| 2D6  | Encounter                  |
+|------|----------------------------|
+| 2-3  | Nothing                    |
+| 4    | Two creature types or NPCs |
+| 5-6  | Creature                   |
+| 7-8  | Area Effect                |
+| 9-11 | NPC                        |
+| 12   | Creature & NPC             |
+
+### Creating Random Tables
+
+I use random tables to determine the loot players find, the creatures that are in an area, NPCs that show up, and area effects that occur.
+
+The amount of options to choose from for any one of these can vary wildly, though, so I use different types of tables depending on the number of choices there are.
+
+- **1D6.** For 6 or fewer options. You can also use this for two or three choices by using roll ranges: 1-3 and 4-6, or 1-2, 3-4, and 5-6.
+- **1D6, then 1D6 again.** For 12 to 18 options. Split your options into groups of six. Roll 1D6 for the group, then 1D6 for the option in that group.
+- **D66.** Gives you 36 options. Roll 2D6 to get a two-digit number (don't add them together). For example, a 2 and 4 would be 24 (or 42).
+- **1D6, then D66.** For more than 36  options. Create two or more groups of 36. Roll 1D6 for the group, then D66 for the option in that group.
+- **2D6.** When some options should happen more often. This results in a [probability bell curve](https://www.thedarkfortress.co.uk/tech_reports/2_dice_rolls.php), with rolls of 6-9 happening most frequently.
+
+
+
+## Creatures
 
 Creatures in your world are likely to be quite varied.
 
@@ -211,7 +268,7 @@ _The creature reaction table was inspired by [Old-School Essentials](https://nec
 
 
 
-## Creating NPCs
+## Non-Player Characters (NPCs)
 
 The world players explore probably already has people living in it.
 
@@ -223,45 +280,41 @@ Not every NPC within a group of people is exactly alike.
 
 You can use the following tables to quickly build-out NPCs: how they react to the players, their personality, and their role in their society.
 
-#### NPC Reactions
-
-| 1D6  | Reaction |
-|------|----------|
-| 1-2  | Negative |
-| 3-4  | Neutral  |
-| 5-6  | Positive |
-
 #### NPC Personality
 
-| 1D6  | Negative | Neutral       | Positive  |
-|------|----------|---------------|-----------|
-| 1    | Sneaky   | Confused      | Ambitious |
-| 2    | Rude     | Suspicious    | Naive     |
-| 3    | Greedy   | Disinterested | Brave     |
-| 4    | Afraid   | Alert         | Regal     |
-| 5    | Angry    | Shy           | Charming  |
-| 6    | Unstable | Distracted    | Outgoing  |
+_Roll 1D6 to get a basic reaction, then roll again to add more detail to their personality._
+
+| 1D6  | Negative (1-2) | Neutral (3-4) | Positive (5-6) |
+|------|----------------|---------------|----------------|
+| 1    | Sneaky         | Confused      | Ambitious      |
+| 2    | Rude           | Suspicious    | Naive          |
+| 3    | Greedy         | Disinterested | Brave          |
+| 4    | Afraid         | Alert         | Regal          |
+| 5    | Angry          | Shy           | Charming       |
+| 6    | Unstable       | Distracted    | Outgoing       |
 
 #### NPC Jobs
 
 | 1D6 | Job                 |
 |-----|---------------------|
 | 1   | Farmer or Hunter    |
-| 2   | Warrior             |
-| 3   | Merchant or Artisan |
+| 2   | Merchant or Artisan |
 | 3   | Entertainer         |
-| 3   | Mage                |
-| 3   | Noble               |
+| 4   | Warrior             |
+| 5   | Mage                |
+| 6   | Noble               |
 
 
 
-## Treasure & Magic Items
+## Loot
 
 One of the most exciting parts of exploring fantastic locations is finding treasure and magic items that grant characters new abilities.
 
 The most meaningful items are tied to the locations where they're found, and provide some kind of minor benefit or magical effect. What's the story behind them? How do they thematically tie into your world?
 
-{{<callout title="Examples">}}
+_**Note:** not every item has to be magical, valuable, or powerful. Random junk can be just as fun, and players will often use it unexpected ways._
+
+{{<callout title="Examples: Isle of the Kraken">}}
 The Isle of the Kraken was home to merfolk wizard who spent his days experimenting on sea creatures and crafting items from their magical properties.
 
 Armor of the Leatherback Turtle
@@ -272,6 +325,26 @@ Seaweed of Speed
 
 Ring of Aquatic Beasts
 : A ring made of abalone. The wearer rubs ring and names an aquatic animal. On a successful roll, they acquire 1-2 traits from that animal.
+
+Random Junk
+: A bag of sand. A gem that glows in the water. A singing shellfish. A crocodile tooth necklace. A bag filled with snail shells.
+{{</callout>}}
+
+
+
+## Area Effects
+
+Area effects are random happenings that might occur in a location. These can bring a sense of whimsy, danger, and life to a fictional world.
+
+I try to make them relevant to the location itself, the story and history of the world, and the types of creatures and NPCs that live there.
+
+{{<callout title="Examples: Isle of the Kraken">}}
+- The smell of rotting fish wafts into the room, and lasts for one minute.
+- A nearby body of water bubbles as if boiling, then stops.
+- A group of shellfish begin singing in unison.
+- Two toads hop around the corner, engaged in a ritual battle.
+- A strange aura passes over the room. Seawood begins growing anywhere visible hair does.
+- A rat on a leash wanders through the room, with no owner in site.
 {{</callout>}}
 
 
@@ -307,6 +380,18 @@ Games of Adventure can take as little as 30 minutes or last several hours.
 As the Game Master, you have a lot of control over the length and complexity of each game. You can add or remove creatures, reveal or discard secrets, adjust the HP of creatures, and save the day with NPCs.
 
 You can also spread an adventure over several sessions, stopping after an encounter, and picking things back up another time.
+
+
+
+## Playing Online
+
+With a global pandemic, a lot of RPG games have moved online. 
+
+There are a lot of tools to help facilitate this, but my personal favorite combination is is [Owlbear Rodeo](https://www.owlbear.rodeo/) and Zoom or Google Meet. I let players roll their own physical dice instead of trying to do something digital.
+
+[Nate from WASD20 has a great video on how to use Owlbear Rodeo.](https://www.youtube.com/watch?v=OE_o8bpWQA0)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OE_o8bpWQA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
