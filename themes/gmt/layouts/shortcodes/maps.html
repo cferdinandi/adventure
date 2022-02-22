@@ -6,7 +6,5 @@
 {{- end -}}
 
 {{- if .Get "credit" -}}
-<p class="padding-top-large">
-	<em>Maps by {{ .Get "credit" | markdownify }}.</em>
-</p>
+<p><em>Maps by {{ .Get "credit" | markdownify }}.</em></p>
 {{- end -}}
