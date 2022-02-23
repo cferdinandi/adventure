@@ -16,4 +16,4 @@ As you approach the shore, you see a ship moored to a tree, a black flag with tw
 
 What do you do?
 
-{{<maps guide="isle-of-the-kraken.pdf" maps="isle-of-the-kraken_maps.zip" credit="[Dyson Logos](http://www.dysonlogos.com/)">}}
+{{<maps guide="isle-of-the-kraken.pdf" maps="isle-of-the-kraken_maps.zip" credit="[Dyson Logos](http://www.dysonlogos.com/) and [Daniel's Maps](https://www.patreon.com/posts/58725746)">}}
