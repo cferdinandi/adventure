@@ -46,25 +46,23 @@ The most important phrase in Adventure is, "What do you do?"
 
 Each player creates a character to represent them on their adventures (this is what makes Adventure an RPG, or _role-playing game_).
 
-<div class="list-spaced-small">
-{{%md%}}
-- **Name & Description.** You can be anyone you want to be in adventure: an elf wizard, a fairy alchemist, a birdfolk knight. Be anything you want.
-- **Skills & Abilities.** What makes your character unique? Can they breath fire or fly? Are they experts at elemental magic or illusions? Are they a skilled archer?
-- **Stuff.** Each character starts the game with rope, water, food, a few coins, one healing potion, weapons, and a personal item with a story behind it.
-{{%/md%}}
-</div>
+- A name and type of creature (ex. human, elf, and so on).
+- A background job, skill set, organization, or cultural group identity.
+- Some special ability, magical power, or special item unique to your character.
+- One positive and one negative trait.
+- About six pieces of relevant equipment.
 
 The [downloads section](/downloads) includes premade characters if you need examples or want to start playing immediately.
 
 {{<callout title="Examples">}}
 Fin
-: An elf who specializes in nature magic and can talk to animals. His staff is made form a birch tree and changes with the seasons (_ex. flowers in the spring_).
+: A elf doctor who specializes in nature magic. His staff is made from a birch tree and changes with the seasons (_ex. flowers in the spring_). He carries a pouch with some medicine, a ring of healing, some torches, a bottle of water that never seems to run out, and a small pet bird name Linus. He's compelled to help others, even if that means rushing into danger himself.
 
 Flower
-: A fairy knight who can fly and wields a battleaxe made from an enchanted sunflower. She protects her village from the forces of evil.
+: A fairy knight who can fly and wields a battleaxe made from an enchanted sunflower. Her small size means her strikes don't do much damage, but she makes up for it with creativity and gumption. She wears armor made of bark, a carries a small dagger made from the thorn of a rosebush.
 
 Spark
-: A dragon chemist, Spark creates potions that give magical properties to whoever drinks them. They want to open a medicinal tea shop.
+: A dragon chemist, Spark creates potions that give magical properties to whoever drinks them. They want to open a medicinal tea shop, but need to procure a wide range of herbs before they can do so. They wander the countryside with a field guide to magical plants, a portable tea kettle, and an herbalist kit for collecting numerous plant specimens. They're always happy, but also a bit aloof.
 {{</callout>}}
 
 

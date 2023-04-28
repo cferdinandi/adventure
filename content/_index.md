@@ -14,4 +14,4 @@ Explore the forest, battle pirates and ogres, and rescue a wizard trapped in a c
 
 <a class="btn btn-large" href="/rules">Learn how to play &rarr;</a>
 
-*This game is perfect for ages three and up. You can adjust the complexity and game mechanics as needed.*
+*This game is perfect for ages three and up. You can adjust the complexity as needed.*
