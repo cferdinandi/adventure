@@ -46,7 +46,7 @@ As you approach the shore, you see a ship moored to a tree, a black flag with tw
 
 ## Creating a Fantastic World
 
-As a GM, you want create a fantastic world for the players to explore.
+As a GM, you want create a fantastic and living world for the players to explore.
 
 Identifying a few aspects of your world ahead of time can make it a lot easier to improvise, respond to what your players do, and breathe life into your world.
 
@@ -187,20 +187,6 @@ Last Breath
 
 
 
-## Using Maps
-
-You can play Adventure entirely in your imagination, but a map can also help make the world feel more real for some players.
-
-Dyson Logos is a fantasy cartographer who has released [over a thousand free maps for commercial use](http://www.dysonlogos.com/) on his website. 
-
-**I often pick 1-3 maps from Dyson Logos' site, and write down 1-3 unique features of each room or place on the map.** 
-
-Sometimes I show players a blank version of the map. Other times, I'll sketch the map live on a [Paizo Flip Mat](https://www.amazon.com/Flip-Mat-Basic-Revised-Edition-SW/dp/B07VNHJWM4/). And sometimes, I skip the map altogether and we just use our imagination.
-
-Maps (and your descriptions of each room) don't need to be really detailed. In fact, it often takes away from the game if they're too detailed or realistic. They're a tool to spark your imagination while playing. 
-
-
-
 ## Random Tables
 
 One of the most important tools I use in my games is random tables.
@@ -211,20 +197,19 @@ Random tables can help you generate ideas and surprises as you play.
 
 ### Encounter Table
 
-The single most important random table I use is the _Encounter Table_. I roll 2D6 any time players enter a new area to determine what will happen.
+The single most important random table I use is the _Encounter Table_. I roll 1D6 any time players enter a new area to determine what will happen.
 
-| 2D6  | Encounter                  |
-|------|----------------------------|
-| 2-3  | Nothing                    |
-| 4    | Two creature types or NPCs |
-| 5-6  | Creature                   |
-| 7-8  | Area Effect                |
-| 9-11 | NPC                        |
-| 12   | Creature & NPC             |
+| 1D6 | Encounter                  |
+|-----|----------------------------|
+| 1-2 | Nothing                    |
+| 3   | Creature/NPC               |
+| 4   | Two Creatures/NPCs         |
+| 5   | Area Effect                |
+| 6   | Creature/NPC & Area Effect |
 
 ### Creating Random Tables
 
-I use random tables to determine the loot players find, the creatures that are in an area, NPCs that show up, and area effects that occur.
+I use random tables to determine the loot players find, the creatures and NPCs that are in an area, and area effects that occur.
 
 The amount of options to choose from for any one of these can vary wildly, though, so I use different types of tables depending on the number of choices there are.
 
@@ -236,12 +221,13 @@ The amount of options to choose from for any one of these can vary wildly, thoug
 
 
 
-## Creatures
+## Creatures & Non-Player Characters
 
-Creatures in your world are likely to be quite varied.
+Creatures and NPCs in your world are likely to be quite varied.
 
 - They may be friendly allies to the party, enemies, or weird and wondrous creatures.
-- Their health rules probably differ from player characters (they might be weaker, stronger, or virtual invincible).
+- They may be natural friends or enemies with other creatures or NPCs in the area.
+- Their health rules probably differ from player characters (they might be weaker, stronger, or virtually invincible).
 - Focus on the narrative, and what makes sense in the world you're building.
 - Most creatures will flee a fight if they think they're going to lose.
 
@@ -252,57 +238,30 @@ Creatures in your world are likely to be quite varied.
 - **The pirate captain drops unconscious after being hit with a warhammer.** Sensing the shift in the battle, three of his crew take off running down the tunnel. The remaining pirates lay down their swords in surrender.
 {{</callout>}}
 
-### Creature Reactions
+### Creature & NPC Tables
 
-Not every creature is going to be immediately hostile (or friendly) to the players. 
+When a creature or NPC encounter occurs, I like to use a Creature & NPC table [recommended by Baron de Ropp from Dungeon Masterpiece](https://www.youtube.com/watch?v=ckhhodyCSMU).
 
-You can decide how they'll react based on the context of the world and story, or roll 2D6 and use the reaction table below.
+1. Pick six creatures or NPCs likely to exist in that region. 
+2. For each one, identify a likely behavior and complication.
+3. Put them in a table.
 
-| 2D6  | Reaction               |
-|------|------------------------|
-| 2-5  | Unfriendly, may attack |
-| 6-11 | Neutral, indifferent   |
-| 12   | Friendly, helpful      |
+You can either roll once and go with the defaults, or roll three times and mix-and-match behaviors and complications in interesting ways.
 
-_The creature reaction table was inspired by [Old-School Essentials](https://necroticgnome.com/)._
+{{<callout title="Example: Isle of the Kraken">}}
+| 1D6  | Creature/NPC    | Behavior        | Complication  |
+|------|-----------------|-----------------|---------------|
+| 1    | Animated Statue | Alert           | Injured       |
+| 2    | Turtles         | Grazing         | Sick Young    |
+| 3    | Giant Jellyfish | Asleep          | Lost          |
+| 4    | Gnome Cultists  | Healing Turtles | Broken Tools  |
+| 5    | Crab Tribe      | Patrolling      | Understaffed  |
+| 6    | Pirates         | Delving         | Angry at Boss |
 
+If you rolled a 4, you could have _Gnome Cultists_ who are _healing turtles_ but have _broken tools_. 
 
-
-## Non-Player Characters (NPCs)
-
-The world players explore probably already has people living in it.
-
-Do these groups of people get along with each other, or are they in conflict? Are they permanent residents, or just passing through? What's their most prized resource?
-
-### NPC Roll Tables
-
-Not every NPC within a group of people is exactly alike. 
-
-You can use the following tables to quickly build-out NPCs: how they react to the players, their personality, and their role in their society.
-
-#### NPC Personality
-
-_Roll 1D6 to get a basic reaction, then roll again to add more detail to their personality._
-
-| 1D6  | Negative (1-2) | Neutral (3-4) | Positive (5-6) |
-|------|----------------|---------------|----------------|
-| 1    | Sneaky         | Confused      | Ambitious      |
-| 2    | Rude           | Suspicious    | Naive          |
-| 3    | Greedy         | Disinterested | Brave          |
-| 4    | Afraid         | Alert         | Regal          |
-| 5    | Angry          | Shy           | Charming       |
-| 6    | Unstable       | Distracted    | Outgoing       |
-
-#### NPC Jobs
-
-| 1D6 | Job                 |
-|-----|---------------------|
-| 1   | Farmer or Hunter    |
-| 2   | Merchant or Artisan |
-| 3   | Entertainer         |
-| 4   | Warrior             |
-| 5   | Mage                |
-| 6   | Noble               |
+Or you could roll again. Let's say you rolled a 1 and a 3. Now they're on _alert_ (maybe there's been many crabs in the area), and find themselves _lost_.
+{{</callout>}}
 
 
 
@@ -369,6 +328,20 @@ Acid Bubbles
 Animated Statue
 : A statue of a mermaid with opal eyes and a trident. The body of an explorer, with three puncture wounds, found a few feet away. A sign that reads, "Do NOT touch." Touching the statues causes it to animate and attack.
 {{</callout>}}
+
+
+
+## Using Maps
+
+You can play Adventure entirely in your imagination, but a map can also help make the world feel more real for some players.
+
+Dyson Logos is a fantasy cartographer who has released [over a thousand free maps for commercial use](http://www.dysonlogos.com/) on his website. 
+
+**I often pick 1-3 maps from Dyson Logos' site, and write down 1-3 unique features of each room or place on the map.** 
+
+Sometimes I show players a blank version of the map. Other times, I'll sketch the map live on a [Paizo Flip Mat](https://www.amazon.com/Flip-Mat-Basic-Revised-Edition-SW/dp/B07VNHJWM4/). And sometimes, I skip the map altogether and we just use our imagination.
+
+Maps (and your descriptions of each room) don't need to be really detailed. In fact, it often takes away from the game if they're too detailed or realistic. They're a tool to spark your imagination while playing. 
 
 
 
