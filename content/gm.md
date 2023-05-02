@@ -199,13 +199,15 @@ Random tables can help you generate ideas and surprises as you play.
 
 The single most important random table I use is the _Encounter Table_. I roll 1D6 any time players enter a new area to determine what will happen.
 
+In very dangerous areas (like deep into a dungeon), I add +1 to the roll. In safe areas (like a town or village), I subtract -1 from the roll and treat 0 as a 1.
+
 | 1D6 | Encounter                  |
 |-----|----------------------------|
 | 1-2 | Nothing                    |
-| 3   | Creature/NPC               |
-| 4   | Two Creatures/NPCs         |
+| 3-4 | Evidence of Creature/NPC   |
 | 5   | Area Effect                |
-| 6   | Creature/NPC & Area Effect |
+| 6   | Creature/NPC               |
+| 7   | Creature/NPC + Roll Again  |
 
 ### Creating Random Tables
 
@@ -270,6 +272,8 @@ Or you could roll again. Let's say you rolled a 1 and a 3. Now they're on _alert
 One of the most exciting parts of exploring fantastic locations is finding treasure and magic items that grant characters new abilities.
 
 The most meaningful items are tied to the locations where they're found, and provide some kind of minor benefit or magical effect. What's the story behind them? How do they thematically tie into your world?
+
+Players can actively search for loot while exploring, receive it as a gift or reward from an NPC, or buy it or barter for it.
 
 _**Note:** not every item has to be magical, valuable, or powerful. Random junk can be just as fun, and players will often use it unexpected ways._
 
@@ -341,8 +345,7 @@ Dyson Logos is a fantasy cartographer who has released [over a thousand free map
 
 Sometimes I show players a blank version of the map. Other times, I'll sketch the map live on a [Paizo Flip Mat](https://www.amazon.com/Flip-Mat-Basic-Revised-Edition-SW/dp/B07VNHJWM4/). And sometimes, I skip the map altogether and we just use our imagination.
 
-Maps (and your descriptions of each room) don't need to be really detailed. In fact, it often takes away from the game if they're too detailed or realistic. They're a tool to spark your imagination while playing. 
-
+Maps (and your descriptions of each room) don't need to be really detailed. In fact, it often takes away from the game if they're too detailed or realistic. They're a tool to spark your imagination while playing.
 
 
 
@@ -365,6 +368,19 @@ There are a lot of tools to help facilitate this, but my personal favorite combi
 [Nate from WASD20 has a great video on how to use Owlbear Rodeo.](https://www.youtube.com/watch?v=OE_o8bpWQA0)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OE_o8bpWQA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+## Inspiration
+
+Pull ideas or whole worlds from your favorite books, shows, and movies!
+
+You might explore the post-apocalyptic world of _Kipo and the Age of the Wonderbeasts_, travel through space as your favorite _Star Wars_ or _Star Trek_ character, or explore the tiny world from the perspective of small mammals like mice or bunnies. 
+
+Want a ready-made world to explore? You can use the Adventure rule system with other RPGs. Here are some I recommend.
+
+- [Old School Essentials Adventures](https://necroticgnome.com/collections/adventures)
+- [Neverland](https://publishing.andrewsmcmeel.com/book/neverland-a-fantasy-role-playing-setting/)
 
 
 
