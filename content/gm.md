@@ -106,6 +106,18 @@ These are modular, and designed be dropped into the story whenever appropriate.
 - Two toads hop around the corner, engaged in a ritual battle.
 {{</callout>}}
 
+### World-Building Inspiration
+
+Pull ideas or whole worlds from your favorite books, shows, and movies!
+
+You might explore the post-apocalyptic world of _Kipo and the Age of the Wonderbeasts_, travel through space as your favorite _Star Wars_ or _Star Trek_ character, or explore the tiny world from the perspective of small mammals like mice or bunnies. 
+
+Want a ready-made world to explore? You can use the Adventure rule system with other RPGs. Here are some I recommend.
+
+- [Old School Essentials Adventures](https://necroticgnome.com/collections/adventures)
+- [Neverland](https://publishing.andrewsmcmeel.com/book/neverland-a-fantasy-role-playing-setting/)
+- [Mausritter](https://mausritter.com/)
+
 
 
 ## Story & Mechanics
@@ -139,7 +151,9 @@ Failure should still drive the narrative forward. It's far more interesting than
 
 ### Common Actions & Outcomes
 
-There are a handful of types of player actions that happen frequently in adventure. Here are some ideas for improvising outcomes for them.
+There are a handful of types of player actions that happen frequently in Adventure. Here are some ideas for improvising outcomes for them.
+
+_**Remember:** these are guidelines, not rules!_
 
 Cast Spells
 : When casting a difficult or powerful spell...
@@ -199,11 +213,11 @@ Random tables can help you generate ideas and surprises as you play.
 
 The single most important random table I use is the _Encounter Table_. I roll 1D6 any time players enter a new area to determine what will happen.
 
-In very dangerous areas (like deep into a dungeon), I add +1 to the roll. In safe areas (like a town or village), I subtract -1 from the roll and treat 0 as a 1.
+In very dangerous areas (like deep into a dungeon), I add +1 to the roll. In safe areas (like a town or village), I subtract -1 from the roll.
 
 | 1D6 | Encounter                  |
 |-----|----------------------------|
-| 1-2 | Nothing                    |
+| 0-2 | Nothing                    |
 | 3-4 | Evidence of Creature/NPC   |
 | 5   | Area Effect                |
 | 6   | Creature/NPC               |
@@ -249,6 +263,8 @@ When a creature or NPC encounter occurs, I like to use a Creature & NPC table [r
 3. Put them in a table.
 
 You can either roll once and go with the defaults, or roll three times and mix-and-match behaviors and complications in interesting ways.
+
+_**Note:** if you need help coming up with creatures for a particular area or environment, [this random generator from Goblinist](https://tools.goblinist.com/5enc) can help spark some ideas._
 
 {{<callout title="Example: Isle of the Kraken">}}
 | 1D6  | Creature/NPC    | Behavior        | Complication  |
@@ -368,19 +384,6 @@ There are a lot of tools to help facilitate this, but my personal favorite combi
 [Nate from WASD20 has a great video on how to use Owlbear Rodeo.](https://www.youtube.com/watch?v=OE_o8bpWQA0)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OE_o8bpWQA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-## Inspiration
-
-Pull ideas or whole worlds from your favorite books, shows, and movies!
-
-You might explore the post-apocalyptic world of _Kipo and the Age of the Wonderbeasts_, travel through space as your favorite _Star Wars_ or _Star Trek_ character, or explore the tiny world from the perspective of small mammals like mice or bunnies. 
-
-Want a ready-made world to explore? You can use the Adventure rule system with other RPGs. Here are some I recommend.
-
-- [Old School Essentials Adventures](https://necroticgnome.com/collections/adventures)
-- [Neverland](https://publishing.andrewsmcmeel.com/book/neverland-a-fantasy-role-playing-setting/)
 
 
 

@@ -7,6 +7,7 @@ draft: false
 Adventure draws inspiration from various other RPG systems.
 
 - [Primeval 2D6](https://jamiltron.itch.io/primeval-2d6)
+- [Just Halberds](https://alexschroeder.ch/wiki/Just_Halberds)
 - [Dungeon World](https://dungeon-world.com/)
 - [Simple World](https://buriedwithoutceremony.com/simple-world)
 - [Five Torches Deep](https://www.fivetorchesdeep.com/)
