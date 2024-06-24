@@ -87,6 +87,26 @@ Any time you want to add chance to the outcome of a player action, the GM can as
 - On an 5 or less, the noble knows they're lying, and has them arrested.
 {{</callout>}}
 
+
+### Alternative Dice: 2D6 Opposed
+
+If you dislike comparing dice rolls against a table, the GM _also_ enjoys rolling dice, or you just want more narrative variety, you can use an _opposed dice roll_ system instead.
+
+**Both the player and GM roll 2D6.**
+
+Player rolls of 3+ above the GM roll are a success. Player rolls that meet or beat the GM roll are a partial success.
+
+{{<callout title="Examples">}}
+
+<p class="margin-bottom-small"><strong>The player is trying to convince a wealthy noble that they're a distant relative.</strong> The noble is skeptical.</p>
+
+<p>Both the player and GM roll 2D6. The GM rolls a 4.</p>
+
+- On 7 or higher, the noble is convinced, offering them a room in their palace and a feast in their honor.
+- On a 4 to 6, the noble reluctantly believes them, but secretly sends someone to look into their background.
+- On an 3 or less, the noble knows they're lying, and has them arrested.
+{{</callout>}}
+
 ### Advantage & Disadvantage
 
 Items, skills, and special circumstances may give the player an _advantage_ or _disadvantage_ in attempting to complete a task.
