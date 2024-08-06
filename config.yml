@@ -15,7 +15,6 @@ params:
     - grid.css
     - typography.css
     - code.css
-    - chroma.css
     - buttons.css
     - forms.css
     - form-validation.css
