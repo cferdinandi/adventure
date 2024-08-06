@@ -30,10 +30,13 @@
 		<link rel="feed" type="application/rss+xml" title="{{ .Site.Title }} RSS Feed" href="{{ $.Site.Params.rssURL }}">
 		{{ end }}
 
-		<!-- Stylesheet -->
+		<!-- Modular CSS -->
 		<style type="text/css">
-			{{ readFile "/themes/gmt/static/css/fonts.css" | safeCSS }}
-			{{ if eq $.Site.Params.minify true }}{{ readFile "/themes/gmt/static/css/main.min.css" | safeCSS }}{{ else }}{{ readFile "/themes/gmt/static/css/main.css" | safeCSS }}{{ end }}
+			{{- range $css := $.Site.Params.css }}
+			{{- if fileExists (printf "/themes/gmt/static/css/%s" $css) -}}
+				{{ readFile (printf "/themes/gmt/static/css/%s" $css) | safeCSS }}
+			{{- end -}}
+			{{ end -}}
 			.text-uppercase {
 				text-transform: uppercase;
 			}
