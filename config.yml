@@ -7,7 +7,6 @@ params:
   rssURL: ""
   rssLimit: 8
   version: 11th
-  minify: true
   css:
     - fonts.css
     - _config.css
@@ -38,9 +37,6 @@ languageCode: "en-us"
 
 # Site title
 title: "Adventure"
-
-# theme to use (located by default in /themes/THEMENAME/)
-theme: "gmt"
 
 # Permalinks
 # See "content-management/permalinks"
