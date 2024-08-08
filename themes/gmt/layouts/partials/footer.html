@@ -9,9 +9,9 @@
 		</footer>
 
 		<script>
-			{{ if eq $.Site.Params.minify true }}{{ readFile "/themes/gmt/static/js/tableOfContents.min.js" | safeJS }}{{ else }}{{ readFile "/themes/gmt/static/js/tableOfContents.js" | safeJS }}{{ end }}
-			{{ if eq $.Site.Params.minify true }}{{ readFile "/themes/gmt/static/js/swInit.min.js" | safeJS }}{{ else }}{{ readFile "/themes/gmt/static/js/swInit.js" | safeJS }}{{ end }}
-			{{- if eq .Type "adventures" -}}{{ if eq $.Site.Params.minify true }}{{ readFile "/themes/gmt/static/js/print.min.js" | safeJS }}{{ else }}{{ readFile "/themes/gmt/static/js/print.js" | safeJS }}{{ end }}{{- end -}}
+			{{ readFile "/themes/gmt/static/js/tableOfContents.js" | safeJS }}
+			{{ readFile "/themes/gmt/static/js/swInit.js" | safeJS }}
+			{{ readFile "/themes/gmt/static/js/print.js" | safeJS }}
 		</script>
 	</body>
 </html>
