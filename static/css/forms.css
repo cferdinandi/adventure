@@ -88,6 +88,10 @@ textarea:focus {
 	border-color: rgba(82, 168, 236, 0.8);
 }
 
+input[readonly] {
+	background-color: var(--color-gray-light);
+}
+
 /**
  * Inline inputs
  */
