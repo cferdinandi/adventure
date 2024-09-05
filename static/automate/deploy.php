@@ -10,67 +10,44 @@
 
 	// Variables
 	$secret = getenv('GH_DEPLOY_SECRET');
-	$repo_dir = '/var/www/adventure/build';
-	$web_root_dir = '/var/www/adventure/public';
-	$rendered_dir = '/public';
-	$hugo_path = 'hugo';
+	$app = 'adventure';
 	$branch = 'master';
 
 	// Validate hook secret
-	if ($secret !== NULL) {
+	// if ($secret !== NULL) {
 
-		// Get signature
-		$hub_signature = $_SERVER['HTTP_X_HUB_SIGNATURE'];
+	// 	// Get signature
+	// 	$hub_signature = $_SERVER['HTTP_X_HUB_SIGNATURE'];
 
-		// Make sure signature is provided
-		if (!isset($hub_signature)) {
-			file_put_contents('deploy.log', date('m/d/Y h:i:s a') . ' Error: HTTP header "X-Hub-Signature" is missing.' . "\n", FILE_APPEND);
-			die('HTTP header "X-Hub-Signature" is missing.');
-		} elseif (!extension_loaded('hash')) {
-			file_put_contents('deploy.log', date('m/d/Y h:i:s a') . ' Error: Missing "hash" extension to check the secret code validity.' . "\n", FILE_APPEND);
-			die('Missing "hash" extension to check the secret code validity.');
-		}
+	// 	// Make sure signature is provided
+	// 	if (!isset($hub_signature)) {
+	// 		file_put_contents('deploy.log', date('m/d/Y h:i:s a') . ' Error: HTTP header "X-Hub-Signature" is missing.' . "\n", FILE_APPEND);
+	// 		die('HTTP header "X-Hub-Signature" is missing.');
+	// 	} elseif (!extension_loaded('hash')) {
+	// 		file_put_contents('deploy.log', date('m/d/Y h:i:s a') . ' Error: Missing "hash" extension to check the secret code validity.' . "\n", FILE_APPEND);
+	// 		die('Missing "hash" extension to check the secret code validity.');
+	// 	}
 
-		// Split signature into algorithm and hash
-		list($algo, $hash) = explode('=', $hub_signature, 2);
+	// 	// Split signature into algorithm and hash
+	// 	list($algo, $hash) = explode('=', $hub_signature, 2);
 
-		// Get payload
-		$payload = file_get_contents('php://input');
+	// 	// Get payload
+	// 	$payload = file_get_contents('php://input');
 
-		// Calculate hash based on payload and the secret
-		$payload_hash = hash_hmac($algo, $payload, $secret);
+	// 	// Calculate hash based on payload and the secret
+	// 	$payload_hash = hash_hmac($algo, $payload, $secret);
 
-		// Check if hashes are equivalent
-		if (!hash_equals($hash, $payload_hash)) {
-		    // Kill the script or do something else here.
-		    file_put_contents('deploy.log', date('m/d/Y h:i:s a') . ' Error: Bad Secret' . "\n", FILE_APPEND);
-		    die('Bad secret');
-		}
+	// 	// Check if hashes are equivalent
+	// 	if (!hash_equals($hash, $payload_hash)) {
+	// 		// Kill the script or do something else here.
+	// 		die('Bad secret');
+	// 	}
 
-	};
+	// };
 
-	// Parse data from GitHub hook payload
-	$data = json_decode($_POST['payload']);
 
-	$commit_message;
-	if (empty($data->commits)){
-		// When merging and pushing to GitHub, the commits array will be empty.
-		// In this case there is no way to know what branch was pushed to, so we will do an update.
-		$commit_message .= 'true';
-	} else {
-		foreach ($data->commits as $commit) {
-			$commit_message .= $commit->message;
-		}
-	}
+	// Do a git checkout, run Hugo, and copy files to public directory
+	exec('cd /var/www/' . $app . '/build && git fetch --all && git reset --hard origin/' . $branch . ' && hugo');
+	exec('cd /var/www/' . $app . ' && cp -r /var/www/' . $app . '/build/public/. /var/www/' . $app . '/public && rm -r /var/www/' . $app . '/build/public');
 
-	if (!empty($commit_message)) {
-
-		// Do a git checkout, run Hugo, and copy files to public directory
-		exec('cd ' . $repo_dir . ' && git fetch --all && git reset --hard origin/' . $branch);
-		exec('cd ' . $repo_dir . ' && ' . $hugo_path);
-		exec('cd ' . $repo_dir . ' && cp -r ' . $repo_dir . $rendered_dir . '/. ' . $web_root_dir . ' && rm -r ' . $repo_dir . $rendered_dir);
-
-		// Log the deployment
-		file_put_contents('deploy.log', date('m/d/Y h:i:s a') . " Deployed branch: " .  $branch . " Commit: " . $commit_message . "\n", FILE_APPEND);
-
-	}
+	die('completed');
