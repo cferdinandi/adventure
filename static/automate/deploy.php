@@ -14,6 +14,7 @@
 	$web_root_dir = '/var/www/adventure/public';
 	$rendered_dir = '/public';
 	$hugo_path = 'hugo';
+	$branch = 'master';
 
 	// Validate hook secret
 	if ($secret !== NULL) {
@@ -65,7 +66,7 @@
 	if (!empty($commit_message)) {
 
 		// Do a git checkout, run Hugo, and copy files to public directory
-		exec('cd ' . $repo_dir . ' && git fetch --all && git reset --hard origin/master');
+		exec('cd ' . $repo_dir . ' && git fetch --all && git reset --hard origin/' . $branch);
 		exec('cd ' . $repo_dir . ' && ' . $hugo_path);
 		exec('cd ' . $repo_dir . ' && cp -r ' . $repo_dir . $rendered_dir . '/. ' . $web_root_dir . ' && rm -r ' $repo_dir . $rendered_dir);
 
