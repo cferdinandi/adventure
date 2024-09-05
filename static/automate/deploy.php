@@ -14,45 +14,38 @@
 	$branch = 'master';
 
 	// Validate hook secret
-	// if ($secret !== NULL) {
+	if ($secret !== NULL) {
 
-	// 	// Get signature
-	// 	$hub_signature = $_SERVER['HTTP_X_HUB_SIGNATURE'];
+		// Get signature
+		$hub_signature = $_SERVER['HTTP_X_HUB_SIGNATURE'];
 
-	// 	// Make sure signature is provided
-	// 	if (!isset($hub_signature)) {
-	// 		file_put_contents('deploy.log', date('m/d/Y h:i:s a') . ' Error: HTTP header "X-Hub-Signature" is missing.' . "\n", FILE_APPEND);
-	// 		die('HTTP header "X-Hub-Signature" is missing.');
-	// 	} elseif (!extension_loaded('hash')) {
-	// 		file_put_contents('deploy.log', date('m/d/Y h:i:s a') . ' Error: Missing "hash" extension to check the secret code validity.' . "\n", FILE_APPEND);
-	// 		die('Missing "hash" extension to check the secret code validity.');
-	// 	}
+		// Make sure signature is provided
+		if (!isset($hub_signature)) {
+			file_put_contents('deploy.log', date('m/d/Y h:i:s a') . ' Error: HTTP header "X-Hub-Signature" is missing.' . "\n", FILE_APPEND);
+			die('HTTP header "X-Hub-Signature" is missing.');
+		} elseif (!extension_loaded('hash')) {
+			file_put_contents('deploy.log', date('m/d/Y h:i:s a') . ' Error: Missing "hash" extension to check the secret code validity.' . "\n", FILE_APPEND);
+			die('Missing "hash" extension to check the secret code validity.');
+		}
 
-	// 	// Split signature into algorithm and hash
-	// 	list($algo, $hash) = explode('=', $hub_signature, 2);
+		// Split signature into algorithm and hash
+		list($algo, $hash) = explode('=', $hub_signature, 2);
 
-	// 	// Get payload
-	// 	$payload = file_get_contents('php://input');
+		// Get payload
+		$payload = file_get_contents('php://input');
 
-	// 	// Calculate hash based on payload and the secret
-	// 	$payload_hash = hash_hmac($algo, $payload, $secret);
+		// Calculate hash based on payload and the secret
+		$payload_hash = hash_hmac($algo, $payload, $secret);
 
-	// 	// Check if hashes are equivalent
-	// 	if (!hash_equals($hash, $payload_hash)) {
-	// 		// Kill the script or do something else here.
-	// 		die('Bad secret');
-	// 	}
+		// Check if hashes are equivalent
+		if (!hash_equals($hash, $payload_hash)) {
+			// Kill the script or do something else here.
+			die('Bad secret');
+		}
 
-	// };
+	};
 
 
 	// Do a git checkout, run Hugo, and copy files to public directory
-
-	$output=null;
-	$retval=null;
-	$output2=null;
-	$retval2=null;
-	exec('cd /var/www/' . $app . '/build && git fetch --all && git reset --hard origin/' . $branch . ' && hugo', $output, $retval);
-	exec('cd /var/www/' . $app . ' && cp -r /var/www/' . $app . '/build/public/. /var/www/' . $app . '/public && rm -r /var/www/' . $app . '/build/public', $output2, $retval2);
-
-	die('completed: ' . $output . ' and ' . $retval . ' and ' . $output2 . ' and ' . $retval2);
+	exec('cd /var/www/' . $app . '/build && git fetch --all && git reset --hard origin/' . $branch . ' && hugo');
+	exec('cd /var/www/' . $app . ' && cp -r /var/www/' . $app . '/build/public/. /var/www/' . $app . '/public && rm -r /var/www/' . $app . '/build/public');
