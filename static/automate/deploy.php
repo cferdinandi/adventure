@@ -68,7 +68,7 @@
 		// Do a git checkout, run Hugo, and copy files to public directory
 		exec('cd ' . $repo_dir . ' && git fetch --all && git reset --hard origin/' . $branch);
 		exec('cd ' . $repo_dir . ' && ' . $hugo_path);
-		exec('cd ' . $repo_dir . ' && cp -r ' . $repo_dir . $rendered_dir . '/. ' . $web_root_dir . ' && rm -r ' $repo_dir . $rendered_dir);
+		exec('cd ' . $repo_dir . ' && cp -r ' . $repo_dir . $rendered_dir . '/. ' . $web_root_dir . ' && rm -r ' . $repo_dir . $rendered_dir);
 
 		// Log the deployment
 		file_put_contents('deploy.log', date('m/d/Y h:i:s a') . " Deployed branch: " .  $branch . " Commit: " . $commit_message . "\n", FILE_APPEND);
