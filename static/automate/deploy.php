@@ -47,5 +47,6 @@
 
 
 	// Do a git checkout, run Hugo, and copy files to public directory
-	exec('cd /var/www/' . $app . '/build && git fetch --all && git reset --hard origin/' . $branch . ' && hugo');
-	exec('cd /var/www/' . $app . ' && cp -r /var/www/' . $app . '/build/public/. /var/www/' . $app . '/public && rm -r /var/www/' . $app . '/build/public');
+	exec('cd /srv/users/serverpilot/apps/' . $app . '/build && git fetch --all && git reset --hard origin/' . $branch . ' && /usr/local/bin/hugo');
+	exec('cp -r /srv/users/serverpilot/apps/' . $app . '/build/public/. /srv/users/serverpilot/apps/' . $app . '/public');
+	exec('rm -r /srv/users/serverpilot/apps/' . $app . '/build/public');
