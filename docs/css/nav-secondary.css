@@ -1,0 +1,22 @@
+/**
+ * @section Secondary Nav
+ * Styling for the secondary navigation area
+ */
+
+.nav-secondary a {
+	text-decoration: none;
+}
+
+.nav-secondary a:hover {
+	text-decoration: underline;
+}
+
+.nav-secondary .logo-secondary,
+.nav-secondary .logo-secondary:visited {
+	color: var(--color-black-dm-white);
+}
+
+.nav-secondary .logo-secondary:hover {
+	color: var(--color-primary-dm-light);
+	text-decoration: none;
+}

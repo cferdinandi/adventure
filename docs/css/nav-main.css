@@ -1,0 +1,72 @@
+/**
+ * @section Main Nav
+ * Styling for the main navigation area
+ */
+
+/**
+ * The navigation wrapper
+ */
+.nav-wrap {
+	padding-top: 1em;
+	padding-bottom: 0.5em;
+	text-align: center;
+}
+
+@media (min-width: 60em) {
+	.nav-wrap {
+		display: flex;
+		justify-content: space-between;
+	}
+}
+
+/**
+ * The logo
+ */
+.logo {
+	display: inline-block;
+	font-family: var(--font-secondary);
+	font-size: 1.2em;
+	font-weight: bold;
+	line-height: 1.2;
+	margin-bottom: 0.3125em;
+	text-decoration: none;
+}
+
+@media (min-width: 60em) {
+	.logo {
+		margin-bottom: 0;
+	}
+}
+
+.logo {
+	color: var(--color-black-dm-white);
+}
+
+.logo:hover {
+	color: var(--color-primary-dm-light);
+}
+
+/**
+ * The navigation menu
+ */
+.nav {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	column-gap: 1em;
+	flex-wrap: wrap;
+	list-style-type: "";
+	margin-left: 0;
+	margin-bottom: 0;
+}
+
+.nav a:not(.btn) {
+	color: var(--color-gray-dark-dm-light);
+	text-decoration: none;
+}
+
+.nav a:not(.btn):hover,
+.nav [aria-current="page"] {
+	border-bottom: 0.125em solid var(--color-secondary-dm-light);
+	color: var(--color-black-dm-white);
+}

@@ -32,6 +32,9 @@ caches:
   getjson:
     maxAge: "10m"
 
+# Change published dir
+publishDir: docs
+
 # The language code for the site
 languageCode: "en-us"
 
