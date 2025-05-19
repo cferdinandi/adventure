@@ -12,6 +12,6 @@ content:
       - name: title
         label: Title
         type: string
-      - name: content
+      - name: body
         label: Body
         type: rich-text
