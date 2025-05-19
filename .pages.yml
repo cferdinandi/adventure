@@ -15,3 +15,8 @@ content:
       - name: body
         label: Body
         type: rich-text
+media: 
+  - name: media
+    label: Media
+    input: static/img
+    output: /static/img
