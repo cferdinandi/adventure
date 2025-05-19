@@ -8,7 +8,7 @@ content:
     fields:
       - name: date
         label: Date
-        type: string
+        type: date
       - name: title
         label: Title
         type: string
