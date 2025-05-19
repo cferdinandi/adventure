@@ -10,7 +10,7 @@ content:
         label: Date
         type: date
         options:
-          format: yyyy-MM-dd'T'HH:mm:ss-xxxx
+          format: yyyy-MM-dd'T'HH:mm:ssXXX
       - name: title
         label: Title
         type: string
