@@ -1,0 +1,17 @@
+content:
+  - name: content
+    label: Pages
+    path: content
+    type: collection
+    view:
+      fields: [ title, date ]
+    fields:
+      - name: date
+        label: Date
+        type: date
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
