@@ -488,14 +488,26 @@ p {
  * Hyperlink styling
  */
 
-a {
+a,
+a .anchor-link-icon {
 	color: var(--color-primary-dm-lighter);
 	text-decoration-skip-ink: auto;
 	word-wrap: break-word;
 }
 
-a:hover {
+a:hover,
+a:hover .anchor-link-icon {
 	color: var(--color-primary-dark-dm-light);
+}
+
+a:hover .anchor-link-icon {
+	text-decoration: underline;
+}
+
+.anchor-link,
+.anchor-link:hover {
+	color: inherit;
+	text-decoration: none;
 }
 
 main a:not(.btn,.link-no-visited):visited {
@@ -1755,7 +1767,7 @@ td {
 		</style>
 	</head>
 
-	<body class="type-page page-single" id="page-ad51e5da25a9033d8e045d219725624f">
+	<body class="type-page border-lgbtq page-single" id="page-ad51e5da25a9033d8e045d219725624f">
 
 		<div class="container container-large">
 
