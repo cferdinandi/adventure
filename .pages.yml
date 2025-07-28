@@ -1,0 +1,24 @@
+content:
+  - name: content
+    label: Pages
+    path: content
+    type: collection
+    view:
+      fields: [ title, date ]
+    fields:
+      - name: date
+        label: Date
+        type: date
+        options:
+          format: yyyy-MM-dd'T'HH:mm:ssXXX
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
+media: 
+  - name: media
+    label: Media
+    input: static/img
+    output: /static/img
